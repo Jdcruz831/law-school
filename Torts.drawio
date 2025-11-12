@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="28.2.9">
+  <diagram name="Torts" id="sFTCKs2JXeQC2KsN7thl">
+    <mxGraphModel dx="2043" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-124" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZOchAKLpOhJaXLBVayhC-125" target="ZOchAKLpOhJaXLBVayhC-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-125" value="Private Nuisance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-126" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZOchAKLpOhJaXLBVayhC-127" target="ZOchAKLpOhJaXLBVayhC-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-127" value="&lt;div&gt;Public Nuisance&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-128" value="Remedies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-129" value="&lt;div&gt;1) &amp;nbsp; &amp;nbsp;A plaintiff has a possessory interest in the land;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) &amp;nbsp; &amp;nbsp;A defendant performed an act that interfered with the plaintiff’s use and enjoyment of his property(addict the quality of life, sleep, lower self esteem) ; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) &amp;nbsp; &amp;nbsp;That the defendant’s interference with the plaintiff’s use or enjoyment of land was substantial and unreasonable. (harm vs. utility of conduct)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="970" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-130" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZOchAKLpOhJaXLBVayhC-131" target="ZOchAKLpOhJaXLBVayhC-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-131" value="(1)&amp;nbsp;The interference must be with a right that is common to the general public, not just a private individual.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp;The nuisance must be injurious to health, indecent, offensive to the senses, or obstruct the free use of property, and it must interfere with the community&#39;s comfortable enjoyment of life and property.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;Affects that Community (Zoning)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="980" width="410" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOchAKLpOhJaXLBVayhC-132" value="Exception: not agg&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
