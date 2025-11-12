@@ -1,0 +1,847 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="28.2.9" pages="3">
+  <diagram name="Murder Chart" id="t2uK2l8x1iw0EekwusqK">
+    <mxGraphModel dx="4338" dy="2183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-3" target="ZL-3m5Dr-E6LDbon1EHc-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-3" target="ZL-3m5Dr-E6LDbon1EHc-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-3" value="&lt;b&gt;Murder Analysis&amp;nbsp;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-5" target="ZL-3m5Dr-E6LDbon1EHc-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-5" value="Express Malice&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-10" target="ZL-3m5Dr-E6LDbon1EHc-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-10" target="ZL-3m5Dr-E6LDbon1EHc-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-10" target="ZL-3m5Dr-E6LDbon1EHc-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-10" target="ZL-3m5Dr-E6LDbon1EHc-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="787.5" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="768" y="410" />
+              <mxPoint x="890" y="410" />
+              <mxPoint x="890" y="450" />
+              <mxPoint x="900" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-10" value="Implied Malace" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="707.5" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#C73500;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#C73500;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-17" target="ZL-3m5Dr-E6LDbon1EHc-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-17" value="Intent to Kill,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-18" value="Deadly weapon rule: likely 1st&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-19" value="Intend the results that are virtually certain: 1st&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="580" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#C73500;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-21" target="ZL-3m5Dr-E6LDbon1EHc-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-21" value="Intent to cause grievous bodily injury&amp;nbsp;&lt;div&gt;(GBI)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="417.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=#C73500;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-23" target="ZL-3m5Dr-E6LDbon1EHc-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-23" value="Depraved Heart 2nd Only" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="587.5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-29" target="ZL-3m5Dr-E6LDbon1EHc-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-29" target="ZL-3m5Dr-E6LDbon1EHc-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-29" target="ZL-3m5Dr-E6LDbon1EHc-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-29" target="ZL-3m5Dr-E6LDbon1EHc-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-29" target="ZL-3m5Dr-E6LDbon1EHc-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-29" value="Felony Murder" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-30" value="Wanting or knowing actions will cause, and death results&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-31" value="1. IDHL ( Inherently dangerous to human life.)&lt;div&gt;2. Aware of the risk&lt;/div&gt;&lt;div&gt;3. Countiues anyway&lt;/div&gt;&lt;div&gt;4. is there social Justification&amp;nbsp;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="560" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-32" value="1st Degree: in 189(a)?&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-34" target="ZL-3m5Dr-E6LDbon1EHc-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-34" value="2nd Degree: IDHL&lt;div&gt;- Via facts of the case&lt;/div&gt;&lt;div&gt;- Abstract (only CA)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="940" y="590" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-35" value="Merger: if it is assaultive, not felony murder" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="710" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-38" target="ZL-3m5Dr-E6LDbon1EHc-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-38" target="ZL-3m5Dr-E6LDbon1EHc-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-38" value="Opponent of the felon &amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fa6800;strokeColor=#C73500;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-40" target="ZL-3m5Dr-E6LDbon1EHc-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-40" value="Agency Approach (CA)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-42" target="ZL-3m5Dr-E6LDbon1EHc-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-42" value="Proximate Causation" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-44" target="ZL-3m5Dr-E6LDbon1EHc-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-44" value="Provocative Act Murder (CA)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-46" target="ZL-3m5Dr-E6LDbon1EHc-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-46" value="&lt;div&gt;The felony murder doctrine does not apply if the person who directly causes the death is a non-felon&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Surviving felons not&amp;nbsp;&lt;/div&gt;&lt;div&gt;liable when an&amp;nbsp;&lt;/div&gt;&lt;div&gt;opponent of the felony&amp;nbsp;&lt;/div&gt;&lt;div&gt;kills one of the felons&amp;nbsp;&lt;/div&gt;&lt;div&gt;or innocent bystander&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="550" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-47" value="&lt;div&gt;if the perpetrator commits an act that is likely to result in death, and the victim kills in a reasonable response to the act, the&amp;nbsp;&lt;/div&gt;&lt;div&gt;perpetrator is liable for the death of his&amp;nbsp;&lt;/div&gt;&lt;div&gt;co-felon/accomplice&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1155" y="900" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-48" value="&lt;div&gt;if the felon set in motion the acts which resulted in the victim’s death&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="550" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-49" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-52" target="ZL-3m5Dr-E6LDbon1EHc-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZL-3m5Dr-E6LDbon1EHc-52" target="ZL-3m5Dr-E6LDbon1EHc-53" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="-110" />
+              <mxPoint x="1480" y="-110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="-310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZL-3m5Dr-E6LDbon1EHc-53" value="Manslaughter&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYmTxyM9Z78dGPE_oOyM-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="GYmTxyM9Z78dGPE_oOyM-1" target="GYmTxyM9Z78dGPE_oOyM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GYmTxyM9Z78dGPE_oOyM-1" value="Necessity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GYmTxyM9Z78dGPE_oOyM-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="GYmTxyM9Z78dGPE_oOyM-2" target="GYmTxyM9Z78dGPE_oOyM-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GYmTxyM9Z78dGPE_oOyM-2" value="(1) In an emergency&lt;div&gt;(2) No adequate alternatives&amp;nbsp;&lt;/div&gt;&lt;div&gt;(3) Harm caused less than harm prevented&lt;/div&gt;&lt;div&gt;(4) Subjectively Believed and Reasonable&amp;nbsp;&lt;/div&gt;&lt;div&gt;(5) Did not contribute to the emergency&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1540" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GYmTxyM9Z78dGPE_oOyM-4" value="&lt;div&gt;In escape:&lt;/div&gt;&lt;div&gt;(6) as soon as they complete escape must turn themselves in&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="1685" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dDeVEme5b5uf6iteXpCP-1" target="dDeVEme5b5uf6iteXpCP-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dDeVEme5b5uf6iteXpCP-1" target="dDeVEme5b5uf6iteXpCP-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-1" value="Duress&lt;div&gt;(Not Murder)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-2" value="(1) D was threatened if he refused to commit crime&lt;div&gt;&lt;br&gt;&lt;div&gt;(2)D believed threat&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)reasonable&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="1530" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-4" value="Can use Duress to knock out felony in felony murder.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dDeVEme5b5uf6iteXpCP-6" target="dDeVEme5b5uf6iteXpCP-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="dDeVEme5b5uf6iteXpCP-6" target="dDeVEme5b5uf6iteXpCP-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-6" value="Voluntary Intoxication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="1395" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-7" value="Specific intent crimes: Sometimes (stealing) (no premeditation or deliberation) (acoplence liability -no mental)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1530" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dDeVEme5b5uf6iteXpCP-9" value="General: Not a defense&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="1550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Theft:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Trespassory caption and aspiration of personal property of another with the intent to steal&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Robbery:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Trespassory caption and aspiration of personal property of another with intent to steal accomplished by means of force or fear&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Embezzlement:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Conversion of the property of another by one in lawful possession&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2450" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;False pretenses:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- False representation of a material present or past fact, which causes the victim to pass title to property to the wrongdoer&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2800" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-8" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Murder:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being with malice aforethought&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3150" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-10" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Manslaughter:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being without malice&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3500" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Rape:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Sexual intercourse with a woman, not his wife, with force and without her consent&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3850" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-14" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Burglary:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Breaking and entering of the dwelling house of another at night with the intent to commit a felony therein&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="4200" y="155" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-16" target="4X-ccuGlXzPOLboUJAHm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-16" target="4X-ccuGlXzPOLboUJAHm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-16" target="4X-ccuGlXzPOLboUJAHm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-16" target="4X-ccuGlXzPOLboUJAHm-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-16" target="4X-ccuGlXzPOLboUJAHm-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-16" value="General or Specific intent Crimes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="-540" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-17" target="4X-ccuGlXzPOLboUJAHm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-17" value="&lt;b&gt;Always Specific:&amp;nbsp;&lt;/b&gt;&lt;div&gt;- Burglary,&lt;div&gt;- forgery,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- robbery.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Embezzlement&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Theft&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="-320" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-19" target="4X-ccuGlXzPOLboUJAHm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-19" value="Committed with the goal of achieving something in addition to the actus reps&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="-310" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-21" value="Specific&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-25" value="Commits the Actus Reus with a particular motive or desire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="-310" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.886;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-25" target="4X-ccuGlXzPOLboUJAHm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-29" value="Everything else" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-310" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-31" target="4X-ccuGlXzPOLboUJAHm-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-50" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-31" target="4X-ccuGlXzPOLboUJAHm-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-31" value="&lt;div&gt;ACCOMPLICE LIABILITY&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1210" y="-530" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-59" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-32" target="4X-ccuGlXzPOLboUJAHm-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Elements:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Perp must commit or attempt to commit crime&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Accomplice knew perp intended to commit crime&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Accomplice intended to aid and abet before or in commission of crime&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Accomplice actually did aid and abet in crime&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="-60" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-36" target="4X-ccuGlXzPOLboUJAHm-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-36" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Principal in the first:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- Person who commits the crime (perpetrator)&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1960" y="100" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-46" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-38" target="4X-ccuGlXzPOLboUJAHm-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-48" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-38" target="4X-ccuGlXzPOLboUJAHm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-38" value="Common Law Terminology&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1580" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-40" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Principal in the Second:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- Person who aids assists, or encourages the crime and&lt;b&gt; is present &lt;/b&gt;at the scene (accomplice)&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-2070" y="220" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-45" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-42" target="4X-ccuGlXzPOLboUJAHm-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-42" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Accessory before the fact&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- aids, assists or encourages the crime by helping prepare but is &lt;b&gt;not actually or constructively present &lt;/b&gt;at the scene of the crime (accomplice)&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1585" y="100" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-44" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Accessory after the fact&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- person who did not take part in the planning or perpetration of the crime but who, sheltered, hid, or otherwise assisted the parties to avoid arrest or prosecution (usually charged with obstruction of justice)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="270" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.083;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-38" target="4X-ccuGlXzPOLboUJAHm-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-49" target="4X-ccuGlXzPOLboUJAHm-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-49" target="4X-ccuGlXzPOLboUJAHm-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-49" value="CA Terminology&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-52" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Principals&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Any persons who actively or constructively committed an offense or aided and abetted before or in the commission of the crime&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="50" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-55" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Accessories&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Anyone who knows of the felony committed with the intent to aid the principal, assist the principal in escaping the law (accessory after the fact)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="155" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.211;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-49" target="4X-ccuGlXzPOLboUJAHm-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-63" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-66" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-69" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;strokeColor=#3700CC;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-71" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="4X-ccuGlXzPOLboUJAHm-58" target="4X-ccuGlXzPOLboUJAHm-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-58" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;Natural &amp;amp;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Probable Consequences Doctrine&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Accomplice is liable for target crimes committed, can be liable for non-target crime if it is a N&amp;amp;P consequence&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="490" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-60" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;Elements:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;1. Crime in addition to target crime was committed&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;2. Additional crime is reasonably foreseeable consequence of the target crime&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="730" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-62" value="Not Intent to kill murder, 1st degree&amp;nbsp;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="470" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-65" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Felony Murder if&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) the accomplice was a major participant in the underlying felony and&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) acted with reckless indifference to human life.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1710" y="550" width="310" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-68" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;CA Exceptions:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;1. Won’t hold accomplice liable for premeditated murder unless it was the target crime&amp;nbsp;&lt;/p&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&amp;nbsp; 2. Will only hold accomplice liable for Felony Murder if one of the &amp;nbsp; &amp;nbsp; &amp;nbsp;following apply&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: medium; padding: 0px;&quot;&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;a. Accomplice was actual killer&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;b. Accomplice aided and abetted actual killer with the intent to kill&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;c. the accomplice was a major participant in the underlying felony&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;d. Accomplice acted with reckless indifference to human&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;life.&lt;/div&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="650" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4X-ccuGlXzPOLboUJAHm-70" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Withdrawal:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;1. Notify all members involved that they are no longer participating&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;2. Do everything in one’s power to prevent crime from occuring (doesn’t actually have to prevent)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;**must notify within reasonable time before crime starts (can’t withdrawal on the way to rob a bank)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="1010" width="360" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Torts" id="74BalgropK32YzgYs5xs">
+    <mxGraphModel dx="2638" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="EuWGeky-qLOAzORIS610-0" />
+        <mxCell id="EuWGeky-qLOAzORIS610-1" parent="EuWGeky-qLOAzORIS610-0" />
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EuWGeky-qLOAzORIS610-1" source="OsI2w9y_Ea6COJHovxlL-0" target="OsI2w9y_Ea6COJHovxlL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-0" value="Private Nuisance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="-230" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EuWGeky-qLOAzORIS610-1" source="OsI2w9y_Ea6COJHovxlL-1" target="OsI2w9y_Ea6COJHovxlL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-1" value="&lt;div&gt;Public Nuisance&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-2" value="Remedies" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="680" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-3" value="&lt;div&gt;1) &amp;nbsp; &amp;nbsp;A plaintiff has a possessory interest in the land;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2) &amp;nbsp; &amp;nbsp;A defendant performed an act that interfered with the plaintiff’s use and enjoyment of his property(addict the quality of life, sleep, lower self esteem) ; and&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3) &amp;nbsp; &amp;nbsp;That the defendant’s interference with the plaintiff’s use or enjoyment of land was substantial and unreasonable. (harm vs. utility of conduct)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="-310" y="450" width="310" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="EuWGeky-qLOAzORIS610-1" source="OsI2w9y_Ea6COJHovxlL-5" target="OsI2w9y_Ea6COJHovxlL-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-5" value="(1)&amp;nbsp;The interference must be with a right that is common to the general public, not just a private individual.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(2)&amp;nbsp;The nuisance must be injurious to health, indecent, offensive to the senses, or obstruct the free use of property, and it must interfere with the community&#39;s comfortable enjoyment of life and property.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)&amp;nbsp;Affects that Community (Zoning)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="140" y="460" width="410" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="OsI2w9y_Ea6COJHovxlL-12" value="Exception: not agg&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="EuWGeky-qLOAzORIS610-1">
+          <mxGeometry x="340" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Contracts" id="2T-GXTbw6CjH771KsZAz">
+    <mxGraphModel dx="3230" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="hZvGdWm9dUrXAthSrBff-0" />
+        <mxCell id="hZvGdWm9dUrXAthSrBff-1" parent="hZvGdWm9dUrXAthSrBff-0" />
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-18" target="s1fTp6nRyB6jJ5Vb07fR-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-18" target="s1fTp6nRyB6jJ5Vb07fR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-18" target="s1fTp6nRyB6jJ5Vb07fR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-18" target="s1fTp6nRyB6jJ5Vb07fR-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-18" target="FAZBmKYACPC_W3faKcOI-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Governing Law:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;Predominant purpose test&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;R§ 2-102&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Audio Visual Art. v. Tanzer)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Nature of seller&#39;s business&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Reason for contract&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Language of the contract&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Amounts paid&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="757.5" y="-950" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-19" target="FAZBmKYACPC_W3faKcOI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-19" target="FAZBmKYACPC_W3faKcOI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1292.5" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;UCC:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;UCC transaction rules apply&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1335" y="-320" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-21" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Hybrid:&lt;/u&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;§2-102 Comment 5&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- UCC Applies to Goods: Warranties, tender and risk of loss, acceptance, rejection, and&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;remedies&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Transaction rules are common law&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="640" y="-300" width="310" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-24" target="Ae_GPwFimgjY7MZPHpnK-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-24" target="1kfCDfnP665zp1yAsVHx-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="s1fTp6nRyB6jJ5Vb07fR-24" target="Ae_GPwFimgjY7MZPHpnK-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="s1fTp6nRyB6jJ5Vb07fR-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Common Law:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="320" y="-290" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-0" target="dtagAIK7IoZqlTSwRLdn-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-0" target="dtagAIK7IoZqlTSwRLdn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-0" target="dtagAIK7IoZqlTSwRLdn-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-17" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-0" target="xz914e86PoCP61ma31kD-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-0" target="Ae_GPwFimgjY7MZPHpnK-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Offer:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§24&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Manifestation of willingness to enter into a bargain, with the understanding that the assent of the offeree a margin would then be struck.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-630" y="1015" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-5" target="dtagAIK7IoZqlTSwRLdn-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Option Contract:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§45 &amp;amp; 87(2)&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Brooklyn Bridge Hypo)&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Drennan v. Star Paving Co.)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Offerer expects action or forbearance before acceptance&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) and which does induce such action or forbearance is binding as an option contract.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-325" y="1045" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-7" target="dtagAIK7IoZqlTSwRLdn-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-7" target="xz914e86PoCP61ma31kD-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-7" target="Ae_GPwFimgjY7MZPHpnK-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Acceptance:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§35&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The continued power to complete the mutual assent&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Unless offer has been terminated&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-390" y="1310" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-10" target="xz914e86PoCP61ma31kD-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-10" target="xz914e86PoCP61ma31kD-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-10" target="xz914e86PoCP61ma31kD-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-10" target="xz914e86PoCP61ma31kD-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-10" target="xz914e86PoCP61ma31kD-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Termination:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 36&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offer may be terminated before acceptance from any; Rejection, lapse, revocation, death or incapacity.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1080" y="1205" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#e51400;strokeColor=#B20000;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-431.2068965517242" y="1855" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-13" target="Ae_GPwFimgjY7MZPHpnK-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-13" target="Ae_GPwFimgjY7MZPHpnK-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-15" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-13" target="Ae_GPwFimgjY7MZPHpnK-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="dtagAIK7IoZqlTSwRLdn-13" target="Ae_GPwFimgjY7MZPHpnK-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dtagAIK7IoZqlTSwRLdn-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Consideration:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§71&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- To consititute consideration a performance, or return promise must be bargained for.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-330" y="1580" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="xz914e86PoCP61ma31kD-0" target="xz914e86PoCP61ma31kD-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Rejection:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 38&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offeree&#39;s power of acceptance may be terminated by his rejection of the offer.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1440" y="1335" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Lapse:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 41&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offer may be terminated before acceptance lapse, which is defined as a reasonable time or specified by the offerer.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;* Face to face conversations end an offer typically. This is from reasonable&amp;nbsp;time standard.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1390" y="1485" width="230" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Death or Incapacity:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 36&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offer may be terminated before acceptance if the offeror dies or becomes incapacitated.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1470" y="1105" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="xz914e86PoCP61ma31kD-7" target="xz914e86PoCP61ma31kD-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Revocation:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 42&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offer may be terminated, by communication of revocation, and is effective upon receipt.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1070" y="1495" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Indirect Revocation:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 43&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Dickenson v. Dodd)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- An offer may be terminated, by indirect means of revocation, if by a reliable source.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1220" y="1745" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Counter - Offer:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 39&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Mirror Image Rule)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A counter - offer is an offer made by an offeree to his offeror, proposing a substituted bargain, diffirienchiating from the proposed offer.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1790" y="1335" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="xz914e86PoCP61ma31kD-13" target="dtagAIK7IoZqlTSwRLdn-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="xz914e86PoCP61ma31kD-13" target="dtagAIK7IoZqlTSwRLdn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Mail Box Rule:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Acceptances are effective upon dispatch RS(2d) § 63&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(Unless a rejection has already been sent, waive right to effective dispatch) §40&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-730" y="1220" width="230" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-16" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Offerer is Master of the Offer:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§29: who offer is to&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§30: form: Promise or performance&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§60: How acceptance (Fax, email, ect.)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1060" y="1055" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-22" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="xz914e86PoCP61ma31kD-20" target="dtagAIK7IoZqlTSwRLdn-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xz914e86PoCP61ma31kD-20" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Preliminary Negotiations:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§26&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Owen v. Tunison)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A manifestation of willingness to enter into a bargain, is not an acceptance if the offeror knows the individual does not intend to conclude a bargain&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-410" y="820" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;By Silence:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§69&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- offeree takes benefit&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- stated&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- previous dealings or knowledge&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-130" y="1425" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Certinaty:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§33&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Even if there is offer, acceptance, consideration and the proper mutual assent, terms must be certain for a contract to be binding.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1060" y="915" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-8" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Illusory Promise&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A promise without consideration is called an&amp;nbsp;Illusory Promise.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-580" y="1860" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-35" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-10" target="Ae_GPwFimgjY7MZPHpnK-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-10" target="Ae_GPwFimgjY7MZPHpnK-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-10" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Bargained&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;&amp;nbsp;for exchange:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§71&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Feinberg, Kirksey, Broadnax)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- To consititute consideration a performance, or return promise must be bargained for.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-320" y="1815" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Performance:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§71&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &lt;b&gt;Forbearance &lt;/b&gt;&amp;nbsp;&lt;i&gt;(Hamer v. Sidway)&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &lt;b&gt;Act &lt;/b&gt;&lt;i&gt;(Dryer v. National by-products)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &lt;b&gt;Creation or modification of legal doc&lt;/b&gt; &lt;i&gt;(Lake Land)&lt;/i&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-790" y="1575" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Promise:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§71&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Strong, Mattei, Wood)&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A promise can also be consideration.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-760" y="1725" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-17" target="Ae_GPwFimgjY7MZPHpnK-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-17" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Promissory Estoppel:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§90&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Hoffman v. Red Owl)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A promise which the promisor reasonably expects to induce action or forbearance, and does induce such action or forbearance, and injustice can only be avoided via enforcement.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(Reliance damages only)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="190" y="1800" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-21" target="Ae_GPwFimgjY7MZPHpnK-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-21" target="Ae_GPwFimgjY7MZPHpnK-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-21" target="Ae_GPwFimgjY7MZPHpnK-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Capacity:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§ 13 - Guardianship (Void)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§ 14 - Infants (voidable) (Douglass v. Pflueger Hawaii)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;§ 15 - Mental Illness (voidable)&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-320" y="300" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-23" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Infants:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 14&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Douglass v. Pflueger Hawaii)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- case lost saying minor could not because legislation, however typically infant contracts are voidable.&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-670" y="370" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-25" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Guardianship:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 13&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Kenai Chrysler. v. Denison)&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Guardianship (Void) always void.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-670" y="220" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-27" target="Ae_GPwFimgjY7MZPHpnK-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-32" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-27" target="Ae_GPwFimgjY7MZPHpnK-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Mental Illness:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§15&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Two tests, cognitive is majority&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-710" y="520" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-29" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Cognitive test&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Cundick v. Broadbent)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Is the person unable to understand the nature and consequences of the transaction?&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-940" y="670" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-31" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Volitional test&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Ortelere v. Teacher&#39;s Retirement Board)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Is the person incapable of acting in a reasonable manner in relation to the transaction and does the other party have reason to know of this condition?&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-660" y="670" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.61;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-21" target="xz914e86PoCP61ma31kD-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-34" value="&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px;&quot;&gt;&lt;u&gt;&lt;b&gt;CONTRACT FORMED&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-320" y="2055" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-37" target="Ae_GPwFimgjY7MZPHpnK-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-37" target="Ae_GPwFimgjY7MZPHpnK-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-37" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Mutual Mistake&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;§&amp;nbsp;152&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;(Renner v. Kehl)&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Basic Assumption by both&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Material Effect&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- §154 does not apply&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-800" y="2120" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-40" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Rescission&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Cancellation of a contract or untangling. Restitution damages only.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-770" y="2390" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-48" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-45" target="Ae_GPwFimgjY7MZPHpnK-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-45" target="Ae_GPwFimgjY7MZPHpnK-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-45" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Unilateral Mistake:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;§ 153&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Elsinore Elementry v. Kastorff)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- one party made mistake on basic assumption&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Material Effect&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- §154 does not apply&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Enforcement would be unconscionable (unfair)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;or&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the other party knew or caused&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1150" y="2320" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-50" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-47" target="Ae_GPwFimgjY7MZPHpnK-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-47" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Party Bears risk of Mistake:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;§ 154&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;a) Risk is allocated by agreement&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;b) Went into it knowing they didn&#39;t know&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;c) Court says it is reasonable - judgment errors does not count&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-1090" y="2070" width="210" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-54" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1.001;entryY=0.144;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-34" target="Ae_GPwFimgjY7MZPHpnK-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.871;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-34" target="Ae_GPwFimgjY7MZPHpnK-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-60" target="Ae_GPwFimgjY7MZPHpnK-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-60" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Electronic Signatures:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;UETA (assent to e - signatures )&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;E-Sign&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Exceptions: Wills, Codicils, Trusts&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-10" y="2030" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-68" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-64" target="Ae_GPwFimgjY7MZPHpnK-67" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-70" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-64" target="Ae_GPwFimgjY7MZPHpnK-69" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-72" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-64" target="Ae_GPwFimgjY7MZPHpnK-71" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-64" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Statue of Frauds:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Ca Civil Code § 1624&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;* Cumulative | if in multiple SOF all must be satisfied&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="210" y="2790" width="235" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#e51400;strokeColor=#B20000;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-34" target="Ae_GPwFimgjY7MZPHpnK-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-76" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-67" target="Ae_GPwFimgjY7MZPHpnK-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-67" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Performance over a year:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;&lt;u&gt;§130&amp;nbsp;&lt;/u&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Klewin v. Flagship)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- either party can&#39;t perform in less than a year&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- narrowly construed, any chance within a year kills it&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*Applied: An oral contract to build a massive complex is enforceable&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;even though it is realistically impossible to complete within a year.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="-210" y="3000" width="340" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-77" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-69" target="Ae_GPwFimgjY7MZPHpnK-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-69" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Goods $500 or more&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Goods Only!!&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 500 or More (500 works)&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="600" y="3020" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-75" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-71" target="Ae_GPwFimgjY7MZPHpnK-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-71" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Leease and sale or real property:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- YEAR and a Day, not just a year (but maybe year rule &amp;lt;-)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Buyer can enforce contract against seller if he has made payments, taken possession of the property, and made&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;improvements&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="220" y="3030" width="235" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-79" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-74" target="Ae_GPwFimgjY7MZPHpnK-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-74" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Writing &amp;amp; Sign Requirements:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Essential Terms&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Signed by D&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Also:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Need not be formal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Can be before or after&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- only quantity of goods shown in the writing&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="215" y="3270" width="235" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-81" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-78" target="Ae_GPwFimgjY7MZPHpnK-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-82" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-78" target="Ae_GPwFimgjY7MZPHpnK-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-86" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-78" target="Ae_GPwFimgjY7MZPHpnK-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-78" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Other Reasons to enforce:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="215" y="3540" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-80" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Equitable Estoppel:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Monarco v. Lo Greco)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Misrepresentation or concealment of material facts&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Unfairness if party is allowed to assert the truth&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="25" y="3700" width="235" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae_GPwFimgjY7MZPHpnK-85" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Promissory Estoppel:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§90&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(Hoffman v. Red Owl)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A promise which the promisor reasonably expects to induce action or forbearance, and does induce such action or forbearance, and injustice can only be avoided via informant.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="380" y="3680" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Firm Offer:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§ 2-205&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- By merchant for &lt;u&gt;goods&lt;/u&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- signed record (tangible or intent to be associated&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- saying it will stay open&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- not longer than 3 months&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*is not revocable for lack of consideration&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="2070" y="380" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#60a917;strokeColor=#2D7600;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-2" target="FAZBmKYACPC_W3faKcOI-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Merchant:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-104&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(University Purchasing Dept.)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Deals in goods of a kind&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- by his occupation holds itself out as having knowledge peculiar to the goods or practice. &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- may be attributed by employment of another.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1700" y="220" width="245" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-7" target="FAZBmKYACPC_W3faKcOI-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Baby girl:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Additional Terms in acceptance &amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1410" y="90" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-9" target="FAZBmKYACPC_W3faKcOI-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-9" target="FAZBmKYACPC_W3faKcOI-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-9" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Additional terms:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (1)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A definite expression of acceptance within a reasonable time operates as an acceptance even if new terms are stated or are different from the original.&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1260" y="260" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-11" target="FAZBmKYACPC_W3faKcOI-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-11" target="FAZBmKYACPC_W3faKcOI-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-24" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-11" target="FAZBmKYACPC_W3faKcOI-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-11" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;unless:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (2)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;additional terms are proposals and between merchants will become apart of contract unless:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the offer expressly limits acceptance to new terms (proviso Clause)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- material alteration&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- objection has been given or is given within a reasonable time.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1540" y="610" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-13" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Proviso Clause:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (2)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- acceptance must be clearly expressed&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Does not fall under 2-207 (aka assent is needed for contract)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="2065" y="600" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-18" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-15" target="FAZBmKYACPC_W3faKcOI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-15" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;if they continue anyway:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (3)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- conduct that recognizes a contract is sufficient to establish a contract.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- keep consistent terms, if terms clash knock out rule&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1500" y="940" width="340" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-17" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Knock out rule :&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(tug boat hypo)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;if two terms conflict then article 2 fills blank spots. &amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1960" y="1010" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.882;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-2" target="FAZBmKYACPC_W3faKcOI-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-26" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-21" target="FAZBmKYACPC_W3faKcOI-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-28" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="hZvGdWm9dUrXAthSrBff-1" source="FAZBmKYACPC_W3faKcOI-21" target="FAZBmKYACPC_W3faKcOI-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-21" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Additional terms for non merchants:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (2)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Additional terms are proposals for addition to the contract. &amp;nbsp;They drop out unless the recipient expressly agrees to them&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*however anyone in business is a merchant in this case&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1140" y="470" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-23" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Material alteration:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§2-207 (2)&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;(byway refining co. V. Oxygenated)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- a Clause materially alters a contract if the new terms would result in surprise or hardships.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;* had no knowledge and no reason to know&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- arbitration clauses tend to be material alteration&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- look to standard practice in field&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="2065" y="765" width="340" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-25" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Hill v. Gateway:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Hills made direct purchase with gateway&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- by keeping computer they accepted the terms in the box (aka gave no objection after a reasonable time.)&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="860" y="715" width="275" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-27" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Klocek v. Gateway:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Klocek&amp;nbsp;bought through third party&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 2-207(1) does not apply, because only one form, not a addition to new form.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- no assent to a contract&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1200" y="680" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="FAZBmKYACPC_W3faKcOI-29" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Online M&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;arketplace:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;Wallace v. Tri-State Assembly&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Amazon is an online marketplace. It did not sell,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;manufacture, distribute, or assemble the bicycle.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- can be strict liable for torts, not contracts&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="hZvGdWm9dUrXAthSrBff-1" vertex="1">
+          <mxGeometry x="1037.5" y="-950" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="1kfCDfnP665zp1yAsVHx-0" target="1kfCDfnP665zp1yAsVHx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-0" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Illegality:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- illegal contracts are void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- no remedies&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="hZvGdWm9dUrXAthSrBff-1">
+          <mxGeometry x="-93" y="-140" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;if use is improper:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;i&gt;§182 (Blossom Farm v. Kasson)&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Enforcement is not precluded on public policy&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Unless:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- acted to further improper use&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- Knew of improper use &amp;amp; grave social harm&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(Note repeated sales) &lt;/span&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="hZvGdWm9dUrXAthSrBff-1">
+          <mxGeometry x="-480" y="-170" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1kfCDfnP665zp1yAsVHx-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="1kfCDfnP665zp1yAsVHx-3" target="1kfCDfnP665zp1yAsVHx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
