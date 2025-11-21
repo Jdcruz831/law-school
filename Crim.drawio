@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.0.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.0.3" pages="7">
   <diagram name="Murder" id="vSEpp3nTd23y6FTnkMYo">
-    <mxGraphModel dx="343" dy="1183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-270" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,132 +160,19 @@
         <mxCell id="cTz1Mb5FrYk6KRaG_lJt-49" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2330" y="1470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-52" target="UaT11osNMDp3PSd5zRBN-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3180" y="890" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-52" target="cTz1Mb5FrYk6KRaG_lJt-53" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3590" y="780" />
-              <mxPoint x="3910" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3530" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-53" value="Manslaughter&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3870" y="910" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-54" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-55" target="cTz1Mb5FrYk6KRaG_lJt-57" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-55" value="Necessity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2590" y="2280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-56" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-57" target="cTz1Mb5FrYk6KRaG_lJt-58" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-57" value="(1) In an emergency&lt;div&gt;(2) No adequate alternatives&amp;nbsp;&lt;/div&gt;&lt;div&gt;(3) Harm caused less than harm prevented&lt;/div&gt;&lt;div&gt;(4) Subjectively Believed and Reasonable&amp;nbsp;&lt;/div&gt;&lt;div&gt;(5) Did not contribute to the emergency&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2450" y="2430" width="270" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-58" value="&lt;div&gt;In escape:&lt;/div&gt;&lt;div&gt;(6) as soon as they complete escape must turn themselves in&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2770" y="2575" width="270" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-59" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-61" target="cTz1Mb5FrYk6KRaG_lJt-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-60" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-61" target="cTz1Mb5FrYk6KRaG_lJt-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-61" value="Duress&lt;div&gt;(Not Murder)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="2240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-62" value="(1) D was threatened if he refused to commit crime&lt;div&gt;&lt;br&gt;&lt;div&gt;(2)D believed threat&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)reasonable&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="2990" y="2420" width="320" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-63" value="Can use Duress to knock out felony in felony murder.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3240" y="2290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-64" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-66" target="cTz1Mb5FrYk6KRaG_lJt-67" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-65" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-66" target="cTz1Mb5FrYk6KRaG_lJt-68" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-66" value="Voluntary Intoxication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3560" y="2285" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-67" value="Specific intent crimes: Sometimes (stealing) (no premeditation or deliberation) (acoplence liability -no mental)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3380" y="2420" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-68" value="General: Not a defense&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="3620" y="2440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-73" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Murder:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being with malice aforethought&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="5580" y="1045" width="230" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-74" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Manslaughter:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being without malice&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="5930" y="1045" width="230" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-75" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Rape:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Sexual intercourse with a woman, not his wife, with force and without her consent&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="6280" y="1045" width="230" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-77" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-82" target="cTz1Mb5FrYk6KRaG_lJt-84" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-78" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-82" target="cTz1Mb5FrYk6KRaG_lJt-86" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-79" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-82" target="cTz1Mb5FrYk6KRaG_lJt-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-80" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-82" target="cTz1Mb5FrYk6KRaG_lJt-88" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-81" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-82" target="cTz1Mb5FrYk6KRaG_lJt-90" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-82" value="General or Specific intent Crimes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4600" y="350" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-83" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-84" target="cTz1Mb5FrYk6KRaG_lJt-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-84" value="&lt;b&gt;Always Specific:&amp;nbsp;&lt;/b&gt;&lt;div&gt;- Burglary,&lt;/div&gt;&lt;div&gt;- fraud,&lt;br&gt;&lt;div&gt;- forgery,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- robbery.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Embezzlement&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Theft&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4250" y="570" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-85" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-86" target="cTz1Mb5FrYk6KRaG_lJt-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-86" value="Committed with the goal of achieving something in addition to the actus reps&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4460" y="580" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-87" value="Specific&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="4550" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-88" value="Commits the Actus Reus with a particular motive or desire" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4680" y="580" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-89" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.886;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" parent="1" source="cTz1Mb5FrYk6KRaG_lJt-88" target="cTz1Mb5FrYk6KRaG_lJt-87" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cTz1Mb5FrYk6KRaG_lJt-90" value="Everything else" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="4900" y="580" width="240" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UaT11osNMDp3PSd5zRBN-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Murder:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being with malice aforethought&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="2962.5" y="850" width="230" height="130" as="geometry" />
+          <mxGeometry x="3185" y="660" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UaT11osNMDp3PSd5zRBN-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="UaT11osNMDp3PSd5zRBN-2" target="UaT11osNMDp3PSd5zRBN-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UaT11osNMDp3PSd5zRBN-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Kidnapping:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Forcibly or by any means of instilling dear steals or takes or holds detains or arrests any person in this state, and carries the persons into another country, state, or county, or into another part of the same county is guilty of kidnapping.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="5460" y="540" width="230" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="UaT11osNMDp3PSd5zRBN-3" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Aggravated Kidnapping (for ransom)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) more than accidental&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) higher risk of harm&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) no minimum distance but taken into account&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) really is the increased risk of harm&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="5460" y="790" width="230" height="130" as="geometry" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="EugoexmWA_Ymtn8lzPz1" name="Manslaughter">
+    <mxGraphModel dx="841" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r960guyhMTNFICLtaL75-1" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Manslaughter:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the killing of a human being by another human being without malice&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -398,7 +285,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FiNBWeDMbAzUSfE_DIcA" name="Inchoate Crimes">
-    <mxGraphModel dx="1430" dy="4430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="4837" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,44 +324,200 @@
         <mxCell id="_mNrpdy4QXjNn1OalAeI-13" value="&lt;div&gt;Problem 240: attempted solicitation because the letter was never received. The person &lt;b&gt;needs to receive&lt;/b&gt; it for it to be solicitation&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-3172.5" width="210" height="82.5" as="geometry" />
         </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-6" target="gNmTdKTkw_5r0GRm59s1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-2" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-6" target="gNmTdKTkw_5r0GRm59s1-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-6" target="gNmTdKTkw_5r0GRm59s1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-4" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-6" target="gNmTdKTkw_5r0GRm59s1-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-6" target="gNmTdKTkw_5r0GRm59s1-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-6" value="General or Specific intent Crimes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="-3370" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-8" target="gNmTdKTkw_5r0GRm59s1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-8" value="&lt;b&gt;Always Specific:&amp;nbsp;&lt;/b&gt;&lt;div&gt;- Burglary,&lt;/div&gt;&lt;div&gt;- fraud,&lt;br&gt;&lt;div&gt;- forgery,&amp;nbsp;&lt;/div&gt;&lt;div&gt;- robbery.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Embezzlement&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Theft&lt;/div&gt;&lt;div&gt;- Attempted&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-3150" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-10" target="gNmTdKTkw_5r0GRm59s1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-10" value="Committed with the goal of achieving something in addition to the actus reps&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-3140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-11" value="Specific&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-2930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-12" value="Commits the Actus Reus with a particular motive or desire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="-3140" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.886;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;fillColor=#008a00;strokeColor=#005700;" edge="1" parent="1" source="gNmTdKTkw_5r0GRm59s1-12" target="gNmTdKTkw_5r0GRm59s1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gNmTdKTkw_5r0GRm59s1-14" value="Everything else" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="-3140" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5R3l3VhQOpBvBKIcfFMQ-1" target="3ssHgfSJNo7BK29ODpUe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5R3l3VhQOpBvBKIcfFMQ-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Attempt&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Mens rea&lt;/b&gt;: intent to commit the target crime. Every attempt is a specific intent crime&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Actus Reus&lt;/b&gt;: complete and incomplete attempts (differentiation is important between the 2)&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-3470" width="370" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-5" target="3ssHgfSJNo7BK29ODpUe-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-5" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Complete or Incomplete&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Complete&lt;/b&gt;: D did all the necessary steps but for some reason the crime was not committed&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Incomplete&lt;/b&gt;: D has some steps remaining to commit crime&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-3260" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-5" target="3ssHgfSJNo7BK29ODpUe-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="-3090" as="sourcePoint" />
+            <mxPoint x="-600" y="-3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-8" value="Incomplete" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="3ssHgfSJNo7BK29ODpUe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#33FF33);" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-5" target="3ssHgfSJNo7BK29ODpUe-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-172" y="-3080" as="sourcePoint" />
+            <mxPoint x="-210" y="-3030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-11" value="Complete" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="3ssHgfSJNo7BK29ODpUe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-12" value="Is an Attempt!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-13" target="3ssHgfSJNo7BK29ODpUe-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF3333);" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-13" target="3ssHgfSJNo7BK29ODpUe-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-13" value="Incomplete&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-3030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-14" target="3ssHgfSJNo7BK29ODpUe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-14" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Model Penel Code (MPC)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;How far from the idea did they go? As in - How far did D go towards completing the crimes&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="-2900" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.404;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-13" target="3ssHgfSJNo7BK29ODpUe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-16" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Behaviors that support&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Lying in wait for the victim&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-searching for the victim&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Reconnoitering the location of the crime(casing the place)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Convincing victim to go to&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;place of crime&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- possessing burglar tools or other instruments for use in crime&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="-2710" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3ssHgfSJNo7BK29ODpUe-18" target="3ssHgfSJNo7BK29ODpUe-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-18" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Proximity&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;How many steps remain/How close did the D get to completing the crime?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="-2890" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-20" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Behaviors that support&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Number of acts&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Propinquity&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- How close in time?&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- How clear was Ds intent&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Equivocality test- we evaluate through video and evaluate her actions instead of her words to see if she got close enough to commit the crime. This is a tool. We do not listen to the sound but check the actions.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="-2720" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-22" value="Mere preparation for a crime is NOT an attempt." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-3050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3ssHgfSJNo7BK29ODpUe-24" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Attempted Murder&lt;/u&gt;&lt;/b&gt;&lt;b style=&quot;text-align: center; text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) defendant must intend to kill&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) only reasonable inference is that the defendant intended to kill (not merely to endanger or harm) everyone in the zone of fatal harm&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Victim was in the group&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*one bullet can not be a kill zone&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-3260" width="270" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="NVq0s9uNEweqQx8SKKea" name="Defenses ">
-    <mxGraphModel dx="1788" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2383" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FYgTTZhR1y9FGDTCUHNO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FYgTTZhR1y9FGDTCUHNO-1" target="FYgTTZhR1y9FGDTCUHNO-4">
+        <mxCell id="FYgTTZhR1y9FGDTCUHNO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="FYgTTZhR1y9FGDTCUHNO-1" target="FYgTTZhR1y9FGDTCUHNO-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FYgTTZhR1y9FGDTCUHNO-1" value="Involuntary Intoxication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FYgTTZhR1y9FGDTCUHNO-1" value="Involuntary Intoxication" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FYgTTZhR1y9FGDTCUHNO-4" value="Full defense&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FYgTTZhR1y9FGDTCUHNO-4" value="Full defense&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i7wwDsqGAdpSWywGVlPV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="i7wwDsqGAdpSWywGVlPV-1" target="i7wwDsqGAdpSWywGVlPV-2">
+        <mxCell id="i7wwDsqGAdpSWywGVlPV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i7wwDsqGAdpSWywGVlPV-1" target="i7wwDsqGAdpSWywGVlPV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i7wwDsqGAdpSWywGVlPV-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Mental Illness&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp;Mental illness at the time of the crime and meets requirements of insanity defense&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2) Mental illness at the time of the crime and does&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;meets requirements of insanity defense&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Mental Illness at the time, may indicate D was unconscious&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(4) Mental illness at the time of trial&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="i7wwDsqGAdpSWywGVlPV-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Mental Illness&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp;Mental illness at the time of the crime and meets requirements of insanity defense&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2) Mental illness at the time of the crime and does&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;meets requirements of insanity defense&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Mental Illness at the time, may indicate D was unconscious&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(4) Mental illness at the time of trial&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="490" y="150" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="i7wwDsqGAdpSWywGVlPV-2" value="MI may rob the person of the capacity to have the mens era. Due to this it&#39;s a failed to meet the elements defense. MI Can a defense when charged with specific intent.&amp;nbsp;&lt;div&gt;380&lt;/div&gt;&lt;div&gt;MI can not eliminate General intent unless it is knowledge.&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="i7wwDsqGAdpSWywGVlPV-2" value="MI may rob the person of the capacity to have the mens era. Due to this it&#39;s a failed to meet the elements defense. MI Can a defense when charged with specific intent.&amp;nbsp;&lt;div&gt;380&lt;/div&gt;&lt;div&gt;MI can not eliminate General intent unless it is knowledge.&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="505" y="370" width="340" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-2" target="Tfs1vOt3frf6IwsGUHuE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-2" value="Necessity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-4" target="Tfs1vOt3frf6IwsGUHuE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-4" value="(1) In an emergency&lt;div&gt;(2) No adequate alternatives&amp;nbsp;&lt;/div&gt;&lt;div&gt;(3) Harm caused less than harm prevented&lt;/div&gt;&lt;div&gt;(4) Subjectively Believed and Reasonable&amp;nbsp;&lt;/div&gt;&lt;div&gt;(5) Did not contribute to the emergency&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="520" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-5" value="&lt;div&gt;In escape:&lt;/div&gt;&lt;div&gt;(6) as soon as they complete escape must turn themselves in&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="665" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-8" target="Tfs1vOt3frf6IwsGUHuE-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-8" target="Tfs1vOt3frf6IwsGUHuE-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-8" value="Duress&lt;div&gt;(Not Murder)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-9" value="(1) D was threatened if he refused to commit crime&lt;div&gt;&lt;br&gt;&lt;div&gt;(2)D believed threat&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)reasonable&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="510" width="320" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-10" value="Can use Duress to knock out felony in felony murder.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-13" target="Tfs1vOt3frf6IwsGUHuE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-13" target="Tfs1vOt3frf6IwsGUHuE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-13" value="Voluntary Intoxication" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="375" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-14" value="Specific intent crimes: Sometimes (stealing) (no premeditation or deliberation) (acoplence liability -no mental)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="510" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfs1vOt3frf6IwsGUHuE-15" value="General: Not a defense&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="VciI31AbwP9297jPZfgM" name="Property Crimes">
-    <mxGraphModel dx="2010" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-9" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="0-7Xq6ErOrHpbipxyLzr-60">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="0-7Xq6ErOrHpbipxyLzr-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="0-7Xq6ErOrHpbipxyLzr-56">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="0-7Xq6ErOrHpbipxyLzr-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-37" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Property Crimes&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Theft - Larceny&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2) Embezzlement&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) False Pretenses&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(4) Robbery&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(5) Burglary&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -501,10 +544,10 @@
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-45" target="0-7Xq6ErOrHpbipxyLzr-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-45" target="VTmJFZlVdlvMXDaWVIfv-22">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-45" target="VTmJFZlVdlvMXDaWVIfv-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0-7Xq6ErOrHpbipxyLzr-45" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Theft&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;u&gt;Trespassers&lt;/u&gt; &lt;u&gt;caption&lt;/u&gt; and &lt;u&gt;asportation&lt;/u&gt; of the &lt;u&gt;personal property&lt;/u&gt; of another with the&lt;u&gt; intent to steal&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="0-7Xq6ErOrHpbipxyLzr-45" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Theft&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;u&gt;Trespasory&lt;/u&gt;&amp;nbsp;&lt;u&gt;caption&lt;/u&gt; and &lt;u&gt;asportation&lt;/u&gt; of the &lt;u&gt;personal property&lt;/u&gt; of another with the&lt;u&gt; intent to steal&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1590" y="410" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-46" value="Caption - means control, gain control over property" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -534,7 +577,7 @@
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-54" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Offense Against possession&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Dishonest Bailee - breaking bail vs. breaking bulk&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Dishonest employees - low level employee only has custody not possession&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;Dishonest bank tellers - embezzlement&amp;nbsp;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1210" y="740" width="230" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-56" target="VTmJFZlVdlvMXDaWVIfv-27">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-56" target="VTmJFZlVdlvMXDaWVIfv-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-56" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Burglary:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &lt;b&gt;Breaking&lt;/b&gt; and &lt;b&gt;entering&lt;/b&gt; of the &lt;b&gt;dwelling&lt;/b&gt; house &lt;b&gt;of another&lt;/b&gt; &lt;b&gt;at night &lt;/b&gt;with the intent to commit a felony therein&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -561,50 +604,70 @@
         <mxCell id="0-7Xq6ErOrHpbipxyLzr-64" value="Already in possession&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2040" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Receipt of stolen property p449&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-1" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Receipt of stolen property p449&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2450" y="990" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-53">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-45">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-50">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="0-7Xq6ErOrHpbipxyLzr-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="VTmJFZlVdlvMXDaWVIfv-22">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-5" target="VTmJFZlVdlvMXDaWVIfv-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-5" value="Theft - Larceny&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-5" value="Theft - Larceny&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.629;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="VTmJFZlVdlvMXDaWVIfv-5">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.629;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-37" target="VTmJFZlVdlvMXDaWVIfv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-22" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Larceny by trick&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;u&gt;Trespassers&lt;/u&gt; &lt;u&gt;caption&lt;/u&gt; and &lt;u&gt;asportation&lt;/u&gt; of the &lt;u&gt;personal property&lt;/u&gt; of another with the&lt;u&gt; intent to steal&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-22" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Larceny by trick&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Specific Intent&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;u&gt;Trespassers&lt;/u&gt; &lt;u&gt;caption&lt;/u&gt; and &lt;u&gt;asportation&lt;/u&gt; of the &lt;u&gt;personal property&lt;/u&gt; of another with the&lt;u&gt; intent to steal&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1350" y="80" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-27" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Common Law&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Breaking&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Entering&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Dwelling house of another&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- night&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- intent to comit felony&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-27" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Common Law&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Breaking&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Entering&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Dwelling house of another&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- night&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- intent to comit felony&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3110" y="550" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-29" target="VTmJFZlVdlvMXDaWVIfv-33">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-29" target="VTmJFZlVdlvMXDaWVIfv-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-29" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;CA&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Entering&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- intent to comit felony&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*Open to public is not burglary&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;NOT: breaking, dwelling house, night&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-29" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;CA&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Entering&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- intent to comit felony&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*Open to public is not burglary&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;NOT: breaking, dwelling house, night&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3530" y="570" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.424;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0-7Xq6ErOrHpbipxyLzr-56" target="VTmJFZlVdlvMXDaWVIfv-29">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.424;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="0-7Xq6ErOrHpbipxyLzr-56" target="VTmJFZlVdlvMXDaWVIfv-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-31" value="Instrument:&lt;div&gt;&amp;nbsp;Instrument &lt;span style=&quot;white-space: pre;&quot;&gt;e&lt;/span&gt;ntering is not entering. (unless instrument is used to commit intended felony)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-31" value="Instrument:&lt;div&gt;&amp;nbsp;Instrument &lt;span style=&quot;white-space: pre;&quot;&gt;e&lt;/span&gt;ntering is not entering. (unless instrument is used to commit intended felony)&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3110" y="760" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.448;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VTmJFZlVdlvMXDaWVIfv-27" target="VTmJFZlVdlvMXDaWVIfv-31">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.448;entryY=0.052;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VTmJFZlVdlvMXDaWVIfv-27" target="VTmJFZlVdlvMXDaWVIfv-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VTmJFZlVdlvMXDaWVIfv-33" value="Instrument:&lt;div&gt;&amp;nbsp;Instrument &lt;span style=&quot;white-space: pre;&quot;&gt;e&lt;/span&gt;ntering is entering.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VTmJFZlVdlvMXDaWVIfv-33" value="Instrument:&lt;div&gt;&amp;nbsp;Instrument &lt;span style=&quot;white-space: pre;&quot;&gt;e&lt;/span&gt;ntering is entering.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3530" y="810" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="28yTSK9JigC00axsj8xK" name="Rape &amp; Kidnapping">
+    <mxGraphModel dx="1021" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KwJWAcHN-7H23X3E0wAN-1" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Rape:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Sexual intercourse with a woman, not his wife, with force and without her consent&amp;nbsp;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dt1dz8mEmO4wJocJ11Sy-1" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dt1dz8mEmO4wJocJ11Sy-2" target="dt1dz8mEmO4wJocJ11Sy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dt1dz8mEmO4wJocJ11Sy-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Kidnapping:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Forcibly or by any means of instilling dear steals or takes or holds detains or arrests any person in this state, and carries the persons into another country, state, or county, or into another part of the same county is guilty of kidnapping.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dt1dz8mEmO4wJocJ11Sy-3" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Aggravated Kidnapping (for ransom)&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) more than accidental&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) higher risk of harm&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) no minimum distance but taken into account&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) really is the increased risk of harm&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="590" y="770" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
