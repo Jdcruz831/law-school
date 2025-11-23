@@ -439,40 +439,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NVq0s9uNEweqQx8SKKea" name="Defenses ">
-    <mxGraphModel dx="3488" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1788" dy="1083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-1" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="Tfs1vOt3frf6IwsGUHuE-4" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Necessity" vertex="1">
-          <mxGeometry height="60" width="120" x="-1000" y="630" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-3" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="Tfs1vOt3frf6IwsGUHuE-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="(1) In an emergency&lt;div&gt;(2) No adequate alternatives&amp;nbsp;&lt;/div&gt;&lt;div&gt;(3) Harm caused less than harm prevented&lt;/div&gt;&lt;div&gt;(4) Subjectively Believed and Reasonable&amp;nbsp;&lt;/div&gt;&lt;div&gt;(5) Did not contribute to the emergency&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="270" x="-1140" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;In escape:&lt;/div&gt;&lt;div&gt;(6) as soon as they complete escape must turn themselves in&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="270" x="-820" y="925" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-6" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="Tfs1vOt3frf6IwsGUHuE-9" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-7" edge="1" parent="1" source="Tfs1vOt3frf6IwsGUHuE-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="Tfs1vOt3frf6IwsGUHuE-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Duress&lt;div&gt;(Not Murder)&amp;nbsp;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="-600" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="(1) D was threatened if he refused to commit crime&lt;div&gt;&lt;br&gt;&lt;div&gt;(2)D believed threat&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(3)reasonable&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="320" x="-600" y="770" as="geometry" />
-        </mxCell>
-        <mxCell id="Tfs1vOt3frf6IwsGUHuE-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Can use Duress to knock out felony in felony murder.&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="-350" y="640" as="geometry" />
-        </mxCell>
         <mxCell id="3TRlA8AKkMr7xRR0sQE4-3" edge="1" parent="1" source="3TRlA8AKkMr7xRR0sQE4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3TRlA8AKkMr7xRR0sQE4-2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -700,6 +670,22 @@
         </mxCell>
         <mxCell id="2vjqkByeazf3eenCskLZ-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Objective&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Minority ,CA&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- less on D&#39;s predisposition and more on police conduct&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="250" x="1630" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="2vjqkByeazf3eenCskLZ-33" edge="1" parent="1" source="2vjqkByeazf3eenCskLZ-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="2vjqkByeazf3eenCskLZ-34" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2310" y="227" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vjqkByeazf3eenCskLZ-34" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="Can use Duress to knock out felony in felony murder.&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="2512.5" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2vjqkByeazf3eenCskLZ-35" edge="1" parent="1" source="2vjqkByeazf3eenCskLZ-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="2vjqkByeazf3eenCskLZ-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2790" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vjqkByeazf3eenCskLZ-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;In escape:&lt;/div&gt;&lt;div&gt;(6) as soon as they complete escape must turn themselves in&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="2854" y="625" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
