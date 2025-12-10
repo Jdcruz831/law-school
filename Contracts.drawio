@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.2.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.2.6">
   <diagram name="Contracts" id="2T-GXTbw6CjH771KsZAz">
-    <mxGraphModel dx="4421" dy="2817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3852" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hZvGdWm9dUrXAthSrBff-0" />
         <mxCell id="hZvGdWm9dUrXAthSrBff-1" parent="hZvGdWm9dUrXAthSrBff-0" />
@@ -311,9 +311,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ae_GPwFimgjY7MZPHpnK-67" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Performance over a year:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;&lt;u&gt;§130&amp;nbsp;&lt;/u&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;(Klewin v. Flagship)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- either party can&#39;t perform in less than a year&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- narrowly construed, any chance within a year kills it&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;*Applied: An oral contract to build a massive complex is enforceable&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;even though it is realistically impossible to complete within a year.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="180" width="340" x="-85" y="2990" as="geometry" />
+          <mxGeometry height="180" width="340" x="-50" y="3000" as="geometry" />
         </mxCell>
         <mxCell id="snYeu2d-FFJJkEM3cboy-8" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fillColor=#6a00ff;strokeColor=#3700CC;" target="snYeu2d-FFJJkEM3cboy-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLCyFu8f_kKldnP4BEvt-3" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="Ae_GPwFimgjY7MZPHpnK-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fillColor=#a20025;strokeColor=#6F0000;" target="FLCyFu8f_kKldnP4BEvt-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ae_GPwFimgjY7MZPHpnK-69" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Goods $500 or more&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Goods Only!! §2-201&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 500 or More (500 works)&amp;nbsp;&lt;/p&gt;" vertex="1">
@@ -413,7 +416,7 @@
           <mxGeometry height="195" width="340" x="2405" y="465" as="geometry" />
         </mxCell>
         <mxCell id="FAZBmKYACPC_W3faKcOI-25" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Hill v. Gateway:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Hills made direct purchase with gateway&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- by keeping computer they accepted the terms in the box (aka gave no objection after a reasonable time.)&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="275" x="1200" y="415" as="geometry" />
+          <mxGeometry height="110" width="275" x="1205" y="390" as="geometry" />
         </mxCell>
         <mxCell id="FAZBmKYACPC_W3faKcOI-27" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&lt;u&gt;Klocek v. Gateway:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Klocek&amp;nbsp;bought through third party&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 2-207(1) does not apply, because only one form, not a addition to new form.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- no assent to a contract&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="270" x="1540" y="380" as="geometry" />
@@ -443,7 +446,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="snYeu2d-FFJJkEM3cboy-4" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Writing &amp;amp; Sign Requirements:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;§2-201&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Essential Terms not needed (but can&#39;t be enforced if wrong or incomplete)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Signed by D&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- need quantity&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Also:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Need not be formal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Can be before or after&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- only quantity of goods shown in the writing&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="210" width="235" x="685" y="3430" as="geometry" />
+          <mxGeometry height="210" width="235" x="685" y="3460" as="geometry" />
         </mxCell>
         <mxCell id="jyyAxfgWRmSpikzpJC7v-1" edge="1" parent="hZvGdWm9dUrXAthSrBff-1" source="8cS0J1XeakZFwIvlOWuG-0" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="jyyAxfgWRmSpikzpJC7v-0" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -600,6 +603,9 @@
         </mxCell>
         <mxCell id="jyyAxfgWRmSpikzpJC7v-2" parent="hZvGdWm9dUrXAthSrBff-1" style="whiteSpace=wrap;html=1;rounded=1;" value="quasi contract&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="-230" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="FLCyFu8f_kKldnP4BEvt-2" parent="hZvGdWm9dUrXAthSrBff-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;§2-201 Exceptions&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If a party in court admits there was a contract made&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- (performance) they have agreed there is a contract.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Goods are not suitable for sale elsewhere&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="235" x="970" y="3150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
