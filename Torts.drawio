@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.1.1" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.6 Safari/605.1.15" version="29.2.7" pages="5">
   <diagram name="Torts" id="sFTCKs2JXeQC2KsN7thl">
     <mxGraphModel dx="2043" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,6 +167,100 @@
         </mxCell>
         <mxCell id="LIuQ-yUKTmexOsx6fLgH-49" edge="1" parent="1" source="LIuQ-yUKTmexOsx6fLgH-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.354;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="LIuQ-yUKTmexOsx6fLgH-48">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Products " id="ARw35kwl5pwcJwO9CaSB">
+    <mxGraphModel dx="1300" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="UWxOJoyI6kLy7r9uoKgw-0" />
+        <mxCell id="UWxOJoyI6kLy7r9uoKgw-1" parent="UWxOJoyI6kLy7r9uoKgw-0" />
+        <mxCell id="ifXPODOa0Vly5LOOLM4v-4" edge="1" parent="UWxOJoyI6kLy7r9uoKgw-1" source="ifXPODOa0Vly5LOOLM4v-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ifXPODOa0Vly5LOOLM4v-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="-170" />
+              <mxPoint x="270" y="-170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-2" edge="1" parent="UWxOJoyI6kLy7r9uoKgw-1" source="ifXPODOa0Vly5LOOLM4v-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WS8FVCm43DN1_TwFm8pN-0" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="-180" />
+              <mxPoint x="885" y="-180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-4" edge="1" parent="UWxOJoyI6kLy7r9uoKgw-1" source="ifXPODOa0Vly5LOOLM4v-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WS8FVCm43DN1_TwFm8pN-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ifXPODOa0Vly5LOOLM4v-0" parent="UWxOJoyI6kLy7r9uoKgw-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Products Liability:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Manufacturing&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Design&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Warnings&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="510" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="ifXPODOa0Vly5LOOLM4v-3" parent="UWxOJoyI6kLy7r9uoKgw-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Manufacturing:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Product defective condition that was unreasonably dangerous&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) When product left defendant’s control&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Caused plaintiff’s injury&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;”reasonable expectation”&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="280" x="130" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-0" parent="UWxOJoyI6kLy7r9uoKgw-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Warnings&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) foreseeable risk of harm posed by the product could have been avoided&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) the omission of the instructions or warnings renders the product not reasonably safe.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="780" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-6" edge="1" parent="UWxOJoyI6kLy7r9uoKgw-1" source="WS8FVCm43DN1_TwFm8pN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WS8FVCm43DN1_TwFm8pN-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-3" parent="UWxOJoyI6kLy7r9uoKgw-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Design&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) the manufacturer’s product failed to perform as safely as an ordinary customer would expect&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &amp;nbsp;existed when the product left the manufacturer’s possession&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) &amp;nbsp;“legal cause” of plaintiff’s “enhanced injury,” and&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) The product was used in a reasonably foreseeable manner&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="440" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="WS8FVCm43DN1_TwFm8pN-5" parent="UWxOJoyI6kLy7r9uoKgw-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Design&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A product is still defective if its design embodies “excessive preventable danger” that is unless “ the benefits of the … design outweigh the risk of danger inherent in such design.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="260" x="440" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="NIED" id="nx1WX8brSO8FG67nRne7">
+    <mxGraphModel dx="715" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="fkFnSFPu8032KC_YXKBN-0" />
+        <mxCell id="fkFnSFPu8032KC_YXKBN-1" parent="fkFnSFPu8032KC_YXKBN-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Damages" id="Lz70RPAmUQYwTUEAkiS_">
+    <mxGraphModel dx="1115" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="VewFyISS7h8_7wgvacGH-0" />
+        <mxCell id="VewFyISS7h8_7wgvacGH-1" parent="VewFyISS7h8_7wgvacGH-0" />
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-2" edge="1" parent="VewFyISS7h8_7wgvacGH-1" source="iyhBvKgqi0O2pyq9hDed-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iyhBvKgqi0O2pyq9hDed-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-10" edge="1" parent="VewFyISS7h8_7wgvacGH-1" source="iyhBvKgqi0O2pyq9hDed-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iyhBvKgqi0O2pyq9hDed-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-0" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Damages:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Compensatory&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Nominal&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) punitive&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="160" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-4" edge="1" parent="VewFyISS7h8_7wgvacGH-1" source="iyhBvKgqi0O2pyq9hDed-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iyhBvKgqi0O2pyq9hDed-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-6" edge="1" parent="VewFyISS7h8_7wgvacGH-1" source="iyhBvKgqi0O2pyq9hDed-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iyhBvKgqi0O2pyq9hDed-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-1" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Compensatory&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Pecuniary&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- non - Pecuniary&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;* must be&amp;nbsp;conscious of it.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="210" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-3" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Pecuniary&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Quantifiable damges:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- med expenses&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- lost wages&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="-150" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-8" edge="1" parent="VewFyISS7h8_7wgvacGH-1" source="iyhBvKgqi0O2pyq9hDed-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="iyhBvKgqi0O2pyq9hDed-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-5" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;non - Pecuniary&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Qualitative:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Pain &amp;amp; suffering&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Hedonic&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Loss of consortium&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="210" x="120" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-7" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Hedonic&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- loss of enjoyment of life&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- must be counties so immediate &amp;nbsp;death does not count&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="210" x="220" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="iyhBvKgqi0O2pyq9hDed-9" parent="VewFyISS7h8_7wgvacGH-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Punitive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;To punish and deter&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- A violation of the law is not sufficient evidence of malice.&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="300" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
