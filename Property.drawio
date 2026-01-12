@@ -1,11 +1,101 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.2.7">
-  <diagram name="Page-1" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="715" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.2.7" pages="2">
+  <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
+    <mxGraphModel dx="1300" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xoWX247R263E8mdGWqW5-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Property&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="310" x="220" y="100" as="geometry" />
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-2" edge="1" parent="1" source="xoWX247R263E8mdGWqW5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="190" />
+              <mxPoint x="320" y="230" />
+              <mxPoint x="130" y="230" />
+            </Array>
+            <mxPoint x="130" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-4" edge="1" parent="1" source="xoWX247R263E8mdGWqW5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="0IvHbam1iwFZeJU0NXRJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-6" edge="1" parent="1" source="xoWX247R263E8mdGWqW5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="0IvHbam1iwFZeJU0NXRJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xoWX247R263E8mdGWqW5-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;Jacque v.&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Sternberg&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="200" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Sternberg wanted to drive across Jacque&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Jacque proves it&#39;s his land and says no&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &amp;nbsp;Sternberg manager and associates do it anyway&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="400" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Nominal damages can include punitive ones&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="240" x="210" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-7" edge="1" parent="1" source="0IvHbam1iwFZeJU0NXRJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);" target="0IvHbam1iwFZeJU0NXRJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="180" />
+              <mxPoint x="1060" y="220" />
+              <mxPoint x="870" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-8" edge="1" parent="1" source="0IvHbam1iwFZeJU0NXRJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="0IvHbam1iwFZeJU0NXRJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-9" edge="1" parent="1" source="0IvHbam1iwFZeJU0NXRJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="0IvHbam1iwFZeJU0NXRJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Hinman v. Pacific Air&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- from the center of the earth to the sky&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="940" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- does a 100 meters up from the ground in plane constitute trespass ?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="750" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Hinman lived near an airport and planes flew very close to his house.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- on public policy grounds can&#39;t hold from the land to the stars&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- no actual or substantive damages only nominal;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="1140" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="0IvHbam1iwFZeJU0NXRJ-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the owner of land owns as much of the space above him as he uses, but only so long as he can use it. All that lies beyond, belongs to the world.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- nominal damages is not enough for airspace&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="135" width="240" x="960" y="495" as="geometry" />
+        </mxCell>
+        <mxCell id="x5Cy5XgLjUDae-BZAYRX-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) can nominal damages for int. trespass support punitive damages&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- YES, court has reason to penalize those who intentionally break the right of trespass. &quot;No practical meaning unless protected by the state&quot;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) should it be applied to Steenberg&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;i&gt;Yes, $30 was a &quot;halfpenny&quot;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) is 100,000 excessive&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;&lt;i&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Not excessive&lt;/span&gt; &lt;/i&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="210" width="240" x="10" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-1" edge="1" parent="1" source="jFIE1rw5w5TWqSYamei9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);" target="jFIE1rw5w5TWqSYamei9-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="180" />
+              <mxPoint x="1790" y="220" />
+              <mxPoint x="1600" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-2" edge="1" parent="1" source="jFIE1rw5w5TWqSYamei9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="jFIE1rw5w5TWqSYamei9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-3" edge="1" parent="1" source="jFIE1rw5w5TWqSYamei9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="jFIE1rw5w5TWqSYamei9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Hendriks v. Stalnaker&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;fun case about balancing, poetic almost&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="1670" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- is the water well a nuisance&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- damages? &amp;nbsp;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="240" x="1480" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- water well vs septic tank&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- no evidence that the creation of the well was malicious to limit the creation of a water tank&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- septic tank has more intrusive burden on other property&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="1870" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jFIE1rw5w5TWqSYamei9-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- not a nuisance because the burden would be the same on both parties &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="135" width="240" x="1690" y="495" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="su8pyMBmVlxsBYhY-8wQ" name="Quotes ">
+    <mxGraphModel dx="1021" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3in6vo6e6ggE3mccza4C-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Property&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Property is driven on an analysis of exclusion rather than a right of use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;in Rem : applies to all (all people have to leave my car alone)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;in persona : specific rights (A own B a duty)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Fragmentation of ownership&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="210" width="240" x="120" y="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
