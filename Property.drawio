@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.6" pages="3">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="1192" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,33 +220,61 @@
         <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) who owns a fox&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="170" x="3810" y="232.5" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-8" edge="1" parent="1" source="LDtKI1ZPfwgmVqXq3ZtM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-1" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4830" y="130" />
-              <mxPoint x="4830" y="170" />
-              <mxPoint x="4640" y="170" />
+              <mxPoint x="4870" y="157.5" />
+              <mxPoint x="4870" y="197.5" />
+              <mxPoint x="4680" y="197.5" />
             </Array>
-            <mxPoint x="4640" y="210" as="targetPoint" />
+            <mxPoint x="4680" y="237.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-9" edge="1" parent="1" source="LDtKI1ZPfwgmVqXq3ZtM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="LDtKI1ZPfwgmVqXq3ZtM-12">
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-2" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="TzGN_rfkllvj1RiEPk2z-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-10" edge="1" parent="1" source="LDtKI1ZPfwgmVqXq3ZtM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="LDtKI1ZPfwgmVqXq3ZtM-13">
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-3" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="TzGN_rfkllvj1RiEPk2z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;International News service V. Associated Press&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- whale&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="240" x="4710" y="40" as="geometry" />
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;International News service V. Associated Press&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- whale&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="4750" y="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Ghen shot killed and left a whale to wash up, standard practice&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="240" x="4910" y="210" as="geometry" />
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Ghen shot killed and left a whale to wash up, standard practice&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="4950" y="237.5" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- establishing&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="240" x="4680" y="360" as="geometry" />
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- establishing&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="240" x="4720" y="387.5" as="geometry" />
         </mxCell>
-        <mxCell id="LDtKI1ZPfwgmVqXq3ZtM-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) who owns a fox&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="170" x="4520" y="210" as="geometry" />
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) who owns a fox&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="4560" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-8" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5600" y="157.5" />
+              <mxPoint x="5600" y="197.5" />
+              <mxPoint x="5410" y="197.5" />
+            </Array>
+            <mxPoint x="5410" y="237.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-9" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="TzGN_rfkllvj1RiEPk2z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-10" edge="1" parent="1" source="TzGN_rfkllvj1RiEPk2z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="TzGN_rfkllvj1RiEPk2z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Hasslem v.&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- whale&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="5480" y="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Ghen shot killed and left a whale to wash up, standard practice&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="5680" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- establishing&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="240" x="5450" y="387.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TzGN_rfkllvj1RiEPk2z-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) who owns a fox&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="5290" y="237.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
