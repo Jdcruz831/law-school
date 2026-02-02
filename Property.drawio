@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.6" pages="3">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="679" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1192" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,34 +276,6 @@
         <mxCell id="_n7heqvjbBtA_qUSx72_-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) who owns a fox&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="170" x="5310" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-16" edge="1" parent="1" source="_n7heqvjbBtA_qUSx72_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="6420" y="170" />
-              <mxPoint x="6420" y="210" />
-              <mxPoint x="6230" y="210" />
-            </Array>
-            <mxPoint x="6230" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-17" edge="1" parent="1" source="_n7heqvjbBtA_qUSx72_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="_n7heqvjbBtA_qUSx72_-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-18" edge="1" parent="1" source="_n7heqvjbBtA_qUSx72_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="_n7heqvjbBtA_qUSx72_-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Strian v. &amp;nbsp;Green&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- What is considered a fixture&amp;nbsp;and what is personal property&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="240" x="6300" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-green sold to strain&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- fake plastic shandaller replaced&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- history of mantels&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- good quote about &quot;this generations luxuries is the next generations necessities &quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Chattles connected to gas or electricity are easily fixtures&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the subjective belief of the seller is not what determines, we use an objective standard here.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="190" width="250" x="6500" y="250" as="geometry" />
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- To establish a fixture&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) actual annexation to the reality (physical, via nails ect.)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) application to the use or connected is appropriate&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) the intention of the party to make a permanent accession to the freehold&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="240" x="6230" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-22" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) is considered personal property or fixture; water heater, mirrors, chandeller,&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="170" x="6110" y="250" as="geometry" />
-        </mxCell>
         <mxCell id="_n7heqvjbBtA_qUSx72_-23" edge="1" parent="1" source="_n7heqvjbBtA_qUSx72_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -332,7 +304,7 @@
         <mxCell id="_n7heqvjbBtA_qUSx72_-33" edge="1" parent="1" source="_n7heqvjbBtA_qUSx72_-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="_n7heqvjbBtA_qUSx72_-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_n7heqvjbBtA_qUSx72_-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Yes&amp;nbsp;&lt;/p&gt;" vertex="1">
+        <mxCell id="_n7heqvjbBtA_qUSx72_-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Does the speed which a boundary changes make a difference&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="240" x="6960" y="400" as="geometry" />
         </mxCell>
         <mxCell id="_n7heqvjbBtA_qUSx72_-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)Does the speed which a boundary changes make a difference&amp;nbsp;&lt;/p&gt;" vertex="1">
@@ -356,6 +328,104 @@
         <mxCell id="7rH9YSOwawTs2wyjjx7J-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Reasoning&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- We can adapt to ir over time.&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="190" x="6760" y="850" as="geometry" />
         </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-5" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="6390" y="160" />
+              <mxPoint x="6390" y="200" />
+              <mxPoint x="6200" y="200" />
+            </Array>
+            <mxPoint x="6200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-6" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="7rH9YSOwawTs2wyjjx7J-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-7" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="7rH9YSOwawTs2wyjjx7J-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Strian v. &amp;nbsp;Green&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- What is considered a fixture&amp;nbsp;and what is personal property&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="6270" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-green sold to strain&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- fake plastic shandaller replaced&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- history of mantels&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- good quote about &quot;this generations luxuries is the next generations necessities &quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Chattles connected to gas or electricity are easily fixtures&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- the subjective belief of the seller is not what determines, we use an objective standard here.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="6470" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- To establish a fixture&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) actual annexation to the reality (physical, via nails ect.)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) application to the use or connected is appropriate&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) the intention of the party to make a permanent accession to the freehold&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="6200" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) is considered personal property or fixture; water heater, mirrors, chandeller,&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="6080" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-12" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7900" y="160" />
+              <mxPoint x="7900" y="200" />
+              <mxPoint x="7710" y="200" />
+            </Array>
+            <mxPoint x="7710" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-13" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="7rH9YSOwawTs2wyjjx7J-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-14" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="7rH9YSOwawTs2wyjjx7J-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Scott v Anderson Tully CO&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Adverse possession&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- tree cutting&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="7780" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- dissputed 20 acres, swampy&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, buy a big chunk of land next to Tully&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- when they buy it, find a fence and assume that is the property line.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- is occupying&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 41 years&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, painted the tress blue, repainted it tons&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hear the noise from half a mile away&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Gave hunting license&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="7980" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-20" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If the elements are satisfied then new owners&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="7710" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Does Anderson - Tully satisfy the elements of advers possession&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="7590" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-22" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-24" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-26" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-28" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-30" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-32" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;elements&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Claim of ownership&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Actual or hostile&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Open &amp;amp; notorious&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Continuius &amp;amp; uninterrupted&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Exclusive&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(6) Peaceful&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="7630" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;(1) Claim of ownership&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Possessor must fly their flag on the land.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="7300" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;(2) Actual or hostile&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hostile - without permission&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Not a renter or invitee&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Notwistanding mistaken beliefs&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Subjective intent is irrelevant&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Good faith, bad faith, dosn&#39;t matter&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="7320" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;(3) Open &amp;amp; notorious and&amp;nbsp;visible&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;So loud, so obvious, so visible that the owner should have known.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- owner should have been there&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="7580" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;(4) Continuius &amp;amp; uninterrupted&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- about ten years for all of these&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Continuous of what the land would be for, context matters. Use the land how an average owner would use that land.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="220" x="7850" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;(5) Exclusive&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Act as sole owner, not sharing with public or true owner.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="7920" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;(6) Peaceful&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Not via force&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="8020" y="737.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -374,7 +444,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1mmvPuUHY-ibarA80GjG" name="Page-3">
-    <mxGraphModel dx="950" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="559" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,8 +574,20 @@
         <mxCell id="LY5qmc9q-rRQfSBt9m9M-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;For underground pool of oil&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;As long as drill is in your ad coelum you can drain any pool that touches yours.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="190" x="890" y="670" as="geometry" />
         </mxCell>
+        <mxCell id="zWpe88JOYE1gftBKEWow-2" edge="1" parent="1" source="yAvsYkmpef7pM0Q-w-Bz-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="zWpe88JOYE1gftBKEWow-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CsC3nvJYdk2hQE20r2mF-2" edge="1" parent="1" source="yAvsYkmpef7pM0Q-w-Bz-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="CsC3nvJYdk2hQE20r2mF-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yAvsYkmpef7pM0Q-w-Bz-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;gradientColor=none;strokeColor=light-dark(#000000,#66B2FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;possession of property&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Taking possession of property just by being there for years&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="230" x="660" y="820" as="geometry" />
+          <mxGeometry height="90" width="230" x="710" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="zWpe88JOYE1gftBKEWow-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Purpose of adverse possession&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;four big theories:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Sleeping theory: law punishes those who sleep on their rights - negligent&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Earning theory: Law favors the owner who is using the land productively, not letting it go to waste. Utilitarian stand point - reward the worker, penalize the slaker&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Psychological theory: A person puts down roots in a land, even if stolen after ten years would be a psychological blow. Loss adverstion.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;i&gt;*The pain of loosing something&lt;/i&gt;&lt;/span&gt;&lt;i&gt; &lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;you have is much greater than loosing something you never really use.&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;*&lt;i&gt;Prioritizes the real human connection &lt;/i&gt;&lt;/span&gt;&lt;i&gt;to the land&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Cleaning cobwebs theory: adverse possession protects from old stale invisible claims, like mistakes in deeds. Assurance that title is clean.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="360" width="340" x="860" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="CsC3nvJYdk2hQE20r2mF-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Government&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-Nullum Tempus Occurrit regi&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No time runs against the king&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="1060" y="850" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
