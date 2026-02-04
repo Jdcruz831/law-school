@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.6" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.7" pages="3">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="596" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -356,36 +356,10 @@
         <mxCell id="7rH9YSOwawTs2wyjjx7J-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) is considered personal property or fixture; water heater, mirrors, chandeller,&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="170" x="6080" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-12" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+        <mxCell id="7rH9YSOwawTs2wyjjx7J-20" edge="1" parent="1" source="pETylRkkIMLqbB5PEC2o-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7rH9YSOwawTs2wyjjx7J-19" value="">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7900" y="160" />
-              <mxPoint x="7900" y="200" />
-              <mxPoint x="7710" y="200" />
-            </Array>
-            <mxPoint x="7710" y="240" as="targetPoint" />
+            <mxPoint x="7805.384615384615" y="550" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-13" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="7rH9YSOwawTs2wyjjx7J-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-14" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="7rH9YSOwawTs2wyjjx7J-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Scott v Anderson Tully CO&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Adverse possession&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- tree cutting&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="240" x="7780" y="70" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- dissputed 20 acres, swampy&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, buy a big chunk of land next to Tully&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- when they buy it, find a fence and assume that is the property line.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- is occupying&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 41 years&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, painted the tress blue, repainted it tons&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hear the noise from half a mile away&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Gave hunting license&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="190" width="250" x="7980" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-20" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-19" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If the elements are satisfied then new owners&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="240" x="7710" y="390" as="geometry" />
-        </mxCell>
-        <mxCell id="7rH9YSOwawTs2wyjjx7J-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Does Anderson - Tully satisfy the elements of advers possession&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="170" x="7590" y="240" as="geometry" />
         </mxCell>
         <mxCell id="7rH9YSOwawTs2wyjjx7J-22" edge="1" parent="1" source="7rH9YSOwawTs2wyjjx7J-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="7rH9YSOwawTs2wyjjx7J-21" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -425,6 +399,141 @@
         </mxCell>
         <mxCell id="7rH9YSOwawTs2wyjjx7J-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;(6) Peaceful&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Not via force&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="210" x="8020" y="737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-1" edge="1" parent="1" source="pETylRkkIMLqbB5PEC2o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7860" y="132.5" />
+              <mxPoint x="7860" y="172.5" />
+              <mxPoint x="7670" y="172.5" />
+            </Array>
+            <mxPoint x="7670" y="212.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-2" edge="1" parent="1" source="pETylRkkIMLqbB5PEC2o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="pETylRkkIMLqbB5PEC2o-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-3" edge="1" parent="1" source="pETylRkkIMLqbB5PEC2o-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="pETylRkkIMLqbB5PEC2o-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Scott v Anderson Tully CO&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Adverse possession&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- tree cutting&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="7740" y="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- dissputed 20 acres, swampy&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, buy a big chunk of land next to Tully&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- when they buy it, find a fence and assume that is the property line.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- is occupying&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 41 years&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- 1969, painted the tress blue, repainted it tons&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hear the noise from half a mile away&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Gave hunting license&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="7940" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If the elements are satisfied then new owners&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="7670" y="362.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pETylRkkIMLqbB5PEC2o-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Does Anderson - Tully satisfy the elements of advers possession&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="7550" y="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-2" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8530" y="100" />
+              <mxPoint x="8530" y="140" />
+              <mxPoint x="8340" y="140" />
+            </Array>
+            <mxPoint x="8340" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-3" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="kOK5TxT01gIIPjXd8n4C-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-4" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="kOK5TxT01gIIPjXd8n4C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Carpenter v. Ruperto&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="8410" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="8610" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-24" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kOK5TxT01gIIPjXd8n4C-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If the elements are satisfied then new owners&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="8340" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="8220" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-9" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9240" y="105" />
+              <mxPoint x="9240" y="145" />
+              <mxPoint x="9050" y="145" />
+            </Array>
+            <mxPoint x="9050" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-10" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="kOK5TxT01gIIPjXd8n4C-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-11" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="kOK5TxT01gIIPjXd8n4C-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Howard v. Kunto&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="9120" y="15" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Houses all being shifted, and family getting almost kicked out&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="250" x="9320" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- you can pass continuous through good faith belief of good title&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Ordinary use of that land. Here- a summer home, or a swamp could be less (Scott v Anderson Tully)&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="9050" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Can you pass the continuous element of Adverstion possession&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="8930" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-16" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9990" y="115" />
+              <mxPoint x="9990" y="155" />
+              <mxPoint x="9800" y="155" />
+            </Array>
+            <mxPoint x="9800" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-17" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#3399FF);" target="kOK5TxT01gIIPjXd8n4C-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-18" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="kOK5TxT01gIIPjXd8n4C-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Songbyrd, Inc. v. Estate of Grossman&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="9870" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;This case involves master recordings made by musician &quot;Professor Longhair&quot; in the 1970s&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Bearsville Records (the defendant&#39;s predecessor) had physical custody of the tapes since the 1970s&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;In 1986, Bearsville licensed the recordings to another company, resulting in a 1987 album release&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;In 1995, Songbyrd (the musician&#39;s successor) sued for monetary damages and a declaration of rights, alleging conversion&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Under New York law, the three-year statute of limitations for conversion begins to run at the time the conversion occurs, even if the owner is unaware of it&lt;/p&gt;" vertex="1">
+          <mxGeometry height="215" width="600" x="10070" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- If the elements are satisfied then new owners&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="9800" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-22" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Issue&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;&amp;nbsp;When does the statute of limitations for the conversion of personal property begin to run?&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="170" x="9680" y="195" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-26" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kOK5TxT01gIIPjXd8n4C-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-28" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kOK5TxT01gIIPjXd8n4C-27" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8465" y="650" />
+              <mxPoint x="8775" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Two rules: good faith vs Connecticut rule&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="8340" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Good faith&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- State of mind matters, bad faith&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="8310" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;California Rule&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Two rules: good faith vs Connecticut rule&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="8620" y="717.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
