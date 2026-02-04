@@ -481,6 +481,9 @@
         <mxCell id="kOK5TxT01gIIPjXd8n4C-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Facts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Houses all being shifted, and family getting almost kicked out&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="190" width="250" x="9320" y="185" as="geometry" />
         </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-30" edge="1" parent="1" source="kOK5TxT01gIIPjXd8n4C-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kOK5TxT01gIIPjXd8n4C-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kOK5TxT01gIIPjXd8n4C-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- you can pass continuous through good faith belief of good title: &lt;u&gt;requiring privity&lt;/u&gt; in order to tack time.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Ordinary use of that land. Here- a summer home, or a swamp could be less (Scott v Anderson Tully)&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="240" x="9050" y="335" as="geometry" />
         </mxCell>
@@ -534,6 +537,9 @@
         </mxCell>
         <mxCell id="kOK5TxT01gIIPjXd8n4C-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;California Rule&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Two rules: good faith vs Connecticut rule&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="250" x="8620" y="717.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kOK5TxT01gIIPjXd8n4C-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Privity&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- a relation between two parties that is recognized by law, such as that of blood, lease, or service.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="240" x="9170" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
