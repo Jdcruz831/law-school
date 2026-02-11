@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.3.8" pages="3">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="1192" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1021" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,6 +690,9 @@
         <mxCell id="irL610NNTSOzzAm699FG-3" edge="1" parent="1" source="irL610NNTSOzzAm699FG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="irL610NNTSOzzAm699FG-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RUYWs7uuwX0-735RAe2n-4" edge="1" parent="1" source="irL610NNTSOzzAm699FG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RUYWs7uuwX0-735RAe2n-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="irL610NNTSOzzAm699FG-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Uston v. Resorts International Hotel, Inc.&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- pro card counter&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- take customers on a first come first serve basis on capacity &amp;nbsp;- not a who is most likely to spend/loose the most money basis&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- charging reasonable rate&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Inns and common carriers, not so dangerous anymore because there are other options&lt;/p&gt;" vertex="1">
           <mxGeometry height="156.25" width="270" x="14280" y="-10" as="geometry" />
         </mxCell>
@@ -732,6 +735,9 @@
         </mxCell>
         <mxCell id="RUYWs7uuwX0-735RAe2n-1" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Traditional common law - inn and common carriers&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Civil rights act -&amp;nbsp;race, color, religion, origin, not common carriers&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="240" x="13780" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUYWs7uuwX0-735RAe2n-3" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Traditional common law vs. Uston newer one - all busineses are public&amp;nbsp;" vertex="1">
+          <mxGeometry height="111.88" width="175" x="14705" y="38.13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
