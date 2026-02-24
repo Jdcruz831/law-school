@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.5.2">
+  <diagram name="Page-1" id="p9jjuLPY1rgUFIbl6gsx">
+    <mxGraphModel dx="1691" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-6" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Specific elements:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(1)&amp;nbsp;&lt;b&gt;Open &amp;amp; notorious&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(2)&amp;nbsp;&lt;b&gt;Continuous&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(3)&amp;nbsp;&lt;b&gt;Exclusive&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(4)&amp;nbsp;&lt;b&gt;Actua&lt;/b&gt;l:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(5)&amp;nbsp;&lt;b&gt;Non-permissiv&lt;/b&gt;e&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(6)&amp;nbsp;&lt;b&gt;Statutory period&lt;/b&gt;:&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="240" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="LEGAL DOCTINE" vertex="1">
+          <mxGeometry height="100" width="150" x="-50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="JUDICIAL JUSTIFICATION" vertex="1">
+          <mxGeometry height="110" width="170" x="-60" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="PERSONAL BIAS" vertex="1">
+          <mxGeometry height="110" width="170" x="-102.5" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-8" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &lt;b&gt;Sleeping&lt;/b&gt; &lt;b&gt;theory&lt;/b&gt;: law punishes those who sleep on their rights - negligent&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &lt;b&gt;Earning theory&lt;/b&gt;: Law favors the owner who is using the land productively, not letting it go to waste. Utilitarian stand point - reward the worker, penalize the slaker&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) &lt;b&gt;Psychological theor&lt;/b&gt;y: A person puts down roots in a land, even if stolen after ten years would be a psychological blow. Loss adverstion.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;AKA: *The pain of loosing something you have is much greater than loosing something you never really use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;*Prioritizes the real human connection to the land&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) &lt;b&gt;Cleaning cobwebs theory&lt;/b&gt;: adverse possession protects from old stale invisible claims, like mistakes in deeds. Assurance that title is clean.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="295" width="380" x="160" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-11" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In their ruling do they site to:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Does a Judge prioritize a&amp;nbsp;Utilitarian stand point (Earning theory)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;or&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Cleaning cobweb theory - keeping old claims and mistakes from changing the present too much&lt;/p&gt;" vertex="1">
+          <mxGeometry height="145" width="390" x="160" y="745" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Main point of analysis&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="112.5" width="165" x="-100" y="777.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In this case... who are the attorneys, same school? interpersonal relations? Any other personal info we can gather&lt;/p&gt;" vertex="1">
+          <mxGeometry height="145" width="390" x="150" y="1010" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
