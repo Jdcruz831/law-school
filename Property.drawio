@@ -1185,6 +1185,9 @@
         <mxCell id="s5utOYPOBx0jBOAVfxAF-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Life Estates&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;- Comes to a natural end with the death of a named person&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="97" width="340" x="8910" y="481.12" as="geometry" />
         </mxCell>
+        <mxCell id="cM22u7yP_w4kU0iDP5lB-6" edge="1" parent="1" source="s5utOYPOBx0jBOAVfxAF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cM22u7yP_w4kU0iDP5lB-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s5utOYPOBx0jBOAVfxAF-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Remainder&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;- Goes to another third party afterwards&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="78.13" width="250" x="8790" y="681.87" as="geometry" />
         </mxCell>
@@ -1238,6 +1241,9 @@
         </mxCell>
         <mxCell id="cM22u7yP_w4kU0iDP5lB-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Fee simple subject to executory interest&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; if it is a condition with not a reversion,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;but a third party interest on failure of condition &lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="260" x="9890" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="cM22u7yP_w4kU0iDP5lB-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Contingent&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;Contingent remainder, if there is still a condition to be completed&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="78.13" width="250" x="8710" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
