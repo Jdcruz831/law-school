@@ -1,11 +1,13 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.5.2">
-  <diagram name="Page-1" id="p9jjuLPY1rgUFIbl6gsx">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.5.2" pages="2">
+  <diagram name="Start" id="p9jjuLPY1rgUFIbl6gsx">
     <mxGraphModel dx="1691" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-6" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-5" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-6" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="369.9999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Specific elements:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(1)&amp;nbsp;&lt;b&gt;Open &amp;amp; notorious&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(2)&amp;nbsp;&lt;b&gt;Continuous&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(3)&amp;nbsp;&lt;b&gt;Exclusive&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(4)&amp;nbsp;&lt;b&gt;Actua&lt;/b&gt;l:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(5)&amp;nbsp;&lt;b&gt;Non-permissiv&lt;/b&gt;e&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;(6)&amp;nbsp;&lt;b&gt;Statutory period&lt;/b&gt;:&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="240" x="230" y="150" as="geometry" />
@@ -19,11 +21,10 @@
         <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="PERSONAL BIAS" vertex="1">
           <mxGeometry height="110" width="170" x="-102.5" y="1020" as="geometry" />
         </mxCell>
-        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-8" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-7" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &lt;b&gt;Sleeping&lt;/b&gt; &lt;b&gt;theory&lt;/b&gt;: law punishes those who sleep on their rights - negligent&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &lt;b&gt;Earning theory&lt;/b&gt;: Law favors the owner who is using the land productively, not letting it go to waste. Utilitarian stand point - reward the worker, penalize the slaker&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) &lt;b&gt;Psychological theor&lt;/b&gt;y: A person puts down roots in a land, even if stolen after ten years would be a psychological blow. Loss adverstion.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;AKA: *The pain of loosing something you have is much greater than loosing something you never really use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;*Prioritizes the real human connection to the land&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) &lt;b&gt;Cleaning cobwebs theory&lt;/b&gt;: adverse possession protects from old stale invisible claims, like mistakes in deeds. Assurance that title is clean.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="295" width="380" x="160" y="370" as="geometry" />
+        <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-8" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350.05882352941194" y="665" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-11" edge="1" parent="1" source="Ww_3Ysm3qYvl4xZfR5K2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ww_3Ysm3qYvl4xZfR5K2-10" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -36,6 +37,186 @@
         </mxCell>
         <mxCell id="Ww_3Ysm3qYvl4xZfR5K2-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In this case... who are the attorneys, same school? interpersonal relations? Any other personal info we can gather&lt;/p&gt;" vertex="1">
           <mxGeometry height="145" width="390" x="150" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="vO51LSBisrAsBUFd8CkB-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Adverser possession of property&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &lt;b&gt;Sleeping&lt;/b&gt; &lt;b&gt;theory&lt;/b&gt;: law punishes those who sleep on their rights - negligent&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &lt;b&gt;Earning theory&lt;/b&gt;: Law favors the owner who is using the land productively, not letting it go to waste. Utilitarian stand point - reward the worker, penalize the slaker&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) &lt;b&gt;Psychological theor&lt;/b&gt;y: A person puts down roots in a land, even if stolen after ten years would be a psychological blow. Loss adverstion.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;AKA: *The pain of loosing something you have is much greater than loosing something you never really use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span class=&quot;Apple-tab-span&quot; style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;*Prioritizes the real human connection to the land&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) &lt;b&gt;Cleaning cobwebs theory&lt;/b&gt;: adverse possession protects from old stale invisible claims, like mistakes in deeds. Assurance that title is clean.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="295" width="380" x="155" y="360" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UBSTMtSFieqXf-VdVHSB" name="Page-2">
+    <mxGraphModel dx="4560" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-4" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0umAr0TKOiqeu2dG4BuY-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-9" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0umAr0TKOiqeu2dG4BuY-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Doctrines&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hopefully this can pull or find a large dataset of legal doctrines&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="-400" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-7" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0umAr0TKOiqeu2dG4BuY-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Pre-Pulled Doctrines&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Hopefully we can find a premade database with doctrines without opinions, this seems easy to find. (Harvard CAP/other)&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="290" x="-360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Alternative&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;If we can&#39;t find a dataset with this, use a LLM to scan a database of cases to find these doctrines&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="290" x="-720" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Creating Data sets&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;(1) Doctrines and Justifications&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;(2) Judge profiles&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="280" x="530" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-14" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0umAr0TKOiqeu2dG4BuY-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-2" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;If fact vs. Legal above doesn&#39;t&amp;nbsp;make sense&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In law judges are only allowed to rule on legal questions and juries are what find facts.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Example using Adverse Possession:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;To claim AP (Adverse Possession) the first element is&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Open &amp;amp; notorious. &lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;b&gt;A jury&lt;/b&gt; would determine if the individual trying to claim AP&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;painted a house. Attorneys&lt;/span&gt;&amp;nbsp;would provide evidence (e.g. he had paint bucks, receipts) &amp;nbsp;and a jury would say, yes we think it&#39;s fair to assume that the individual painted the house.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;b&gt;A judge&lt;/b&gt; would determine if painting a house rises to the legal&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;standard of Open &amp;amp; notorious. (i.e. is painting a house enough to satisfy&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; Open &amp;amp; notorious at a legal limit) &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="270" width="410" x="-560" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Trial vs. Appellate&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;At Trial court &lt;/b&gt;you have both judges and juries. Your classic a jury rules on facts and a judge determines if that rises to the level of legal standards.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;if a party does not like the ruling of a trial court they can appeal to the appellate court.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;At Appellate &lt;/b&gt;court there are NO juries. AKA new facts can not be found so the only thing that is being analyzed is the legal standard. (e.g. is painting a house enough to be open and notorious)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Because there is no fact finding the rulings tend to have a lot more in depth&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; anywise&lt;/span&gt;&amp;nbsp;of legal rules (doctrines) and why they ruled that way (justifications).&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Therefore when creating the justification database, maybe only train on appellate opinions.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="270" width="410" x="-1000" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-7" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-8" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-10" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Judge profiles&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;This part will be hardest dataset wise, finding updated datasets with current judges opinions.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="250" x="1140" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-14" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Published (Precedent Cases)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The data sets we will find to make the justifications will only be around cases that set precedent. We will analyze this for our current judge profiles as well, but ... --&amp;gt; &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="250" x="960" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-12" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-15" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Unpublished (slop cases)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;For our judge profiles algorithm we will also need to look at cases judges have ruled on that did not set precedent. &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="250" x="1290" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Different&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;database&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;This might be slightly harder to find. The database our school teaches us with (Westlaw) is just published cases that set and create law, we don&#39;t typically need to see cases judges have ruled on that don&#39;t create new law.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;But for our purpose we will need to look at these cases judges ruled on even without setting creating new precedent.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;These cases are still technically published, but are going to be much harder to find databases for I think&lt;/p&gt;" vertex="1">
+          <mxGeometry height="235" width="270" x="1620" y="505" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-17" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Judicial Justifications and weight&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;From here we create the profiles of how heavy a judge weights the justifications and which they favor.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="250" x="1110" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-22" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Personal Bias&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Add a small layer of personal bias factors&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="1110" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-65" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-76" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Complete Judge profile" vertex="1">
+          <mxGeometry height="60" width="120" x="1170" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-35" parent="1" style="swimlane;startSize=0;perimeterSpacing=7;strokeWidth=7;" value="" vertex="1">
+          <mxGeometry height="1190" width="1600" x="-1030" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-8" parent="ru2SbD9OfGrxL-9kSTQk-35" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Judicial Justifications&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;My uneducated guess is that this database would either not exist or is proprietary so we use a LLM to overlay the doctrines and try to pull a list of justifications that a categorized under each doctrine.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Example: Adverse possession&lt;/span&gt; &lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="250" x="1250" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="0umAr0TKOiqeu2dG4BuY-11" parent="ru2SbD9OfGrxL-9kSTQk-35" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Side note for training&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;One of my friends recommended we only train on appellate level cases, because they are only legal question focus rather than fact focus.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="250" x="810" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-27" edge="1" parent="ru2SbD9OfGrxL-9kSTQk-35" source="0umAr0TKOiqeu2dG4BuY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="0umAr0TKOiqeu2dG4BuY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-4" parent="ru2SbD9OfGrxL-9kSTQk-35" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Side note for Timeline&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;We also need to watch out for timeline issues, because we don&#39;t want to use justifications that have been overruled.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;AKA we don&#39;t need the justification for slavery and all those shitty justifications working their way in.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="250" x="950" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-28" edge="1" parent="ru2SbD9OfGrxL-9kSTQk-35" source="0umAr0TKOiqeu2dG4BuY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-46" parent="ru2SbD9OfGrxL-9kSTQk-35" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;(1) Doctrines and Justifications&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="90" width="350" x="100" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-58" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-77" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Judicial justification list" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-29" edge="1" parent="1" source="0umAr0TKOiqeu2dG4BuY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startSize=13;" target="ru2SbD9OfGrxL-9kSTQk-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-36" parent="1" style="swimlane;startSize=0;perimeterSpacing=7;strokeWidth=7;" value="" vertex="1">
+          <mxGeometry height="860" width="1120" x="890" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-43" parent="ru2SbD9OfGrxL-9kSTQk-36" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;(2) Judge profiles&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-47" parent="1" style="swimlane;startSize=0;perimeterSpacing=7;strokeWidth=7;" value="" vertex="1">
+          <mxGeometry height="520" width="1170" x="10" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-64" edge="1" parent="ru2SbD9OfGrxL-9kSTQk-47" source="ru2SbD9OfGrxL-9kSTQk-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-63" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-33" parent="ru2SbD9OfGrxL-9kSTQk-47" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Identifying which Justifications could apply&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;For a given case we need to be able to identify which doctrines and thus which justifications apply.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I think we use an outside LLM to do this, just to help narrow down.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="220" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-61" edge="1" parent="ru2SbD9OfGrxL-9kSTQk-47" source="ru2SbD9OfGrxL-9kSTQk-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-63" parent="ru2SbD9OfGrxL-9kSTQk-47" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Once there is a list of justifications&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Then when we know which Justifications could apply to this specific case, we use our judge profiles to decide which we think this judge will rule on.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="570" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-62" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="This Case&#39;s Facts" vertex="1">
+          <mxGeometry height="60" width="120" x="-270" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-57" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ru2SbD9OfGrxL-9kSTQk-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-70" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Output Prediction&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Finished Prediction&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Including cites, to where our current judge used specific justifications before.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="560" y="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-71" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ru2SbD9OfGrxL-9kSTQk-70" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-78" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Mini comparison&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;We can also analyze which justification are similar and if a judge has no specific use of one justification then we can equate similar justifications to each other. Broader generalizations (more utilitarian vs capitalist ect. ) &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="650" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="ru2SbD9OfGrxL-9kSTQk-79" edge="1" parent="1" source="ru2SbD9OfGrxL-9kSTQk-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ru2SbD9OfGrxL-9kSTQk-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
