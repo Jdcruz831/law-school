@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="5042" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7110" dy="2756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -699,10 +699,13 @@
           <mxGeometry height="100" width="190" x="-2210" y="-800" as="geometry" />
         </mxCell>
         <mxCell id="5zbULQb_d5mGJGBRbyde-8" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Did Seller breach the warranty?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="-1790" y="-650" as="geometry" />
+          <mxGeometry height="100" width="190" x="-1560" y="-890" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-13" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5zbULQb_d5mGJGBRbyde-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5Ufjch-j6uxTef8QzOUF-12" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zbULQb_d5mGJGBRbyde-12" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;What remedies are available to Buyer?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="-1560" y="-850" as="geometry" />
+          <mxGeometry height="100" width="190" x="-1770" y="-660" as="geometry" />
         </mxCell>
         <mxCell id="5zbULQb_d5mGJGBRbyde-29" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5zbULQb_d5mGJGBRbyde-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" target="5zbULQb_d5mGJGBRbyde-28" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -819,6 +822,9 @@
         <mxCell id="5Ufjch-j6uxTef8QzOUF-9" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5Ufjch-j6uxTef8QzOUF-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5Ufjch-j6uxTef8QzOUF-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-11" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5Ufjch-j6uxTef8QzOUF-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5Ufjch-j6uxTef8QzOUF-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5Ufjch-j6uxTef8QzOUF-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Disclaimer&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;2-316(2)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Must mention merchantability&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) If in writing, must be conspicuous 1-201(b)&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="200" x="-1840" y="-25" as="geometry" />
         </mxCell>
@@ -830,6 +836,30 @@
         </mxCell>
         <mxCell id="5Ufjch-j6uxTef8QzOUF-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Exceptions&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;2-316(2)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp;“As is,” “with all faults”&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Buyer examines or refuses to examine the goods&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Exclusion or modification by trade usage, course of dealing, or course of&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;performance&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="240" x="-1960" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-10" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Conspicuous&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Jury question not for a judge&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="200" x="-1670" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-17" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5Ufjch-j6uxTef8QzOUF-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5Ufjch-j6uxTef8QzOUF-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-12" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Limited Remedies&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;2-316(4), 2-719&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- A contract can provide for remedies in addition to or in substitution for those that Article 2 provides&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="105" width="360" x="-1460" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-14" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Typically:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;• Return non-conforming goods for a refund; or&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;• Repair and/or replace non-conforming goods&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="105" width="250" x="-990" y="-485" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-18" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5Ufjch-j6uxTef8QzOUF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="5Ufjch-j6uxTef8QzOUF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-20" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5Ufjch-j6uxTef8QzOUF-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5Ufjch-j6uxTef8QzOUF-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-16" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Disclaim by saying &#39;&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;exclusive&#39;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;it is the sole remedy if exclusive&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="65" width="220" x="-1320" y="-500" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ufjch-j6uxTef8QzOUF-19" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;If&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;exclusive or limited remedy fails&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Buyer has access to Article 2 remedies 2-719(2) if exclusive or limited remedy fails of its essential purpose&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="260" x="-1270" y="-350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
