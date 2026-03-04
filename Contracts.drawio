@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="7825" dy="4270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4822" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -697,6 +697,9 @@
         </mxCell>
         <mxCell id="5zbULQb_d5mGJGBRbyde-6" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Did Seller make a warranty to this Buyer&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="190" x="-2780" y="-1040" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-17" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5zbULQb_d5mGJGBRbyde-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rK8mdNyEA7e4A7AkkcU4-16" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zbULQb_d5mGJGBRbyde-8" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Did Seller breach the warranty?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="-820" y="-1280" as="geometry" />
@@ -872,6 +875,45 @@
         </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Consequential Damages&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;A contract can limit or exclude:&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;commercial losses&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;But NOT:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;personal injury from consumer goods&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Because&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Unconscionable&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="230" x="-2020" y="-960" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-19" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rK8mdNyEA7e4A7AkkcU4-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-25" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" target="rK8mdNyEA7e4A7AkkcU4-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-16" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Notification&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Article 2 requires that Buyer notify Seller of breach in certain situations&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="-860" y="-1100" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-21" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rK8mdNyEA7e4A7AkkcU4-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-18" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Applies when buyer&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;accepted goods!!&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- one example of certain situation is when a buyer accepts goods&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="-940" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-23" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d80073;strokeColor=#A50040;" target="rK8mdNyEA7e4A7AkkcU4-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-20" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Reasonable time&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;When he discovers or should have discovered any breach&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="-990" y="-740" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-22" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Merchant vs. Consumr&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Courts expect merchant buyers to act faster than consumer buyers&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="-706" y="-730" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-24" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Notice&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Can be minimal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Buyer need not list every defect in the goods or assert a&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;claim for damages.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="115" width="200" x="-580" y="-1072.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-27" parent="HMSoyMslVgJfamAm2t2m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="for La Mancha’s warranty (IWM) which alternative applies, A or B &amp;nbsp;(Notice, Burden of Proof, and…) (privity)&amp;nbsp;" vertex="1">
+          <mxGeometry height="100" width="390" x="-1370" y="-1960" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-30" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;u&gt;&lt;b&gt;Has the contract been preformed?&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- Warranties&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="190" x="10" y="-1730" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-32" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5zbULQb_d5mGJGBRbyde-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=13;endSize=17;fillColor=#60a917;strokeColor=#2D7600;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rK8mdNyEA7e4A7AkkcU4-30" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1230" y="-1620" as="sourcePoint" />
+            <mxPoint x="-1110" y="-1620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
