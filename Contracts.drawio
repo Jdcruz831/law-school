@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="5091" dy="2687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5438" dy="3235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -918,8 +918,50 @@
             <mxPoint x="-1110" y="-1620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rK8mdNyEA7e4A7AkkcU4-34" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Conditions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="-70" y="-1500" as="geometry" />
+        <mxCell id="b3YkD8OI5PRhBEaHH078-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" target="b3YkD8OI5PRhBEaHH078-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-6" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rK8mdNyEA7e4A7AkkcU4-34" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Conditions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Is an event, not certain to occur, which must occur, unless its nonoccurrence is excused, before performance under a contract becomes due.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- When an unexcused condition can no longer occur, performance of the duty is&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;discharged altogether.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Nonoccurrence of a condition is not a breach by a party, unless he also has a duty to satisfy the condition.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="310" x="-70" y="-1500" as="geometry" />
+        </mxCell>
+        <mxCell id="b3YkD8OI5PRhBEaHH078-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Conditions are&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;strict&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Luttinger v. Rosen&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Express conditions can be satisfied only by strict compliance&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="250" x="320" y="-1480" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-3" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" target="pbd7cU_TBwBD68bYpr3c-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Satisfaction Conditions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Mattei v. Hopper&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Objective&lt;/b&gt; Value: must be &lt;b&gt;Reasonable&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;/b&gt;(commercial value or quality, operative fitness, or mechanical utility)&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Subjective&lt;/b&gt; Value: must be in&lt;b&gt; good faith&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&amp;nbsp;(matters of fancy, taste, or judgment)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="390" x="10" y="-1202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Third party certificates&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Good alternative but still based on good faith&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="270" x="505" y="-1240" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-8" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-12" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-5" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Waiver, estoppel, and election&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Waiver&lt;/b&gt; = intentional relinquishment of a known right&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Estoppel&lt;/b&gt; = waiver + justifiable reliance = inability to retract waiver&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Election&lt;/b&gt; = choice between two inconsistent courses of action (waive or not)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="310" x="-190" y="-940" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-10" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Waiver&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Waiver&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ex: a person knows the other party in a contract has a requirement, but they waive the requirement. &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="300" x="-410" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-9" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Estoppel&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Estoppel&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ex: If a person waives a requirement but then goes back on the waiver then:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Person waiving, must give other party more time to satisfy requirement, at a minimum&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;However, if other party can not complete requirement due to the waiver, then they are discharged of that duty.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="300" x="-380" y="-480" as="geometry" />
+        </mxCell>
+        <mxCell id="pbd7cU_TBwBD68bYpr3c-11" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Election&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;there is no prior waiver, but the individual may choose to enforce requirement or not&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Majority rule: If he chooses to not enforce then he can not go back and then choose to reinstate at a later time.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="135" width="310" x="-30" y="-695" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
