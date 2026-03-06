@@ -171,6 +171,9 @@
         <mxCell id="XHpsOOv51bOIUXoFEA4M-24" edge="1" parent="1" source="XHpsOOv51bOIUXoFEA4M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XHpsOOv51bOIUXoFEA4M-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XHpsOOv51bOIUXoFEA4M-28" edge="1" parent="1" source="XHpsOOv51bOIUXoFEA4M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XHpsOOv51bOIUXoFEA4M-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XHpsOOv51bOIUXoFEA4M-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;By going to church preaching and interacting discovers weird habit when talking about queen&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- First she confronts the king, and he is impressed, but wipes her mind of the discovery.&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="280" x="1040" y="210" as="geometry" />
         </mxCell>
@@ -182,6 +185,9 @@
         </mxCell>
         <mxCell id="XHpsOOv51bOIUXoFEA4M-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;however if she found it once, she will find it again, once again reliving herself of the initial mind rule of &#39;ignorance this incocistancy&#39; then discovers again&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Goes to confront him, but he is frustrated this time, so he just freezes her. ( She goes missing)&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="290" x="1740" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XHpsOOv51bOIUXoFEA4M-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;What gives it away&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Debate&#39;s (deliberation) seem off to her, too peaceful, even with new info&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Queen rephrase&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- No one questions government&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Question&#39;s Atticus&#39;s multiple abilities&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &quot;how balance was brought&quot; from prophesy&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="180" width="290" x="1040" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
