@@ -122,7 +122,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Chapters" id="5CG2jZadJle0_PEu3VNJ">
-    <mxGraphModel dx="1021" dy="1760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1192" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="X8luHBD_VUTs9TTthu-Q-0" />
         <mxCell id="X8luHBD_VUTs9TTthu-Q-1" parent="X8luHBD_VUTs9TTthu-Q-0" />
@@ -160,7 +160,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fqwA6Mbhtv_AC5lSQnEI-3" parent="X8luHBD_VUTs9TTthu-Q-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 1&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Margo&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Introductions&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Then food and mingling (Naveen there)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Watch boys fight ( Naveen not there) (Boys seem off)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- To protect herself from water splashes, she covers herself in shield. (second coming) (not fight description)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- After mingling sesh pulls Maze aside and tells her the theory, and that she knows she is the princess&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Murdered&lt;/p&gt;" vertex="1">
-          <mxGeometry height="250" width="280" x="2980" y="90" as="geometry" />
+          <mxGeometry height="280" width="280" x="2980" y="90" as="geometry" />
         </mxCell>
         <mxCell id="fqwA6Mbhtv_AC5lSQnEI-4" edge="1" parent="X8luHBD_VUTs9TTthu-Q-1" source="fqwA6Mbhtv_AC5lSQnEI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fqwA6Mbhtv_AC5lSQnEI-7" value="">
           <mxGeometry relative="1" as="geometry" />
