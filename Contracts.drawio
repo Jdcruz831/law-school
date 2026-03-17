@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.6.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.6.3" pages="2">
   <diagram name="Contracts 1" id="2T-GXTbw6CjH771KsZAz">
     <mxGraphModel dx="6975" dy="4360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="4861" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5091" dy="2687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -901,7 +901,7 @@
           <mxGeometry height="80" width="190" x="-706" y="-730" as="geometry" />
         </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-24" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Notice&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Can be minimal&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Buyer need not list every defect in the goods or assert a&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;claim for damages.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="115" width="200" x="-580" y="-1072.5" as="geometry" />
+          <mxGeometry height="115" width="200" x="-640" y="-915" as="geometry" />
         </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-27" parent="HMSoyMslVgJfamAm2t2m-1" style="rounded=0;whiteSpace=wrap;html=1;" value="for La Mancha’s warranty (IWM) which alternative applies, A or B &amp;nbsp;(Notice, Burden of Proof, and…) (privity)&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Problem 1 (Express Conditions )&lt;/div&gt;&lt;div&gt;What happens after if a condition is met but then late an individual looses that ability&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="390" x="-1370" y="-1960" as="geometry" />
@@ -913,7 +913,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-30" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;u&gt;&lt;b&gt;Has the contract been preformed?&amp;nbsp;&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="560" y="-1910" as="geometry" />
+          <mxGeometry height="100" width="190" x="1100" y="-2010" as="geometry" />
         </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-32" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="5zbULQb_d5mGJGBRbyde-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=13;endSize=17;fillColor=#60a917;strokeColor=#2D7600;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rK8mdNyEA7e4A7AkkcU4-30" value="">
           <mxGeometry relative="1" as="geometry">
@@ -930,20 +930,23 @@
         <mxCell id="pbd7cU_TBwBD68bYpr3c-6" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="rK8mdNyEA7e4A7AkkcU4-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="am4IATZHOQJ9RUZXrD0G-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rK8mdNyEA7e4A7AkkcU4-34" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Conditions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Is an event, not certain to occur, which must occur, unless its nonoccurrence is excused, before performance under a contract becomes due.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- When an unexcused condition can no longer occur, performance of the duty is&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;discharged altogether.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Nonoccurrence of a condition is not a breach by a party, unless he also has a duty to satisfy the condition.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="200" width="310" x="-70" y="-1500" as="geometry" />
+          <mxGeometry height="200" width="310" x="470" y="-1600" as="geometry" />
         </mxCell>
         <mxCell id="b3YkD8OI5PRhBEaHH078-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Conditions are&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;strict&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Luttinger v. Rosen&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Express conditions can be satisfied only by strict compliance&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="250" x="320" y="-1480" as="geometry" />
+          <mxGeometry height="110" width="250" x="860" y="-1580" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-3" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;" target="pbd7cU_TBwBD68bYpr3c-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Satisfaction Conditions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Mattei v. Hopper&lt;br&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Objective&lt;/b&gt; Value: must be &lt;b&gt;Reasonable&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;/b&gt;(commercial value or quality, operative fitness, or mechanical utility)&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Subjective&lt;/b&gt; Value: must be in&lt;b&gt; good faith&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;&amp;nbsp;(matters of fancy, taste, or judgment)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="390" x="10" y="-1202.5" as="geometry" />
+          <mxGeometry height="130" width="390" x="620" y="-1303.75" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Third party certificates&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Good alternative but still based on good faith&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="270" x="170" y="-980" as="geometry" />
+          <mxGeometry height="70" width="270" x="710" y="-1080" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-8" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-7" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -952,19 +955,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-5" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Waiver, estoppel, and election&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Waiver&lt;/b&gt; = intentional relinquishment of a known right&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Estoppel&lt;/b&gt; = waiver + justifiable reliance = inability to retract waiver&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Election&lt;/b&gt; = choice between two inconsistent courses of action (waive or not)&lt;/p&gt;" vertex="1">
-          <mxGeometry height="200" width="310" x="-190" y="-940" as="geometry" />
+          <mxGeometry height="200" width="310" x="350" y="-1040" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-10" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="pbd7cU_TBwBD68bYpr3c-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pbd7cU_TBwBD68bYpr3c-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Waiver&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Waiver&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ex: a person knows the other party in a contract has a requirement, but they waive the requirement. &amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="300" x="-410" y="-670" as="geometry" />
+          <mxGeometry height="110" width="300" x="130" y="-770" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-9" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Estoppel&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;b&gt;Estoppel&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;ex: If a person waives a requirement but then goes back on the waiver then:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Person waiving, must give other party more time to satisfy requirement, at a minimum&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;However, if other party can not complete requirement due to the waiver, then they are discharged of that duty.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="200" width="300" x="-380" y="-480" as="geometry" />
+          <mxGeometry height="200" width="300" x="160" y="-580" as="geometry" />
         </mxCell>
         <mxCell id="pbd7cU_TBwBD68bYpr3c-11" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Election&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;there is no prior waiver, but the individual may choose to enforce requirement or not&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Majority rule: If he chooses to not enforce then he can not go back and then choose to reinstate at a later time.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="135" width="310" x="-30" y="-695" as="geometry" />
+          <mxGeometry height="135" width="310" x="510" y="-795" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-3" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="BmSybklRlt3U18dhTpSe-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BmSybklRlt3U18dhTpSe-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -976,10 +979,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Material Breach&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;RS(2d) 241&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- Has there been a material breach?&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="930" y="-1740" as="geometry" />
+          <mxGeometry height="100" width="190" x="1470" y="-1840" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NO&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- The injured party must continue his performance. He can recover&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;damages for the partial breach&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="1070" y="-1520" as="geometry" />
+          <mxGeometry height="100" width="190" x="1610" y="-1620" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-7" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="BmSybklRlt3U18dhTpSe-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BmSybklRlt3U18dhTpSe-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -988,28 +991,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-4" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;YES&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- &amp;nbsp;The injured party may suspend his own performance&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="190" x="810" y="-1520" as="geometry" />
+          <mxGeometry height="100" width="190" x="1350" y="-1620" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-12" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="BmSybklRlt3U18dhTpSe-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BmSybklRlt3U18dhTpSe-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-6" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Option #1&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- &amp;nbsp;Terminate the contract, and sue the other party for total breach and collect damages based on all remaining rights&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;to performance under the contract.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="120" width="230" x="630" y="-1323.75" as="geometry" />
+          <mxGeometry height="120" width="230" x="1170" y="-1423.75" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-9" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Option #3&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- &amp;nbsp;Elect to continue his own performance, Sue the other party for partial breach and collect damages based on part of the&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;remaining rights to performance under the contract.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="132.5" width="235" x="940" y="-1330" as="geometry" />
+          <mxGeometry height="132.5" width="235" x="1480" y="-1430" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-11" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Must be able to prove:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;-The injured party must show that he could have performed had there been no material breach&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="230" x="550" y="-1140" as="geometry" />
+          <mxGeometry height="90" width="230" x="1090" y="-1240" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-16" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="BmSybklRlt3U18dhTpSe-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BmSybklRlt3U18dhTpSe-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-13" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Determine if Material Breach&lt;/u&gt;:&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;i&gt;Influencing factors:&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) deprived of the benefit&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) can be adequately compensated&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)&amp;nbsp;forfeiture&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Likelihood that the breaching party will cure&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) good faith and fair dealing&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="130" width="290" x="1350" y="-1680" as="geometry" />
+          <mxGeometry height="130" width="290" x="1890" y="-1780" as="geometry" />
         </mxCell>
         <mxCell id="BmSybklRlt3U18dhTpSe-15" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;u style=&quot;font-weight: bold;&quot;&gt;Deprived of&amp;nbsp;&lt;/u&gt;&lt;b&gt;&lt;u&gt;benefit&lt;/u&gt;&lt;/b&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Walker v. Harrison&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Cobweb on sign case, needs to be a significant deprive of benefit, in this case a cobweb he could have cleaned&amp;nbsp;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="140" width="300" x="1730" y="-1570" as="geometry" />
+          <mxGeometry height="140" width="300" x="2250" y="-1620" as="geometry" />
+        </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-3" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="am4IATZHOQJ9RUZXrD0G-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="am4IATZHOQJ9RUZXrD0G-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-5" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="am4IATZHOQJ9RUZXrD0G-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="am4IATZHOQJ9RUZXrD0G-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Constructive Conditions&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Condition Precedent vs. Concurrent&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Contract entire or severable&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="-170" y="-1280" as="geometry" />
+        </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Condition Precedent vs. Concurrent&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Dependent&amp;nbsp;conditions:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: medium; padding: 0px;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Precedent&lt;/b&gt;: One promise must be fulfilled before the other.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Concurrent&lt;/b&gt;: Both promises must be completed simutaniusly. &amp;nbsp;&lt;/p&gt;&lt;/blockquote&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Mutual and independent&lt;/b&gt;: two separate floating promises, you may sue for breach on each promise, but both should be enforced.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="210" width="280" x="-410" y="-1100" as="geometry" />
+        </mxCell>
+        <mxCell id="am4IATZHOQJ9RUZXrD0G-4" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Contract entire or severable&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="260" x="-60" y="-1070" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
