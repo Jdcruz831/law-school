@@ -1206,13 +1206,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;TERMS OF THE CONTRACT?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Parol Evidence Rule&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Ambiguous&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Implied terms&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="235" x="-280" y="1700" as="geometry" />
+          <mxGeometry height="160" width="235" x="40" y="1770" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-11" edge="1" parent="1" source="k8yk5VG26sx3SRz_bLwE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=light-dark(transparent,#006600);" target="k8yk5VG26sx3SRz_bLwE-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;CONTRACT BEEN PERFORMED?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Condition&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Waiver, estoppel or election&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Material breach&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Repudiated&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;impracticability&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Frustration of purpose&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="235" x="-110" y="2030" as="geometry" />
+          <mxGeometry height="160" width="235" x="-10" y="2110" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-13" edge="1" parent="1" source="k8yk5VG26sx3SRz_bLwE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=light-dark(transparent,#006600);" target="k8yk5VG26sx3SRz_bLwE-12" value="">
           <mxGeometry relative="1" as="geometry" />
