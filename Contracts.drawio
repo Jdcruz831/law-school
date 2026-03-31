@@ -1251,7 +1251,7 @@
           <mxGeometry height="160" width="235" x="30" y="3645" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;ARE THERE ANY THIRD PARTY ISSUES?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Third-party beneficiaries&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- delegate any duties&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="235" x="65" y="3925" as="geometry" />
+          <mxGeometry height="130" width="235" x="30" y="4280" as="geometry" />
         </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-15" edge="1" parent="1" source="0xuYbXTqhScn9Vh1p7XQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=light-dark(transparent,#006600);exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k8yk5VG26sx3SRz_bLwE-4" value="">
           <mxGeometry relative="1" as="geometry">
