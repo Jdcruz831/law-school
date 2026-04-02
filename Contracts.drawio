@@ -1259,6 +1259,9 @@
         <mxCell id="53_tGL0MU_77y7jajWxo-11" edge="1" parent="1" source="k8yk5VG26sx3SRz_bLwE-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="53_tGL0MU_77y7jajWxo-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="53_tGL0MU_77y7jajWxo-14" edge="1" parent="1" source="k8yk5VG26sx3SRz_bLwE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="53_tGL0MU_77y7jajWxo-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k8yk5VG26sx3SRz_bLwE-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;REMEDIES!!&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Expectation&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Restitution or reliance&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- extra&amp;nbsp;doctrines&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Liquidated damages clause&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- recover in restitution&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="235" x="-20" y="3750" as="geometry" />
         </mxCell>
@@ -1467,7 +1470,10 @@
           <mxGeometry height="190" width="355" x="-550" y="2860" as="geometry" />
         </mxCell>
         <mxCell id="53_tGL0MU_77y7jajWxo-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Expectation&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;FORMULA&lt;/i&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Loss in value + Other loss - Cost avoided - Loss avoided = Expectation&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;For construction:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- damages include diminution in the market price of the property&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;or &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;Reasonable cost of repair or completion, if that cost is not clearly&lt;br/&gt;disproportionate to the probable loss in value to him&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="395" x="-510" y="3700" as="geometry" />
+          <mxGeometry height="150" width="395" x="-510" y="3570" as="geometry" />
+        </mxCell>
+        <mxCell id="53_tGL0MU_77y7jajWxo-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Restitution&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- All benefits received must be returned, alternative for expectation&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;こちとい&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="365" x="295" y="3750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
