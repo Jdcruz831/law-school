@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="5214" dy="3891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5214" dy="3919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -1188,14 +1188,62 @@
         <mxCell id="eny379BJW-85_DMhlnvJ-5" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Cover, UCC § 2-712&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;After a seller’s breach, the buyer may cover by making a (1)&lt;b&gt; good-faith, reasonable purchase of substitute goods (2) without unreasonable delay&lt;/b&gt;. (3) Cover damages equal the cover price minus the contract price, plus incidental or consequential damages, minus expenses saved.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="110" width="380" x="7770" y="-2442.5" as="geometry" />
         </mxCell>
-        <mxCell id="eny379BJW-85_DMhlnvJ-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Market Damages, UCC § 2-713&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;If the buyer does not cover, the buyer may recover market damages measured by the market price at the time the buyer learned of the breach minus the contract price, plus incidental and consequential damages, minus expenses saved.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="eny379BJW-85_DMhlnvJ-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Market Damages, UCC § 2-713&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;If the buyer does not cover, the buyer may recover market damages measured by the market price at the time the (1) buyer &lt;b&gt;learned of the breach&lt;/b&gt; minus the contract price, plus incidental and consequential damages, minus expenses saved.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="380" x="7960" y="-2240" as="geometry" />
         </mxCell>
         <mxCell id="eny379BJW-85_DMhlnvJ-9" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Specific Recovery, UCC § 2-716&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;A buyer may obtain specific performance or replevin when the goods are unique or in other proper circumstances, including where cover is unavailable or inadequate.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="95" width="400" x="8640" y="-2442.5" as="geometry" />
         </mxCell>
-        <mxCell id="A6MOBAQHXEQSD9cnUajY-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;UCC § 2-715: Buyer’s Incidental and Consequential Damages&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp; Under UCC § 2-715, a buyer may recover incidental damages and consequential damages caused by the seller’s breach. Incidental damages cover (1) &lt;b&gt;reasonable expenses&lt;/b&gt; connected to dealing with the breach, while (2) &lt;b&gt;consequential damages&lt;/b&gt; cover foreseeable losses the seller had (3) reason to know about and that the (4) buyer could not reasonably prevent.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="A6MOBAQHXEQSD9cnUajY-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;UCC § 2-715: Buyer’s Incidental and Consequential Damages&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp; Under UCC § 2-715, a buyer may recover incidental damages and consequential damages caused by the seller’s breach. Incidental damages cover (1) &lt;b&gt;reasonable expenses&lt;/b&gt; connected to dealing with the breach, while (2) &lt;b&gt;consequential damages&lt;/b&gt; cover foreseeable losses the seller had (3) &lt;b&gt;reason to know about &lt;/b&gt;and that the (4) &lt;b&gt;buyer could not reasonably prevent.&lt;/b&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="410" x="8360" y="-2267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-2" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="IjaGl-K92cHHSABcBz_x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IjaGl-K92cHHSABcBz_x-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9905" y="-2760" />
+              <mxPoint x="9720" y="-2760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-4" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="IjaGl-K92cHHSABcBz_x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IjaGl-K92cHHSABcBz_x-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bovoKspK0JROnNjPOQ1I-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="IjaGl-K92cHHSABcBz_x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bovoKspK0JROnNjPOQ1I-0" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9905" y="-2690" />
+              <mxPoint x="10110" y="-2690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bovoKspK0JROnNjPOQ1I-3" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="IjaGl-K92cHHSABcBz_x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bovoKspK0JROnNjPOQ1I-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9905" y="-2660" />
+              <mxPoint x="10500" y="-2660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="9800" y="-2870" as="geometry" />
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-1" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Resale Damages, UCC § 2-706&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;After the buyer’s breach, the seller may (1) r&lt;b&gt;esell the goods in good faith &lt;/b&gt;and in a (2) &lt;b&gt;commercially reasonable manner&lt;/b&gt; and recover :&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Contract Price – Resale Price + Incidental Damages – Expenses Saved&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;For a private resale, the seller must give the buyer reasonable (3) &lt;b&gt;notice of the intent&lt;/b&gt; to resell.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="480" x="9380" y="-2670" as="geometry" />
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-6" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="IjaGl-K92cHHSABcBz_x-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="IjaGl-K92cHHSABcBz_x-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-3" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Market Damages, UCC § 2-708(1)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;If the seller does not resell under § 2-706, or if § 2-706 does not apply, the seller may recover market damages measured by:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Unpaid Contract Price – Market Price + Incidental Damages – Expenses Saved&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="440" x="9685" y="-2470" as="geometry" />
+        </mxCell>
+        <mxCell id="IjaGl-K92cHHSABcBz_x-5" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Lost Volume / Profit Damages, UCC § 2-708(2)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;If § 2-708(1) does not put seller in as good as a position as performance would have they may still seek lost profits as a lost volume seller, meaning both the sale and resale would have happened anyway and thus the resale is not a valid cover.&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="440" x="9670" y="-2260" as="geometry" />
+        </mxCell>
+        <mxCell id="bovoKspK0JROnNjPOQ1I-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Action for the Price, UCC § 2-709&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;A seller may recover the contract price when the buyer (1) &lt;b&gt;accepted the goods&lt;/b&gt;, when conforming (2) &lt;b&gt;goods are lost or damaged after risk of loss passed to the buyer&lt;/b&gt;, or (3) when &lt;b&gt;goods identified to the contract cannot reasonably be resold.&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="340" x="10000" y="-2630" as="geometry" />
+        </mxCell>
+        <mxCell id="bovoKspK0JROnNjPOQ1I-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Incidental Damages, UCC § 2-710&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;A seller may recover incidental damages for (1) &lt;b&gt;commercially reasonable charges &lt;/b&gt;after the buyer’s breach. However,&amp;nbsp;consequential damages are generally unavailable unless another law, such as supplemental common law under § 1-103, applies.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="300" x="10380" y="-2572.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
