@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="4893" dy="3712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5214" dy="3891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -1143,6 +1143,60 @@
         <mxCell id="g_wZPqREscicbtYoxzUl-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Remedies&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;If buyer rejects, repudiates, or otherwise does not fulfill a contract then a seller is entitled to remedies under 2-706 &amp;amp; 2-708:&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;i&gt;For price if buyer accepts goods&lt;/i&gt;: &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="447.5" width="730" x="3180" y="-1540" as="geometry" />
         </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-2" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-4" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="8010" y="-2900" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-1" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies: Accepted Goods, UCC § 2-714&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;When the buyer accepts (1) &lt;b&gt;nonconforming goods&lt;/b&gt; and gives (2) &lt;b&gt;proper notice of breach&lt;/b&gt;, the buyer may recover damages under UCC § 2-714. The ordinary measure is the difference, (3) at the time and place of acceptance, between the value of the goods accepted and the value the goods would have had as warranted, (4) unless special circumstances show proximate damages of a different amount.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="430" x="7650" y="-2710" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-6" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8365" y="-2520" />
+              <mxPoint x="8050" y="-2520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-8" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8365" y="-2410" />
+              <mxPoint x="8180" y="-2410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-10" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8365" y="-2530" />
+              <mxPoint x="8780" y="-2530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6MOBAQHXEQSD9cnUajY-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="A6MOBAQHXEQSD9cnUajY-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-3" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies: No Goods, UCC § 2-711&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;When the seller fails to deliver, repudiates, or the buyer rightfully rejects or revokes acceptance, the buyer may (1) &lt;b&gt;cancel the contract&lt;/b&gt;, recover any price paid, and &lt;b&gt;seek damages through cover under § 2-712&lt;/b&gt; or &lt;b&gt;market damages&lt;/b&gt; under § 2-713. Include damages under 2-715 for Incidental and Consequential Damages. The buyer may also seek s&lt;b&gt;pecific recovery of goods&lt;/b&gt; under § 2-716 when appropriate.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="410" x="8160" y="-2710" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-5" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Cover, UCC § 2-712&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;After a seller’s breach, the buyer may cover by making a (1)&lt;b&gt; good-faith, reasonable purchase of substitute goods (2) without unreasonable delay&lt;/b&gt;. (3) Cover damages equal the cover price minus the contract price, plus incidental or consequential damages, minus expenses saved.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="380" x="7770" y="-2442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-7" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Market Damages, UCC § 2-713&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;If the buyer does not cover, the buyer may recover market damages measured by the market price at the time the buyer learned of the breach minus the contract price, plus incidental and consequential damages, minus expenses saved.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="380" x="7960" y="-2240" as="geometry" />
+        </mxCell>
+        <mxCell id="eny379BJW-85_DMhlnvJ-9" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Specific Recovery, UCC § 2-716&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&amp;nbsp;A buyer may obtain specific performance or replevin when the goods are unique or in other proper circumstances, including where cover is unavailable or inadequate.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="95" width="400" x="8640" y="-2442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="A6MOBAQHXEQSD9cnUajY-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;UCC § 2-715: Buyer’s Incidental and Consequential Damages&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp; Under UCC § 2-715, a buyer may recover incidental damages and consequential damages caused by the seller’s breach. Incidental damages cover (1) &lt;b&gt;reasonable expenses&lt;/b&gt; connected to dealing with the breach, while (2) &lt;b&gt;consequential damages&lt;/b&gt; cover foreseeable losses the seller had (3) reason to know about and that the (4) buyer could not reasonably prevent.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="410" x="8360" y="-2267.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1171,7 +1225,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jAOkCyblDPqlvsZUOqtk" name="Total">
-    <mxGraphModel dx="2494" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2600" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1594,7 +1648,7 @@
         <mxCell id="x7Ms-9ZXLgs0ReG22s_S-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Injunction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Damages inadequate where future loss is difficult, speculative, or expensive to project → injunction / equitable relief may be available.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="235" x="130" y="4045" as="geometry" />
         </mxCell>
-        <mxCell id="9XG24eVRm-uP6cPk9S42-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Deduction of Damages From the Price&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The buyer on notifying the seller of his intention to do so may deduct all or any part of the damages resulting from any breach of the contract from any part of the price still due under the same contract.&lt;br&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="9XG24eVRm-uP6cPk9S42-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Deduction of Damages From the Price&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;UCC § 2-717&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The buyer on notifying the seller of his intention to do so may deduct all or any part of the damages resulting from any breach of the contract from any part of the price still due under the same contract.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="235" x="-295" y="3545" as="geometry" />
         </mxCell>
         <mxCell id="9XG24eVRm-uP6cPk9S42-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;substantial performance&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;common law for completion&amp;nbsp;Plante v. Jacobs&lt;br&gt;&lt;/p&gt;" vertex="1">
