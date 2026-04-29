@@ -655,7 +655,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Contracts 2" id="mlD7kSPdVeIEUcFMA0uJ">
-    <mxGraphModel dx="5214" dy="3919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4925" dy="3714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HMSoyMslVgJfamAm2t2m-0" />
         <mxCell id="HMSoyMslVgJfamAm2t2m-1" parent="HMSoyMslVgJfamAm2t2m-0" />
@@ -1149,8 +1149,16 @@
         <mxCell id="eny379BJW-85_DMhlnvJ-4" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="eny379BJW-85_DMhlnvJ-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J-PGMwNgVpPjvRkXfyLR-1" edge="1" parent="HMSoyMslVgJfamAm2t2m-1" source="eny379BJW-85_DMhlnvJ-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="J-PGMwNgVpPjvRkXfyLR-0" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8115" y="-2910" />
+              <mxPoint x="7465" y="-2910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eny379BJW-85_DMhlnvJ-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="210" x="8010" y="-2900" as="geometry" />
+          <mxGeometry height="60" width="210" x="8010" y="-3050" as="geometry" />
         </mxCell>
         <mxCell id="eny379BJW-85_DMhlnvJ-1" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Buyer’s Remedies: Accepted Goods, UCC § 2-714&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;When the buyer accepts (1) &lt;b&gt;nonconforming goods&lt;/b&gt; and gives (2) &lt;b&gt;proper notice of breach&lt;/b&gt;, the buyer may recover damages under UCC § 2-714. The ordinary measure is the difference, (3) at the time and place of acceptance, between the value of the goods accepted and the value the goods would have had as warranted, (4) unless special circumstances show proximate damages of a different amount.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="430" x="7650" y="-2710" as="geometry" />
@@ -1244,6 +1252,9 @@
         </mxCell>
         <mxCell id="bovoKspK0JROnNjPOQ1I-2" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Incidental Damages, UCC § 2-710&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;A seller may recover incidental damages for (1) &lt;b&gt;commercially reasonable charges &lt;/b&gt;after the buyer’s breach. However,&amp;nbsp;consequential damages are generally unavailable unless another law, such as supplemental common law under § 1-103, applies.&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="300" x="10380" y="-2572.5" as="geometry" />
+        </mxCell>
+        <mxCell id="J-PGMwNgVpPjvRkXfyLR-0" parent="HMSoyMslVgJfamAm2t2m-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;§ 2-713&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;The measure of damages for non-delivery or repudiation by the seller&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) When learned of the breach&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2)&amp;nbsp;Market price is to be determined as of the place for tender&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) In cases of rejection after arrival or revocation of acceptance, as of the place of arrival.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="350" x="7280" y="-2660" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
