@@ -1262,7 +1262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL0j1w_V8_nWniooXKCF" name="All Topics">
-    <mxGraphModel dx="829" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1273,10 +1273,16 @@
           <mxGeometry height="140" width="200" x="760" y="80" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Limits on Owner Sovereignty&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Trespass vs. Nuisance&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2)&amp;nbsp;Equity and Remedies&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)&amp;nbsp;Mistaken Improvements&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Exceptions to the Right to Exclude&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(5)&amp;nbsp;Fair Housing Act (FHA):&#x9;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="200" x="1175" y="75" as="geometry" />
+          <mxGeometry height="140" width="200" x="1120" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-11" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-15" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-14" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Bailments and Licenses&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Licenses&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Bailments&#x9;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="90" width="180" x="1480" y="90" as="geometry" />
+          <mxGeometry height="90" width="180" x="1440" y="200" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Estates and Future Interests&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Forms of Ownership: Fee Simple Absolute, Life Estates (pur autre vie), and Defeasible Fees&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Future Interests&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Rule Against Perpetuities (RAP)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(4) Waste&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(5) Restraints on Alienation&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="220" x="1740" y="60" as="geometry" />
@@ -1292,6 +1298,51 @@
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Servitudes, Zoning, and Takings&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Easements&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Covenants&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Reciprocal Negative Easements&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Zoning: Police power&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Eminent Domain (Takings&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="340" x="3290" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-13" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Licenses&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;A license is a (1) temporary, (2) revocable waiver of the owner&#39;s right to exclude&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="1210" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Distinction from Easements&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Easement =&amp;nbsp;irrevocable&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Licenses = revocable&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="180" x="1080" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-17" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-18" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-20" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-22" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-26" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Bailments&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;(1) temporary transfer of possession&amp;nbsp;of tangible personal property. (2) Once that purpose is achieved, the property must be returned to the bailor (3) Not legal title&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="1570" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Lost or stolen&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;While in the bailee’s possession, there is a rebuttable presumption that the bailee was negligent and is therefore liable to the owner&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="1780" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Creation of a Bailment&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;(1) depends on the level of control surrendered to the facility&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Garage example:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Valet: yes&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Garage: facility is enclosed and requires ticket&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="1390" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-24" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Not tittle unless...&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Against a wrongdoer, possession is title&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="230" x="1950" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Not allowed to keep a windfall&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;All money in a suit must be given to the bailer, as money received from the suit now &quot;represents&quot; the bailed item&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="250" x="2260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Involuntary Bailments&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;(1) Much lower standard of care (e.g. accidental return to theft is fine.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Unless become voluntary by: &amp;nbsp;&quot;overt act&quot; of interference&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="1590" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
