@@ -1262,7 +1262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL0j1w_V8_nWniooXKCF" name="All Topics">
-    <mxGraphModel dx="1075" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="394" dy="1376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1296,14 +1296,20 @@
         <mxCell id="3UPOx2UyDuRtQL01_ttE-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Concurrent Ownership&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Tenancy in Common&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Severance&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Cotenant Rights/Duties: Accounting&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="220" x="4000" y="-110" as="geometry" />
         </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-49" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-59" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-58" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Landlord-Tenant Law&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Lease Types&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Possession&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Conditions/Warranties: Quiet Enjoyment,&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Constructive Eviction, and the Implied Warranty of Habitability&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Lease Transfers&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Privity&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(6)&amp;nbsp;Tenant Breach&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="340" x="4670" y="60" as="geometry" />
+          <mxGeometry height="150" width="340" x="5400" y="20" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Real Estate Transactions and Finance&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Transfer Rules: Nemo Dat&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Void vs. Voidable Title&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Equitable Conversion&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Security Interests: Mortgages&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Recording Acts: Race, Notice, and Race-Notice&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="340" x="5100" y="50" as="geometry" />
+          <mxGeometry height="150" width="340" x="6470" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Servitudes, Zoning, and Takings&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Easements&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Covenants&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Reciprocal Negative Easements&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Zoning: Police power&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Eminent Domain (Takings&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="340" x="5540" y="50" as="geometry" />
+          <mxGeometry height="150" width="340" x="6910" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-13" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-12" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1406,6 +1412,36 @@
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-46" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Partition&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Damages typically determined during partition&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Physical divide of land: &quot; in kind&quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Monetary divided : &quot;partition by sale&quot;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="240" x="4040" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-51" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-53" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-55" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-57" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-48" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Lease Types&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="65" width="250" x="4790" y="382.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-50" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Term of Years&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A lease for a fixed period of time with a specific, certain end date.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="65" width="250" x="4560" y="542.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-52" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Periodic Tenancy&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A lease that automatically rolls over for successive periods (e.g., month-to-month or year-to-year). Notice is required to terminate; at common law, a year-to-year lease required six months’ notice, while month-to-month requires one full month&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="4610" y="677.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-54" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Tenancy at Will&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A lease with no fixed duration that can be terminated by either party at any time. While the common law allowed termination with no notice, most modern jurisdictions now require it&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="95" width="280" x="4930" y="702.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-56" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Tenancy at Sufferance&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Created when a tenant wrongfully holds over after a valid lease expires. It lasts until the landlord either evicts the tenant or elects to hold them to another term (often converting it to a periodic tenancy if rent is accepted)&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="5040" y="497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3UPOx2UyDuRtQL01_ttE-58" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Possession&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Duty to deliver possession:&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- even including past tenants&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Squatter or holdover tenant:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;English Rule: The landlord is responsible&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;American Rule: The tenant is responsible&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="5230" y="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
