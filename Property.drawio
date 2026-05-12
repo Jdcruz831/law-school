@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="5">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="975" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFIE1rw5w5TWqSYamei9-3" edge="1" parent="1" source="jFIE1rw5w5TWqSYamei9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="jFIE1rw5w5TWqSYamei9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-17" edge="1" parent="1" source="jFIE1rw5w5TWqSYamei9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="D2Jrq7Rm3lbFnPPIpjT8-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jFIE1rw5w5TWqSYamei9-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Hendriks v. Stalnaker&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;fun case about balancing, poetic almost&amp;nbsp;&lt;/p&gt;" vertex="1">
@@ -781,6 +784,21 @@
         <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;my answer&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In Hinman,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp; rejected a literal reading of the ad coelum doctrine,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &amp;nbsp;a landowner owns only as much airspace as they &lt;b&gt;use and occupy &lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) &lt;b&gt;Overflight is not a trespass unless&lt;/b&gt; it causes &lt;b&gt;actual and substantial interference with that use&lt;/b&gt;.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;JJ: &lt;b&gt;applying ad coelum literally&lt;/b&gt; would &lt;b&gt;open the door to endless litigation &lt;/b&gt;any time a plane crossed over private property, an outcome both &lt;b&gt;impractical&lt;/b&gt; and contrary to the doctrine&#39;s original purpose.&quot;&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="230" width="370" x="990" y="-690" as="geometry" />
         </mxCell>
+        <mxCell id="L1b-FcRtrCj5sE13cWqp-2" edge="1" parent="1" source="D2Jrq7Rm3lbFnPPIpjT8-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="L1b-FcRtrCj5sE13cWqp-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Question&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Owen owns a plot of land in a rural area and wants to drill a water well near the boundary of his property. His neighbor Paula wants to install a septic system in the same area, but state health regulations prohibit a septic system from being located within a certain distance of a water well. Only one of the two systems can be installed in that location. Paula argues that Owen&#39;s well constitutes a private nuisance because it prevents her from installing her septic system. Applying the rule from Hendricks v. Stalnaker, assess the merits of Paula&#39;s claim.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="1730" y="-150" as="geometry" />
+        </mxCell>
+        <mxCell id="p-OxtAIcw0qxLtMy-bzP-2" edge="1" parent="1" source="L1b-FcRtrCj5sE13cWqp-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="p-OxtAIcw0qxLtMy-bzP-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1b-FcRtrCj5sE13cWqp-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;My Answer&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Using Hendricks, Paula would likely fail because the court has to weight the social benefit of the water well against Paula&#39;s septic tank, and the benefits here are equal so because the water well was there first the septic tank is blocked. This would change if the water well was placed only to block the septic tank , even if malicious it would have to not benefit the other party. &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="1620" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="p-OxtAIcw0qxLtMy-bzP-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Final&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Using Hendricks,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(1) The court balances the social utility of the competing uses&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(2) both are necessary,&lt;/span&gt; &lt;span style=&quot;white-space: pre;&quot;&gt;value roughly equal - claim fails&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Result might differ:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(3) &lt;/span&gt;installed the well purely out of spite with no legitimate benefit to&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;himself, as that could tip the unreasonableness finding&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="1680" y="-560" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -802,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1mmvPuUHY-ibarA80GjG" name="Full rules">
-    <mxGraphModel dx="2042" dy="1790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1771" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -889,7 +907,7 @@
         <mxCell id="8odRuSoYHQrNrBwNU2-b-15" edge="1" parent="1" source="Myu3FTYXBRi0dHSjEm2n-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="8odRuSoYHQrNrBwNU2-b-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Myu3FTYXBRi0dHSjEm2n-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Trespass&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Jacque v. Sternberg - mobile home trespass&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;i&gt;Hinman v. Pacific Air - Airplane trespass&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- No harm needed&lt;/p&gt;" vertex="1">
+        <mxCell id="Myu3FTYXBRi0dHSjEm2n-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Intentional Trespass&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Jacque v. Sternberg - mobile home trespass&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;i&gt;Hinman v. Pacific Air - Airplane trespass&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- No harm needed&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="220" x="150" y="-20" as="geometry" />
         </mxCell>
         <mxCell id="hmdaI1omH98QlSzwTdtG-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- not a nuisance because the burden would be the same on both parties &amp;nbsp;&lt;/p&gt;" vertex="1">
@@ -1750,6 +1768,38 @@
         </mxCell>
         <mxCell id="13QLrLIOA4XkUV_-EPCf-54" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Regulatory Takings?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="290" x="9690" y="-410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mOb7QFiskIuLxn66i-ot" name="Rules redone">
+    <mxGraphModel dx="1679" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rB02m_6kgNux-aTy11y3-3" edge="1" parent="1" source="rB02m_6kgNux-aTy11y3-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rB02m_6kgNux-aTy11y3-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uEk2SKYZ4Cukiz1iw1GT-2" edge="1" parent="1" source="rB02m_6kgNux-aTy11y3-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uEk2SKYZ4Cukiz1iw1GT-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rB02m_6kgNux-aTy11y3-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Intentional Trespass&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The willful, unauthorized entry onto another person&#39;s real property, causing an invasion of their possessory interest.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="310" x="100" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rB02m_6kgNux-aTy11y3-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Punitive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;damages&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Jacque v. Sternberg&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) nominal damages can support punitive damages for&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) intentional trespass&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) because society values the right to exclude regardless of physical or economic harm&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) &amp;nbsp;only awarding nominal damages would incentivize &quot;self-help&quot; building walls, guns, to keep others out, and society wants to avoid that. &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="390" x="-300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="uEk2SKYZ4Cukiz1iw1GT-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Ad Coelum Airspace&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In Hinman,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp; rejected a literal reading of the ad coelum doctrine,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &amp;nbsp;a landowner owns only as much airspace as they use and occupy .&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Overflight is not a trespass unless it causes actual and substantial interference with that use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;JJ: applying ad coelum literally would open the door to endless litigation any time a plane crossed over private property, an outcome both impractical and contrary to the doctrine&#39;s original purpose.&quot;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="200" width="330" x="158" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="fDNbf14e9ImAUKKX1Wxh-2" edge="1" parent="1" source="DWmoii4aIayswvWc96xy-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fDNbf14e9ImAUKKX1Wxh-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DWmoii4aIayswvWc96xy-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Private Nuisance&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A person’s property use &lt;b&gt;unreasonably and substantially&lt;/b&gt; interferes with a neighbor’s right to use and enjoy their own land&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="310" x="870" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fDNbf14e9ImAUKKX1Wxh-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Unreasonable&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Hendriks v. Stalnaker&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The court balances the social utility of the competing uses.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;If Equal&lt;/b&gt;: &amp;nbsp;- claim fails&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;b&gt;However, spite&lt;/b&gt;:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;spite with no legitimate benefit to  himself, as that could tip the&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;unreasonableness finding&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="170" width="350" x="740" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
