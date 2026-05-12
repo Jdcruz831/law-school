@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="4">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
-    <mxGraphModel dx="715" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,6 +178,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpp4dyHDgmZdOSBeEHm0-3" edge="1" parent="1" source="vpp4dyHDgmZdOSBeEHm0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="vpp4dyHDgmZdOSBeEHm0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-2" edge="1" parent="1" source="vpp4dyHDgmZdOSBeEHm0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="D2Jrq7Rm3lbFnPPIpjT8-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vpp4dyHDgmZdOSBeEHm0-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b style=&quot;text-decoration: underline;&quot;&gt;Jacque v.&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Sternberg&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
@@ -739,6 +742,21 @@
         <mxCell id="RUYWs7uuwX0-735RAe2n-3" parent="1" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" value="Traditional common law vs. Uston newer one - all busineses are public&amp;nbsp;" vertex="1">
           <mxGeometry height="111.88" width="175" x="14705" y="38.13" as="geometry" />
         </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-4" edge="1" parent="1" source="D2Jrq7Rm3lbFnPPIpjT8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="D2Jrq7Rm3lbFnPPIpjT8-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Claude question&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;True or false: In Jacque v. Steenberg Homes, Inc., the court held that a landowner who suffers an intentional trespass may be awarded punitive damages only if they can also prove actual, compensable harm — such as physical damage to the property or economic loss. Briefly explain.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="240" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-6" edge="1" parent="1" source="D2Jrq7Rm3lbFnPPIpjT8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="D2Jrq7Rm3lbFnPPIpjT8-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;my answer&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;nominal damages can support punitive damages because society values the right to exclude, and only awarding nominal damages would not disincentives trespass enough.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="340" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="D2Jrq7Rm3lbFnPPIpjT8-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Claude rewrites&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;nominal damages can support punitive damages for &lt;b&gt;intentional trespass&lt;/b&gt; because society values the right to exclude regardless of physical or economic harm only awarding nominal damages would incentivize &lt;b&gt;&quot;self-help&quot; building walls, guns, to keep others out, and society wants to avoid that. &amp;nbsp;&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="380" y="-630" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1262,7 +1280,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL0j1w_V8_nWniooXKCF" name="All Topics">
-    <mxGraphModel dx="844" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1658" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
