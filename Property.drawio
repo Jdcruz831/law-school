@@ -1262,7 +1262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CL0j1w_V8_nWniooXKCF" name="All Topics">
-    <mxGraphModel dx="975" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="844" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1332,8 +1332,27 @@
         <mxCell id="3UPOx2UyDuRtQL01_ttE-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Real Estate Transactions and Finance&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Transfer Rules: Nemo Dat&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Void vs. Voidable Title&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Equitable Conversion&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Security Interests: Mortgages&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Recording Acts: Race, Notice, and Race-Notice&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="340" x="7550" y="-110" as="geometry" />
         </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-21" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-31" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-37" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-41" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-49" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-48" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9610" y="-135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#3399FF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Servitudes, Zoning, and Takings&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Easements&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2)&amp;nbsp;Covenants&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) Reciprocal Negative Easements&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)&amp;nbsp;Zoning: Police power&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Eminent Domain (Takings&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="340" x="8480" y="-65" as="geometry" />
+          <mxGeometry height="150" width="340" x="9160" y="-210" as="geometry" />
         </mxCell>
         <mxCell id="3UPOx2UyDuRtQL01_ttE-13" edge="1" parent="1" source="3UPOx2UyDuRtQL01_ttE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3UPOx2UyDuRtQL01_ttE-12" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -1596,6 +1615,99 @@
         </mxCell>
         <mxCell id="13QLrLIOA4XkUV_-EPCf-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;The Shelter Rule:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Once a GFPV has successfully beaten an earlier claimant under a recording act, they can transfer that &quot;winning&quot; title to anyone else (even someone with notice or a gift recipient), who will then also beat the earlier claimant&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="260" x="7430" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-23" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-25" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-27" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-29" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Easements&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;a property right that acts as a waiver of the owner’s right to exclude. It gives the holder a non-exclusive right to use the property of another (the servient estate) for a specified purpose&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;does not grant exclusive possession&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="8980" y="237.5" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-22" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Appurtenant&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;Belongs&quot; to a specific parcel of land (the dominant tract); it runs with the land, benefiting the dominant tract and burdening the servient tract regardless of ownership&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="8585" y="507.5" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-24" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;In Gross&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Belongs to a particular grantee (e.g., a utility company) rather than a parcel of land. In the U.S., commercial easements in gross are fully alienable&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="8870" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-26" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Affirmative vs. Negative&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Affirmative easements allow the holder to do something on the servient land (e.g., cross a driveway). Negative easements allow the holder to prevent the servient owner from doing something (e.g., blocking a view); these are narrow and rare&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="9150" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Creation &amp;amp; Termination&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Creation: grant (deed), reservation, necessity (landlocked parcels), implication (prior use), prescription (similar to adverse possession), or estoppel (irrevocable license)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Termination:&amp;nbsp;Ends via deed, merger (one person owns both tracts), adverse possession, or abandonment&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="9390" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-33" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-35" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-30" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Covenants&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Covenants are &quot;promises respecting the use of land&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Whether a covenant &quot;runs with the land&quot;&amp;nbsp;depends on the theory of enforcement used:&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="9740" y="-250" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-32" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Real Covenant Theory&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Used when the plaintiff seeks money damages&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Requirements for the BURDEN to run: 1. Horizontal privity (original parties had a simultaneous interest or the covenant was in the deed), 2. Strict vertical privity (successor holds the entire interest), 3. Intent, and 4. Touch and Concern (the promise relates to the land)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Requirements for the BENEFIT to run: Requires intent, touch and concern, and relaxed vertical privity (no horizontal privity required)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="205" width="350" x="9420" y="-15" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-34" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Equitable Servitude Theory&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Used when the plaintiff seeks an injunction&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Requirements: Intent, touch and concern, and notice to the burdened party. Privity is NOT required for an equitable servitude&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="340" x="9810" y="-15" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-39" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-38" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-36" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Reciprocal Negative Easements&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;arises when a common owner sells lots in a development scheme&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Principle: If a developer sells one lot with a restriction (like &quot;residential use only&quot;) that benefits the retained land, the restriction becomes mutual. The developer (and later purchasers of retained lots with notice) cannot do anything forbidden to the first purchaser&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="340" x="9140" y="-530" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-38" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Limitations&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;It requires a common owner and a common development plan. It is not retroactive; it does not apply to lots sold before the restriction was established&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="340" x="9020" y="-770" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-43" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-42" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-45" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-44" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-40" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Zoning:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Zoning is a comprehensive system of land-use regulation where the state delegates its &quot;police power&quot; to local governments&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="8800" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-42" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Police Power&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The inherent sovereign power to make laws to preserve public security, health, order, and morality&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="8800" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-47" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-46" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-44" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Euclidean Zoning&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A system of cumulative zoning that establishes a hierarchy of uses. &quot;Higher&quot; uses (like homes) are permitted in &quot;lower&quot; zones (like industrial), but not vice versa&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="8440" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-46" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Exceptions&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Variances: Discretionary deviations granted for undue hardship.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Special Exceptions: Nondiscretionary deviations allowed if specific conditions in the ordinance are met.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Nonconforming Uses: Pre-existing uses that are &quot;grandfathered&quot; in&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="320" x="8390" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-51" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-53" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-52" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-55" edge="1" parent="1" source="13QLrLIOA4XkUV_-EPCf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="13QLrLIOA4XkUV_-EPCf-54" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-48" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Eminent Domain&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The government has the sovereign power to take private property for public use, provided it pays just compensation&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="9590" y="-550" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-50" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Public use&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The U.S. Supreme Court construes this broadly to mean &quot;public advantage or benefit&quot;. While controversial, this can include economic development aimed at job preservation&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="9680" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-52" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Fair Market Value (FMV)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;would be worth in a voluntary sale at the time of the taking&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;based on the &quot;highest and best use&quot; excludes government additions&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;does not compensate for the owner’s subjective attachment&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="290" x="10030" y="-570" as="geometry" />
+        </mxCell>
+        <mxCell id="13QLrLIOA4XkUV_-EPCf-54" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Regulatory Takings?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="9690" y="-410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
