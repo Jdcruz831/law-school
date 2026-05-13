@@ -1773,7 +1773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mOb7QFiskIuLxn66i-ot" name="Rules redone">
-    <mxGraphModel dx="3525" dy="1609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3932" dy="1822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1796,7 +1796,7 @@
           <mxGeometry height="110" width="310" x="100" y="120" as="geometry" />
         </mxCell>
         <mxCell id="rB02m_6kgNux-aTy11y3-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Punitive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;damages&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Jacque v. Sternberg&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) nominal damages can support punitive damages for&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) intentional trespass&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) because society values the right to exclude regardless of physical or economic harm&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) &amp;nbsp;only awarding nominal damages would incentivize &quot;self-help&quot; building walls, guns, to keep others out, and society wants to avoid that. &amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="390" x="600" as="geometry" />
+          <mxGeometry height="150" width="390" x="540" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="uEk2SKYZ4Cukiz1iw1GT-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;&lt;u&gt;Ad Coelum Airspace&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;In Hinman,&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp; rejected a literal reading of the ad coelum doctrine,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) &amp;nbsp;a landowner owns only as much airspace as they use and occupy .&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Overflight is not a trespass unless it causes actual and substantial interference with that use.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;JJ: applying ad coelum literally would open the door to endless litigation any time a plane crossed over private property, an outcome both impractical and contrary to the doctrine&#39;s original purpose.&quot;&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="200" width="330" x="158" y="330" as="geometry" />
