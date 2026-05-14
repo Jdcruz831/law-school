@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="7">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
     <mxGraphModel dx="975" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -820,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1mmvPuUHY-ibarA80GjG" name="Full rules">
-    <mxGraphModel dx="1771" dy="1581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3050" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2503,6 +2503,149 @@
           <mxGeometry height="321" width="349" x="1051" as="geometry">
             <mxRectangle height="321" width="349" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TPbPcXyben1WQ1fSv4if" name="Estates">
+    <mxGraphModel dx="2250" dy="2780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HUB" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#66B2FF);" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Estates&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;&lt;b&gt;Fee Simple Absolute&lt;/b&gt; — infinite; no future interest&lt;br&gt;&lt;b&gt;Life Estate&lt;/b&gt; — ends at death; always needs a future interest&lt;br&gt;&lt;b&gt;Fee Simple Determinable&lt;/b&gt; — ends automatically on event&lt;br&gt;&lt;b&gt;Fee Simple Subject to Condition Subsequent&lt;/b&gt; — does not end automatically&lt;br&gt;&lt;b&gt;Fee Simple Subject to Executory Limitation&lt;/b&gt; — ends automatically; future interest to third party&lt;br&gt;&lt;br&gt;Rule: What O grants + what O retains must = FSA (conservation of estates)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="560" x="1800" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="e-fsa" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.1;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);" target="FSA">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSA" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Fee Simple Absolute&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Words: &quot;to A&quot; or &quot;to A and her heirs&quot;&lt;br&gt;— Infinite duration&lt;br&gt;— No future interest possible&lt;br&gt;— All other estates are carved from this&lt;br&gt;&lt;br&gt;&lt;b&gt;Future Interest: NONE&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="300" x="900" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="e-le" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.28;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#3399FF);" target="LE">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LE" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Life Estate&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Words: &quot;for life&quot; (or pur autre vie — &quot;for the life of X&quot;)&lt;br&gt;— Ends at death of named person&lt;br&gt;— Subject to waste doctrine (Brokaw)&lt;br&gt;— Must always be followed by a future interest&lt;br&gt;— Two options: Reversion (grantor) or Remainder (grantee)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="360" x="1270" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="e-le-waste" edge="1" parent="1" source="LE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="WASTE">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WASTE" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Waste Doctrine&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:0;&quot;&gt;&lt;i&gt;Brokaw v. Fairchild&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;&lt;b&gt;Affirmative:&lt;/b&gt; active acts causing excess damage&lt;br&gt;&lt;b&gt;Permissive:&lt;/b&gt; unreasonable failure to act&lt;br&gt;&lt;b&gt;Ameliorative:&lt;/b&gt; increases market value but substantially changes character — generally prohibited&lt;br&gt;&lt;i&gt;Pabst carve-out:&lt;/i&gt; allowed if surroundings changed so drastically property lost most of its value&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="340" x="1680" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="e-le-fi" edge="1" parent="1" source="LE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="LE-FI">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LE-FI" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#66B2FF);" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Future Interests After Life Estate&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;If O keeps it → &lt;b&gt;Reversion&lt;/b&gt;&lt;br&gt;If O names a third party → &lt;b&gt;Remainder&lt;/b&gt; (4 sub-types)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="340" x="1230" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="e-rev" edge="1" parent="1" source="LE-FI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.2;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#00FF00);" target="REV">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REV" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Reversion (Grantor)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Arises when O conveys less than FSA without naming a remainder holder&lt;br&gt;— Implied automatically — no words needed&lt;br&gt;— Becomes possessory when life estate ends&lt;br&gt;— &lt;b&gt;NOT subject to RAP&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="300" x="1020" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="e-rem-hub" edge="1" parent="1" source="LE-FI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#3399FF);" target="REM-HUB">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="REM-HUB" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#66B2FF);" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Remainder (Grantee)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Follows a life estate; waits patiently&lt;br&gt;— Cannot divest a prior estate while still running&lt;br&gt;— Five sub-types below&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="300" x="1380" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="e-iv" edge="1" parent="1" source="REM-HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.1;exitY=1;exitDx=0;exitDy=0;" target="IV">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IV" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Indefeasibly Vested&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Certain to become possessory; no conditions remain&lt;br&gt;— Nothing can take it away&lt;br&gt;— E.g., &quot;to A for life, then to B&quot;&lt;br&gt;— &lt;b&gt;NOT subject to RAP&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="1060" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="e-cont" edge="1" parent="1" source="REM-HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.37;exitY=1;exitDx=0;exitDy=0;" target="CONT">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CONT" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Contingent&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Condition precedent not yet met, OR taker unascertained&lt;br&gt;— Cannot possess until condition is met&lt;br&gt;— If condition never met → implied reversion in O&lt;br&gt;— E.g., &quot;to A for life, then to B if B survives A&quot;&lt;br&gt;— &lt;b&gt;SUBJECT TO RAP&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="1350" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="e-vscd" edge="1" parent="1" source="REM-HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.65;exitY=1;exitDx=0;exitDy=0;" target="VSCD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSCD" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Vested Subject to Complete Divestment&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Vested but a condition subsequent can strip it away&lt;br&gt;— If divested, goes to a third party (not O)&lt;br&gt;— Grantee CAN take possession immediately when life estate ends&lt;br&gt;— E.g., &quot;to A for life, then to B; but if B fails to graduate, then to C&quot;&lt;br&gt;— The remainder itself: &lt;b&gt;NOT subject to RAP&lt;/b&gt;&lt;br&gt;— The cutting executory interest (C): &lt;b&gt;subject to RAP&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="360" x="2040" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="e-vso" edge="1" parent="1" source="REM-HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.82;exitY=1;exitDx=0;exitDy=0;" target="VSO">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSO" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;4d. Vested Subject to Open (Partial Divestment)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Class gift; at least one member qualifies but more may join&lt;br&gt;— New members dilute existing shares&lt;br&gt;— Class closes by rule of convenience&lt;br&gt;— E.g., &quot;to A for life, then to A&#39;s children&quot; (A has kids now, may have more)&lt;br&gt;— &lt;b&gt;SUBJECT TO RAP&lt;/b&gt; (for the unborn/unascertained class members)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="340" x="1680" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="e-vscs" edge="1" parent="1" source="REM-HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" target="VSCS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VSCS" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;4e. Vested Subject to Condition Subsequent&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Vested but a condition subsequent can strip it away&lt;br&gt;— If divested, goes &lt;b&gt;back to O&lt;/b&gt; (the grantor) — NOT a third party&lt;br&gt;— Future interest: O retains a &lt;b&gt;Right of Entry&lt;/b&gt; on the remainder&lt;br&gt;— Same logic as FSSCS but one level down, applied to the remainder itself&lt;br&gt;— Does NOT end automatically; O must act to retake&lt;br&gt;— &lt;b&gt;NOT subject to RAP&lt;/b&gt; (grantor&#39;s right of entry deemed vested at creation)&lt;br&gt;&lt;br&gt;E.g., &quot;to A for life, then to B; but if B smokes, then back to O&quot;&lt;br&gt;&lt;span style=&quot;white-space:pre;&quot;&gt;  &lt;/span&gt;→ B: vested remainder subject to condition subsequent&lt;br&gt;&lt;span style=&quot;white-space:pre;&quot;&gt;  &lt;/span&gt;→ O: right of entry on that remainder&lt;br&gt;&lt;br&gt;Contrast with 4c: &quot;then to &lt;b&gt;C&lt;/b&gt;&quot; → executory interest in grantee (RAP applies)&lt;br&gt;Here: &quot;then back to &lt;b&gt;O&lt;/b&gt;&quot; → right of entry in grantor (no RAP)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="280" width="400" x="2450" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="e-fsd" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="FSD">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSD" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Fee Simple Determinable (FSD)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Words: &quot;so long as,&quot; &quot;while,&quot; &quot;until,&quot; &quot;during&quot;&lt;br&gt;— Ends &lt;b&gt;automatically&lt;/b&gt; when condition is violated&lt;br&gt;— No action by grantor needed&lt;br&gt;— AP clock starts the moment condition is violated&lt;br&gt;&lt;br&gt;&lt;b&gt;Future Interest (Grantor only):&lt;/b&gt;&lt;br&gt;Possibility of Reverter ↓&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="320" x="2140" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="e-por" edge="1" parent="1" source="FSD" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="POR">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="POR" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Possibility of Reverter&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Held by grantor (or grantor&#39;s successors)&lt;br&gt;— Returns &lt;i&gt;automatically&lt;/i&gt; upon violation — no action needed&lt;br&gt;— Deemed vested at creation → &lt;b&gt;NOT subject to RAP&lt;/b&gt;&lt;br&gt;— E.g., &quot;to School so long as used for education&quot; → if school closes, back to O automatically&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="340" x="2040" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="e-fsscs" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.72;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#CC0000);" target="FSSCS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSSCS" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Fee Simple Subject to Condition Subsequent (FSSCS)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Words: &quot;but if,&quot; &quot;provided that,&quot; &quot;on condition that,&quot; &quot;if…then O may reenter&quot;&lt;br&gt;— Does &lt;b&gt;NOT end automatically&lt;/b&gt; — grantor must affirmatively exercise right to retake&lt;br&gt;— AP clock does NOT start until grantor exercises right of entry&lt;br&gt;&lt;br&gt;&lt;b&gt;Future Interest (Grantor only):&lt;/b&gt;&lt;br&gt;Right of Entry / Power of Termination ↓&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="350" x="3020" y="457.5" as="geometry" />
+        </mxCell>
+        <mxCell id="e-roe" edge="1" parent="1" source="FSSCS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ROE">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ROE" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Right of Entry / Power of Termination&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Held by grantor (or grantor&#39;s successors)&lt;br&gt;— Does &lt;b&gt;NOT&lt;/b&gt; return automatically; grantor must act to retake&lt;br&gt;— Deemed vested at creation → &lt;b&gt;NOT subject to RAP&lt;/b&gt;&lt;br&gt;— Key practical difference from PoR: grantor can choose to forgive the violation&lt;br&gt;— E.g., &quot;to A; but if marijuana is consumed, O may reenter&quot;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="370" x="3250" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="e-fssel" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.9;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FF33FF);" target="FSSEL">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FSSEL" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Fee Simple Subject to Executory Limitation (FSSEL)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Words: &quot;as long as…and then to B&quot; or &quot;but if…then to B&quot;&lt;br&gt;— Ends &lt;b&gt;automatically&lt;/b&gt; on named event (like FSD)&lt;br&gt;— BUT future interest goes to a &lt;b&gt;third party&lt;/b&gt;, NOT the grantor&lt;br&gt;— Can use either durational or conditional language&lt;br&gt;&lt;br&gt;&lt;b&gt;Future Interest (Grantee only):&lt;/b&gt;&lt;br&gt;Executory Interest ↓&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="360" x="2570" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="e-ei" edge="1" parent="1" source="FSSEL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="EI">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EI" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Executory Interest&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;— Held by a &lt;b&gt;third-party grantee&lt;/b&gt; (never the grantor)&lt;br&gt;— Unlike a remainder, it CAN cut short a prior estate while still running&lt;br&gt;&lt;br&gt;&lt;b&gt;Springing:&lt;/b&gt; cuts off grantor&#39;s own estate&lt;br&gt;&lt;span style=&quot;white-space:pre;&quot;&gt;  &lt;/span&gt;E.g., &quot;to A when A passes the bar&quot;&lt;br&gt;&lt;b&gt;Shifting:&lt;/b&gt; cuts off another grantee&#39;s estate&lt;br&gt;&lt;span style=&quot;white-space:pre;&quot;&gt;  &lt;/span&gt;E.g., &quot;to A, but if X happens, then to B&quot;&lt;br&gt;&lt;br&gt;— &lt;b&gt;SUBJECT TO RAP&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="360" x="2700" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="e-spring" edge="1" parent="1" source="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.3;exitY=1;exitDx=0;exitDy=0;" target="SPRING">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRING" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Springing Executory Interest&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Springs out of the grantor&#39;s estate upon condition.&lt;br&gt;E.g., &quot;to A if and when A marries&quot; — O holds until then.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="290" x="2530" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="e-shift" edge="1" parent="1" source="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;" target="SHIFT">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SHIFT" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Shifting Executory Interest&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;Shifts out of a prior grantee&#39;s estate upon condition.&lt;br&gt;E.g., &quot;to A, but if A smokes, then to B&quot;&lt;br&gt;A has FSSEL; B has shifting executory interest.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="290" x="2940" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="e-rap" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="RAP">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RAP" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Rule Against Perpetuities (RAP)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:0;&quot;&gt;&lt;i&gt;Symphony Space v. Pergola Properties&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;No interest valid unless it must &lt;b&gt;vest or terminate within 21 years after the death&lt;/b&gt; of a life in being at creation.&lt;br&gt;Validity determined at moment of creation — what &lt;i&gt;could&lt;/i&gt; happen, not what does.&lt;br&gt;&lt;br&gt;&lt;b&gt;Subject to RAP:&lt;/b&gt; Contingent remainders · Vested subject to open · Executory interests · Options to purchase&lt;br&gt;&lt;br&gt;&lt;b&gt;NOT subject to RAP:&lt;/b&gt; Possibility of reverter · Right of entry · Indefeasibly vested remainders · Vested subject to complete divestment (the remainder itself)&lt;br&gt;&lt;br&gt;&lt;b&gt;Charney Rules:&lt;/b&gt;&lt;br&gt;— Organizations cannot be measuring lives&lt;br&gt;— &quot;Wait and see&quot; rejected (void ab initio)&lt;br&gt;— Charity-to-charity exception (both interests in charities → exempt)&lt;br&gt;— Right of first refusal exempt&lt;br&gt;— Option appurtenant to lease exempt&lt;br&gt;&lt;br&gt;&lt;b&gt;RAP Remedy&lt;/b&gt; (City of Klamath Falls v. Bell):&lt;br&gt;Step 1: Strike void interest&lt;br&gt;Step 2: Read what remains&lt;br&gt;Step 3: Remaining language determines the estate and its implied future interest&lt;/p&gt;" vertex="1">
+          <mxGeometry height="410" width="400" x="3370" as="geometry" />
+        </mxCell>
+        <mxCell id="e-rules" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="RULES">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RULES" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Key Charney Rules&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0 0 0 8px;&quot;&gt;&lt;b&gt;Conservation of Estates&lt;/b&gt; (Williams):&lt;br&gt;Grants + retained interest = FSA.&lt;br&gt;No remainder specified → O retains implied reversion.&lt;br&gt;&lt;br&gt;&lt;b&gt;Numerus Clausus&lt;/b&gt; (Charles v. Barzey):&lt;br&gt;Menu of property forms is fixed and closed.&lt;br&gt;Interest not repugnant if law can accommodate it.&lt;br&gt;&lt;br&gt;&lt;b&gt;Restraints on Alienation&lt;/b&gt;:&lt;br&gt;Use restriction → VALID (Mountain Brow)&lt;br&gt;Direct transfer restraint → VOID (Morse v. Blood)&lt;br&gt;&lt;br&gt;&lt;b&gt;AP &amp;amp; Defeasible Fees:&lt;/b&gt;&lt;br&gt;FSD: clock starts on violation&lt;br&gt;FSSCS: clock starts only when grantor acts&lt;br&gt;&lt;br&gt;&lt;b&gt;Words of Purchase vs. Limitation:&lt;/b&gt;&lt;br&gt;Purchase = who takes it&lt;br&gt;Limitation = how long it lasts&lt;/p&gt;" vertex="1">
+          <mxGeometry height="300" width="360" x="940" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="e-table" edge="1" parent="1" source="HUB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="TABLE">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TABLE" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0 0;&quot;&gt;&lt;b&gt;&lt;u&gt;Present Interest → Future Interest — Charney Quick Reference&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;table style=&quot;border-collapse:collapse;width:100%;font-size:13px;&quot;&gt;&lt;tr style=&quot;background:#ddd;&quot;&gt;&lt;th style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Present Interest&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Trigger Words&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Future Interest in Grantor&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Future Interest in Grantee&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:4px;&quot;&gt;RAP?&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Fee Simple Absolute&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;to A&quot; / &quot;to A and her heirs&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;None&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;None&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;N/A&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Life Estate&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;for life&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Reversion (implied if no remainder)&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Remainder (4 types)&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Contingent + subject-to-open: YES; vested subject to condition subsequent: NO&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;└ Remainder: Vested Subject to Condition Subsequent&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;then to B; but if X, back to O&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Right of Entry (on the remainder)&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;—&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Fee Simple Determinable&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;so long as,&quot; &quot;while,&quot; &quot;until,&quot; &quot;during&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Possibility of Reverter&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;—&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Fee Simple Subject to Condition Subsequent&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;but if,&quot; &quot;provided that,&quot; &quot;on condition&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Right of Entry / Power of Termination&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;—&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;No&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Fee Simple Subject to Executory Limitation&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;&quot;as long as…then to B&quot; / &quot;but if…then to B&quot;&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;—&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Executory Interest&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:4px;&quot;&gt;Yes&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="280" width="1620" x="1310" y="-200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
