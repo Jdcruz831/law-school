@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="10">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
     <mxGraphModel dx="975" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1773,7 +1773,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mOb7QFiskIuLxn66i-ot" name="Rules redone">
-    <mxGraphModel dx="-2400" dy="4956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-3881" dy="3891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2507,6 +2507,109 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram name="Memorization " id="irQB7x1cT9ARjXW0VjAm">
+    <mxGraphModel dx="3693" dy="5843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-0" />
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-1" parent="kCzWolFlj8jR-KOEDqP6-0" />
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-2" parent="kCzWolFlj8jR-KOEDqP6-1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="1291" width="1400" x="-730" y="-3930" as="geometry" />
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-3" parent="kCzWolFlj8jR-KOEDqP6-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="323" width="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-4" parent="kCzWolFlj8jR-KOEDqP6-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Establishing ownership&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Body parts - Moore&lt;/div&gt;&lt;div&gt;[2] Malicious Interference - Keeble&lt;/div&gt;&lt;div&gt;[3] Quasi property in News - INS V AP&lt;/div&gt;&lt;div&gt;[4] Public/ voice - Midler&lt;/div&gt;&lt;div&gt;[5] Person beyond name &amp;amp; Voice - White&lt;/div&gt;&lt;div&gt;[6] Wild animals (industry standard) - Ghen&lt;/div&gt;&lt;div&gt;[7] Wild Animals (Manucatpure) - Perison&amp;nbsp;&lt;/div&gt;&lt;div&gt;[8] Abandoned Property - Haslem&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323" width="351" as="geometry">
+            <mxRectangle height="323" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-5" parent="kCzWolFlj8jR-KOEDqP6-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Intentional Trespass&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The willful, (1) unauthorized entry onto another person&#39;s real property, (2) causing an invasion of their possessory interest.&lt;/div&gt;&lt;div&gt;(3) Clean hands&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323" width="349" x="351" as="geometry">
+            <mxRectangle height="323" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-6" parent="kCzWolFlj8jR-KOEDqP6-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Private Nuisance&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;A person’s property use unreasonably and substantially interferes with a neighbor’s right to use and enjoy their own land&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323" width="351" x="700" as="geometry">
+            <mxRectangle height="323" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-7" parent="kCzWolFlj8jR-KOEDqP6-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Principle of Accession:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;Ownership of one thing is assigned to owner of another “thing”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Crops and vegetation - Perennial vs. Annual vegetation&lt;/div&gt;&lt;div&gt;Ad coelum (caves) - you own every cave, even if not accessible&amp;nbsp;&lt;/div&gt;&lt;div&gt;Combinations - good faith transformation of objects&lt;/div&gt;&lt;div&gt;Fixtures - permanency of the annexation or inferable use of real property &amp;nbsp;&lt;/div&gt;&lt;div&gt;Accretion -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Avulsion -&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="323" width="349" x="1051" as="geometry">
+            <mxRectangle height="323" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-8" parent="kCzWolFlj8jR-KOEDqP6-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="326" width="1400" y="323" as="geometry" />
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-9" parent="kCzWolFlj8jR-KOEDqP6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Sequential Possession&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finder vs. Converter - Finder wins&amp;nbsp;&lt;/div&gt;&lt;div&gt;First Finder vs. Second Finder - &amp;nbsp;Finder 1&lt;/div&gt;&lt;div&gt;Converter 1 vs. Converter 2 - Converter 1&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Abandoned = owner intentionally relinquished all rights.&lt;/div&gt;&lt;div&gt;Lost = owner unintentionally and involuntarily parted&amp;nbsp;&lt;/div&gt;&lt;div&gt;Mislaid = owner intentionally placed it somewhere and forgot to retrieve it&lt;/div&gt;" vertex="1">
+          <mxGeometry height="326" width="351" as="geometry">
+            <mxRectangle height="326" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-10" parent="kCzWolFlj8jR-KOEDqP6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Concurrent Ownership&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[1] &amp;nbsp;Partition&lt;/div&gt;&lt;div&gt;(2) Severance&lt;/div&gt;&lt;div&gt;(3) Cotenant Rights/Duties: Accounting&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="326" width="349" x="351" as="geometry">
+            <mxRectangle height="326" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-11" parent="kCzWolFlj8jR-KOEDqP6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Adverse Possession&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Elements — OCEANS&lt;/div&gt;&lt;div&gt;O — Open and notorious&lt;/div&gt;&lt;div&gt;C — Continuous&lt;/div&gt;&lt;div&gt;E — Exclusive&amp;nbsp;&lt;/div&gt;&lt;div&gt;A — Actual&amp;nbsp;&lt;/div&gt;&lt;div&gt;N — Nonpermissive&lt;/div&gt;&lt;div&gt;S — Statutory period&lt;/div&gt;" vertex="1">
+          <mxGeometry height="326" width="351" x="700" as="geometry">
+            <mxRectangle height="326" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-12" parent="kCzWolFlj8jR-KOEDqP6-8" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Limits on the Right to Exclude&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Fair Housing act&lt;/div&gt;&lt;div&gt;[2] Necessity&amp;nbsp;&lt;/div&gt;&lt;div&gt;[3] Public Accommodations&lt;/div&gt;&lt;div&gt;[4] Social interests &amp;amp; Health rights&lt;/div&gt;&lt;div&gt;[5] Racially Restrictive Covenants:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="326" width="349" x="1051" as="geometry">
+            <mxRectangle height="326" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-13" parent="kCzWolFlj8jR-KOEDqP6-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="321" width="1400" y="649" as="geometry" />
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-14" parent="kCzWolFlj8jR-KOEDqP6-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Bailments&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(1) temporary transfer of possession of tangible personal property. (2) Once that purpose is achieved, the property must be returned to the bailor (3) Not legal title&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consequence of bailment:&lt;/div&gt;&lt;div&gt;If property is lost, damaged, or stolen while in the bailee&#39;s possession → rebuttable presumption of negligence against the bailee. Burden shifts to bailee to rebut.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="321" width="351" as="geometry">
+            <mxRectangle height="321" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-15" parent="kCzWolFlj8jR-KOEDqP6-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Estates and Future Interests&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[1] Life Estates Waste&amp;nbsp;&lt;/div&gt;&lt;div&gt;[2] Defeasible Fees / Restraints on Alienation&lt;/div&gt;&lt;div&gt;[3] Restraints on Alienation&lt;/div&gt;&lt;div&gt;[4] Must add up to fee simple absolute (the full bundle)&lt;/div&gt;&lt;div&gt;[5] Repugnant/ Multiple Clauses&lt;/div&gt;&lt;div&gt;[6] RAP&lt;/div&gt;" vertex="1">
+          <mxGeometry height="321" width="349" x="351" as="geometry">
+            <mxRectangle height="321" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-16" parent="kCzWolFlj8jR-KOEDqP6-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Real Estate Transactions and Finance" vertex="1">
+          <mxGeometry height="321" width="351" x="700" as="geometry">
+            <mxRectangle height="321" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-17" parent="kCzWolFlj8jR-KOEDqP6-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Landlord-Tenant Law" vertex="1">
+          <mxGeometry height="321" width="349" x="1051" as="geometry">
+            <mxRectangle height="321" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-18" parent="kCzWolFlj8jR-KOEDqP6-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1">
+          <mxGeometry height="321" width="1400" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-19" parent="kCzWolFlj8jR-KOEDqP6-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="321" width="351" as="geometry">
+            <mxRectangle height="321" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-20" parent="kCzWolFlj8jR-KOEDqP6-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Gifts" vertex="1">
+          <mxGeometry height="321" width="349" x="351" as="geometry">
+            <mxRectangle height="321" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-21" parent="kCzWolFlj8jR-KOEDqP6-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="Servitudes, Zoning, and Takings" vertex="1">
+          <mxGeometry height="321" width="351" x="700" as="geometry">
+            <mxRectangle height="321" width="351" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCzWolFlj8jR-KOEDqP6-22" parent="kCzWolFlj8jR-KOEDqP6-18" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="321" width="349" x="1051" as="geometry">
+            <mxRectangle height="321" width="349" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Easements" id="cQlhcc4blJjOOx5bs420">
     <mxGraphModel dx="3693" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2641,7 +2744,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Covenants " id="0Pt_cAZ4d8PciAckIUe_">
-    <mxGraphModel dx="-2544" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1694" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="b_5Vyli1u-a0vprJ2jxQ-0" />
         <mxCell id="b_5Vyli1u-a0vprJ2jxQ-1" parent="b_5Vyli1u-a0vprJ2jxQ-0" />
@@ -2673,19 +2776,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-9" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Horizontal Privity&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Relationship between ORIGINAL parties to the covenant. Two ways to satisfy:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;(1) Mutual Privity:&lt;/b&gt; Parties had simultaneous interests in the same land (e.g., landlord &amp;amp; tenant).&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;(2) Instantaneous Privity:&lt;/b&gt; Covenant included in a deed from one party to the other (developer → buyer).&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Simple contract between neighbors does NOT satisfy — even if recorded.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="200" width="300" x="4330" y="730" as="geometry" />
+          <mxGeometry height="200" width="300" x="3910" y="700" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-10" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="wbMthrpyru6KVFuQDRWG-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-11" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Strict Vertical Privity&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Successor must hold the ENTIRE interest of the original covenanter (same duration).&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;FSA → FSA: ✓&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;FSA → Life Estate: ✗ (shorter duration)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Prime Lease → Assignment: ✓&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Prime Lease → Sublease: ✗ (ends before prime lease)&lt;/p&gt;" vertex="1">
-          <mxGeometry height="190" width="290" x="4670" y="730" as="geometry" />
+          <mxGeometry height="190" width="290" x="4280" y="750" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-12" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=1;exitDx=0;exitDy=0;" target="wbMthrpyru6KVFuQDRWG-13" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-13" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Touch and Concern&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Covenant must substantially affect the owner&#39;s legal interest in the land.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Almost always ✓:&lt;/b&gt; any promise NOT to do something on the land (build, operate commercially, subdivide, etc.).&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Affirmative/pay covenants ✓ if:&lt;/b&gt; money dedicated to maintenance/repair/improvement of land. [Charney Rule: assume met if upkeep of land.]&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Does NOT T&amp;amp;C ✗:&lt;/b&gt; pay money with no restriction on use; charitable donation with no land nexus.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Analysis is IDENTICAL under both real covenant and equitable servitude theory.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="270" width="320" x="5000" y="730" as="geometry" />
+          <mxGeometry height="270" width="320" x="4680" y="720" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-14" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;EQUITABLE SERVITUDE THEORY&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Used when plaintiff seeks an INJUNCTION.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;PRIVITY IS NOT REQUIRED — easier to satisfy than real covenant.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Different requirements for BURDEN vs. BENEFIT to run.&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="360" x="5660" y="200" as="geometry" />
@@ -2706,7 +2809,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-20" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Notice — 3 Types&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Actual:&lt;/b&gt; Successor literally knew of the covenant.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Constructive (Record):&lt;/b&gt; Covenant was recorded — successor is deemed to know what a title search would reveal.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Inquiry:&lt;/b&gt; Facts on the ground would prompt a reasonable buyer to investigate further (uniform neighborhood character, tenant in possession, etc.).&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Key timing rule:&lt;/b&gt; Notice is assessed at the moment title passes — not when breach is contemplated.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="240" width="340" x="5490" y="730" as="geometry" />
+          <mxGeometry height="240" width="340" x="5420" y="725" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-21" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#82b366;" target="wbMthrpyru6KVFuQDRWG-22" value="Key Case">
           <mxGeometry relative="1" as="geometry" />
@@ -2742,19 +2845,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-32" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Bolotin v. Rindge&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Facts:&lt;/b&gt; Residential deed restriction challenged on grounds that allowing a commercial building would not depreciate market value of neighboring properties.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Holding:&lt;/b&gt; Restriction enforceable. Lack of adverse market value impact is NOT the test for unenforceability. A court may declare restrictions unenforceable due to changed conditions only if enforcement would be &lt;i&gt;inequitable and oppressive&lt;/i&gt; and would harass the plaintiff without benefiting adjoining owners.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Rule:&lt;/b&gt; Changed conditions defense requires that the restriction&#39;s original purpose is obsolete AND enforcement would harass burdened party without benefiting neighbors. High bar. Touch and concern ✓ for residential use restrictions.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="260" width="330" x="6270" y="1280" as="geometry" />
+          <mxGeometry height="260" width="330" x="5720" y="1730" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-33" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#6c8ebf;" target="wbMthrpyru6KVFuQDRWG-34" value="Key Case">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-34" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Peckham v. Milroy&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Facts:&lt;/b&gt; Spokane Terrace Addition covenant prohibited home businesses. ~4 businesses violated it out of ~1600 lots. Milroy&#39;s family operated a daycare. Peckham sued to enjoin it.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Holding:&lt;/b&gt; Injunction granted. Covenant enforceable. A few violations do not constitute abandonment. Also: no laches (Peckham didn&#39;t unreasonably delay), no estoppel.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Rule:&lt;/b&gt; Abandonment requires &lt;i&gt;habitual and substantial&lt;/i&gt; violations — not just a few isolated ones. Touch and concern ✓ for restriction on use of land (home business ban). Residential covenants generally enforceable.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="260" width="330" x="5910" y="1580" as="geometry" />
+          <mxGeometry height="260" width="330" x="5100" y="1970" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-35" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#6c8ebf;" target="wbMthrpyru6KVFuQDRWG-36" value="Key Case">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-36" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Shelley v. Kraemer&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Facts:&lt;/b&gt; Neighborhood had covenant restricting occupancy to white residents. Shelleys (Black family) purchased a home. Kraemer sued to enforce the covenant and divest title.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Holding:&lt;/b&gt; State court enforcement of a racially restrictive covenant = state action = violates Equal Protection Clause of 14th Amendment. Injunction reversed.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Rule:&lt;/b&gt; Private parties may voluntarily abide by racially restrictive covenants (14th Am. doesn&#39;t reach purely private conduct). But a court using the &quot;full coercive power of government&quot; to enforce such a covenant IS state action and violates Equal Protection. Racially restrictive covenants are unenforceable.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="270" width="330" x="5410" y="1490" as="geometry" />
+          <mxGeometry height="270" width="330" x="4630" y="1930" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-37" edge="1" parent="b_5Vyli1u-a0vprJ2jxQ-1" source="wbMthrpyru6KVFuQDRWG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" target="wbMthrpyru6KVFuQDRWG-38" value="Special Doctrine">
           <mxGeometry relative="1" as="geometry" />
@@ -2762,11 +2865,11 @@
         <mxCell id="wbMthrpyru6KVFuQDRWG-38" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Reciprocal Negative Easements (Implied Covenants)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;When it arises:&lt;/b&gt; Common owner sells one lot with a restriction that benefits retained lots → restriction becomes MUTUAL and applies to all retained lots, even without explicit language in their deeds.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Charney Rule:&lt;/b&gt; Lots dedicated to same purpose (all residential, all retail) are &quot;so situated as to bear the relation.&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Must start with a common owner&lt;/b&gt; — cannot arise retroactively or from neighbors conforming to a plan without common grantor.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Can ONLY be enforced as equitable servitude&lt;/b&gt; — no explicit covenant in successor&#39;s chain of title, so real covenant theory unavailable.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Burden still must run:&lt;/b&gt; Intent ✓ + Touch &amp;amp; Concern ✓ + Notice (often inquiry notice from neighborhood character).&lt;/p&gt;" vertex="1">
           <mxGeometry height="320" width="360" x="6270" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="wbMthrpyru6KVFuQDRWG-39" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Defenses / Limits on Enforcement&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Changed Conditions (Bolotin):&lt;/b&gt; Covenant unenforceable if neighborhood changed so fundamentally that restriction is obsolete AND enforcement would harass burdened owner without benefiting neighbors.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Abandonment (Peckham):&lt;/b&gt; Covenant abandoned only if &lt;i&gt;habitually and substantially&lt;/i&gt; violated — a few violations are not enough.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Unconstitutional (Shelley):&lt;/b&gt; State court enforcement of racially restrictive covenants = Equal Protection violation.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;No T&amp;amp;C (Eagle/Mullendore):&lt;/b&gt; Covenant doesn&#39;t touch and concern → will not run at all.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="255" width="360" x="5630" y="1070" as="geometry" />
+        <mxCell id="wbMthrpyru6KVFuQDRWG-39" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Defenses / Limits on Enforcement&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Changed Conditions (&lt;i&gt;Bolotin&lt;/i&gt;):&lt;/b&gt; Covenant unenforceable if neighborhood (1) &lt;b&gt;changed so fundamentally that restriction is obsolete, (2)&amp;nbsp;&amp;nbsp;&lt;/b&gt;enforcement&lt;b&gt; would harass burdened owner&lt;/b&gt; without (3) &lt;b&gt;benefiting neighbor&lt;/b&gt;s.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Abandonment (&lt;i&gt;Peckham&lt;/i&gt;):&lt;/b&gt; Covenant &lt;b&gt;abandoned only if &lt;i&gt;habitually and substantially&lt;/i&gt; violated &lt;/b&gt;— a few violations are not enough.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Unconstitutional (&lt;i&gt;Shelley&lt;/i&gt;):&lt;/b&gt; State court enforcement of racially restrictive covenants = Equal Protection violation.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="220" width="360" x="5040" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="wbMthrpyru6KVFuQDRWG-40" parent="b_5Vyli1u-a0vprJ2jxQ-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Quick Comparison — All Four Combinations&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;table style=&quot;width:100%;border-collapse:collapse;font-size:11px;&quot;&gt;&lt;tr style=&quot;background:#ddd;&quot;&gt;&lt;th style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Element&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:3px;&quot;&gt;RC Burden&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:3px;&quot;&gt;RC Benefit&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:3px;&quot;&gt;ES Burden&lt;/th&gt;&lt;th style=&quot;border:1px solid #999;padding:3px;&quot;&gt;ES Benefit&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Horiz. Privity&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓ REQ&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Vert. Privity&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;STRICT&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;RELAXED&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Intent&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Touch &amp;amp; Concern&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;&quot;&gt;Notice&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✓ REQ&lt;/td&gt;&lt;td style=&quot;border:1px solid #999;padding:3px;text-align:center;&quot;&gt;✗&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
-          <mxGeometry height="220" width="480" x="5070" y="1820" as="geometry" />
+          <mxGeometry height="220" width="480" x="7420" y="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
