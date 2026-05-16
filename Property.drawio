@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="10">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" pages="11">
   <diagram name="Cases" id="2_EQEXVcH3BQ2j-ryPfi">
     <mxGraphModel dx="975" dy="1587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2405,7 +2405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Memorization " id="irQB7x1cT9ARjXW0VjAm">
-    <mxGraphModel dx="17015" dy="10870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="13562" dy="9194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kCzWolFlj8jR-KOEDqP6-0" />
         <mxCell id="kCzWolFlj8jR-KOEDqP6-1" parent="kCzWolFlj8jR-KOEDqP6-0" />
@@ -2509,6 +2509,116 @@
         <mxCell id="2dTURx0vMzerjw_7wB8P-2" parent="kCzWolFlj8jR-KOEDqP6-13" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
           <mxGeometry height="321" width="512" x="2572" as="geometry">
             <mxRectangle height="321" width="512" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Total of Memorization " id="S1M6cOsegTmyAi9iVqqp">
+    <mxGraphModel dx="13562" dy="9194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-0" />
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-1" parent="MZwgVMcbCs36qj6um5nQ-0" />
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-2" parent="MZwgVMcbCs36qj6um5nQ-1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="1110" width="3174" x="-12380" y="-8420" as="geometry" />
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-3" parent="MZwgVMcbCs36qj6um5nQ-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="370" width="3174" as="geometry" />
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-4" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Establishing ownership&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Body parts - Moore&lt;/div&gt;&lt;div&gt;[2] Malicious Interference - Keeble&lt;/div&gt;&lt;div&gt;[3] Quasi property in News - INS V AP&lt;/div&gt;&lt;div&gt;[4] Public/ voice - Midler&lt;/div&gt;&lt;div&gt;[5] Person beyond name &amp;amp; Voice - White&lt;/div&gt;&lt;div&gt;[6] Wild animals (industry standard) - Ghen&lt;/div&gt;&lt;div&gt;[7] Wild Animals (Manucatpure) - Perison&amp;nbsp;&lt;/div&gt;&lt;div&gt;[8] Abandoned Property - Haslem&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="533" as="geometry">
+            <mxRectangle height="370" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-5" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Bailments&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;(1) temporary transfer of possession of tangible personal property. (2) Once that purpose is achieved, the property must be returned to the bailor (3) Not legal title&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Consequence of bailment:&lt;/div&gt;&lt;div&gt;If property is lost, damaged, or stolen while in the bailee&#39;s possession → rebuttable presumption of negligence against the bailee. Burden shifts to bailee to rebut.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Creation - Allen&lt;/div&gt;&lt;div&gt;[2] Involuntary - Cowan&lt;/div&gt;&lt;div&gt;[3] Third part suit - Winkfeild&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="527" x="533" as="geometry">
+            <mxRectangle height="370" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-6" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Estates and Future Interests&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Life Estates Waste - Brokaw&lt;/div&gt;&lt;div&gt;[2] Defeasible Fees / Restraints on Alienation - Mountain Brow&lt;/div&gt;&lt;div&gt;[3] Restraints on Alienation - Morse&lt;/div&gt;&lt;div&gt;[4] Must add up to fee simple absolute (the full bundle) - Williams&amp;nbsp;&lt;/div&gt;&lt;div&gt;[5] Repugnant/ Numerous Clauses - Charles&amp;nbsp;&lt;/div&gt;&lt;div&gt;[6] RAP (No wait &amp;amp; see, No organizations as lives) - Symphony Space&lt;/div&gt;&lt;div&gt;[7] RAP (remedy for numerous clause violation) - City of Klamath&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="533" x="1060" as="geometry">
+            <mxRectangle height="370" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-7" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Landlord-Tenant Law&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Independent Covenants - Paradine&lt;/div&gt;&lt;div&gt;[2] Dependent covenants - Medico-dental&amp;nbsp;&lt;/div&gt;&lt;div&gt;[3] Constructive eviction - Blackett&amp;nbsp;&lt;/div&gt;&lt;div&gt;[4] Repudiation Surrender - Gotlieb&lt;/div&gt;&lt;div&gt;[5] Duty to Mitigate - Sommer&lt;/div&gt;&lt;div&gt;[6] Habitability - Javins&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="527" x="1593" as="geometry">
+            <mxRectangle height="370" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-8" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Concurrent Ownership&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] &amp;nbsp;Partition - Delfino&lt;/div&gt;&lt;div&gt;[2] Ouster - Gillmor&lt;/div&gt;&lt;div&gt;[3] Severance - Hams&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="527" x="2120" as="geometry">
+            <mxRectangle height="370" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-9" parent="MZwgVMcbCs36qj6um5nQ-3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="370" width="527" x="2647" as="geometry">
+            <mxRectangle height="370" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-10" parent="MZwgVMcbCs36qj6um5nQ-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="373" width="3174" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-11" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Sequential Possession&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;[1] Finder vs. Converter - Finder wins - &lt;i&gt;Amory&lt;/i&gt;&lt;/div&gt;&lt;div&gt;[2[ First Finder vs. Second Finder - &amp;nbsp;Finder 1 - &lt;i&gt;Clark&lt;/i&gt;&lt;/div&gt;&lt;div&gt;[3] Converter 1 vs. Converter 2 - Converter 1 - &lt;i&gt;Anderson&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="533" as="geometry">
+            <mxRectangle height="373" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-12" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Principle of Accession&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&amp;nbsp;Ownership of one thing is assigned to owner of another “thing”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Crops and vegetation -&amp;nbsp;&lt;/div&gt;&lt;div&gt;[2] Accretion vs. Avulsion - Nebraska&amp;nbsp;&lt;/div&gt;&lt;div&gt;[3] Fixtures (nailed to the wall) - Strain&lt;/div&gt;&lt;div&gt;[4] Mistaken Improvements - Producers Lumber&amp;nbsp;&lt;/div&gt;&lt;div&gt;[5] Doctrine of Accession - Wetherbee&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="527" x="533" as="geometry">
+            <mxRectangle height="373" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-13" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Adverse Possession&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Elements — OCEANS -&amp;nbsp;&lt;i&gt;Scott&lt;/i&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;O — Open and notorious&lt;/div&gt;&lt;div&gt;C — Continuous - &lt;i&gt;Howard&lt;/i&gt;&lt;/div&gt;&lt;div&gt;E — Exclusive&amp;nbsp;&lt;/div&gt;&lt;div&gt;A — Actual&amp;nbsp;&lt;/div&gt;&lt;div&gt;N — Nonpermissive - &lt;i&gt;Carpenter&lt;/i&gt;&lt;/div&gt;&lt;div&gt;S — Statutory period - &lt;i&gt;Songbyrd&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="533" x="1060" as="geometry">
+            <mxRectangle height="373" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-14" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font size=&quot;5&quot;&gt;Covanants, easements, Liens&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;[1] Easments and covenants - see other tab&lt;/div&gt;&lt;div&gt;[2] forfeiture vs. foreclosure - Skendzel&amp;nbsp;&lt;/div&gt;&lt;div&gt;[3] Assignment/ Restraints on alienation - Kendall&amp;nbsp;&lt;/div&gt;&lt;div&gt;[4] Eqitable Lien/ Mechanics Lien - Timmer&lt;/div&gt;&lt;div&gt;[5] Foreclosre - Murphy&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="527" x="1593" as="geometry">
+            <mxRectangle height="373" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-15" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Transfer of title and Finance&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Nemo Dat - KZW&lt;/div&gt;&lt;div&gt;[2] Recording Act - Race- Notice - Hood&lt;/div&gt;&lt;div&gt;[3] AP vs. GFPV - Mugaas&lt;/div&gt;&lt;div&gt;[4] Voidable title not GFPV - Kotis&lt;/div&gt;&lt;div&gt;[6] Equitable Title - Wood&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="527" x="2120" as="geometry">
+            <mxRectangle height="373" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-16" parent="MZwgVMcbCs36qj6um5nQ-10" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Gifts&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Inter vivos gifts/ Delivery Requirement - Irons&lt;/div&gt;&lt;div&gt;[2] Gift Causa Mortis - Foster&amp;nbsp;&lt;/div&gt;&lt;div&gt;[3] Deed delivery - Gilbert&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="373" width="527" x="2647" as="geometry">
+            <mxRectangle height="373" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-17" parent="MZwgVMcbCs36qj6um5nQ-2" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="367" width="3174" y="743" as="geometry" />
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-18" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="" vertex="1">
+          <mxGeometry height="367" width="533" as="geometry">
+            <mxRectangle height="367" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-19" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Limits on the Right to Exclude&lt;/font&gt;&lt;/b&gt;:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Fair Housing act - Roomates.com&lt;/div&gt;&lt;div&gt;[2] Necessity - Ploof&lt;/div&gt;&lt;div&gt;[3] Public Accommodations - Uston&amp;nbsp;&lt;/div&gt;&lt;div&gt;[4] Social interests &amp;amp; Health rights - Shack&lt;/div&gt;&lt;div&gt;[5] Racially Restrictive Covenants - Shelley&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="367" width="527" x="533" as="geometry">
+            <mxRectangle height="367" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-20" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Intentional Trespass&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The willful, (1) unauthorized entry onto another person&#39;s real property, (2) causing an invasion of their possessory interest.&lt;/div&gt;&lt;div&gt;(3) Clean hands&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[1] Injunction - Irreparable Harm - Pardee&lt;/div&gt;&lt;div&gt;[2] Injunction - Repeated trespass/ intangible damages - Baker&lt;/div&gt;&lt;div&gt;[3] Nominal damages support punitive damages - Jacque&lt;/div&gt;&lt;div&gt;[4] Ad Coelum Airspace - Hinman&lt;/div&gt;&lt;div&gt;[5] Ad Coelum Underground - Edwards&lt;/div&gt;&lt;div&gt;[6] Encroachment (absolute) - Pile&lt;/div&gt;&lt;div&gt;[7] Encroachment (equity) - Golden Press&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="367" width="533" x="1060" as="geometry">
+            <mxRectangle height="367" width="533" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-21" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" value="&lt;font&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Private Nuisance&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;A person’s property use (1) unreasonably and substantially interferes with a neighbor’s (2) right to use and enjoy their own land&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;[1] Unreasonableness - Hendriks&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: bold;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="367" width="527" x="1593" as="geometry">
+            <mxRectangle height="367" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-22" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="367" width="527" x="2120" as="geometry">
+            <mxRectangle height="367" width="527" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MZwgVMcbCs36qj6um5nQ-23" parent="MZwgVMcbCs36qj6um5nQ-17" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1">
+          <mxGeometry height="367" width="527" x="2647" as="geometry">
+            <mxRectangle height="367" width="527" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
