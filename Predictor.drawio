@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.5.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15" version="29.5.3" pages="6">
   <diagram name="Start" id="p9jjuLPY1rgUFIbl6gsx">
     <mxGraphModel dx="1691" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -558,6 +558,176 @@
         <mxCell id="bt-e18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#b85450;" edge="1" parent="1" source="bt-analyzer" target="bt-topic-analyzer"><mxGeometry relative="1" as="geometry" /></mxCell>
         <mxCell id="bt-e19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4f83cc;" edge="1" parent="1" source="bt-topic-analyzer" target="bt-output"><mxGeometry relative="1" as="geometry" /></mxCell>
         <mxCell id="bt-e20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;strokeColor=#4f83cc;" edge="1" parent="1" source="bt-pass" target="bt-output"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="JOE Backend Pipeline Flow" id="joe-backend-pipeline-flow">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="2400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- ===================== TITLE ===================== -->
+        <mxCell id="title" value="JOE — Judicial Outcome Engine&#10;Backend Pipeline Flow (app.py → pipeline.py → analyzer.py)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=20;fontColor=#1a1a1a;" vertex="1" parent="1">
+          <mxGeometry x="360" y="20" width="640" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- ===================== PHASE BANDS (background) ===================== -->
+        <mxCell id="band-ui" value="" style="rounded=1;fillColor=#dae8fc;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1320" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="band-cfg" value="" style="rounded=1;fillColor=#e1d5e7;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="1320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="band-search" value="" style="rounded=1;fillColor=#d5e8d4;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="1320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="band-pull" value="" style="rounded=1;fillColor=#d4e1f5;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="1320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="band-llm" value="" style="rounded=1;fillColor=#ffe6cc;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1190" width="1320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="band-stat" value="" style="rounded=1;fillColor=#f8cecc;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1570" width="1320" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="band-store" value="" style="rounded=1;fillColor=#f5f5f5;strokeColor=none;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1950" width="1320" height="300" as="geometry" />
+        </mxCell>
+
+        <!-- ===================== PHASE LABELS (left) ===================== -->
+        <mxCell id="lbl-ui" value="① REQUEST&#10;(Flask UI)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#1f4e79;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="20" y="195" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-cfg" value="② TOPIC → PARAMETERS&#10;(config resolution)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#6a1b9a;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="0" y="475" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-search" value="③ STAGE 1 — SEARCH&#10;(CourtListener)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#1b5e20;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="795" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-pull" value="④ STAGE 2 — PULL DOCS" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#1f4e79;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1075" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-llm" value="⑤ STAGE 3 — LLM&#10;(optional, Ollama)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#b8540a;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1335" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-stat" value="⑥ STAGE 4 — STATISTICS&#10;(always runs)" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=13;fontColor=#a02020;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="0" y="1715" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lbl-store" value="⑦ STORE + READ BACK" style="text;html=1;align=center;verticalAlign=middle;fontStyle=1;fontSize=12;fontColor=#555555;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2075" width="140" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- ===================== MAIN COLUMN NODES ===================== -->
+        <!-- ① REQUEST -->
+        <mxCell id="n1" value="START&#10;User picks Court → Judge → Topic&#10;(firm/index.html · firm/judge.html)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" value="POST /api/topic&#10;{ judge_slug, topic_name, topic_config? }&#10;app.py → api_add_topic()" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" value="Spawn background thread → run_pipeline()&#10;(returns {status: started} immediately;&#10;UI then polls /api/topic/status)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="320" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- ② TOPIC CONFIG -->
+        <mxCell id="n4" value="_normalize_topic_config()&#10;Look up topic in topic_catalog.json,&#10;deep-merge over DEFAULT_SEARCH_RECIPE&#10;+ DEFAULT_ANALYSIS_RECIPE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" value="save_topic() placeholder → status: searching&#10;data/topics/&lt;judge&gt;/&lt;topic&gt;.json" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="320" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- ③ SEARCH -->
+        <mxCell id="n6" value="_search_orders()&#10;_build_topic_query(): join query_terms with OR&#10;+ AND assignedTo:&lt;JudgeLastName&gt;&#10;GET CourtListener /search/ (paginated, rate-limited)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="670" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" value="_matches_topic_document() ?&#10;starts-with document_start_terms,&#10;not exclude_description_terms,&#10;contains include_description_terms" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="410" y="790" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" value="Collect up to MAX_ORDERS (25) order records&#10;{ case_name, docket, recap_document_id,&#10;date_filed, description, absolute_url }" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="930" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n8b" value="No matches →&#10;status: complete&#10;(empty result)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="820" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- ④ PULL DOCS -->
+        <mxCell id="n9" value="_pull_document()  (per order)&#10;GET CourtListener /recap-documents/ → plain_text&#10;FREE text only — never bills PACER&#10;status: pulling_documents" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e1f5;strokeColor=#6c8ebf;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1050" width="320" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- ⑤ LLM -->
+        <mxCell id="n10" value="_ollama_available() ?&#10;(localhost:11434)" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1210" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" value="_analyze_order()  (per doc, status: analyzing)&#10;Pass 1 → structured metadata as JSON&#10;(schema built from analysis_recipe fields)&#10;Pass 2 → reasoning questions (only if relevant)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1340" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" value="_build_patterns()  (award stats / outcome counts)&#10;_build_prediction()  (LLM-written legal memo)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1450" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n11b" value="Ollama OFF →&#10;mark orders analyzed = false&#10;(skip LLM, keep going)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1215" width="180" height="80" as="geometry" />
+        </mxCell>
+
+        <!-- ⑥ STATISTICS -->
+        <mxCell id="n13" value="analyzer.run_statistical_analysis()&#10;build_feature_matrix() → run ~15 analyzers&#10;(see panel on right). Each emits contributors[]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1590" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" value="_apply_fdr()  (multiple-comparison correction)&#10;_generate_summary()  (plain-English per finding)&#10;sort by influence, cap at MAX_CONTRIBUTORS (25)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1700" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" value="Returns contributors[] + analysis_audit&#10;(which analyzers ran / found / skipped)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1810" width="320" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- ⑦ STORE + READBACK -->
+        <mxCell id="n16" value="save_topic() → data/topics/&lt;judge&gt;/&lt;topic&gt;.json&#10;(strip document_text) · status: complete" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1970" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" value="UI reads back the JSON&#10;• firm/topic.html → patterns, prediction,&#10;  contributors + evidence (quotes, page cites)&#10;• /admin dashboard → audit + aggregates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2070" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" value="END" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2180" width="160" height="50" as="geometry" />
+        </mxCell>
+
+        <!-- ===================== SIDE ANNOTATIONS ===================== -->
+        <mxCell id="note-cfg" value="WHAT THE TOPIC SUPPLIES (the &quot;parameters&quot;)&#10;&#10;search recipe → query_terms, court, order_by,&#10;max_orders, document_start_terms,&#10;include / exclude_description_terms, query_filters&#10;&#10;analysis recipe → relevance_field, amount_fields,&#10;outcome_fields, reasoning_questions, excerpt_hints&#10;&#10;specific_factors → topic-specific scrutiny tags" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff;strokeColor=#9673a6;dashed=1;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="540" height="200" as="geometry" />
+        </mxCell>
+
+        <mxCell id="note-analyzers" value="STAGE 4 ANALYZERS (analyzer.py — all run, results merged)&#10;&#10;Outcome: grant_deny_rate · anchoring (award/request ratio) · temporal_trends&#10;Party: party_patterns (Fisher) · pro_se · attorney/firm patterns · moving_party&#10;Language: word_correlations (TF-IDF + Spearman) · judicial_sentiment&#10;Document: citation_patterns · document_complexity · order_length_outcome · statutory_basis&#10;Meta: seasonal&#10;Topic-specific: attorney_fee_hours_factors (only for Attorney's Fees topic)&#10;&#10;Each finding → { name, influence 0-1, direction, summary, evidence[], method, p_value, confidence }" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff;strokeColor=#b85450;dashed=1;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1585" width="540" height="230" as="geometry" />
+        </mxCell>
+
+        <mxCell id="note-external" value="EXTERNAL SERVICES&#10;• CourtListener REST v4 (search + recap-documents)&#10;  rate-limited 1.5s, retries on 429/5xx&#10;• Ollama (llama3) on localhost:11434 — optional" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff;strokeColor=#82b366;dashed=1;align=left;spacingLeft=8;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="800" y="690" width="540" height="90" as="geometry" />
+        </mxCell>
+
+        <!-- ===================== EDGES ===================== -->
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n1" target="n2"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n2" target="n3"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n3" target="n4"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n4" target="n5"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n5" target="n6"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n6" target="n7"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e7" value="keep" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="n7" target="n8"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e7b" value="none" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="n7" target="n8b"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n8" target="n9"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n9" target="n10"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e10" value="yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="n10" target="n11"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e10b" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;fontSize=10;" edge="1" parent="1" source="n10" target="n11b"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n11" target="n12"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n12" target="n13"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e11b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;" edge="1" parent="1" source="n11b" target="n13"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n13" target="n14"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n14" target="n15"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n15" target="n16"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n16" target="n17"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" edge="1" parent="1" source="n17" target="n18"><mxGeometry relative="1" as="geometry" /></mxCell>
+
       </root>
     </mxGraphModel>
   </diagram>
