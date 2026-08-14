@@ -1,0 +1,347 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="Chat Chart" id="YdbTbg2rrKtoRSOyQpf8">
+    <mxGraphModel dx="3334" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1400" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1F4E78;fontColor=#FFFFFF;strokeColor=#163A5C;fontStyle=1;fontSize=18;" value="CONSTITUTIONAL LAW DECISION TREE" vertex="1">
+          <mxGeometry height="60" width="440" x="780" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="start" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#D9EAF7;strokeColor=#1F4E78;fontStyle=1;fontSize=14;" value="What constitutional issue is presented?" vertex="1">
+          <mxGeometry height="150" width="460" x="690" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gate" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontStyle=1;fontSize=14;" value="GATEKEEPING&#xa;Can a federal court decide the case?" vertex="1">
+          <mxGeometry height="80" width="330" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="merits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;fontSize=14;" value="MERITS&#xa;Whose action is being challenged?" vertex="1">
+          <mxGeometry height="80" width="330" x="1190" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="judicialReview" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EAF6;strokeColor=#9673A6;" value="Judicial review" vertex="1">
+          <mxGeometry height="60" width="190" x="-210" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jurisdiction" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EAF6;strokeColor=#9673A6;" value="Federal jurisdiction" vertex="1">
+          <mxGeometry height="60" width="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="caseControversy" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EAF6;strokeColor=#9673A6;" value="Article III case or controversy" vertex="1">
+          <mxGeometry height="60" width="220" x="210" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="otherLimits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3EAF6;strokeColor=#9673A6;" value="Other judicial limits" vertex="1">
+          <mxGeometry height="60" width="190" x="450" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="standing" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="Standing&#xa;Injury, causation, redressability" vertex="1">
+          <mxGeometry height="70" width="200" x="110" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="timing" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="Ripeness and mootness" vertex="1">
+          <mxGeometry height="70" width="190" x="240" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="advisory" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="Advisory opinions prohibited" vertex="1">
+          <mxGeometry height="70" width="200" x="-30" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="politicalQuestion" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="Political question" vertex="1">
+          <mxGeometry height="70" width="190" x="430" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="sovereignImmunity" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="State sovereign immunity" vertex="1">
+          <mxGeometry height="70" width="200" x="560" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="stateGrounds" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;" value="Adequate and independent state grounds" vertex="1">
+          <mxGeometry height="70" width="200" x="650" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="congress" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontStyle=1;" value="Congress" vertex="1">
+          <mxGeometry height="60" width="170" x="940" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="executive" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontStyle=1;" value="President or executive" vertex="1">
+          <mxGeometry height="60" width="190" x="1130" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="state" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" value="State or local government" vertex="1">
+          <mxGeometry height="60" width="200" x="1340" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="private" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontStyle=1;" value="Private actor" vertex="1">
+          <mxGeometry height="60" width="170" x="1560" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="federalCourt" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontStyle=1;" value="Federal judiciary" vertex="1">
+          <mxGeometry height="60" width="170" x="1750" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="congressAuthority" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#6C8EBF;" value="1. Source of authority&#xa;Commerce, taxing, spending, Reconstruction Amendments, other enumerated powers" vertex="1">
+          <mxGeometry height="100" width="250" x="900" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="congressLimits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2F8;strokeColor=#6C8EBF;" value="2. Structural limits&#xa;Anti-commandeering, sovereign immunity, equal state sovereignty, separation of powers" vertex="1">
+          <mxGeometry height="110" width="250" x="900" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="executiveAuthority" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE8E6;strokeColor=#B85450;" value="1. Source of authority&#xa;Article II power, statutory authority, or claimed inherent power" vertex="1">
+          <mxGeometry height="100" width="250" x="1170" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="executiveLimits" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE8E6;strokeColor=#B85450;" value="2. Structural limits&#xa;Execution of law, appointments, removal, nondelegation, legislative veto" vertex="1">
+          <mxGeometry height="110" width="250" x="1170" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="stateFederal" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF4E8;strokeColor=#82B366;" value="1. Federal constraints&#xa;Federal immunity and preemption" vertex="1">
+          <mxGeometry height="90" width="250" x="1440" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="stateStructural" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF4E8;strokeColor=#82B366;" value="2. Interstate constraints&#xa;Dormant Commerce Clause, Article IV privileges and immunities, full faith and credit" vertex="1">
+          <mxGeometry height="110" width="250" x="1440" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="stateAction" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D79B00;" value="Is the private conduct fairly attributable to government?" vertex="1">
+          <mxGeometry height="100" width="220" x="1720" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="rights" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontStyle=1;fontSize=14;" value="RIGHTS CONSTRAINTS&#xa;State action, incorporation, takings, contracts, and ex post facto" vertex="1">
+          <mxGeometry height="90" width="400" x="1150" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="validity" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#D9EAD3;strokeColor=#82B366;fontStyle=1;fontSize=14;" value="Is the action constitutionally valid?" vertex="1">
+          <mxGeometry height="110" width="320" x="1190" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="valid" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;fontStyle=1;" value="VALID&#xa;Government action may stand" vertex="1">
+          <mxGeometry height="80" width="250" x="1020" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="invalid" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontStyle=1;" value="INVALID OR BARRED&#xa;Dismissal, invalidation, preemption, injunction, or compensation" vertex="1">
+          <mxGeometry height="80" width="310" x="1430" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="title" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="start">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="gate" value="Procedure">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="merits" value="Substance">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="gate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="judicialReview">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="gate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="jurisdiction">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="gate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="caseControversy">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="gate" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="otherLimits">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="caseControversy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="standing">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="caseControversy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="timing">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="caseControversy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="advisory">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="otherLimits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="politicalQuestion">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="otherLimits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="sovereignImmunity">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="otherLimits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="stateGrounds">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="merits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="congress">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="merits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="executive">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="merits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="state">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="merits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="private">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="merits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="federalCourt">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="congress" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="congressAuthority">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e20" edge="1" parent="1" source="congressAuthority" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="congressLimits">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e21" edge="1" parent="1" source="executive" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="executiveAuthority">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e22" edge="1" parent="1" source="executiveAuthority" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="executiveLimits">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" edge="1" parent="1" source="state" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="stateFederal">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e24" edge="1" parent="1" source="stateFederal" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="stateStructural">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e25" edge="1" parent="1" source="private" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="stateAction">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e26" edge="1" parent="1" source="stateAction" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="rights" value="Yes">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1850" y="945.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e27" edge="1" parent="1" source="congressLimits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="rights">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e28" edge="1" parent="1" source="executiveLimits" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="rights">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e29" edge="1" parent="1" source="stateStructural" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="rights">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e30" edge="1" parent="1" source="rights" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="validity">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e31" edge="1" parent="1" source="validity" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="valid" value="Yes">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e32" edge="1" parent="1" source="validity" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;" target="invalid" value="No">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YBndJxFQYHXavsf2nA6j-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="320" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LRDWLJveA82CAuhTjQ3T" name="Main">
+    <mxGraphModel dx="1621" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e3ATHgwVvUqlWDtMOqMw-2" edge="1" parent="1" source="etZlYf6G8s0ghMiELZu9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="e3ATHgwVvUqlWDtMOqMw-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbyqoFAK4wlhKFXqEEDD-2" edge="1" parent="1" source="etZlYf6G8s0ghMiELZu9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wbyqoFAK4wlhKFXqEEDD-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt4zWLoXHEJnJIVkgnx4-2" edge="1" parent="1" source="etZlYf6G8s0ghMiELZu9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nt4zWLoXHEJnJIVkgnx4-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt4zWLoXHEJnJIVkgnx4-4" edge="1" parent="1" source="etZlYf6G8s0ghMiELZu9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nt4zWLoXHEJnJIVkgnx4-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="etZlYf6G8s0ghMiELZu9-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Justiciability&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Can a federal court decide the case?&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-150" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="mwHiwLkasjSGDH4zafVs-2" edge="1" parent="1" source="dWJ1Cb0RJoGaDQKs3kq7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="etZlYf6G8s0ghMiELZu9-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TlQAeC91UR1d6mD_QkgX-1" connectable="0" parent="mwHiwLkasjSGDH4zafVs-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;fontColor=light-dark(#000000,#007FFF);" value="Procedural&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.1333" y="6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mwHiwLkasjSGDH4zafVs-6" edge="1" parent="1" source="dWJ1Cb0RJoGaDQKs3kq7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="mwHiwLkasjSGDH4zafVs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwHiwLkasjSGDH4zafVs-7" connectable="0" parent="mwHiwLkasjSGDH4zafVs-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=light-dark(#000000,#00FF00);fontSize=25;" value="Substantive" vertex="1">
+          <mxGeometry relative="1" x="-0.043" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dWJ1Cb0RJoGaDQKs3kq7-1" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Procedural&amp;nbsp;&lt;/div&gt;&lt;div&gt;or&amp;nbsp;&lt;/div&gt;&lt;div&gt;Substantive&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="880" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zro83F7A7ppxDVN71zXz-2" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Zro83F7A7ppxDVN71zXz-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zro83F7A7ppxDVN71zXz-4" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Zro83F7A7ppxDVN71zXz-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-1" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Zro83F7A7ppxDVN71zXz-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-3" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="trwTnap5nNNNJ9LY1Ze5-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-5" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="trwTnap5nNNNJ9LY1Ze5-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-7" edge="1" parent="1" source="mwHiwLkasjSGDH4zafVs-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="trwTnap5nNNNJ9LY1Ze5-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mwHiwLkasjSGDH4zafVs-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#33FF33);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Branch/ Gov structure&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1630" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="e3ATHgwVvUqlWDtMOqMw-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Judicial Review&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-740" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wbyqoFAK4wlhKFXqEEDD-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-480" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-2" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WHERN0xCCkAgjsJvcbfB-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-4" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WHERN0xCCkAgjsJvcbfB-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-6" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WHERN0xCCkAgjsJvcbfB-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt4zWLoXHEJnJIVkgnx4-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Other judicial limits&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="550" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-2" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_u2a6fdeNUoDmD9cWA5r-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-4" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_u2a6fdeNUoDmD9cWA5r-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-6" edge="1" parent="1" source="nt4zWLoXHEJnJIVkgnx4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_u2a6fdeNUoDmD9cWA5r-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nt4zWLoXHEJnJIVkgnx4-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Article III case or controversy&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-60" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Advisory opinions prohibited&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-280" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Ripeness and mootness&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="130" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="_u2a6fdeNUoDmD9cWA5r-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Standing&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Injury, causation, redressability&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="-60" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Adequate and independent state grounds&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="520" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;State sovereign immunity&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="710" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="WHERN0xCCkAgjsJvcbfB-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Political question&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="410" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie_cqpkzcgPj4xVaPg88-2" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ie_cqpkzcgPj4xVaPg88-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zro83F7A7ppxDVN71zXz-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Congress&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1100" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="Zro83F7A7ppxDVN71zXz-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;President or executive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1380" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal Judiciary&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="2240" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Private Actor&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1960" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;State or local government&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="1670" y="445" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie_cqpkzcgPj4xVaPg88-4" edge="1" parent="1" source="Ie_cqpkzcgPj4xVaPg88-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ie_cqpkzcgPj4xVaPg88-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie_cqpkzcgPj4xVaPg88-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;1. Source of authority&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Commerce, taxing, spending, Reconstruction Amendments, other enumerated powers&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="1100" y="585" as="geometry" />
+        </mxCell>
+        <mxCell id="CHWqvyb-mdJquaaszREz-2" edge="1" parent="1" source="Ie_cqpkzcgPj4xVaPg88-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CHWqvyb-mdJquaaszREz-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ie_cqpkzcgPj4xVaPg88-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Structural limits&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Anti-commandeering, sovereign immunity, equal state sovereignty, separation of powers&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="1100" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="CHWqvyb-mdJquaaszREz-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Structural limits&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Anti-commandeering, sovereign immunity, equal state sovereignty, separation of powers&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="1460" y="1020" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
