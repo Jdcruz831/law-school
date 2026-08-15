@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRDWLJveA82CAuhTjQ3T" name="Main">
-    <mxGraphModel dx="2042" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2837" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,7 +405,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C7ZAWZG5jA59ftulppse-12" edge="1" parent="1" source="C7ZAWZG5jA59ftulppse-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-11" value="">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3040" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="C7ZAWZG5jA59ftulppse-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal Jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;All cases under:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- constitution&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- federal law &lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- treaties&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- US foreign&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- states&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- citizens of different states&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="260" x="2550" y="670" as="geometry" />
@@ -426,7 +430,7 @@
           <mxGeometry height="160" width="270" x="1190" y="700" as="geometry" />
         </mxCell>
         <mxCell id="C7ZAWZG5jA59ftulppse-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Marbury v. Madison&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;Did Marbury have a right to his commission?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Because President Adams had signed the commission and Marshall had fixed the seal the appointment was fixed, delivery was not important.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2)&amp;nbsp;Did the law afford him a remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Yes, Distinguishing between&amp;nbsp;political discretionary acts, and&amp;nbsp;ministerial duties, a writ of mandamus was the appropriate remedy&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)&amp;nbsp;Could the Supreme Court issue this remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;No, because a none of the subjects satisfied original Supreme Court jurisdiction.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Basically, the Supreme Court was weak at the time and would have lost a direct battle so this was a light slap on the wrist without claiming any actual power.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="270" width="460" x="2750" y="1010" as="geometry" />
+          <mxGeometry height="270" width="460" x="2840" y="1000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
