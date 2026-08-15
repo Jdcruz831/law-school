@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRDWLJveA82CAuhTjQ3T" name="Main">
-    <mxGraphModel dx="2252" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2042" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
         <mxCell id="mwHiwLkasjSGDH4zafVs-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#33FF33);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Branch/ Gov structure&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="260" x="1630" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="e3ATHgwVvUqlWDtMOqMw-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Judicial Review&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+        <mxCell id="e3ATHgwVvUqlWDtMOqMw-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Judicial Review&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Marbury v. Madison&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="220" x="-740" y="450" as="geometry" />
         </mxCell>
         <mxCell id="wbyqoFAK4wlhKFXqEEDD-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
@@ -308,94 +308,77 @@
         <mxCell id="WHERN0xCCkAgjsJvcbfB-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Political question&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="220" x="330" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="Ie_cqpkzcgPj4xVaPg88-2" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ie_cqpkzcgPj4xVaPg88-1" value="">
+        <mxCell id="VnUh7WXpyQBxISHIVkcm-4" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="VnUh7WXpyQBxISHIVkcm-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-8" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-10" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zro83F7A7ppxDVN71zXz-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Congress&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="1100" y="445" as="geometry" />
+          <mxGeometry height="60" width="260" x="1230" y="390" as="geometry" />
         </mxCell>
         <mxCell id="BGc7lD57Ki6qzEAXqSo7-8" edge="1" parent="1" source="Zro83F7A7ppxDVN71zXz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="BGc7lD57Ki6qzEAXqSo7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zro83F7A7ppxDVN71zXz-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;President or executive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="1380" y="445" as="geometry" />
+          <mxGeometry height="60" width="260" x="1740" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="trwTnap5nNNNJ9LY1Ze5-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal Judiciary&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="2240" y="445" as="geometry" />
+        <mxCell id="C7ZAWZG5jA59ftulppse-2" edge="1" parent="1" source="trwTnap5nNNNJ9LY1Ze5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trwTnap5nNNNJ9LY1Ze5-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;The Judicial Branch&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Article III&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="260" x="2780" y="530" as="geometry" />
         </mxCell>
         <mxCell id="4vYdQHaqYCOK-b5f9JWH-1" edge="1" parent="1" source="trwTnap5nNNNJ9LY1Ze5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Dl7VRpb6G9hFuAXCOx6J-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="trwTnap5nNNNJ9LY1Ze5-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Private Actor&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="1960" y="445" as="geometry" />
+          <mxGeometry height="60" width="260" x="3340" y="535" as="geometry" />
         </mxCell>
         <mxCell id="P6bHtFwlfzfMRQiJOZn6-5" edge="1" parent="1" source="trwTnap5nNNNJ9LY1Ze5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="P6bHtFwlfzfMRQiJOZn6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="trwTnap5nNNNJ9LY1Ze5-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;State or local government&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="260" x="1670" y="445" as="geometry" />
-        </mxCell>
-        <mxCell id="Ie_cqpkzcgPj4xVaPg88-4" edge="1" parent="1" source="Ie_cqpkzcgPj4xVaPg88-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ie_cqpkzcgPj4xVaPg88-3" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ie_cqpkzcgPj4xVaPg88-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;1. Source of authority&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Commerce, taxing, spending, Reconstruction Amendments, other enumerated powers&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1100" y="585" as="geometry" />
+          <mxGeometry height="60" width="260" x="2110" y="530" as="geometry" />
         </mxCell>
         <mxCell id="CHWqvyb-mdJquaaszREz-2" edge="1" parent="1" source="BGc7lD57Ki6qzEAXqSo7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CHWqvyb-mdJquaaszREz-1" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JnIU2HD8rewXe7TSCXUi-1" edge="1" parent="1" source="Ie_cqpkzcgPj4xVaPg88-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CHWqvyb-mdJquaaszREz-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ie_cqpkzcgPj4xVaPg88-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Structural limits&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Anti-commandeering, sovereign immunity, equal state sovereignty, separation of powers&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1100" y="725" as="geometry" />
         </mxCell>
         <mxCell id="DCLQwbQrvWQ1PgwcfHOO-2" edge="1" parent="1" source="CHWqvyb-mdJquaaszREz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DCLQwbQrvWQ1PgwcfHOO-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CHWqvyb-mdJquaaszREz-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Rights&amp;nbsp;Constraints&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;State action, incorporation, takings, contracts, and ex post facto&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1730" y="970" as="geometry" />
+          <mxGeometry height="75" width="260" x="1970" y="1440" as="geometry" />
         </mxCell>
         <mxCell id="BGc7lD57Ki6qzEAXqSo7-7" edge="1" parent="1" source="BGc7lD57Ki6qzEAXqSo7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="BGc7lD57Ki6qzEAXqSo7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BGc7lD57Ki6qzEAXqSo7-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;1. Source of authority&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Article II power, statutory authority, or claimed inherent power&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1380" y="585" as="geometry" />
+          <mxGeometry height="75" width="260" x="1820" y="670" as="geometry" />
         </mxCell>
         <mxCell id="BGc7lD57Ki6qzEAXqSo7-5" edge="1" parent="1" source="BGc7lD57Ki6qzEAXqSo7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CHWqvyb-mdJquaaszREz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BGc7lD57Ki6qzEAXqSo7-6" edge="1" parent="1" source="Ie_cqpkzcgPj4xVaPg88-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="BGc7lD57Ki6qzEAXqSo7-3" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1360" y="762" as="sourcePoint" />
-            <mxPoint x="1590" y="1020" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BGc7lD57Ki6qzEAXqSo7-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Structural limits&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Execution of law, appointments, removal, nondelegation, legislative veto&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1380" y="725" as="geometry" />
+          <mxGeometry height="75" width="260" x="1820" y="810" as="geometry" />
         </mxCell>
         <mxCell id="P6bHtFwlfzfMRQiJOZn6-4" edge="1" parent="1" source="P6bHtFwlfzfMRQiJOZn6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P6bHtFwlfzfMRQiJOZn6-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P6bHtFwlfzfMRQiJOZn6-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;1.&amp;nbsp;Federal constraints&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Federal immunity and preemption&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1670" y="580" as="geometry" />
+          <mxGeometry height="75" width="260" x="2110" y="665" as="geometry" />
         </mxCell>
         <mxCell id="JnIU2HD8rewXe7TSCXUi-2" edge="1" parent="1" source="P6bHtFwlfzfMRQiJOZn6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CHWqvyb-mdJquaaszREz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P6bHtFwlfzfMRQiJOZn6-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Interstate constraints&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Dormant Commerce Clause, Article IV privileges and immunities, full faith and credit&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1670" y="725" as="geometry" />
-        </mxCell>
-        <mxCell id="4vYdQHaqYCOK-b5f9JWH-2" edge="1" parent="1" source="Dl7VRpb6G9hFuAXCOx6J-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="CHWqvyb-mdJquaaszREz-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2090" y="840" />
-              <mxPoint x="1860" y="840" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry height="75" width="260" x="2110" y="810" as="geometry" />
         </mxCell>
         <mxCell id="Dl7VRpb6G9hFuAXCOx6J-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Is the private conduct fairly attributable to government?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1960" y="580" as="geometry" />
+          <mxGeometry height="75" width="260" x="3340" y="670" as="geometry" />
         </mxCell>
         <mxCell id="m21zLp2D5HnSFMUgFu6T-2" edge="1" parent="1" source="DCLQwbQrvWQ1PgwcfHOO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="m21zLp2D5HnSFMUgFu6T-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -404,13 +387,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DCLQwbQrvWQ1PgwcfHOO-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Is the action constitutionally valid?&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1730" y="1125" as="geometry" />
+          <mxGeometry height="75" width="260" x="1970" y="1595" as="geometry" />
         </mxCell>
         <mxCell id="m21zLp2D5HnSFMUgFu6T-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Yes&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Government action may stand&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1580" y="1280" as="geometry" />
+          <mxGeometry height="75" width="260" x="1820" y="1750" as="geometry" />
         </mxCell>
         <mxCell id="RR2lPYO-oQIuxwJLfO0c-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;No&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Dismissal, invalidation, preemption, injunction, or compensation&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="75" width="260" x="1900" y="1280" as="geometry" />
+          <mxGeometry height="75" width="260" x="2140" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="VnUh7WXpyQBxISHIVkcm-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Prohibitions on Federal Power&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Article 1&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Writ of Habeas Corpus&lt;/i&gt; - Right to see a judge&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Bills of Attainder&lt;/i&gt; - Use legislative power to declare guilty without trial&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;ex post facto laws&lt;/i&gt; - law after the offense&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="320" x="1460" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-4" edge="1" parent="1" source="C7ZAWZG5jA59ftulppse-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-6" edge="1" parent="1" source="C7ZAWZG5jA59ftulppse-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-12" edge="1" parent="1" source="C7ZAWZG5jA59ftulppse-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C7ZAWZG5jA59ftulppse-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Federal Jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;All cases under:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- constitution&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- federal law &lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- treaties&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- US foreign&lt;/span&gt; &lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- states&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- citizens of different states&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="260" x="2550" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-13" edge="1" parent="1" source="C7ZAWZG5jA59ftulppse-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="C7ZAWZG5jA59ftulppse-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Original Jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;All cases under:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- ambassadors&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;public ministers &lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;and consuls&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;a State is a party;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="260" x="2380" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Appellate&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;Jurisdiction&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;All cases under:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- All others subject to limitation congress &lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="260" x="2690" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Elections and Operations&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;States prescribe the times, places, and manner of holding congressional elections, though Congress may alter these regulations&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="95" width="260" x="970" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Congress&#39;s powers&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;lay and collect taxes,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;borrow money,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;regulate commerce with foreign nations and among the states (the Commerce Clause), &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;establish bankruptcy laws&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;coin money&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;establish post offices&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;declare war,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;and raise and support military forces&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="270" x="1190" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="C7ZAWZG5jA59ftulppse-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Marbury v. Madison&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;Did Marbury have a right to his commission?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Because President Adams had signed the commission and Marshall had fixed the seal the appointment was fixed, delivery was not important.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2)&amp;nbsp;Did the law afford him a remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Yes, Distinguishing between&amp;nbsp;political discretionary acts, and&amp;nbsp;ministerial duties, a writ of mandamus was the appropriate remedy&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)&amp;nbsp;Could the Supreme Court issue this remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;No, because a none of the subjects satisfied original Supreme Court jurisdiction.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Basically, the Supreme Court was weak at the time and would have lost a direct battle so this was a light slap on the wrist without claiming any actual power.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="270" width="460" x="2750" y="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
