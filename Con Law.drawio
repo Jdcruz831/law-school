@@ -201,7 +201,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LRDWLJveA82CAuhTjQ3T" name="Main">
-    <mxGraphModel dx="2603" dy="2309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -411,6 +411,9 @@
         </mxCell>
         <mxCell id="RR2lPYO-oQIuxwJLfO0c-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;No&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Dismissal, invalidation, preemption, injunction, or compensation&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="75" width="260" x="1900" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="i0imqfmu6v1MiI4Ahbun-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Articles of Confederation&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Preemptive gov structure to our modern-day constitution, federal govemert was weak because:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) No ability to tax&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) No ability to make treaties&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) No adjudication between states&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="350" x="820" y="-570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
