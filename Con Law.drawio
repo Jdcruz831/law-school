@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram id="6-2aIO7piv_nuY-y86mh" name="Constitution ">
-    <mxGraphModel dx="2042" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,11 +136,41 @@
         <mxCell id="C0olnXspH3CQYHDvb34H-9" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="C0olnXspH3CQYHDvb34H-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-12" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C0olnXspH3CQYHDvb34H-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Blocks States from being Sued Federally&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;by Citizens of another State&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Citizens or Subjects of any Foreign State&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;and -&amp;nbsp;suing their own state (&lt;i&gt;Hans v. Louisiana&lt;/i&gt; (1890))&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="1430" y="1840" as="geometry" />
+          <mxGeometry height="110" width="400" x="1610" y="1840" as="geometry" />
         </mxCell>
         <mxCell id="C0olnXspH3CQYHDvb34H-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#FFFFFF);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Arms of the State&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Galette v. New Jersey Transit Corp&lt;/i&gt;&lt;b style=&quot;text-decoration-line: underline;&quot;&gt;.&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Consider:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- Legal Separateness &amp;amp; Corporate Form: Corporate form is the&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;power to sue and be sued, hold property, and contract&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;-  Financial Liability: Would a judgment come out of the state coffers&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;- &lt;/span&gt;State Control: like school boards&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="420" x="1270" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-14" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-16" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-18" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-20" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Bypassing State Sovereign Immunity&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;1. State Consent&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;2. Implicit Consent&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;3. Appeals of State Court Judgments&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;4. Congressional Abrogation&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="400" x="1800" y="2060" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;State Consent &amp;amp; Waiver&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="260" x="1460" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Implicit Consent&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="1740" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Congressional Abrogation&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="260" x="2400" y="2320" as="geometry" />
+        </mxCell>
+        <mxCell id="C0olnXspH3CQYHDvb34H-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Appeals of State Court Judgments&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="270" x="2090" y="2320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
