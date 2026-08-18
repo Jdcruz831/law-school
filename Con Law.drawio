@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram id="6-2aIO7piv_nuY-y86mh" name="Constitution ">
-    <mxGraphModel dx="1843" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qmnBMAegnWpMgDC_wxlf-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Section 13 of the Judiciary Act&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Marbury v. Madison&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Did Marbury have a right to his commission?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Because President Adams had signed the commission and Marshall had fixed the seal the appointment was fixed, delivery was not important.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Did the law afford him a remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Yes, Distinguishing between political discretionary acts, and ministerial duties, a writ of mandamus was the appropriate remedy&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Could the Supreme Court issue this remedy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;No, because the original jurisdiction of A3 §2 was contradictory to Section 13 of the Judiciary act, and the constitution was the supreme law of the land. Thus Section 13 of JA was struck down&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Basically, the Supreme Court was weak at the time and would have lost a direct battle so this was a light slap on the wrist without claiming any actual power.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="323.75" width="400" x="1030" y="1460" as="geometry" />
+          <mxGeometry height="323.75" width="400" x="970" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="9A686LOlzWrqTdymGBHn-1" edge="1" parent="1" source="9A686LOlzWrqTdymGBHn-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="9A686LOlzWrqTdymGBHn-3" value="">
           <mxGeometry relative="1" as="geometry" />
