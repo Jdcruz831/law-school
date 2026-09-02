@@ -57,17 +57,20 @@
         <mxCell id="XDFivQQymPn6_W2-JGWK-25" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XDFivQQymPn6_W2-JGWK-27" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-26" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-30" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="XDFivQQymPn6_W2-JGWK-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-32" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-34" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-37" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-36" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0XuRoIDHrA27UM8weoBv-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Municipal Liability &amp;amp; Section 1983 Policy/Custom&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: Mission City is liable under § 1983 because its City Council—the final policymaking body—voted to deny the Nguyens just compensation, thereby officially executing the municipal policy that completed the Fifth Amendment violation [JA 3–4, 28]. The Defense: There was no municipal policy to raid the wrong home, and the City cannot be held liable under a vicarious liability (respondeat superior) theory [JA 28, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="620" y="570" as="geometry" />
+          <mxGeometry height="140" width="430" x="590" y="480" as="geometry" />
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Fourth Claim for Relief (Unjust Enrichment against Defendant Mission City)&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Fourth Claim for Relief (Unjust Enrichment against Defendant Mission City): A common-law equitable claim alleging that Mission City received a measurable benefit by entering and using the Nguyens&#39; home without their consent, which is unjust for the City to retain without restitution [JA 4, 29].&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="430" x="1130" y="570" as="geometry" />
@@ -110,6 +113,18 @@
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;State and local law dictate whether an official possesses final policymaking authority&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;St. Louis v. Praprotnik (1988)&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="290" x="890" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-35" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="817" y="710" as="sourcePoint" />
+            <mxPoint x="720" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-33" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&quot;deliberate indifference&quot; standard for establishing municipal liability&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Board of County Commissioners of Bryan County v. Brown (1997)&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="320" x="875" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-36" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Failure to train police officers can serve as a municipal policy&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;City of Canton v. Harris (1989)&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="340" x="610" y="805" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
