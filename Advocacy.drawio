@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="H_84wRWnaOw5oxKyntyM">
-    <mxGraphModel dx="3403" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,9 @@
         <mxCell id="0XuRoIDHrA27UM8weoBv-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Fifth Amendment Inverse Condemnation&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: The SWAT team&#39;s physical destruction of the Nguyens&#39; home ($112,678 in damages) to execute a warrant was a public &quot;taking&quot; of private property for public use, requiring &quot;just compensation&quot; under the Fifth Amendment [JA 3]. The Defense: Tactical law enforcement damage is a non-compensable exercise of the state&#39;s emergency Police Power (or necessity), which operates as an exception to the Takings Clause [JA 9, 26, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="430" x="-10" y="570" as="geometry" />
         </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-25" edge="1" parent="1" source="0XuRoIDHrA27UM8weoBv-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="XDFivQQymPn6_W2-JGWK-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0XuRoIDHrA27UM8weoBv-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Municipal Liability &amp;amp; Section 1983 Policy/Custom&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: Mission City is liable under § 1983 because its City Council—the final policymaking body—voted to deny the Nguyens just compensation, thereby officially executing the municipal policy that completed the Fifth Amendment violation [JA 3–4, 28]. The Defense: There was no municipal policy to raid the wrong home, and the City cannot be held liable under a vicarious liability (respondeat superior) theory [JA 28, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="430" x="620" y="570" as="geometry" />
         </mxCell>
@@ -79,13 +82,16 @@
           <mxGeometry height="70" width="300" x="-240" y="780" as="geometry" />
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;per se physical taking&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Cedar Point Nursery v. Hassid (2021)&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="70" width="330" x="-150" y="880" as="geometry" />
+          <mxGeometry height="70" width="330" x="-160" y="865" as="geometry" />
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Pursue Fifth Amendment remedies&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Devillier v. Texas (2024&lt;/i&gt;)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="70" width="270" x="-10" y="980" as="geometry" />
         </mxCell>
         <mxCell id="XDFivQQymPn6_W2-JGWK-22" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;SWAT damage does not constitute a compensable taking under the Fifth Amendment.&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Baker v. City of McKinney (5th Cir. 2023)&amp;nbsp;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="340" x="220" y="860" as="geometry" />
+          <mxGeometry height="100" width="340" x="220" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="XDFivQQymPn6_W2-JGWK-24" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Monell v. Department of Social Services (1978)&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="290" x="620" y="790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
