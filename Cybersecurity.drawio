@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="eQ63vEEr3_a5rrY95_Bc">
-    <mxGraphModel dx="2892" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,14 @@
         <mxCell id="us_CvvVvdu692c3TlEkv-16" edge="1" parent="1" source="us_CvvVvdu692c3TlEkv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="us_CvvVvdu692c3TlEkv-15" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RxFAWItDkVmXLz-C5p4G-2" edge="1" parent="1" source="us_CvvVvdu692c3TlEkv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RxFAWItDkVmXLz-C5p4G-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RxFAWItDkVmXLz-C5p4G-4" edge="1" parent="1" source="us_CvvVvdu692c3TlEkv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RxFAWItDkVmXLz-C5p4G-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="us_CvvVvdu692c3TlEkv-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Private sector data security laws&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="340" x="-150" y="420" as="geometry" />
+          <mxGeometry height="100" width="340" x="80" y="420" as="geometry" />
         </mxCell>
         <mxCell id="us_CvvVvdu692c3TlEkv-8" edge="1" parent="1" source="us_CvvVvdu692c3TlEkv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="us_CvvVvdu692c3TlEkv-7" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +56,7 @@
           <mxGeometry height="100" width="340" x="-390" y="670" as="geometry" />
         </mxCell>
         <mxCell id="us_CvvVvdu692c3TlEkv-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Deceptive&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Representation, omission or practice ... likely to mislead the consumer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Reasonableness from the perspective of that group.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Practice effects the consumer&#39;s conduct with regard to a product or service.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="340" x="-150" y="840" as="geometry" />
+          <mxGeometry height="110" width="340" x="-280" y="860" as="geometry" />
         </mxCell>
         <mxCell id="HbV3fGGYhGRoSepIOriY-3" edge="1" parent="1" source="us_CvvVvdu692c3TlEkv-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HbV3fGGYhGRoSepIOriY-2" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -81,6 +87,12 @@
         </mxCell>
         <mxCell id="Brhlpvq3LLfeeRYChfTd-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Outweighed&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;- &quot;Will not find that a practice unfairly injures&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;consumers unless it is injurious in its net effects.&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- if the company can demonstrate that it would have&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;been very difficult for the company to avoid the data breach. Note&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;that this is a very high bar; a company cannot merely argue that&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;cybersecurity safeguards were too expensive. The company must&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;be able to demonstrate that either the remedy would have been&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;impossible or the costs would have been so high that customers&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;would have suffered even more than they did because of the data&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;breach.&lt;/p&gt;" vertex="1">
           <mxGeometry height="220" width="380" x="-400" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="RxFAWItDkVmXLz-C5p4G-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Article III standing&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) injury-in-fact&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;b&gt;Broad View&lt;/b&gt;: a credible, increased risk of identity theft following&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; a breach is a sufficient injury-in-fact&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;b&gt;Narrow View&lt;/b&gt;:  &lt;/span&gt;actual, present identity theft or fraud&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) traceability&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) repressibility&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="380" x="290" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="RxFAWItDkVmXLz-C5p4G-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Common Causes of Action in Data Breach Lawsuits&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;u&gt;&amp;nbsp;:&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Negligent Misrepresentation&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Breach of Contract&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;- State Consumer Protection Laws&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="340" x="85" y="865" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
