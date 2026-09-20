@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="4">
   <diagram id="6-2aIO7piv_nuY-y86mh" name="Constitution ">
-    <mxGraphModel dx="6093" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5781" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,14 +149,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C0olnXspH3CQYHDvb34H-12" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C0olnXspH3CQYHDvb34H-11" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-4" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="okMoveg5JXnLUUQTt713-8" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3625" y="507.18579234972685" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-7" edge="1" parent="1" source="C0olnXspH3CQYHDvb34H-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="okMoveg5JXnLUUQTt713-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C0olnXspH3CQYHDvb34H-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Blocks States from being Sued Federally&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;by Citizens of another State&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Citizens or Subjects of any Foreign State&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;and&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- their own state (&lt;i&gt;Hans v. Louisiana&lt;/i&gt; (1890))&lt;/p&gt;" vertex="1">
@@ -318,17 +310,14 @@
         <mxCell id="oQBPyLlifDMNVyRZqu1i-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Commerce Clause Civil Rights&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Heart of Atlanta Motel v. United States:&lt;/i&gt;&amp;nbsp;on racial discrimination in public accommodations,&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Katzenbach v. McClung&lt;/i&gt; :&amp;nbsp;Ollie&#39;s Barbecue, a local family restaurant in Birmingham, Alabama [526]. Although the restaurant served only local customers, a substantial portion of the food it served ($70,000 of meat annually) had traveled in interstate commerce&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="460" x="-4640" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000, #77bb41);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Article I Powers&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress **cannot** use its Article I powers (like the Commerce Clause) to abrogate state sovereign immunity. Even if the law is a valid regulation of conduct, it cannot authorize private damage suits against the state.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="3300" y="600" as="geometry" />
-        </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-11" edge="1" parent="1" source="okMoveg5JXnLUUQTt713-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="okMoveg5JXnLUUQTt713-10" value="">
+        <mxCell id="okMoveg5JXnLUUQTt713-15" edge="1" parent="1" source="okMoveg5JXnLUUQTt713-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="okMoveg5JXnLUUQTt713-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000, #77bb41);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Section 5 of the 14th Amendment&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;This is the primary authority for abrogation. Congress may subject states to private suits for damages if the statute is a valid exercise of its power to enforce the 14th Amendment (e.g., Title VII of the Civil Rights Act).&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="3330" y="280" as="geometry" />
+        <mxCell id="okMoveg5JXnLUUQTt713-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000, #77bb41);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Amendment X&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;The powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.&quot;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="400" x="2130" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="okMoveg5JXnLUUQTt713-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Requirements for Abrogation&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Constitutional Authority&lt;/b&gt;: The statute must be valid under Section 5 of the 14th Amendment.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Clear Statement Rule&lt;/b&gt;: Congress must express its intent to abrogate immunity in &quot;unmistakably clear&quot; terms.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="3410" y="460" as="geometry" />
+        <mxCell id="okMoveg5JXnLUUQTt713-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Anti-Commandeering Doctrine&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;text-align: left;&quot;&gt;New York v. United States&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The Commerce Clause authorizes Congress to regulate private interstate activity directly, but it **does not authorize Congress to regulate state governments&#39; regulation of interstate commerce&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Congress lacks the constitutional power to &quot;commandeer the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program&quot;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="2130" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
