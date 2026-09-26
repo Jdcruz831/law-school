@@ -303,15 +303,93 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7IDDNNIT2U_FWAsyabvV" name="Page-3">
-    <mxGraphModel dx="1192" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1531" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-2" edge="1" parent="1" source="vPt7_FUP9xOXfKO9OSvj-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MEIOTCxlJQS8ORqtbVFV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-26" edge="1" parent="1" source="vPt7_FUP9xOXfKO9OSvj-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vPt7_FUP9xOXfKO9OSvj-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Fifth Amendment Inverse Condemnation&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: The SWAT team&#39;s physical destruction of the Nguyens&#39; home ($112,678 in damages) to execute a warrant was a public &quot;taking&quot; of private property for public use, requiring &quot;just compensation&quot; under the Fifth Amendment [JA 3]. The Defense: Tactical law enforcement damage is a non-compensable exercise of the state&#39;s emergency Police Power (or necessity), which operates as an exception to the Takings Clause [JA 9, 26, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="480" y="190" as="geometry" />
+          <mxGeometry height="140" width="430" x="1170" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="vPt7_FUP9xOXfKO9OSvj-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Municipal Liability &amp;amp; Section 1983 Policy/Custom&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: Mission City is liable under § 1983 because its City Council—the final policymaking body—voted to deny the Nguyens just compensation, thereby officially executing the municipal policy that completed the Fifth Amendment violation [JA 3–4, 28]. The Defense: There was no municipal policy to raid the wrong home, and the City cannot be held liable under a vicarious liability (respondeat superior) theory [JA 28, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="1390" y="180" as="geometry" />
+          <mxGeometry height="140" width="430" x="1740" y="-20" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-4" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-14" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-16" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-24" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Is Mission City a person who, under color of any statute, ordinance, regulation, custom, or usage, of any State, subjected, or caused to be subjected, a citizen of the United States to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws? Is P a party injured? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="950" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-6" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-8" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-12" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Is Mission City a person who&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="380" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;How have courts interpreted “person” in the Section 1983 context?&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="-250" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-10" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;When does municipal liability attach under Section 1983?&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="210" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Under what circumstances may a property owner sue a municipality for just compensation when municipal police damage private property?&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="70" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Is this a situation where courts would extend liability to municipalities?&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="660" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Was Mission City acting under the color of a statute, ordinance, regulation, custom, or usage of a State? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="830" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-18" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-22" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;If yes, in such action, did Mission City subject, or cause to be subjected, P to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="440" x="1360" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-20" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Did such action subject P to the deprivation of their 5th Amendment rights? In other words, did P have their private property taken for public use, without just compensation? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="440" x="1270" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;See Issue 2. &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="440" x="1240" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-21" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Was Mission City the one subjecting or causing to be subjected? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="440" x="1720" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Is P a citizen of the United States?&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="430" x="1540" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;What relief is appropriate?&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="1490" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
