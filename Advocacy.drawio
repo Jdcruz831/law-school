@@ -303,7 +303,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7IDDNNIT2U_FWAsyabvV" name="Page-3">
-    <mxGraphModel dx="1531" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3830" dy="2763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,10 +314,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPt7_FUP9xOXfKO9OSvj-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Fifth Amendment Inverse Condemnation&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: The SWAT team&#39;s physical destruction of the Nguyens&#39; home ($112,678 in damages) to execute a warrant was a public &quot;taking&quot; of private property for public use, requiring &quot;just compensation&quot; under the Fifth Amendment [JA 3]. The Defense: Tactical law enforcement damage is a non-compensable exercise of the state&#39;s emergency Police Power (or necessity), which operates as an exception to the Takings Clause [JA 9, 26, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="1170" y="-60" as="geometry" />
+          <mxGeometry height="140" width="430" x="1210" y="-60" as="geometry" />
         </mxCell>
         <mxCell id="vPt7_FUP9xOXfKO9OSvj-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Municipal Liability &amp;amp; Section 1983 Policy/Custom&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Claim: Mission City is liable under § 1983 because its City Council—the final policymaking body—voted to deny the Nguyens just compensation, thereby officially executing the municipal policy that completed the Fifth Amendment violation [JA 3–4, 28]. The Defense: There was no municipal policy to raid the wrong home, and the City cannot be held liable under a vicarious liability (respondeat superior) theory [JA 28, 32].&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="1740" y="-20" as="geometry" />
+          <mxGeometry height="140" width="430" x="1170" y="-320" as="geometry" />
         </mxCell>
         <mxCell id="MEIOTCxlJQS8ORqtbVFV-4" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-3" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -362,7 +362,7 @@
           <mxGeometry height="140" width="430" x="660" y="950" as="geometry" />
         </mxCell>
         <mxCell id="MEIOTCxlJQS8ORqtbVFV-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Was Mission City acting under the color of a statute, ordinance, regulation, custom, or usage of a State? &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="430" x="830" y="770" as="geometry" />
+          <mxGeometry height="140" width="430" x="870" y="750" as="geometry" />
         </mxCell>
         <mxCell id="MEIOTCxlJQS8ORqtbVFV-18" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-17" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -389,7 +389,22 @@
           <mxGeometry height="140" width="430" x="1540" y="490" as="geometry" />
         </mxCell>
         <mxCell id="MEIOTCxlJQS8ORqtbVFV-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;What relief is appropriate?&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="80" width="280" x="1490" y="270" as="geometry" />
+          <mxGeometry height="80" width="280" x="1470" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-30" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-32" edge="1" parent="1" source="MEIOTCxlJQS8ORqtbVFV-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="MEIOTCxlJQS8ORqtbVFV-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Unjust Enrichment claim&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="2180" y="-190" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Is there any historical basis for recognizing this claim?&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="2000" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEIOTCxlJQS8ORqtbVFV-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;What relief is appropriate?&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="2340" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
