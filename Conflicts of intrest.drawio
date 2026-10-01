@@ -1,11 +1,288 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="plvtrkSmpOPhrKy6aKtu">
-    <mxGraphModel dx="1192" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2381" dy="1480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fEWTkQrC0SjeL7gUJojY-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&quot;Counties parallelism&quot;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;re Text Messaging&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: for AI prediction and ML where there is no agreement would a judge rule that this anti-compedative effect is more than in this current president &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;unilateral conduct is entirely lawful under Section 1&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;gas example&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Oligopoly Problem - the few are much easier to predict than a large market with so many factors.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Conscious Parallelism (Tacit Collusion):&amp;nbsp;Without ever meeting, exchanging assurances, or signing an agreement, oligopolists can independently coordinate their behavior&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;prisoner&#39;s dilemma - and how it&#39;s always better to cheat on a cartel&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="300" width="530" x="300" y="120" as="geometry" />
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-2" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-4" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-7" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-9" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-11" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-13" edge="1" parent="1" source="fEWTkQrC0SjeL7gUJojY-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fEWTkQrC0SjeL7gUJojY-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Conflicts of&amp;nbsp;interest&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: What are you disclosing?&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;flag: If this is for someone other than yourself&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Documentation&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="1290" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Expert Network&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: What are you disclosing?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="2060" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Personal Relationship&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: What are you disclosing?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="2710" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Investment&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: What are you disclosing?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="280" x="2280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-15" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Board of directors &amp;amp; other Boards&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Current Questions&lt;/b&gt;:&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Start Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Describe Start Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Other Boards (y/n)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Other Boards description&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Copy of previous approval&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(6) Offering organization&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(7) Responsibilities&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(8) Compensation&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(9) Compensation details&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(10) Additional info&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(11) IP&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(12) Agreements&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(13) Copy of agreements&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(14) Relationship w/ AMD&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(15) Describe relationship&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(16) Potential leverage (internal position)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(17) Describe potential Leverage&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(18) Impact on AMD Duties&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(19) Describe impact on AMD Duties&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(20) Schedule&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(21) Competition with AMD (will they compete with us)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(22) Describe Products&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(23) Voting rights&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(24) Confidential information (will you share)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(25) Other documents&lt;/p&gt;" vertex="1">
+          <mxGeometry height="400" width="310" x="-720" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-44" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-10" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-43" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Gifts,&amp;nbsp;Hospitality, and Entertainment&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Current Questions&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) type: gift, hospitality, entertainment&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Describe type&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Planned Date&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Describe planned Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) purpose&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(6) Gift Value&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(7) Gift invoices and Receipts&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(8) Hospitality Value&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(9) Hospitality invoices and receipts&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(10) Entertainment Value&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(11) Entertainment invoices and Receipts&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(12) Recipient Name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(13) Active engagement (active AMD bid, tender w/ GO&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(14) Active engagement info&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(15) Customer affiliation&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(16) Describe Customer Affiliation&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(17) Criteria checklist (wild list lol)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(18) Criteria info&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(19) Other documents &amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="325" width="330" x="1150" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Outside&amp;nbsp;interests&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Question: What are you disclosing?&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;flag: If this is for someone other than yourself&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="280" x="2490" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-17" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-23" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;My&amp;nbsp;Recommendation&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Is this board for-profit or non-profit?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="-720" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-19" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-21" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Non- Profit&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Is it a charitable religious or community board?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="310" x="-940" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Yes&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;OUTCOME: No disclosure needed, redirect with non-profit language&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="280" x="-1210" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-29" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-28" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;No&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;- is a non- profit advisory&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) core questions, skip one board limit question&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="230" x="-840" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-25" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-27" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-22" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;For-Profit&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Is this a formal Board of Directors seat or a Technical Advisory Board role?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="440" x="-440" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-36" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-24" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Formal Board of Directors&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="-590" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-33" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-32" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-40" connectable="0" parent="uKK04vnZ-6AUDKtkvXJm-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="W/ AilL" vertex="1">
+          <mxGeometry relative="1" x="-0.0667" y="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-37" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="uKK04vnZ-6AUDKtkvXJm-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-26" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Technical Advisory Board&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Will you be reviewing product or technical roadmaps?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4)Providing feedback on architecture or innovation strategy?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) sharing industry technical best practices? &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(6) Advising on emerging technologies&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(7) Stress-testing technical assumptions or advising on technical risks&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="440" x="-250" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-34" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50.91" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-39" connectable="0" parent="uKK04vnZ-6AUDKtkvXJm-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="W/ AiL" vertex="1">
+          <mxGeometry relative="1" x="-0.1108" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-41" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#60a917;strokeColor=#2D7600;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="fEWTkQrC0SjeL7gUJojY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-454.94" y="1720" />
+              <mxPoint x="-520" y="1720" />
+              <mxPoint x="-520" y="1840" />
+              <mxPoint x="-1310" y="1840" />
+              <mxPoint x="-1310" y="-150" />
+              <mxPoint x="1290" y="-150" />
+            </Array>
+            <mxPoint x="-1180" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-42" connectable="0" parent="uKK04vnZ-6AUDKtkvXJm-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Review if Board or another type of COI, then file there if incorrect" vertex="1">
+          <mxGeometry relative="1" x="-0.9726" y="-22" as="geometry">
+            <mxPoint x="32" y="57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-28" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Core Questions&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Entity relationship with AMD (Customer, competitor, supplier, vendor, or business partner)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Role &amp;amp; responsibilities (both internal and on the board)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Compensation&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Information Exchange (will involve any exchange of information related to AMD&#39;s business)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Agreement (y/n) (attachment required)&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="630" x="-770" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-32" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Loop in IP&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="440" x="-15" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-38" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="uKK04vnZ-6AUDKtkvXJm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-35" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Current Board Membership&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Are you on any other for-profit boards?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="300" x="-440" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-46" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-54" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-53" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-67" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-66" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-82" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-43" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-81" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-43" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;My recommendation&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Does this involve a government official or public employee?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) What type of gift:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(a) Meal, event, entertainment&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(b) Physical/ tangible gift&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(c) Cash or gift card&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(d) Travel&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="125" width="400" x="1140" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-48" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-63" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-62" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-45" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(a) Meal, event, entertainment&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) What is the estimated value per person for this event?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(a) $150+&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(b) $150 or less&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="340" x="450" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-50" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-49" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-52" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-51" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-47" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(b) $150 or less&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Is this a recurring occurrence with the same party?&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(a) Yes&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(b) No&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="720" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-49" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(a) Yes&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;VP Approval needed&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="675" y="1470" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-51" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(b) No&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Permitted&lt;/b&gt;. No approval required&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="830" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-56" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-55" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-58" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-57" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-53" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(b) Physical/ tangible gift&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Does the item bear a company logo &amp;amp; Qualify as promotional or commemorative?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="330" x="860" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-55" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Yes&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Permitted&lt;/b&gt;, no dollar limit&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="860" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-59" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-57" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;No&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) What is the estimated Value per person?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="330" x="1080" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-62" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(a) $150+&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;VP approval required in advance&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="420" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-64" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.594;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" target="uKK04vnZ-6AUDKtkvXJm-65" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1250" y="1130" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-65" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(a) $150+&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;VP approval required in advance&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="210" x="1246.56" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-69" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-70" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-71" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-72" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-68" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-74" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-66" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;c) Cash or gift card&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Is this cash or gift card?&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="1570" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-68" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;c) Cash &lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Not Permissible&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="1450" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-76" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-75" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-78" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-77" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-80" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-73" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" target="uKK04vnZ-6AUDKtkvXJm-79" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-73" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;gift card&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) What is the purpose of the gift card&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="1680" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-75" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Reimburse meal or coffee&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Permitted&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="1500" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-77" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Incentivize participation&lt;i&gt;&amp;nbsp;&lt;/i&gt;in training&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Permitted&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="1640" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-79" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Other&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/i&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Our review&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="1870" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-84" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-83" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-86" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-85" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-81" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(d) Travel&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Is the travel for business or personal purposes&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="1850" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-83" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;personal&lt;/span&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Prohibited&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="1810" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-88" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-85" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-87" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-90" edge="1" parent="1" source="uKK04vnZ-6AUDKtkvXJm-85" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="uKK04vnZ-6AUDKtkvXJm-89" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-85" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;(d) Business&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Who is paying for the travel and who is it for?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="1940" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-87" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;AMD for AMD employee&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Allowed&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="150" x="1910" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="uKK04vnZ-6AUDKtkvXJm-89" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Customer, supplier, or competitor for AMD employee?&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Who is paying for the travel and who is it for?&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="350" x="2100" y="1090" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
