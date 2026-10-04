@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vyhXOdRqdEfk79c8DvHk" name="Test Prep">
-    <mxGraphModel dx="4823" dy="3317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2837" dy="2208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1064,17 +1064,41 @@
         <mxCell id="Gnz2annpa-CYrGyf_cMR-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Germaneness&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;South Dakota v. Dole&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Germaneness is fairly forgiving:&amp;nbsp;The majority connected the drinking-age condition to safe interstate travel, rather than requiring it to govern road construction itself.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="390" x="860" y="1090" as="geometry" />
         </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-5" edge="1" parent="1" source="VivijYejFOa0upSHqsHI-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gDnyKX3dXUXfb1rj6tRG-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-7" edge="1" parent="1" source="VivijYejFOa0upSHqsHI-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gDnyKX3dXUXfb1rj6tRG-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VivijYejFOa0upSHqsHI-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;as an employer, property owner, or other participant in regulated activity?&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;permissible if supported by a federal power.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="290" x="340" y="2540" as="geometry" />
         </mxCell>
         <mxCell id="gDnyKX3dXUXfb1rj6tRG-2" edge="1" parent="1" source="VivijYejFOa0upSHqsHI-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="gDnyKX3dXUXfb1rj6tRG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-9" edge="1" parent="1" source="VivijYejFOa0upSHqsHI-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gDnyKX3dXUXfb1rj6tRG-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-11" edge="1" parent="1" source="VivijYejFOa0upSHqsHI-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gDnyKX3dXUXfb1rj6tRG-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VivijYejFOa0upSHqsHI-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Legislate, retain a regulatory prohibition, or enforce federal policy against residents&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Anti-commandeering concern.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="250" x="1040" y="2530" as="geometry" />
         </mxCell>
-        <mxCell id="gDnyKX3dXUXfb1rj6tRG-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Anti-Commandeering Doctrine&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;text-align: left;&quot;&gt;New York v. United States&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The Commerce Clause authorizes Congress to regulate private interstate activity directly, but it **does not authorize Congress to regulate state governments&#39; regulation of interstate commerce&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;Congress lacks the constitutional power to &quot;commandeer the legislative processes of the States by directly compelling them to enact and enforce a federal regulatory program&quot;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1065" y="2670" as="geometry" />
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Legislative commandeering&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i style=&quot;text-align: left;&quot;&gt;New York v. United States&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Legislative commandeering&lt;/b&gt;: Congress cannot require states to regulate radioactive waste or take ownership and liability. A choice between two unconstitutional commands is no valid choice.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;States had to regulate radioactive waste according to federal instructions or take ownership and liability.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="1230" y="2670" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;State as employer:&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Garcia&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress may apply federal wage-and-hour requirements to state and local employers. Regulates their employment practices; does not require them to govern residents..&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="320" x="-160" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;State as database owner&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Reno&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress may regulate disclosure of drivers’ personal information. Regulates the state’s own activity rather than requiring it to regulate others..&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="290" x="210" y="2720" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Executive commandeering&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Printz&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress cannot require state/local officers to perform handgun background checks for a federal program. Even temporary duties are prohibited; no balancing of burdens against benefits.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="290" x="640" y="2710" as="geometry" />
+        </mxCell>
+        <mxCell id="gDnyKX3dXUXfb1rj6tRG-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;Forced retention of state law&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;Murphy&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress cannot prevent states from repealing their sports-gambling prohibitions. Requiring states to keep regulating is also commandeering..&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="250" x="960" y="2705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
