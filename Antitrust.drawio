@@ -302,7 +302,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GoxwBoLNbRVA7N25Mt0a" name="Page-2">
-    <mxGraphModel dx="2693" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,7 +360,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lwViAtitPI5AUH2SBI---1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Use of monopoly power for anticompetitive manner&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;anticompetitive effect&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp; &amp;nbsp; - must harm the competitive &lt;i&gt;&lt;b&gt;process&lt;/b&gt;&lt;/i&gt; and thereby harm consumers&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;-&quot;harm to one or more competitors will not suffice&quot;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;efforts to gain market share in one market (browsers) served to meet the threat to Microsoft’s&lt;br/&gt;monopoly in another market (operating systems) &lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="340" x="840" y="450" as="geometry" />
+          <mxGeometry height="150" width="340" x="840" y="450" as="geometry" />
         </mxCell>
         <mxCell id="WK7raTN2cYPX6njifJqb-10" edge="1" parent="1" source="Y15FPpZ8XPD8nXM1DQtF-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WK7raTN2cYPX6njifJqb-9" value="">
           <mxGeometry relative="1" as="geometry" />
