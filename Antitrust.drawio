@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="rtwjt1CX6FByuuT1yKK2">
-    <mxGraphModel dx="6093" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5928" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -330,6 +330,9 @@
         <mxCell id="4JsRU6MnmcjqEv_CBFUN-2" edge="1" parent="1" source="5odS39B4Fs13WX32f58Q-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="4JsRU6MnmcjqEv_CBFUN-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y15FPpZ8XPD8nXM1DQtF-4" edge="1" parent="1" source="5odS39B4Fs13WX32f58Q-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Y15FPpZ8XPD8nXM1DQtF-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5odS39B4Fs13WX32f58Q-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Step 1: Market definition&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Intel-compatible PC operating systems:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="340" x="-425" y="820" as="geometry" />
         </mxCell>
@@ -350,6 +353,9 @@
         </mxCell>
         <mxCell id="Y15FPpZ8XPD8nXM1DQtF-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;Design choice and it&#39;s justification&lt;/span&gt;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1)&amp;nbsp;Restrictions on computer manufacturers&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2)&amp;nbsp;Mixing browser and operating-system code so removal would damage Windows&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)Overriding the user’s chosen browser in certain circumstances&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="340" x="1150" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="Y15FPpZ8XPD8nXM1DQtF-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Step 1: Market definition&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Intel-compatible PC operating systems:&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="340" x="-680" y="1030" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
