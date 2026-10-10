@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W0dqExTvGUFAGf_4YXvI" name="Ch. 4 &amp; 8">
-    <mxGraphModel dx="2892" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5957" dy="3475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 4:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Corporate Governance Authorities&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="-350" y="-150" as="geometry" />
+          <mxGeometry height="160" width="420" x="100" y="-340" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-13" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-12" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -136,7 +136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1330" y="220" as="geometry" />
+          <mxGeometry height="160" width="420" x="2510" y="380" as="geometry" />
         </mxCell>
         <mxCell id="AokDBw-c1ePKC33Lrl_w-2" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AokDBw-c1ePKC33Lrl_w-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -163,25 +163,25 @@
           <mxGeometry height="160" width="420" x="-270" y="300" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CFIUS Review&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. Statutory Authority&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Cybersecurity Mitigation Plans (31 C.F.R. § 800.402)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. 2022 Executive Order Evaluation Criteria&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="560" y="270" as="geometry" />
+          <mxGeometry height="160" width="420" x="1590" y="390" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;ABA Formal Opinion 483&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Common-Law Professional Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. Industry Precedents and Regulatory Stakes&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="420" x="570" y="580" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;FISMA (44 U.S.C. § 3552 et seq.)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="930" y="660" as="geometry" />
+          <mxGeometry height="160" width="420" x="2110" y="820" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NIST Frameworks&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1240" y="840" as="geometry" />
+          <mxGeometry height="160" width="420" x="2420" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NISPOM (32 C.F.R. § 117.18)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1720" y="730" as="geometry" />
+          <mxGeometry height="160" width="420" x="2900" y="890" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DFARS 252.204-7012&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1990" y="510" as="geometry" />
+          <mxGeometry height="160" width="420" x="3170" y="670" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CMMC 2.0&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1400" y="510" as="geometry" />
+          <mxGeometry height="160" width="420" x="2580" y="670" as="geometry" />
         </mxCell>
         <mxCell id="hJjpbS0wt0D_eDkoki05-6" edge="1" parent="1" source="AokDBw-c1ePKC33Lrl_w-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0XxI8YbMeLsKgxDe8oOH-1" value="">
           <mxGeometry relative="1" as="geometry">
