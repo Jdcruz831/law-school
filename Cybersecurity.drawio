@@ -98,7 +98,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W0dqExTvGUFAGf_4YXvI" name="Ch. 4 &amp; 8">
-    <mxGraphModel dx="4183" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2892" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,6 +156,9 @@
         <mxCell id="hJjpbS0wt0D_eDkoki05-12" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="hJjpbS0wt0D_eDkoki05-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="0XxI8YbMeLsKgxDe8oOH-3" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-6" style="curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0XxI8YbMeLsKgxDe8oOH-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;State Corporate Law &amp;amp; Fiduciary Duties&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. The Fiduciary Framework: Care and Loyalty&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. The Business Judgment Rule (BJR)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. The Caremark Oversight Standard&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;IV. Corporate Waste and Pleading Standards&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="420" x="-270" y="300" as="geometry" />
         </mxCell>
@@ -202,6 +205,9 @@
         </mxCell>
         <mxCell id="0XxI8YbMeLsKgxDe8oOH-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Rule 10b-5: M&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;ateriality Standard&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Yahoo&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The materiality of a breach is evaluated based on whether there is a &lt;u&gt;substantial likelihood that a reasonable investor would consider the information important&lt;/u&gt; in making an investment decision.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Inadequate disclosure creates an evidentiary basis for federal securities fraud, moving the legal battle from technical negligence to the realm of intentional or reckless deception&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="180" width="450" x="-1050" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="0XxI8YbMeLsKgxDe8oOH-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;IV. Corporate Waste and Pleading Standards&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;A. Corporate Waste Legal Test:&lt;/b&gt; This is an extremely high threshold requiring proof that the board’s expenditure on cybersecurity (or a breach settlement) was so one-sided that no person of ordinary sound business judgment could believe the corporation received adequate consideration.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;B. Pleading Standards and Litigation Lessons&lt;/b&gt;:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Wyndham&lt;/i&gt;: Established that a company’s status as a victim of a criminal hack does not immunize it from liability if the conduct (e.g., storing data in clear text) made the harm foreseeable.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Home Depot / Zendesk / Marriott&lt;/i&gt;: These cases collectively illustrate the difficulty of pleading a *Caremark* claim. To survive a motion to dismiss, plaintiffs must plead with particularity that the board was &quot;on notice&quot; of specific &quot;red flags&quot; (such as repeated audit warnings or previous minor breaches) and deliberately chose to ignore them. Without evidence of such conscious disregard, most derivative suits fail for lack of standing or failure to rebut the BJR.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="260" width="460" x="50" y="515" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
