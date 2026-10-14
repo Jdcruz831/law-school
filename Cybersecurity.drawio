@@ -98,13 +98,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W0dqExTvGUFAGf_4YXvI" name="Ch. 4 &amp; 8">
-    <mxGraphModel dx="2892" dy="1765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2389" dy="1484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-3" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-2" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-5" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -114,7 +111,12 @@
         <mxCell id="RG5dxqq2be1gqHxqXK9y-9" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-11" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-10" value="">
+        <mxCell id="RG5dxqq2be1gqHxqXK9y-11" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-2" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="-402.408376963351" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-2" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qdzHJBSUSSVVZZFoA0rX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 4:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Corporate Governance Authorities&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
@@ -136,7 +138,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="2510" y="380" as="geometry" />
+          <mxGeometry height="160" width="420" x="3940" y="-510" as="geometry" />
         </mxCell>
         <mxCell id="AokDBw-c1ePKC33Lrl_w-2" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AokDBw-c1ePKC33Lrl_w-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -169,19 +171,19 @@
           <mxGeometry height="160" width="420" x="730" y="340" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;FISMA (44 U.S.C. § 3552 et seq.)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="2110" y="820" as="geometry" />
+          <mxGeometry height="160" width="420" x="3540" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NIST Frameworks&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="2420" y="1000" as="geometry" />
+          <mxGeometry height="160" width="420" x="3850" y="110" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NISPOM (32 C.F.R. § 117.18)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="2900" y="890" as="geometry" />
+          <mxGeometry height="160" width="420" x="4330" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DFARS 252.204-7012&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="3170" y="670" as="geometry" />
+          <mxGeometry height="160" width="420" x="4600" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CMMC 2.0&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="2580" y="670" as="geometry" />
+          <mxGeometry height="160" width="420" x="4010" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="hJjpbS0wt0D_eDkoki05-6" edge="1" parent="1" source="AokDBw-c1ePKC33Lrl_w-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0XxI8YbMeLsKgxDe8oOH-1" value="">
           <mxGeometry relative="1" as="geometry">
@@ -209,15 +211,6 @@
         <mxCell id="0XxI8YbMeLsKgxDe8oOH-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;IV. Corporate Waste and Pleading Standards&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;A. Corporate Waste Legal Test:&lt;/b&gt; This is an extremely high threshold requiring proof that the board’s expenditure on cybersecurity (or a breach settlement) was so one-sided that no person of ordinary sound business judgment could believe the corporation received adequate consideration.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;B. Pleading Standards and Litigation Lessons&lt;/b&gt;:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Wyndham&lt;/i&gt;: Established that a company’s status as a victim of a criminal hack does not immunize it from liability if the conduct (e.g., storing data in clear text) made the harm foreseeable.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Home Depot / Zendesk / Marriott&lt;/i&gt;: These cases collectively illustrate the difficulty of pleading a *Caremark* claim. To survive a motion to dismiss, plaintiffs must plead with particularity that the board was &quot;on notice&quot; of specific &quot;red flags&quot; (such as repeated audit warnings or previous minor breaches) and deliberately chose to ignore them. Without evidence of such conscious disregard, most derivative suits fail for lack of standing or failure to rebut the BJR.&lt;/p&gt;" vertex="1">
           <mxGeometry height="260" width="460" x="50" y="515" as="geometry" />
         </mxCell>
-        <mxCell id="0XxI8YbMeLsKgxDe8oOH-4" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-10" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="-197" as="sourcePoint" />
-            <mxPoint x="2510" y="397" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;ABA Formal Opinion 483&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Common-Law Professional Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. Industry Precedents and Regulatory Stakes&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="1630" y="-110" as="geometry" />
-        </mxCell>
         <mxCell id="0XxI8YbMeLsKgxDe8oOH-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;Cybersecurity Mitigation Plans&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;31 C.F.R. § 800.402&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;CFIUS may condition deal approval on mandatory mitigation agreements. Required components often include:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: medium; padding: 0px;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;1. Mandatory data security safeguards and the localization of sensitive data.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;2. Requirement for periodic independent security audits conducted by third-party monitors.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;3. Granting U.S. government agencies the right to oversee and inspect the company&#39;s information security systems&lt;/p&gt;&lt;/blockquote&gt;" vertex="1">
           <mxGeometry height="170" width="540" x="610" y="1110" as="geometry" />
         </mxCell>
@@ -244,6 +237,27 @@
         </mxCell>
         <mxCell id="0XxI8YbMeLsKgxDe8oOH-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;2. Industry &amp;amp;amp; Risk Factors That Trigger Heightened Scrutiny&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Critical Infrastructure&lt;/b&gt;: Operators of telecommunications/cellular carriers, electric utilities, or smart grids&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;National Security&lt;/b&gt;; Defense: Companies with direct relationships to defense contracting or military support&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Critical Technologies&lt;/b&gt;: Research, development, or production of technologies where the U.S. is a leading global producer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;High-Risk Vendor Equipment&lt;/b&gt;: Transaction structures or supply chains that rely on foreign hardware or software with known national security concerns (e.g., equipment from Huawei or ZTE)&lt;/p&gt;" vertex="1">
           <mxGeometry height="210" width="460" x="1260" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-4" edge="1" parent="1" source="qdzHJBSUSSVVZZFoA0rX-1" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="qdzHJBSUSSVVZZFoA0rX-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-6" edge="1" parent="1" source="qdzHJBSUSSVVZZFoA0rX-1" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="qdzHJBSUSSVVZZFoA0rX-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-8" edge="1" parent="1" source="qdzHJBSUSSVVZZFoA0rX-1" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="qdzHJBSUSSVVZZFoA0rX-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;ABA Formal Opinion 483&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Common-Law Professional Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. Industry Precedents and Regulatory Stakes&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="2120" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;This opinion provides a structured 5-part duty framework for attorneys:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) &amp;nbsp;Monitoring: Lawyers must take reasonable steps to monitor for data breaches (e.g., implementing intrusion detection).&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Assessment: Upon discovering an incident, the firm must promptly investigate its nature and scope to determine if client data was compromised.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3). Notification: Attorneys have an ethical duty to notify *current* clients if their information was subject to a material breach.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(4) Stopping the Breach: The firm must act immediately to stop the unauthorized access.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(5) Post-Breach Communication: Attorneys must keep clients reasonably informed about the status of the breach and the integrity of their data.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="270" width="420" x="1770" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;II. Common-Law Professional Negligence&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Common-Law Professional Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. Industry Precedents and Regulatory Stakes&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="2010" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="qdzHJBSUSSVVZZFoA0rX-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;III. Industry Precedents and Regulatory Stakes&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;I. ABA Formal Opinion 483: Ethical Duties Post-Breach&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;II. Common-Law Professional Negligence&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;III. Industry Precedents and Regulatory Stakes&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="2540" y="710" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
