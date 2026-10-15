@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="Page-1" id="eQ63vEEr3_a5rrY95_Bc">
     <mxGraphModel dx="2892" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,8 +97,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="W0dqExTvGUFAGf_4YXvI" name="Ch. 4 &amp; 8">
-    <mxGraphModel dx="2528" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="W0dqExTvGUFAGf_4YXvI" name="Ch. 4 Corporate Governance Authorities">
+    <mxGraphModel dx="4680" dy="2763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,34 +111,11 @@
         <mxCell id="RG5dxqq2be1gqHxqXK9y-9" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-11" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-2" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2010" y="-402.408376963351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qdzHJBSUSSVVZZFoA0rX-2" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-1" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qdzHJBSUSSVVZZFoA0rX-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 4:&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;u&gt;Corporate Governance Authorities&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="420" x="100" y="-340" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-13" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-12" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-15" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-14" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-17" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-16" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-19" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-18" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-21" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="RG5dxqq2be1gqHxqXK9y-20" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="3940" y="-510" as="geometry" />
         </mxCell>
         <mxCell id="AokDBw-c1ePKC33Lrl_w-2" edge="1" parent="1" source="RG5dxqq2be1gqHxqXK9y-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="AokDBw-c1ePKC33Lrl_w-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -169,21 +146,6 @@
         </mxCell>
         <mxCell id="RG5dxqq2be1gqHxqXK9y-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CFIUS Authority&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;50 U.S.C. § 4565&lt;/b&gt;: Grants the President and CFIUS the authority to review &quot;covered transactions&quot; to determine their effect on the national security of the United States.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Jurisdictional Reach&lt;/b&gt;: Jurisdiction extends to any transaction that could result in foreign control of a U.S. business, particularly those involving &quot;TID&quot; (Technology, Infrastructure, and Data) businesses.&lt;/p&gt;" vertex="1">
           <mxGeometry height="160" width="420" x="730" y="340" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;FISMA (44 U.S.C. § 3552 et seq.)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="3540" y="-70" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NIST Frameworks&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="3850" y="110" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NISPOM (32 C.F.R. § 117.18)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="4330" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DFARS 252.204-7012&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="4600" y="-220" as="geometry" />
-        </mxCell>
-        <mxCell id="RG5dxqq2be1gqHxqXK9y-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CMMC 2.0&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="160" width="420" x="4010" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="hJjpbS0wt0D_eDkoki05-6" edge="1" parent="1" source="AokDBw-c1ePKC33Lrl_w-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0XxI8YbMeLsKgxDe8oOH-1" value="">
           <mxGeometry relative="1" as="geometry">
@@ -258,6 +220,47 @@
         </mxCell>
         <mxCell id="qdzHJBSUSSVVZZFoA0rX-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;III. Industry Precedents and Regulatory Stakes&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A. &lt;b&gt;Hiscox v. Warden Grier Holding:&lt;/b&gt; This precedent underscores the financial and professional consequences of failing to meet cybersecurity benchmarks. It establishes that firms can be held liable for the costs of a breach if their security fails to align with the benchmarks promised in client engagement letters or industry standards.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;B. &lt;b&gt;SEC v. Covington; Burling&lt;/b&gt;: This case highlights that the attorney-client privilege does not provide a blanket shield against regulatory subpoenas following a breach. The SEC may successfully compel firms to disclose the identities of clients whose data was potentially accessed during a cyberattack, emphasizing that the firm&#39;s security failure can expose its clients to unwanted regulatory scrutiny.&lt;/p&gt;" vertex="1">
           <mxGeometry height="210" width="420" x="2370" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TgPBiHlZEYdaZI4smNWG" name="Ch. 8">
+    <mxGraphModel dx="2578" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-1" edge="1" parent="1" source="WX6wBkluUK8sDe5oUTeB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WX6wBkluUK8sDe5oUTeB-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-2" edge="1" parent="1" source="WX6wBkluUK8sDe5oUTeB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WX6wBkluUK8sDe5oUTeB-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-3" edge="1" parent="1" source="WX6wBkluUK8sDe5oUTeB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WX6wBkluUK8sDe5oUTeB-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-4" edge="1" parent="1" source="WX6wBkluUK8sDe5oUTeB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WX6wBkluUK8sDe5oUTeB-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-5" edge="1" parent="1" source="WX6wBkluUK8sDe5oUTeB-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="WX6wBkluUK8sDe5oUTeB-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="-250" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;FISMA (44 U.S.C. § 3552 et seq.)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="-650" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NIST Frameworks&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="-340" y="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;NISPOM (32 C.F.R. § 117.18)&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="140" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-10" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DFARS 252.204-7012&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="410" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="WX6wBkluUK8sDe5oUTeB-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CMMC 2.0&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="160" width="420" x="-180" y="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
