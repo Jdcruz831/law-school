@@ -273,138 +273,140 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Chat Ch.8" id="3vry4I1lq9k9cEGshzgk"><mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2340" pageHeight="1320" math="0" shadow="0">
-  <root>
-    <mxCell id="0" />
-    <mxCell id="1" parent="0" />
-    <mxCell id="title" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Read downward: &lt;b&gt;DATA TYPE → SYSTEM TYPE → AUTHORITY / PROGRAM → REQUIREMENTS.&lt;/b&gt;&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="790" y="40" width="760" height="90" />
-    </mxCell>
-    <mxCell id="other" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Other Unclassified Federal Information&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Federal information outside the CUI and classified categories follows the applicable system-security baseline.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="40" y="200" width="500" height="100" />
-    </mxCell>
-    <mxCell id="cui" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Controlled Unclassified Information (CUI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Unclassified government information requires safeguarding or dissemination controls under law, regulation, or government-wide policy.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="700" y="200" width="920" height="100" />
-    </mxCell>
-    <mxCell id="classified" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Classified Information&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Information formally classified for national-security protection follows the classified-system rules.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="1780" y="200" width="500" height="100" />
-    </mxCell>
-    <mxCell id="cdi" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CUI SUBSET: Covered Defense Information (CDI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;DoD-related controlled information qualifies as CDI when it has the required connection to contract performance.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="1190" y="340" width="430" height="100" />
-    </mxCell>
-    <mxCell id="federal" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Federal / Agency-Operated System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;An agency or a contractor operates the system &lt;b&gt;on the agency’s behalf&lt;/b&gt;, including when it holds CUI.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="40" y="500" width="500" height="100" />
-    </mxCell>
-    <mxCell id="nonfederal" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Nonfederal Contractor System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The contractor’s own business system handles CUI/CDI without operating as a system on the agency’s behalf.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="850" y="500" width="550" height="100" />
-    </mxCell>
-    <mxCell id="classsys" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Contractor Classified System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A contractor system captures, creates, stores, processes, or distributes classified information.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="1780" y="500" width="500" height="100" />
-    </mxCell>
-    <UserObject id="fisma" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: FISMA — 44 U.S.C. §§3553–3554&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Agency leadership maintains a security program, with OMB policy, DHS operational support, and NIST standards.&lt;/p&gt;" link="https://www.law.cornell.edu/uscode/text/44/3554">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="40" y="700" width="500" height="100" />
-      </mxCell>
-    </UserObject>
-    <UserObject id="cuirules" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: CUI Rules + Contract / Agreement&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;E.O. 13556 and NARA’s framework lead to applicable agreements invoking &lt;b&gt;SP 800-171&lt;/b&gt; for nonfederal CUI.&lt;/p&gt;" link="https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="700" y="700" width="400" height="100" />
-      </mxCell>
-    </UserObject>
-    <UserObject id="dfars" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: DFARS 252.204-7012 (CDI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The contract clause imposes safeguarding and incident-reporting duties, using SP 800-171 for nonfederal covered systems.&lt;/p&gt;" link="https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting.">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="1200" y="700" width="420" height="100" />
-      </mxCell>
-    </UserObject>
-    <UserObject id="nispom" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: NISPOM — 32 C.F.R. §117.18&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The classified-information rules require a security program and government-approved risk management.&lt;/p&gt;" link="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.18">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="1780" y="700" width="500" height="100" />
-      </mxCell>
-    </UserObject>
-    <mxCell id="fismareq" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: A Documented Security Program&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Assess risks, maintain policies/plans, train personnel, test annually, remediate flaws, handle/report incidents, and plan continuity.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="40" y="860" width="500" height="100" />
-    </mxCell>
-    <mxCell id="cuireq" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: CUI Confidentiality Safeguards&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Apply access limits, MFA, audit logs, secure configurations, encryption, incident response, and risk/control assessments.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="700" y="860" width="400" height="100" />
-    </mxCell>
-    <mxCell id="dfarsreq" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: Safeguarding + 72-Hour Reporting&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Protect CDI and report covered cyber incidents to DoD &lt;b&gt;within 72 hours of discovery&lt;/b&gt;.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="1200" y="860" width="420" height="100" />
-    </mxCell>
-    <mxCell id="classreq" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: Controls + Authorization&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Maintain security/insider-threat controls, appoint an ISSM, certify safeguards, and obtain government authorization before classified processing.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="1780" y="860" width="500" height="100" />
-    </mxCell>
-    <UserObject id="nist" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;IMPLEMENTATION: FIPS 199 → FIPS 200 → SP 800-53&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Categorize &lt;b&gt;Low / Moderate / High&lt;/b&gt; impact, then select risk-based controls addressing the 17 minimum security areas.&lt;/p&gt;" link="https://csrc.nist.gov/pubs/fips/199/final">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="40" y="1030" width="500" height="100" />
-      </mxCell>
-    </UserObject>
-    <UserObject id="cmmc" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;ASSURANCE: CMMC — Foundational / Advanced / Expert&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Contract-selected levels verify safeguards through the applicable self-assessment, third-party assessment, or government assessment.&lt;/p&gt;" link="https://dodcio.defense.gov/cmmc/About/">
-      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-        <mxGeometry as="geometry" x="1200" y="1030" width="420" height="100" />
-      </mxCell>
-    </UserObject>
-    <mxCell id="scope" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Course Sources / Scope&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Kosseff Ch. 8 (PDF pp. 536–558) and course slides 21–36; the course uses SP 800-171 Rev. 2, while contract terms control required versions and assessments.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;">
-      <mxGeometry as="geometry" x="700" y="1200" width="1580" height="75" />
-    </mxCell>
-    <mxCell id="title--other" parent="1" edge="1" source="title" target="other" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="title--cui" parent="1" edge="1" source="title" target="cui" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="title--classified" parent="1" edge="1" source="title" target="classified" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="cui--cdi" parent="1" edge="1" source="cui" target="cdi" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="other--federal" parent="1" edge="1" source="other" target="federal" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="cui--nonfederal" parent="1" edge="1" source="cui" target="nonfederal" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="cdi--nonfederal" parent="1" edge="1" source="cdi" target="nonfederal" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="classified--classsys" parent="1" edge="1" source="classified" target="classsys" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="federal--fisma" parent="1" edge="1" source="federal" target="fisma" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="nonfederal--cuirules" parent="1" edge="1" source="nonfederal" target="cuirules" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="classsys--nispom" parent="1" edge="1" source="classsys" target="nispom" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="fisma--fismareq" parent="1" edge="1" source="fisma" target="fismareq" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="cuirules--cuireq" parent="1" edge="1" source="cuirules" target="cuireq" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="dfars--dfarsreq" parent="1" edge="1" source="dfars" target="dfarsreq" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="nispom--classreq" parent="1" edge="1" source="nispom" target="classreq" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="fismareq--nist" parent="1" edge="1" source="fismareq" target="nist" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="dfarsreq--cmmc" parent="1" edge="1" source="dfarsreq" target="cmmc" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="cui--federal" parent="1" edge="1" source="cui" target="federal" value="If held on a federal system" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitX=0;exitY=0.5;entryX=1;entryY=0.2;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-    <mxCell id="nonfederal--dfars" parent="1" edge="1" source="nonfederal" target="dfars" value="For CDI" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
-      <mxGeometry as="geometry" relative="1" />
-    </mxCell>
-  </root>
-</mxGraphModel></diagram>
+  <diagram name="Chat Ch.8" id="3vry4I1lq9k9cEGshzgk">
+    <mxGraphModel dx="1368" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2340" pageHeight="1320" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 8: Federal Government Contractor Authorities&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Read downward: &lt;b&gt;DATA TYPE → SYSTEM TYPE → AUTHORITY / PROGRAM → REQUIREMENTS.&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="760" x="790" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="other" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Other Unclassified Federal Information&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Federal information outside the CUI and classified categories follows the applicable system-security baseline.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cui" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Controlled Unclassified Information (CUI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Unclassified government information requires safeguarding or dissemination controls under law, regulation, or government-wide policy.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="920" x="700" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="classified" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;DATA: Classified Information&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Information formally classified for national-security protection follows the classified-system rules.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="1780" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cdi" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CUI SUBSET: Covered Defense Information (CDI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;DoD-related controlled information qualifies as CDI when it has the required connection to contract performance.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="430" x="1190" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="federal" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Federal / Agency-Operated System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;An agency or a contractor operates the system &lt;b&gt;on the agency’s behalf&lt;/b&gt;, including when it holds CUI.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="40" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="nonfederal" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Nonfederal Contractor System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The contractor’s own business system handles CUI/CDI without operating as a system on the agency’s behalf.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="550" x="850" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="classsys" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SYSTEM: Contractor Classified System&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A contractor system captures, creates, stores, processes, or distributes classified information.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="1780" y="500" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: FISMA — 44 U.S.C. §§3553–3554&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Agency leadership maintains a security program, with OMB policy, DHS operational support, and NIST standards.&lt;/p&gt;" link="https://www.law.cornell.edu/uscode/text/44/3554" id="fisma">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="500" x="40" y="700" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: CUI Rules + Contract / Agreement&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;E.O. 13556 and NARA’s framework lead to applicable agreements invoking &lt;b&gt;SP 800-171&lt;/b&gt; for nonfederal CUI.&lt;/p&gt;" link="https://csrc.nist.gov/pubs/sp/800/171/r2/upd1/final" id="cuirules">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="400" x="700" y="700" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: DFARS 252.204-7012 (CDI)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The contract clause imposes safeguarding and incident-reporting duties, using SP 800-171 for nonfederal covered systems.&lt;/p&gt;" link="https://www.acquisition.gov/dfars/252.204-7012-safeguarding-covered-defense-information-and-cyber-incident-reporting." id="dfars">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="420" x="1200" y="700" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;AUTHORITY: NISPOM — 32 C.F.R. §117.18&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The classified-information rules require a security program and government-approved risk management.&lt;/p&gt;" link="https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.18" id="nispom">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="500" x="1780" y="700" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fismareq" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: A Documented Security Program&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Assess risks, maintain policies/plans, train personnel, test annually, remediate flaws, handle/report incidents, and plan continuity.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="40" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="cuireq" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: CUI Confidentiality Safeguards&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Apply access limits, MFA, audit logs, secure configurations, encryption, incident response, and risk/control assessments.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="400" x="700" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="dfarsreq" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: Safeguarding + 72-Hour Reporting&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Protect CDI and report covered cyber incidents to DoD &lt;b&gt;within 72 hours of discovery&lt;/b&gt;.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="420" x="1200" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="classreq" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;REQUIRES: Controls + Authorization&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Maintain security/insider-threat controls, appoint an ISSM, certify safeguards, and obtain government authorization before classified processing.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="500" x="1780" y="860" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;IMPLEMENTATION: FIPS 199 → FIPS 200 → SP 800-53&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Categorize &lt;b&gt;Low / Moderate / High&lt;/b&gt; impact, then select risk-based controls addressing the 17 minimum security areas.&lt;/p&gt;" link="https://csrc.nist.gov/pubs/fips/199/final" id="nist">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="500" x="40" y="1030" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;ASSURANCE: CMMC — Foundational / Advanced / Expert&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Contract-selected levels verify safeguards through the applicable self-assessment, third-party assessment, or government assessment.&lt;/p&gt;" link="https://dodcio.defense.gov/cmmc/About/" id="cmmc">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1">
+            <mxGeometry height="100" width="420" x="1200" y="1030" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="scope" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Course Sources / Scope&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Kosseff Ch. 8 (PDF pp. 536–558) and course slides 21–36; the course uses SP 800-171 Rev. 2, while contract terms control required versions and assessments.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="75" width="1580" x="700" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="title--other" edge="1" parent="1" source="title" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="other" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="title--cui" edge="1" parent="1" source="title" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cui" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="title--classified" edge="1" parent="1" source="title" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="classified" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cui--cdi" edge="1" parent="1" source="cui" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cdi" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="other--federal" edge="1" parent="1" source="other" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="federal" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cui--nonfederal" edge="1" parent="1" source="cui" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="nonfederal" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdi--nonfederal" edge="1" parent="1" source="cdi" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="nonfederal" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="classified--classsys" edge="1" parent="1" source="classified" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="classsys" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="federal--fisma" edge="1" parent="1" source="federal" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="fisma" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nonfederal--cuirules" edge="1" parent="1" source="nonfederal" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cuirules" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="classsys--nispom" edge="1" parent="1" source="classsys" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="nispom" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fisma--fismareq" edge="1" parent="1" source="fisma" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="fismareq" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cuirules--cuireq" edge="1" parent="1" source="cuirules" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cuireq" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfars--dfarsreq" edge="1" parent="1" source="dfars" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="dfarsreq" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nispom--classreq" edge="1" parent="1" source="nispom" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="classreq" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fismareq--nist" edge="1" parent="1" source="fismareq" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="nist" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dfarsreq--cmmc" edge="1" parent="1" source="dfarsreq" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cmmc" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cui--federal" edge="1" parent="1" source="cui" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitX=0;exitY=0.5;entryX=1;entryY=0.2;" target="federal" value="If held on a federal system">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nonfederal--dfars" edge="1" parent="1" source="nonfederal" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="dfars" value="For CDI">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="qUQgivWHdCShQOKEDiPo" name="Ch 2">
     <mxGraphModel dx="1642" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
