@@ -406,14 +406,716 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qUQgivWHdCShQOKEDiPo" name="Ch 2">
-    <mxGraphModel dx="1642" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
+  <diagram id="qUQgivWHdCShQOKEDiPo" name="Ch 2"><mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4120" pageHeight="2500" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="ch2-title" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Chapter 2: Cybersecurity Litigation&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Consumers, employees and banks may sue after a breach: analyze standing → claims → class treatment, then insurance and discovery protections.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="1430" y="40" width="1260" height="100" />
+    </mxCell>
+    <mxCell id="ch2-standing" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;1. CAN THIS PLAINTIFF SUE IN FEDERAL COURT?&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Article III requires injury, traceability, and redressability for each claim and form of relief; merits remain a separate inquiry.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="40" y="230" width="740" height="90" />
+    </mxCell>
+    <UserObject id="ch2-injury" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Injury in Fact | Spokeo (2016)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The plaintiff needs a concrete, personal injury that is actual or imminent; a bare statutory violation alone does not suffice.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="75" y="365" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-trace" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Fair Traceability&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Connect the injury to the challenged security failure; this is less demanding than proximate cause, and hackers do not automatically sever the connection.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="75" y="470" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-redress" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Redressability&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The requested remedy must likely address the plaintiff’s injury; damages and preventive relief require their own standing analysis.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="75" y="575" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-damages" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Damages Standing | TransUnion, 594 U.S. 413 (2021)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Future risk alone is insufficient; financial loss, a qualifying disclosure injury, or a separate present harm may establish concreteness.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="75" y="680" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-bohnak" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Bohnak, 79 F.4th 276 (2d Cir. 2023)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Standing rested on unauthorized PII disclosure analogous to a privacy tort and, alternatively, present harms from a substantial identity-theft risk.&lt;/p&gt;" link="https://openjurist.org/79/f4th/276/bohnak-v-marsh-mclennan-companies-inc">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="110" y="785" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-injunction" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Injunction Standing&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A sufficiently imminent, substantial threat may support prevention, if traceability and redressability also hold; past exposure alone does not establish future need.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="75" y="890" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-mitigation" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Risk and Mitigation | Clapper (2013)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Examine targeting, sensitivity, access and misuse; self-imposed spending against a speculative threat cannot manufacture standing.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="110" y="995" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-krottner" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Krottner, 628 F.3d 1139 (9th Cir. 2010)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A stolen laptop with unencrypted employee PII supported a credible immediate identity-theft threat; this was not a public-posting case.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="75" y="1100" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-casecontext" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Read Older Risk Cases Through TransUnion&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Krottner is not wholly overruled, but its risk analysis must be distinguished from current damages-standing requirements.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="110" y="1205" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-facts" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Fact Patterns, Not a Strict/Flexible Circuit Table&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Clemens (3d Cir. 2022) involved targeted theft, publication and mitigation; Beck (4th Cir. 2017) rejected a speculative chain of misuse.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="75" y="1310" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-proof" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Procedure and Proof&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Rule 12(b)(1) tests jurisdiction; factual challenges may require evidence, and the plaintiff’s standing proof must match the litigation stage.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="75" y="1415" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-claims" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;2. WHAT CLAIM AND RECOVERABLE HARM?&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;State law determines duties, elements, defenses and remedies; standing does not establish negligence or entitlement to damages.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="860" y="230" width="740" height="90" />
+    </mxCell>
+    <mxCell id="ch2-negligence" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Negligence: Four Elements&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Prove a recognized duty, unreasonable breach, factual/proximate causation, and a legally compensable injury.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="365" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-duty" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Duty and Breach&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Foreseeability, the parties’ relationship and security standards may support reasonable-care duties; Ramirez v. Paradies Shops (11th Cir. 2023) illustrates employee-data protection.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="470" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-causation" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Causation and Cognizable Harm&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Tie the specific breach to recoverable harm; AvMed (11th Cir. 2012) used matching stolen data and surrounding facts, not timing alone.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="575" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-econ" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Economic Loss Doctrine&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Some states restrict tort recovery for purely economic loss; independent-duty and special-relationship exceptions depend on the governing state law.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="680" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-misrep" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Misrepresentation or Material Omission&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Identify a material falsehood or actionable omission, required reliance and resulting harm; vague puffery depends on wording and context.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="785" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-fraud" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Fraudulent vs. Negligent Misrepresentation&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Fraud generally requires knowledge/recklessness and intent to induce reliance; negligent misrepresentation turns on a duty of care in supplying information.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="890" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-specificity" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Plead the Statement and Reliance&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Specify what was false, who said it, and how it mattered; Rule 9(b) applies to fraud, while omissions require a disclosure duty.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="995" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-contract" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Breach of Contract&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Identify an enforceable security obligation, breach and resulting recoverable damage; a breach incident alone does not establish broken promises.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="1100" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-express" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Express Promise&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A privacy policy must be part of the bargain and sufficiently definite; Marriott (D. Md. 2020) accepted a reasonable-safeguards promise.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="1205" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-implied" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Implied-in-Fact Promise&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Conduct and consideration must show mutual intent; Hannaford recognized reasonable safeguards, not an absolute guarantee against every intrusion.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="1310" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-beneficiary" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Intended Third-Party Beneficiary&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;An outsider must show intended, not incidental, benefit; Sovereign Bank v. BJ’s (3d Cir. 2008) allowed a bank’s contract theory to proceed.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="930" y="1415" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-warranty" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Warranty and Contract Limitations&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;UCC warranties concern goods; service warranties, disclaimers, liability limits and unconscionability depend on applicable law (Sony PlayStation litigation).&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="1520" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-privacy" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Privacy Torts&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Publication of private facts and intentional intrusion have distinct elements; a concrete disclosure injury for standing does not itself prove either tort.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="1625" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-unjust" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Unjust Enrichment&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Show a knowingly retained benefit whose retention is inequitable; a governing contract may bar recovery, although alternative pleading may be allowed (AvMed).&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="1730" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-udap" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;State UDAP Statutes&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Confirm a private action, covered conduct, required injury/reliance and available relief; UCL restitution/injunctions differ from statutes authorizing damages.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="895" y="1835" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-ccpa" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CCPA: Limited Breach Action | §1798.150&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A covered business’s unreasonable security must cause qualifying unauthorized access/exfiltration, theft or disclosure; most CCPA violations are not privately actionable.&lt;/p&gt;" link="https://openjurist.org/state-code/ca/civ/1798.150">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="930" y="1940" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-ccpadata" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Covered Data and Notice&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Coverage includes specified nonencrypted/nonredacted identifiers or email-plus-login credentials; statutory-damages suits require 30-day notice, and later security improvements alone do not cure.&lt;/p&gt;" link="https://openjurist.org/state-code/ca/civ/1798.150">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="965" y="2045" width="635" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-ccparemedy" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;CCPA Remedies | Amounts Effective January 1, 2025&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Recover $107–$799 per consumer per incident or actual damages, whichever is greater; injunctive relief is available, and federal Article III remains separate.&lt;/p&gt;" link="https://cppa.ca.gov/regulations/cpi_adjustment.html">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="965" y="2150" width="635" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-class" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;3. CAN THE CASE PROCEED AS A CLASS?&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Rule 23 certification is separate from standing and merits, and requires a rigorous analysis of the proposed class.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1680" y="230" width="740" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-rulea" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Rule 23(a): All Four Prerequisites&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Show numerosity, commonality, typicality and adequate representatives/counsel.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1715" y="365" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-common" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Common Answers | Wal-Mart v. Dukes (2011)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Shared questions must yield common answers that resolve the litigation; identify the security conduct and proof common to this class.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="1750" y="470" width="670" height="90" />
+    </mxCell>
+    <UserObject id="ch2-b3" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Rule 23(b)(3): Damages Classes&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Common issues must predominate, and class treatment must be superior to individual litigation.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1715" y="575" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-variation" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Individual Differences Are Not Automatically Fatal&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Assess injury, causation, reliance and state-law variations; workable proof, subclasses or issue certification may address some differences.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1750" y="680" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-hannaford" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Hannaford (D. Me. 2013) vs. Heartland (S.D. Tex. 2012)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Hannaford lacked adequate common damages proof; Heartland certified a settlement class, where trial manageability was not an obstacle.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="1785" y="785" width="635" height="90" />
+    </mxCell>
+    <UserObject id="ch2-b2" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Rule 23(b)(2): Classwide Preventive Relief&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Generally applicable conduct must justify relief for the class as a whole, and the representative still needs standing for that relief.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1715" y="890" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-classinjury" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Standing of Damages Recipients | TransUnion&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Every member recovering individual damages needs concrete injury; TransUnion left open whether every member must show standing before certification.&lt;/p&gt;" link="https://www.supremecourt.gov/opinions/20pdf/20-297_4g25.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1715" y="995" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-settlement" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Settlement and Review&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Rule 23(e) requires court approval; (b)(3) classes receive notice/opt-out rights, and Rule 23(f) permits discretionary review of certification.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_23">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="1715" y="1100" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-insurance" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;4. WHO PAYS FOR THE BREACH?&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Apply the actual policy, endorsements and governing law; neither CGL nor dedicated cyber insurance guarantees complete coverage.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2500" y="230" width="740" height="90" />
+    </mxCell>
+    <mxCell id="ch2-firstparty" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;First-Party Cyber Coverage&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The insured’s own response, restoration, interruption and extortion losses may be covered, subject to policy conditions and lawful payments.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2535" y="365" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-thirdparty" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Third-Party Cyber Coverage&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Defense, settlements and judgments may be covered; regulatory penalties and card-network assessments require suitable coverage and legal insurability.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2535" y="470" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-cgl" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Traditional CGL: Publication and Property&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Privacy-publication language, tangible-property provisions and electronic-data exclusions produce different outcomes; hacker involvement is not a universal bar.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2535" y="575" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-portal" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Travelers v. Portal Healthcare (4th Cir. 2016)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Publicly accessible medical records triggered a duty to defend under the policy’s publication language; defense and indemnity are distinct inquiries.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2570" y="680" width="670" height="90" />
+    </mxCell>
+    <mxCell id="ch2-conditions" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Triggers, Limits and Exclusions&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Check claims/reporting deadlines, retentions, sublimits, vendor consent, business-interruption terms, contractual-liability exclusions and representations in the application.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2535" y="785" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-war" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;War / State-Backed Attack Exclusions&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Attribution alone does not decide coverage; wording and jurisdiction control, including any specific cyber-war endorsement.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="2535" y="890" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-merck" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Merck v. ACE (N.J. App. Div. 2023)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The traditional hostile/warlike-action exclusion did not bar NotPetya losses under those policies; the decision did not define all cyber-war exclusions.&lt;/p&gt;" link="https://www.njcourts.gov/system/files/court-opinions/2023/a1879-21a1882-21.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="2570" y="995" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-discovery" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;5. WHAT INVESTIGATION MATERIAL IS DISCOVERABLE?&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Relevant, proportional nonprivileged material is discoverable; the party withholding material must establish the particular protection.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_26">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3320" y="230" width="740" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-acp" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Attorney–Client Privilege&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Protect confidential communications made for legal advice, including necessary assisting consultants; underlying facts and ordinary business advice remain distinct.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="3355" y="365" width="705" height="90" />
+    </mxCell>
+    <mxCell id="ch2-purpose" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Dual-Purpose Communications&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Apply the jurisdiction’s legal-purpose test; copying counsel, privilege labels or counsel’s retention of a vendor cannot alone protect business work.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="3390" y="470" width="670" height="90" />
+    </mxCell>
+    <UserObject id="ch2-wp" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Work Product | Rule 26(b)(3)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Protect materials prepared by or for a party because of anticipated litigation under the applicable test; ordinary-course reports may fail that test.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_26">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="575" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-need" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Qualified Protection and Opinion Work&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Substantial need plus undue hardship may overcome ordinary work product; courts must protect counsel’s mental impressions and legal theories.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_26">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3390" y="680" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-expert" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Consulting Experts | Rule 26(b)(4)(D)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Litigation-retained, nontestifying experts ordinarily resist interrogatories/depositions about their knowledge and opinions, subject to exceptional circumstances.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/frcp/rule_26">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="785" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-target" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Target | 2015 WL 6777384 (D. Minn.)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;The court protected reviewed legal-task-force materials from a distinct legal investigation, but ordered production of business-only board updates.&lt;/p&gt;" link="https://static1.1.sqspcdn.com/static/f/1495878/26809007/1453478043243/In%2Bre%2BTarget%2BCorporation%2BCustomer%2BData%2BSecurity%2BBreach%2BLitigation.pdf">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="890" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-dominion" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Dominion Dental | 429 F. Supp. 3d 190 (2019)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;An essentially unchanged incident-response scope and business uses defeated work-product protection despite counsel’s involvement.&lt;/p&gt;" link="https://www.casemine.com/judgement/us/627cf991714d585d57c92c8f">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="995" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-capital" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Capital One | E.D. Va. (2020)&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Mandiant’s business-response report was discoverable; a separate PwC analysis received work-product protection based on its demonstrated litigation purpose.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="3355" y="1100" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-twotrack" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Two Tracks Can Help; Labels Do Not Decide&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Separate genuine operational and legal functions, document the legal purpose and limit dissemination; neither two reports nor two vendors guarantees protection.&lt;/p&gt;" link="https://law.justia.com/cases/federal/district-courts/district-of-columbia/dcdce/1:2019cv03195/212234/49/">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="1205" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-waiver" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Waiver and Exceptions&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Disclosure or reliance on privileged advice may waive protection; work-product waiver follows different rules, and crime-fraud can defeat privilege.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="3355" y="1310" width="705" height="90" />
+    </mxCell>
+    <UserObject id="ch2-502" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;FRE 502(d): Nonwaiver Orders&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;A federal order can prevent waiver through litigation disclosures, but cannot make otherwise unprotected material privileged.&lt;/p&gt;" link="https://www.law.cornell.edu/rules/fre/rule_502">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3390" y="1415" width="670" height="90" />
+      </mxCell>
+    </UserObject>
+    <UserObject id="ch2-covington" label="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;SEC v. Covington &amp;amp; Burling | D.D.C., July 24, 2023&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Client names were generally unprivileged absent revelation of legal communications; the court narrowed compelled disclosure to seven clients.&lt;/p&gt;" link="https://app.midpage.ai/document/securities-and-exchange-commission-v-1000366225565">
+      <mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+        <mxGeometry as="geometry" x="3355" y="1520" width="705" height="90" />
+      </mxCell>
+    </UserObject>
+    <mxCell id="ch2-edge-standing" parent="1" edge="1" source="ch2-title" target="ch2-standing" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+      <mxGeometry as="geometry" relative="1" />
+    </mxCell>
+    <mxCell id="ch2-edge-injury" parent="1" edge="1" source="ch2-standing" target="ch2-injury" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="410.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-trace" parent="1" edge="1" source="ch2-standing" target="ch2-trace" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="515.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-redress" parent="1" edge="1" source="ch2-standing" target="ch2-redress" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="620.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-damages" parent="1" edge="1" source="ch2-standing" target="ch2-damages" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="725.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-bohnak" parent="1" edge="1" source="ch2-damages" target="ch2-bohnak" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="87" y="782" />
+          <mxPoint x="87" y="830.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-injunction" parent="1" edge="1" source="ch2-standing" target="ch2-injunction" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="935.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-mitigation" parent="1" edge="1" source="ch2-injunction" target="ch2-mitigation" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="87" y="992" />
+          <mxPoint x="87" y="1040.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-krottner" parent="1" edge="1" source="ch2-standing" target="ch2-krottner" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="1145.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-casecontext" parent="1" edge="1" source="ch2-krottner" target="ch2-casecontext" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="87" y="1202" />
+          <mxPoint x="87" y="1250.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-facts" parent="1" edge="1" source="ch2-standing" target="ch2-facts" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="1355.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-proof" parent="1" edge="1" source="ch2-standing" target="ch2-proof" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="52" y="332" />
+          <mxPoint x="52" y="1460.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-claims" parent="1" edge="1" source="ch2-title" target="ch2-claims" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+      <mxGeometry as="geometry" relative="1" />
+    </mxCell>
+    <mxCell id="ch2-edge-negligence" parent="1" edge="1" source="ch2-claims" target="ch2-negligence" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="410.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-duty" parent="1" edge="1" source="ch2-negligence" target="ch2-duty" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="467" />
+          <mxPoint x="907" y="515.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-causation" parent="1" edge="1" source="ch2-negligence" target="ch2-causation" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="467" />
+          <mxPoint x="907" y="620.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-econ" parent="1" edge="1" source="ch2-negligence" target="ch2-econ" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="467" />
+          <mxPoint x="907" y="725.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-misrep" parent="1" edge="1" source="ch2-claims" target="ch2-misrep" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="830.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-fraud" parent="1" edge="1" source="ch2-misrep" target="ch2-fraud" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="887" />
+          <mxPoint x="907" y="935.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-specificity" parent="1" edge="1" source="ch2-misrep" target="ch2-specificity" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="887" />
+          <mxPoint x="907" y="1040.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-contract" parent="1" edge="1" source="ch2-claims" target="ch2-contract" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="1145.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-express" parent="1" edge="1" source="ch2-contract" target="ch2-express" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="1202" />
+          <mxPoint x="907" y="1250.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-implied" parent="1" edge="1" source="ch2-contract" target="ch2-implied" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="1202" />
+          <mxPoint x="907" y="1355.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-beneficiary" parent="1" edge="1" source="ch2-contract" target="ch2-beneficiary" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="1202" />
+          <mxPoint x="907" y="1460.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-warranty" parent="1" edge="1" source="ch2-claims" target="ch2-warranty" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="1565.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-privacy" parent="1" edge="1" source="ch2-claims" target="ch2-privacy" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="1670.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-unjust" parent="1" edge="1" source="ch2-claims" target="ch2-unjust" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="1775.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-udap" parent="1" edge="1" source="ch2-claims" target="ch2-udap" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="872" y="332" />
+          <mxPoint x="872" y="1880.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-ccpa" parent="1" edge="1" source="ch2-udap" target="ch2-ccpa" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="907" y="1937" />
+          <mxPoint x="907" y="1985.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-ccpadata" parent="1" edge="1" source="ch2-ccpa" target="ch2-ccpadata" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="942" y="2042" />
+          <mxPoint x="942" y="2090.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-ccparemedy" parent="1" edge="1" source="ch2-ccpa" target="ch2-ccparemedy" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="942" y="2042" />
+          <mxPoint x="942" y="2195.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-class" parent="1" edge="1" source="ch2-title" target="ch2-class" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+      <mxGeometry as="geometry" relative="1" />
+    </mxCell>
+    <mxCell id="ch2-edge-rulea" parent="1" edge="1" source="ch2-class" target="ch2-rulea" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1692" y="332" />
+          <mxPoint x="1692" y="410.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-common" parent="1" edge="1" source="ch2-rulea" target="ch2-common" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1727" y="467" />
+          <mxPoint x="1727" y="515.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-b3" parent="1" edge="1" source="ch2-class" target="ch2-b3" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1692" y="332" />
+          <mxPoint x="1692" y="620.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-variation" parent="1" edge="1" source="ch2-b3" target="ch2-variation" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1727" y="677" />
+          <mxPoint x="1727" y="725.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-hannaford" parent="1" edge="1" source="ch2-variation" target="ch2-hannaford" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1762" y="782" />
+          <mxPoint x="1762" y="830.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-b2" parent="1" edge="1" source="ch2-class" target="ch2-b2" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1692" y="332" />
+          <mxPoint x="1692" y="935.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-classinjury" parent="1" edge="1" source="ch2-class" target="ch2-classinjury" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1692" y="332" />
+          <mxPoint x="1692" y="1040.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-settlement" parent="1" edge="1" source="ch2-class" target="ch2-settlement" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="1692" y="332" />
+          <mxPoint x="1692" y="1145.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-insurance" parent="1" edge="1" source="ch2-title" target="ch2-insurance" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+      <mxGeometry as="geometry" relative="1" />
+    </mxCell>
+    <mxCell id="ch2-edge-firstparty" parent="1" edge="1" source="ch2-insurance" target="ch2-firstparty" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2512" y="332" />
+          <mxPoint x="2512" y="410.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-thirdparty" parent="1" edge="1" source="ch2-insurance" target="ch2-thirdparty" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2512" y="332" />
+          <mxPoint x="2512" y="515.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-cgl" parent="1" edge="1" source="ch2-insurance" target="ch2-cgl" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2512" y="332" />
+          <mxPoint x="2512" y="620.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-portal" parent="1" edge="1" source="ch2-cgl" target="ch2-portal" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2547" y="677" />
+          <mxPoint x="2547" y="725.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-conditions" parent="1" edge="1" source="ch2-insurance" target="ch2-conditions" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2512" y="332" />
+          <mxPoint x="2512" y="830.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-war" parent="1" edge="1" source="ch2-insurance" target="ch2-war" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2512" y="332" />
+          <mxPoint x="2512" y="935.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-merck" parent="1" edge="1" source="ch2-war" target="ch2-merck" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="2547" y="992" />
+          <mxPoint x="2547" y="1040.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-discovery" parent="1" edge="1" source="ch2-title" target="ch2-discovery" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+      <mxGeometry as="geometry" relative="1" />
+    </mxCell>
+    <mxCell id="ch2-edge-acp" parent="1" edge="1" source="ch2-discovery" target="ch2-acp" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="410.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-purpose" parent="1" edge="1" source="ch2-acp" target="ch2-purpose" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3367" y="467" />
+          <mxPoint x="3367" y="515.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-wp" parent="1" edge="1" source="ch2-discovery" target="ch2-wp" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="620.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-need" parent="1" edge="1" source="ch2-wp" target="ch2-need" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3367" y="677" />
+          <mxPoint x="3367" y="725.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-expert" parent="1" edge="1" source="ch2-discovery" target="ch2-expert" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="830.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-target" parent="1" edge="1" source="ch2-discovery" target="ch2-target" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="935.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-dominion" parent="1" edge="1" source="ch2-discovery" target="ch2-dominion" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="1040.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-capital" parent="1" edge="1" source="ch2-discovery" target="ch2-capital" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="1145.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-twotrack" parent="1" edge="1" source="ch2-discovery" target="ch2-twotrack" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="1250.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-waiver" parent="1" edge="1" source="ch2-discovery" target="ch2-waiver" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="1355.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-502" parent="1" edge="1" source="ch2-waiver" target="ch2-502" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3367" y="1412" />
+          <mxPoint x="3367" y="1460.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-edge-covington" parent="1" edge="1" source="ch2-discovery" target="ch2-covington" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;entryX=0;entryY=0.5;">
+      <mxGeometry as="geometry" relative="1">
+        <Array as="points">
+          <mxPoint x="3332" y="332" />
+          <mxPoint x="3332" y="1565.0" />
+        </Array>
+      </mxGeometry>
+    </mxCell>
+    <mxCell id="ch2-scope" value="&lt;p style=&quot;text-align:center;margin:4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Sources / Reading Guide&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px 8px;&quot;&gt;Kosseff, Ch. 2 §§2.1–2.5 (PDF pp. 114–202); Chapter 2 slides 1–35; supplied outline checked against cited authorities. Linked boxes open supporting rules/opinions; case outcomes are fact-specific. Reviewed October 16, 2026.&lt;/p&gt;" parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontFamily=Helvetica;fontSize=12;">
+      <mxGeometry as="geometry" x="860" y="2360" width="3240" height="95" />
+    </mxCell>
+  </root>
+</mxGraphModel></diagram>
   <diagram name="Ch 3" id="XHQin25PKF5DllRYPSOp">
     <mxGraphModel dx="1642" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
