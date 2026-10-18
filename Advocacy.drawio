@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mcMStH24n5Qd2vchl8ZE" name="Oral Argument ">
-    <mxGraphModel dx="3384" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,6 +589,9 @@
         <mxCell id="t4PtQhD98tMtrIm2gATw-26" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-40" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Municipal policy or custom&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Monell, 436 U.S. at 691, 694&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-The municipality’s policy or custom must cause the deprivation; employing the responsible officer is insufficient.&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="340" x="520" y="1080" as="geometry" />
         </mxCell>
@@ -608,10 +611,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;municipalities later denied compensation is&amp;nbsp;municipal policy&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Slaybaugh v. Rutherford County&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-The municipality’s policy or custom must cause the deprivation; employing the responsible officer is insufficient.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="340" x="620" y="1510" as="geometry" />
+          <mxGeometry height="140" width="340" x="880" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;sheriff&#39;s offices are funded by governing bodies, and thus suit may be brought against the county.&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Slaybaugh v. Rutherford County&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;697&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Tenn. Code Ann. § 8-8-201, provides that sheriff&#39;s offices are to be funded by county governing bodies, id. § 8-20-120, and further provides that any person incurring an injury “resulting from any act or failure to act on the part of any deputy appointed by the sheriff may bring suit against the county in which the sheriff serves,” id. § 8-8-302(a) &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="150" width="430" x="350" y="1710" as="geometry" />
+          <mxGeometry height="150" width="430" x="820" y="1720" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-32" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-29" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-31" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -636,6 +639,9 @@
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-37" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Takings/ Just compensation should be self executing because...&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="610" x="-2050" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-39" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Town&#39;s and County&#39;s denial of responsibility for compensating the plaintiffs&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Slaybaugh v. Rutherford Cnty., Tennessee, &amp;nbsp;698-699&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;complete destruction to a home while arresting their son.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;signed by Captain Kyle Evans, Staff Attorney, and states that the “RCS[D] denies responsibility for any damage to your home.”&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;In short, the Complaint adequately alleges that the plaintiffs&#39; injury was directly caused by policies attributable to the Town and the County.&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;the decision was apparently made by an “official[ ] with final decision-making authority&quot;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="260" width="650" x="140" y="1720" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
