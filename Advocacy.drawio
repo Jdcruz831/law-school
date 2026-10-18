@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mcMStH24n5Qd2vchl8ZE" name="Oral Argument ">
-    <mxGraphModel dx="2182" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2705" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -530,8 +530,11 @@
         <mxCell id="t4PtQhD98tMtrIm2gATw-5" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-30" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Takings/ Just compensation&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- establish there is a substantive right to compensation.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;Established by:&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Knick &amp;amp; 5th — (1)&amp;nbsp;Timing: The right arises immediately upon an uncompensated taking. Id. at 192.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(2) T&lt;/span&gt;he compensation right rests on the Fifth Amendment. Id. at 190–91.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(3) &lt;/span&gt;Ending the taking does not erase compensation owed for its duration. Id. at 192–93.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="580" x="-1160" y="520" as="geometry" />
+          <mxGeometry height="140" width="610" x="-1240" y="510" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-7" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -606,6 +609,21 @@
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-27" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;sheriff&#39;s offices are funded by governing bodies, and thus suit may be brought against the county.&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Slaybaugh v. Rutherford County&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;697&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;Tenn. Code Ann. § 8-8-201, provides that sheriff&#39;s offices are to be funded by county governing bodies, id. § 8-20-120, and further provides that any person incurring an injury “resulting from any act or failure to act on the part of any deputy appointed by the sheriff may bring suit against the county in which the sheriff serves,” id. § 8-8-302(a) &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="430" x="350" y="1710" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-32" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-29" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-29" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Takings/ Just compensation&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Our conclusion that the express cause of action for damages created by § 1983 constitutes the exclusive federal remedy for violation of the rights guaranteed in § 1981&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Jett v. Dallas Indep. Sch. Dist., 491 U.S. 701, 733, 109 S. Ct. 2702, 2722, 105 L. Ed. 2d 598 (1989)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="580" x="-1030" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-34" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-31" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-33" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-31" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Takings/ Just compensation&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Our conclusion that the express cause of action for damages created by § 1983 constitutes the exclusive federal remedy for violation of the rights guaranteed in § 1981&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Jett v. Dallas Indep. Sch. Dist., 491 U.S. 701, 733, 109 S. Ct. 2702, 2722, 105 L. Ed. 2d 598 (1989)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="580" x="-1300" y="970" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-33" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;1981 does not cover just compensation &amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Our conclusion that the express cause of action for damages created by § 1983 constitutes the exclusive federal remedy for violation of the rights guaranteed in § 1981&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Jett v. Dallas Indep. Sch. Dist., 491 U.S. 701, 733, 109 S. Ct. 2702, 2722, 105 L. Ed. 2d 598 (1989)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="580" x="-1470" y="1190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
