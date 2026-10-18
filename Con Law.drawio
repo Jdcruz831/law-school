@@ -509,19 +509,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Preemption&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Under the Supremacy Clause, &lt;u&gt;valid federal law displaces state law&lt;/u&gt; to the &lt;u&gt;extent Congress intended&lt;/u&gt; it to do so.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="400" x="-1460" y="1090" as="geometry" />
+          <mxGeometry height="110" width="400" x="-1820" y="1075" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-17" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-4" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ltZLwBbUF2npR7WB0Q-s-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Express&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The federal statute expressly displaces a category of state laws.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="85" width="220" x="-1740" y="1310" as="geometry" />
+          <mxGeometry height="85" width="220" x="-2100" y="1295" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-14" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="ltZLwBbUF2npR7WB0Q-s-13" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Field&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress has occupied a regulatory field, leaving no room for state supplementation.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="85" width="280" x="-1590" y="1420" as="geometry" />
+          <mxGeometry height="85" width="280" x="-1950" y="1405" as="geometry" />
         </mxCell>
-        <mxCell id="ltZLwBbUF2npR7WB0Q-s-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Impossibility conflict&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Compliance with both federal and state requirements is impossible.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="85" width="270" x="-1280" y="1420" as="geometry" />
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-15" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-9" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ltZLwBbUF2npR7WB0Q-s-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-16" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-11" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ltZLwBbUF2npR7WB0Q-s-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Obstacle conflict&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;State law frustrates the purposes and objectives of federal law.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="280" x="-1080" y="1295" as="geometry" />
+          <mxGeometry height="100" width="280" x="-1440" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;PG&amp;amp;E v. State Energy Resources Conservation &amp;amp; Development Commission&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;California restricted new nuclear plant construction until an approved permanent waste-disposal method existed.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The Court upheld the restriction because Congress had divided responsibility:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;Federal authority&lt;/b&gt;:&amp;nbsp;Radiological safety and nuclear aspects of plant construction&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;b&gt;state authority&lt;/b&gt;:&amp;nbsp;Economic feasibility, electricity needs, reliability, rates&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Other Arguments:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Field&lt;/i&gt;: Congress occupied nuclear safety, rather than every issue involving nuclear energy.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Impossibility&lt;/i&gt;: A federal license permitted construction; it did not require construction.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;i&gt;Obstacle&lt;/i&gt;: Congress promoted nuclear power while preserving state economic regulation. Promoting nuclear power was not an objective to be pursued at every cost.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="260" width="570" x="-2240" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Impossibility conflict&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Compliance with both federal and state requirements is impossible.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="85" width="270" x="-1640" y="1405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
