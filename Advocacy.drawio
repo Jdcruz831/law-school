@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mcMStH24n5Qd2vchl8ZE" name="Oral Argument ">
-    <mxGraphModel dx="2705" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2182" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -565,20 +565,26 @@
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-13" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-12" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-30" y="590" as="targetPoint" />
+            <mxPoint x="-20" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Built-in cause of action&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;DeVillier, 601 U.S. at 291&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;An owner may bring an uncompensated-taking claim in federal court under § 1983.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="350" x="-250" y="740" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-14" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Official conduct&amp;nbsp;even when the official abuses or exceeds lawful authority&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;West v. Atkins, 487 U.S. 42, 49–50 (1988)&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Official conduct can remain under color of state law even when the official abuses or exceeds lawful authority.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="110" width="370" x="280" y="1240" as="geometry" />
+          <mxGeometry height="110" width="370" x="180" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-19" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-24" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-26" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-16" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="t4PtQhD98tMtrIm2gATw-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-16" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Municipal policy or custom&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Monell, 436 U.S. at 691, 694&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-The municipality’s policy or custom must cause the deprivation; employing the responsible officer is insufficient.&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="340" x="520" y="1090" as="geometry" />
+          <mxGeometry height="140" width="340" x="520" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-18" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;single official decision can establish policy&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Pembaur, 475 U.S. at 480&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;A single decision by a properly constituted legislative body can constitute official municipal policy.&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="310" x="810" y="1310" as="geometry" />
@@ -587,7 +593,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-20" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Direct causation&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Bryan County, 520 U.S. at 404–05&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The municipality’s own action must directly cause the deprivation. When that action itself violates federal law, it establishes the necessary municipal causation.&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="760" y="930" as="geometry" />
+          <mxGeometry height="140" width="450" x="810" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-23" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;TIE:&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;Ending the taking does not erase compensation owed for its duration&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Monell, 436 U.S. at 691, 694&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-The municipality’s policy or custom must cause the deprivation; employing the responsible officer is insufficient.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="470" x="80" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="t4PtQhD98tMtrIm2gATw-25" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;municipalities later denied compensation is&amp;nbsp;municipal policy&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;Slaybaugh v. Rutherford County&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-The municipality’s policy or custom must cause the deprivation; employing the responsible officer is insufficient.&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="340" x="620" y="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
