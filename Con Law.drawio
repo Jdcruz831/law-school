@@ -496,8 +496,32 @@
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-1" edge="1" parent="1" source="Jr_ydECLnp-rl0KPYuwt-32" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.986;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" target="cJ5OH2NNq5MmNCnX_mFG-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-6" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="ltZLwBbUF2npR7WB0Q-s-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-8" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="ltZLwBbUF2npR7WB0Q-s-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-10" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="ltZLwBbUF2npR7WB0Q-s-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-12" edge="1" parent="1" source="ltZLwBbUF2npR7WB0Q-s-2" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="ltZLwBbUF2npR7WB0Q-s-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ltZLwBbUF2npR7WB0Q-s-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Preemption&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Under the Supremacy Clause, &lt;u&gt;valid federal law displaces state law&lt;/u&gt; to the &lt;u&gt;extent Congress intended&lt;/u&gt; it to do so.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="400" x="-1460" y="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Express&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;The federal statute expressly displaces a category of state laws.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="85" width="220" x="-1740" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Field&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Congress has occupied a regulatory field, leaving no room for state supplementation.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="85" width="280" x="-1590" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Impossibility conflict&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Compliance with both federal and state requirements is impossible.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="85" width="270" x="-1280" y="1420" as="geometry" />
+        </mxCell>
+        <mxCell id="ltZLwBbUF2npR7WB0Q-s-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;u&gt;Obstacle conflict&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;State law frustrates the purposes and objectives of federal law.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="280" x="-1080" y="1295" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
