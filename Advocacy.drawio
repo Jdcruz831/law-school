@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mcMStH24n5Qd2vchl8ZE" name="Oral Argument ">
-    <mxGraphModel dx="4228" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4836" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -569,17 +569,19 @@
         <mxCell id="asF2fj-k3maLoz7lA8SP-4" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="asF2fj-k3maLoz7lA8SP-6" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-10" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-12" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-16" edge="1" parent="1" source="t4PtQhD98tMtrIm2gATw-6" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-15" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2170" y="562.5000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Unjust enrichment&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="1830" y="290" as="geometry" />
+          <mxGeometry height="140" width="450" x="2420" y="350" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;§ 1983 enforces the compensation right&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Knick, 588 U.S. at 185&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;An owner may bring an uncompensated-taking claim in federal court under § 1983.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="350" x="-200" y="960" as="geometry" />
@@ -695,19 +697,33 @@
           <mxGeometry height="140" width="610" x="-2250" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;restitution principles recognize liability for benefits obtained through unauthorized property use&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="1300" y="720" as="geometry" />
+          <mxGeometry height="140" width="450" x="2330" y="960" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Section 1983’s existence does not categorically foreclose an independent restitution claim&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="1640" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="asF2fj-k3maLoz7lA8SP-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Unjust enrichment&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2110" y="730" as="geometry" />
+          <mxGeometry height="140" width="450" x="2800" y="910" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;O’Donnell does not establish that police activity can never support unjust enrichment&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2560" y="500" as="geometry" />
+          <mxGeometry height="140" width="450" x="3090" y="680" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-11" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Restitution must correspond to enrichment, with no duplicate recovery&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2480" y="250" as="geometry" />
+          <mxGeometry height="140" width="450" x="3070" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-18" edge="1" parent="1" source="asF2fj-k3maLoz7lA8SP-15" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-20" edge="1" parent="1" source="asF2fj-k3maLoz7lA8SP-15" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="asF2fj-k3maLoz7lA8SP-19" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2003.9473684210534" y="700.0000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;that local government can owe restitution for benefits obtained without authority&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;&amp;nbsp;Ward v. Board of Love County, Okl.&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Indian tribes being taxed when they should not have been.&amp;nbsp;&lt;i&gt;Choctaw Tribe&lt;/i&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="560" x="1540" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Governmental bodies have an obligation to do justice&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;&amp;nbsp;Ward v. Board of Love County, Okl. 24&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;the obligation to do justice rests upon all persons, natural and artificial .. &quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="450" x="1380" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="asF2fj-k3maLoz7lA8SP-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;The obligation can exist without an express repayment statute&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&amp;nbsp;&lt;i&gt;Ward v. Board of Love County, Okl. 24&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;...if a county obtains the money or property of others without authority, the law, independent of any statute, will compel restitution or compensation.’&quot;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="450" x="1880" y="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
