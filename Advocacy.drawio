@@ -517,7 +517,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mcMStH24n5Qd2vchl8ZE" name="Oral Argument ">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="6821" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,7 +581,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Unjust enrichment&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The Nguyen&#39;s right to bring an unjust enrichment claim is not blocked by&amp;nbsp;Mission City’s governmental status&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2420" y="350" as="geometry" />
+          <mxGeometry height="140" width="450" x="2230" y="280" as="geometry" />
         </mxCell>
         <mxCell id="t4PtQhD98tMtrIm2gATw-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;§ 1983 enforces the compensation right&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Knick, 588 U.S. at 185&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;An owner may bring an uncompensated-taking claim in federal court under § 1983.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="350" x="-200" y="960" as="geometry" />
@@ -697,10 +697,10 @@
           <mxGeometry height="140" width="610" x="-2250" y="1370" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;restitution principles recognize liability for benefits obtained through unauthorized property use&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2160" y="970" as="geometry" />
+          <mxGeometry height="140" width="450" x="3130" y="950" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Section 1983’s existence does not categorically foreclose an independent restitution claim&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="2670" y="910" as="geometry" />
+          <mxGeometry height="140" width="450" x="2860" y="930" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;O’Donnell does not establish that police activity can never support unjust enrichment&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="140" width="450" x="3070" y="750" as="geometry" />
@@ -717,19 +717,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;that local government can owe restitution for benefits obtained without authority&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;In Ward v. Board of Love County, Okl.&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- The Choctaw tribe being unlawfully taxed&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Supreme Court ruled that the Choctaw tribe was due restitution as the county was unjustly enriched, when they should not have been.&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;even without statutory authority authorizing repayment&lt;i&gt;.&quot;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="170" width="610" x="1500" y="550" as="geometry" />
+          <mxGeometry height="170" width="610" x="1970" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-3" edge="1" parent="1" source="asF2fj-k3maLoz7lA8SP-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="aPMj0_xVcds68NP1dcye-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-17" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Governmental bodies have an obligation to do justice&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;&amp;nbsp;Ward v. Board of Love County, Okl. 24&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Justice VAN DEVANTER&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;the obligation to do justice rests upon all persons, natural and artificial .. &quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="1330" y="790" as="geometry" />
+          <mxGeometry height="140" width="450" x="1770" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-4" edge="1" parent="1" source="asF2fj-k3maLoz7lA8SP-19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="aPMj0_xVcds68NP1dcye-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="asF2fj-k3maLoz7lA8SP-19" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;The obligation can exist without an express repayment statute&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&amp;nbsp;&lt;i&gt;Ward v. Board of Love County, Okl. 24&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;...if a county obtains the money or property of others without authority, the law, independent of any statute, will compel restitution or compensation.’&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Statue is not needed, the common law supplements this right independently&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="450" x="1820" y="790" as="geometry" />
+          <mxGeometry height="140" width="450" x="2290" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-6" edge="1" parent="1" source="aPMj0_xVcds68NP1dcye-1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="aPMj0_xVcds68NP1dcye-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Property Claim&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Alleged wrong is unauthorized use of the Nguyens’ property without consent or payment&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="450" x="2030" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-10" edge="1" parent="1" source="aPMj0_xVcds68NP1dcye-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="aPMj0_xVcds68NP1dcye-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Restitution is the proper relief for unjust enrichment.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Alleged wrong is unauthorized use of the Nguyens’ property without consent or payment&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Liu, 591 U.S. 71, 79–80 (2020)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="450" x="1990" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="aPMj0_xVcds68NP1dcye-9" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;benefit is the value of the City’s unauthorized use or access&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="450" x="1940" y="1510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Oral Argument " id="yg-wPEMumjuUNOYksOeI">
-    <mxGraphModel dx="4393" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4593" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="k8BEP7BhALAoowO3T5WO-0" />
         <mxCell id="k8BEP7BhALAoowO3T5WO-1" parent="k8BEP7BhALAoowO3T5WO-0" />
@@ -837,10 +858,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k8BEP7BhALAoowO3T5WO-44" parent="k8BEP7BhALAoowO3T5WO-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;§1981 &amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;All persons&amp;nbsp;have the same right in every State and Territory to make and enforce contracts, to sue, be parties and give evidence&quot;&amp;nbsp;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="580" x="-1300" y="970" as="geometry" />
+          <mxGeometry height="110" width="400" x="-1070" y="940" as="geometry" />
         </mxCell>
         <mxCell id="k8BEP7BhALAoowO3T5WO-45" parent="k8BEP7BhALAoowO3T5WO-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fontSize=13;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;b&gt;1981 is only for Discrimination&lt;/b&gt;&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;General Building Contractors v. Pennsylvania&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;We conclude, therefore, that § 1981, like the Equal Protection Clause, can be violated only by purposeful discrimination.&quot;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Gen. Bldg. Contractors Ass&#39;n, Inc. v. Pennsylvania, 458 U.S. 375, 391, 102 S. Ct. 3141, 3150, 73 L. Ed. 2d 835 (1982)&lt;/p&gt;" vertex="1">
-          <mxGeometry height="140" width="580" x="-1470" y="1190" as="geometry" />
+          <mxGeometry height="140" width="580" x="-1290" y="1140" as="geometry" />
         </mxCell>
         <mxCell id="k8BEP7BhALAoowO3T5WO-46" edge="1" parent="k8BEP7BhALAoowO3T5WO-1" source="k8BEP7BhALAoowO3T5WO-47" style="curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;" target="k8BEP7BhALAoowO3T5WO-51" value="">
           <mxGeometry relative="1" as="geometry" />
