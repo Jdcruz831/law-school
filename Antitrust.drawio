@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="5">
+<mxfile host="app.diagrams.net" pages="6">
   <diagram name="Page-1" id="rtwjt1CX6FByuuT1yKK2">
     <mxGraphModel dx="6093" dy="1654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1474,6 +1474,97 @@
         <mxCell id="1" parent="0" />
         <mxCell id="R5Og_encKUWLsPt57kBa-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Pro competitive justifications&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Quality products&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- better service&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- underused production&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="270" width="480" x="470" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9-Bf_tyC-Z2vFyIi2FYB" name="New Total ">
+    <mxGraphModel dx="1843" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kAUsF2NrD1V0PaN2bnH2-1" edge="1" parent="1" source="kAUsF2NrD1V0PaN2bnH2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAUsF2NrD1V0PaN2bnH2-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-2" edge="1" parent="1" source="kAUsF2NrD1V0PaN2bnH2-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="UIBAnzXXqA5P7YJKsDlO-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kAUsF2NrD1V0PaN2bnH2-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Sherman Act §1 &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Every contract, combination in the form of trust or other- wise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is hereby declared to be illegal.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments, at the discretion of the court.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="410" x="330" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUsF2NrD1V0PaN2bnH2-3" edge="1" parent="1" source="kAUsF2NrD1V0PaN2bnH2-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kAUsF2NrD1V0PaN2bnH2-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUsF2NrD1V0PaN2bnH2-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Sherman Act §2 &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade or commerce among the several States, or with foreign nations, shall be deemed guilty of a felony,&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;misdemeanor, and, on conviction thereof; shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments, in the discretion of the court.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="170" width="340" x="2610" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kAUsF2NrD1V0PaN2bnH2-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Sherman Act §3&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Every contract, combination in form of trust or otherwise, or conspiracy, in restraint of trade or commerce in any Territory of the United States or of the District of Columbia, or in restraint of trade or commerce between any such Territory and another, or between any such Territory or Territories and any State or States or the District of Columbia, or with foreign nations, or between the District of Columbia and any State or States or foreign nations, is hereby declared illegal. Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments, in the discretion of the court.&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="470" x="6000" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-5" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="UIBAnzXXqA5P7YJKsDlO-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-7" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="UIBAnzXXqA5P7YJKsDlO-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-9" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="UIBAnzXXqA5P7YJKsDlO-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Elements &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) C,C,C - Contract, Combination or Conspiracy&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Restraint of trade&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) Cross state foreign nations&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="310" x="350" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(1) C,C,C - Contract, Combination or Conspiracy&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="310" x="-50" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-4" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="fOaQBkatRjpKhIOd3HEA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-5" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="fOaQBkatRjpKhIOd3HEA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-6" edge="1" parent="1" source="UIBAnzXXqA5P7YJKsDlO-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;" target="fOaQBkatRjpKhIOd3HEA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(2) Restraint of trade &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="310" x="340" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="UIBAnzXXqA5P7YJKsDlO-8" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(3) Cross state foreign nations&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="100" width="310" x="740" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="67hvF_Jdr2oTYYBA1yCl-2" edge="1" parent="1" source="fOaQBkatRjpKhIOd3HEA-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;startArrow=classic;startFill=1;" target="fOaQBkatRjpKhIOd3HEA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Quick Look&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Automatic presumption of anti - competitive harm:  YES&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Justification for pro-compedative effects allowed harm: YES&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="95" width="330" x="260" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-2" edge="1" parent="1" source="fOaQBkatRjpKhIOd3HEA-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="l4Ttwjnco6yG4emIGxlq-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Rule of Reason &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Automatic presumption of anti - competitive harm:  NO&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Justification for pro-compedative effects allowed harm: YES&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(1) anti-compedative conduct &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(2) pro - competitive justification &lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;(3) less &lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="340" x="760" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="67hvF_Jdr2oTYYBA1yCl-1" edge="1" parent="1" source="fOaQBkatRjpKhIOd3HEA-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;startArrow=classic;startFill=1;" target="fOaQBkatRjpKhIOd3HEA-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fOaQBkatRjpKhIOd3HEA-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Per Se Standard&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Automatic presumption of anti - competitive harm:  YES&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Justification for pro-compedative effects allowed harm: NO&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="95" width="340" x="-200" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-4" edge="1" parent="1" source="l4Ttwjnco6yG4emIGxlq-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="l4Ttwjnco6yG4emIGxlq-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(1) anti-compedative conduct&amp;nbsp; &amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="340" x="700" y="1260" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-6" edge="1" parent="1" source="l4Ttwjnco6yG4emIGxlq-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="l4Ttwjnco6yG4emIGxlq-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(2) pro - competitive justification&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="340" x="700" y="1495" as="geometry" />
+        </mxCell>
+        <mxCell id="l4Ttwjnco6yG4emIGxlq-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;(3) Less Restrictive Alternative&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="155" width="340" x="680" y="1750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
