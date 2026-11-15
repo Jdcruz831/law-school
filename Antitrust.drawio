@@ -1310,7 +1310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sherman-analysis-flow" name="§1 &amp; §2 Analysis Flowchart">
-    <mxGraphModel dx="1592" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4200" math="0" shadow="0">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="4200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1684,7 +1684,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New w/ Cases" id="0n17Px8VpHsRZIiF-bND">
-    <mxGraphModel dx="3136" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-0" />
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-1" parent="RHP0lfRo-Y35n8nOdTgm-0" />
