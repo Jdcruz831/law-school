@@ -1310,7 +1310,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sherman-analysis-flow" name="§ 1, § 2 &amp; § 7 Analysis Flowchart">
-    <mxGraphModel dx="2455" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="4840" pageHeight="4200" math="0" shadow="0">
+    <mxGraphModel grid="1" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="4840" pageHeight="4200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1745,7 +1745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New w/ Cases" id="0n17Px8VpHsRZIiF-bND">
-    <mxGraphModel dx="2892" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-0" />
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-1" parent="RHP0lfRo-Y35n8nOdTgm-0" />
@@ -1888,9 +1888,6 @@
         <mxCell id="czW2jV8IjlTnTD4VBOvH-3" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="RHP0lfRo-Y35n8nOdTgm-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;" target="czW2jV8IjlTnTD4VBOvH-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-1" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="RHP0lfRo-Y35n8nOdTgm-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-0" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-49" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Clayton Act §7&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;prohibits covered stock or asset acquisitions when their effect, in a relevant market, “may be substantially to lessen competition, or to tend to create a monopoly.”&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;the government can stop an acquisition because of its likely future harm to competition, before that harm occurs.&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="5990" y="190" as="geometry" />
         </mxCell>
@@ -1972,6 +1969,21 @@
         <mxCell id="czW2jV8IjlTnTD4VBOvH-8" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;[2] Market shares context&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;United States v. General Dynamics&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;market shares can overstate a firm’s future competitive strength&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="120" width="350" x="6010" y="1050" as="geometry" />
         </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-15" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-12" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Monetary &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Clayton act §4&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;Any person injured ... by any of the antitrust laws shall recover threefold the damages sustained&quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="7870" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-14" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Cartel v. Cartel&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="8380" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-13" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-1" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="RHP0lfRo-Y35n8nOdTgm-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-0" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-3" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1997,7 +2009,7 @@
           <mxGeometry height="130" width="400" x="6880" y="730" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-6" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Criminal&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-only DOJ is criminal&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="100" width="380" x="7760" y="450" as="geometry" />
+          <mxGeometry height="100" width="380" x="7830" y="460" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-8" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;civil&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Monetary remedies&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;injunctive relief&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;1) Behavioral &lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;2) structural&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;3) both &lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="7790" y="680" as="geometry" />
