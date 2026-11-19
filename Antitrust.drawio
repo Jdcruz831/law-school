@@ -1745,7 +1745,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="New w/ Cases" id="0n17Px8VpHsRZIiF-bND">
-    <mxGraphModel dx="2528" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2693" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-0" />
         <mxCell id="RHP0lfRo-Y35n8nOdTgm-1" parent="RHP0lfRo-Y35n8nOdTgm-0" />
@@ -1975,7 +1975,7 @@
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-12" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Monetary &amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Clayton act §4&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;Any person injured ... by any of the antitrust laws shall recover threefold the damages sustained&quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="7870" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-14" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Cartel v. Cartel&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-14" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Cartel v. Cartel&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;&lt;i&gt;Brunswick v. Pueblo&lt;/i&gt;&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&amp;nbsp;&quot;Antitrust protects competition not competitors&quot;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Antitrust injury requirement. What is the harm for private plaintiffs has to be harm to competition&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="8380" y="330" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-13" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-12" value="">
@@ -1996,6 +1996,9 @@
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-11" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-21" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-0" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-0" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Remedies&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;settlement (agreement)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Liability&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Drop case&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="7300" y="190" as="geometry" />
         </mxCell>
@@ -2003,7 +2006,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-2" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;settlement (agreement)&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- tend to be a final agreement that includes a section that says defendant does not include an admission of fact or law.&amp;nbsp;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="400" x="7010" y="510" as="geometry" />
+          <mxGeometry height="130" width="400" x="6990" y="500" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-4" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Tunrey&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- DOJ has to explain settling cases&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&quot;in the public interest &quot;&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="6880" y="730" as="geometry" />
@@ -2011,11 +2014,38 @@
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-6" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Criminal&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-only DOJ is criminal&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;-&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="100" width="380" x="7830" y="460" as="geometry" />
         </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-17" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-19" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-8" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;civil&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Monetary remedies&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;injunctive relief&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;1) Behavioral &lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;2) structural&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;3) both &lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="130" width="400" x="7790" y="680" as="geometry" />
+          <mxGeometry height="130" width="400" x="7850" y="690" as="geometry" />
         </mxCell>
         <mxCell id="pxPwPUDmrkv8Lh_hjR0r-10" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Nat Soc Prof Eng&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;1) misconduct -&amp;gt; stop&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;2) Other similar misconduct&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;3) Restore competition - give access to data - &lt;i&gt;google&lt;/i&gt;&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Looking forward as to why a limitation would be bad is forward looking and would be litigated on its own and the burden would be on the defendant then.&amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="400" x="7300" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-16" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;structural&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;involve the sale of business units or&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;DOJ &amp;amp; SCOTUS like the structural much more&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="7570" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-18" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Behavioral&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="8040" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-23" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-25" edge="1" parent="RHP0lfRo-Y35n8nOdTgm-1" source="pxPwPUDmrkv8Lh_hjR0r-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="pxPwPUDmrkv8Lh_hjR0r-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-20" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;IP&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Patent - lawful limited monopoly (incentive for disclosure)&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Antitrust - Anti-trust&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="9920" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-22" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;Patent licensing&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;not allowed:&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- &amp;nbsp;Tying&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;- Can&#39;t demand licensing payment after patent expires.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="9620" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="pxPwPUDmrkv8Lh_hjR0r-24" parent="RHP0lfRo-Y35n8nOdTgm-1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px; text-decoration-color: currentcolor;&quot;&gt;FTC v. Actavis&amp;nbsp;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Paying off a competitor to stay off the market for 9 years settlement is not immune for antitrust law.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Rule of reason applies to reverse settlement payments&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="130" width="400" x="10090" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
