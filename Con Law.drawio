@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="2286" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2042" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4944,8 +4944,11 @@
         <mxCell id="x9iKL2SmVu5oC67_iRJe-4" edge="1" parent="1" source="IG7qUSf0G_KOugjCqRdH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="x9iKL2SmVu5oC67_iRJe-3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-3" edge="1" parent="1" source="IG7qUSf0G_KOugjCqRdH-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="PqqTcyYlZoVkyF2MK_Mt-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IG7qUSf0G_KOugjCqRdH-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Federal Jurisdiction&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="650" y="280" as="geometry" />
+          <mxGeometry height="70" width="240" x="600" y="270" as="geometry" />
         </mxCell>
         <mxCell id="x9iKL2SmVu5oC67_iRJe-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SCOTUS Original&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;i&gt;Article 3 §2 Clause 2&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;In all Cases affecting (1) Ambassadors, other (2) public Ministers and (3) and those in which a State shall be Party, the supreme Court shall have Original Jurisdiction.&quot;&lt;/p&gt;" vertex="1">
           <mxGeometry height="115" width="360" x="410" y="507.5" as="geometry" />
@@ -4956,7 +4959,7 @@
         <mxCell id="4UmAvlBuRAimI7SgQMQS-2" edge="1" parent="1" source="x9iKL2SmVu5oC67_iRJe-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="4UmAvlBuRAimI7SgQMQS-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x9iKL2SmVu5oC67_iRJe-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Lower Courts&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Lower courts must be ordained by congress to have jurisdiction over a case. &amp;nbsp;&lt;/p&gt;" vertex="1">
+        <mxCell id="x9iKL2SmVu5oC67_iRJe-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Lower Courts&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font&gt;&lt;i&gt;&lt;font&gt;Article 3, § 1&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Lower courts must be ordained by congress to have jurisdiction over a case. &amp;nbsp;&lt;/p&gt;" vertex="1">
           <mxGeometry height="90" width="270" x="880" y="510" as="geometry" />
         </mxCell>
         <mxCell id="t9wnQ1hnMIy_y3eMolfy-2" edge="1" parent="1" source="O6_bD9AzNkivjTgQ641b-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="t9wnQ1hnMIy_y3eMolfy-1" value="">
@@ -4988,6 +4991,15 @@
         </mxCell>
         <mxCell id="4UmAvlBuRAimI7SgQMQS-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Cases and Controversies&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Article 3, § 2, clause 1&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="115" width="320" x="10" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-5" edge="1" parent="1" source="PqqTcyYlZoVkyF2MK_Mt-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="PqqTcyYlZoVkyF2MK_Mt-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Standing&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="1490" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) The Political Questions Doctrine&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Adequate and Independent State Grounds (A.I.S.G.)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="90" width="230" x="2060" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
