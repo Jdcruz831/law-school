@@ -4926,17 +4926,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="993" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2286" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X-Wab0w4My8OWmw9EI9f-2" edge="1" parent="1" source="-DQfvTR_k59VBwq0-bNZ-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="IG7qUSf0G_KOugjCqRdH-1" value="">
+        <mxCell id="4UmAvlBuRAimI7SgQMQS-4" edge="1" parent="1" source="-DQfvTR_k59VBwq0-bNZ-1" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="4UmAvlBuRAimI7SgQMQS-5" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="302.9000000000001" as="targetPoint" />
+            <mxPoint x="-5" y="302.1564885496182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-DQfvTR_k59VBwq0-bNZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=2.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-width: normal; font-size: 21px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(255, 255, 255);&quot;&gt;&lt;u&gt;Judicial branch&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;margin: 10px 0px 8px; border-top: 1px solid rgb(129, 167, 170);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 16px; line-height: 1.3; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(243, 247, 247);&quot;&gt;Can this court hear the claim?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="60" y="240" as="geometry" />
+          <mxGeometry height="115" width="280" x="-480" y="252.5" as="geometry" />
         </mxCell>
         <mxCell id="x9iKL2SmVu5oC67_iRJe-2" edge="1" parent="1" source="IG7qUSf0G_KOugjCqRdH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="x9iKL2SmVu5oC67_iRJe-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -4945,10 +4945,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IG7qUSf0G_KOugjCqRdH-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Federal Jurisdiction&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="190" x="590" y="270" as="geometry" />
+          <mxGeometry height="60" width="190" x="650" y="280" as="geometry" />
         </mxCell>
         <mxCell id="x9iKL2SmVu5oC67_iRJe-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SCOTUS Original&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;i&gt;Article 3 §2 Clause 2&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&quot;In all Cases affecting (1) Ambassadors, other (2) public Ministers and (3) and those in which a State shall be Party, the supreme Court shall have Original Jurisdiction.&quot;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="115" width="360" x="170" y="507.5" as="geometry" />
+          <mxGeometry height="115" width="360" x="410" y="507.5" as="geometry" />
         </mxCell>
         <mxCell id="O6_bD9AzNkivjTgQ641b-2" edge="1" parent="1" source="x9iKL2SmVu5oC67_iRJe-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="O6_bD9AzNkivjTgQ641b-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -4982,6 +4982,12 @@
         </mxCell>
         <mxCell id="4UmAvlBuRAimI7SgQMQS-1" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Creation of lower courts includes power to define&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font&gt;&lt;i&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Kline v. Burke&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) Congress&#39;s power to create lower courts includes the power to define their jurisdiction.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Only so far as to grant within the constitutional A3 powers&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3) The power to create includes the power to take away&lt;/p&gt;" vertex="1">
           <mxGeometry height="177.5" width="360" x="1230" y="622.5" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmAvlBuRAimI7SgQMQS-7" edge="1" parent="1" source="4UmAvlBuRAimI7SgQMQS-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="IG7qUSf0G_KOugjCqRdH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4UmAvlBuRAimI7SgQMQS-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Cases and Controversies&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Article 3, § 2, clause 1&lt;/font&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="115" width="320" x="10" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
