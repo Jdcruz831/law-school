@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="2892" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2273" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4936,7 +4936,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-DQfvTR_k59VBwq0-bNZ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=2.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align: center; font-style: normal; font-variant-caps: normal; font-weight: bold; font-width: normal; font-size: 21px; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(255, 255, 255);&quot;&gt;&lt;u&gt;Judicial branch&lt;/u&gt;&lt;/div&gt;&lt;div style=&quot;margin: 10px 0px 8px; border-top: 1px solid rgb(129, 167, 170);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; font-size: 16px; line-height: 1.3; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(243, 247, 247);&quot;&gt;Can this court hear the claim?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="115" width="280" x="-1280" y="222.5" as="geometry" />
+          <mxGeometry height="115" width="280" x="-1340" y="280" as="geometry" />
         </mxCell>
         <mxCell id="x9iKL2SmVu5oC67_iRJe-2" edge="1" parent="1" source="IG7qUSf0G_KOugjCqRdH-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="x9iKL2SmVu5oC67_iRJe-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -5010,8 +5010,8 @@
         <mxCell id="wovAwqLVVU2Vwa51t1SS-10" edge="1" parent="1" source="PqqTcyYlZoVkyF2MK_Mt-2" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="wovAwqLVVU2Vwa51t1SS-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Standing&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Article 3, § 2, clause 1&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="82.5" width="220" x="3100" y="338" as="geometry" />
+        <mxCell id="PqqTcyYlZoVkyF2MK_Mt-2" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Standing&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;i&gt;Article 3, § 2, clause 1&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;Each claim and relief needs all.&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="92" width="240" x="3100" y="338" as="geometry" />
         </mxCell>
         <mxCell id="PqqTcyYlZoVkyF2MK_Mt-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=light-dark(#FFFFFF,#B9C6CA);fontColor=light-dark(#151719,#000000);" value="&lt;p style=&quot;text-align: center; margin: 4px 0px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Exceptions&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(1) The Political Questions Doctrine&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(2) Adequate and Independent State Grounds (A.I.S.G.)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;(3)&amp;nbsp;state sovereign immunity&lt;/p&gt;" vertex="1">
           <mxGeometry height="110" width="250" x="4650" y="300" as="geometry" />
