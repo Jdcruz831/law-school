@@ -2024,9 +2024,688 @@
           <mxGeometry x="60" y="3128" width="2280" height="203" as="geometry" />
         </mxCell>
         <mxCell id="finish" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;4. State the result for EACH claim; then check who can sue and what relief is available.&lt;/b&gt;&lt;br/&gt;Do not infer legality from immunity or lack of standing. Use the shared court checklist in the companion guide: Article III + statutory jurisdiction where required → standing / timing / political question → immunity → remedy.&lt;br/&gt;&lt;b&gt;Answer pattern:&lt;/b&gt; state authority → all triggered federal constraints → apply facts and alternatives → conclusion / precise relief. If information is missing, identify the fact and explain both outcomes.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="3376" width="2280" height
-... 98605 bytes omitted ...
-quot;&gt;Ask separately whether injury is fairly traceable to the defendant and whether the requested relief is likely to alleviate it. A predictable third-party response may suffice. Identify evidence for each disputed link.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“independent action of some third party not before the court” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 97&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 94–102&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry x="60" y="3376" width="2280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="edge0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="start" target="router">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0" target="l0n0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n0" target="l0n1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n1" target="l0n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n2" target="l0n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n3" target="l0n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n4" target="l0n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1" target="l1n0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n0" target="l1n1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n1" target="l1n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n2" target="l1n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n3" target="l1n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n4" target="l1n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2" target="l2n0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n0" target="l2n1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n1" target="l2n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n2" target="l2n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n3" target="l2n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n4" target="l2n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3" target="l3n0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n0" target="l3n1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n1" target="l3n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n2" target="l3n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n3" target="l3n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n4" target="l3n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200.0" y="463" />
+              <mxPoint x="330.75" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200.0" y="463" />
+              <mxPoint x="910.25" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200.0" y="463" />
+              <mxPoint x="1489.75" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200.0" y="463" />
+              <mxPoint x="2069.25" y="463" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n5" target="rights">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330.75" y="2858" />
+              <mxPoint x="1200.0" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n5" target="rights">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910.25" y="2858" />
+              <mxPoint x="1200.0" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n5" target="rights">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1489.75" y="2858" />
+              <mxPoint x="1200.0" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n5" target="rights">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2069.25" y="2858" />
+              <mxPoint x="1200.0" y="2858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="rights" target="retro">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="retro" target="finish">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="chat-chart-2-semester" name="Chat Chart 2">
+    <mxGraphModel dx="928" dy="24164" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="s1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:center;font: bold 18px Helvetica,Arial&quot;&gt;Constitutional foundations&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Chs. 1–2 · pp. 11–32&lt;/div&gt;&lt;div style=&quot;font:15px/1.3 Helvetica,Arial;margin-top:9px&quot;&gt;Which government acted, and what kind of limit does the question invoke?&lt;/div&gt;&lt;div style=&quot;margin:10px 0;border-top:1px solid #719093&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font:15px/1.35 Helvetica;color:#d1e6e7&quot;&gt;Identify the actor → locate the grant or prohibition → test any structural or rights limit.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="305" width="400" x="7640" y="-1284" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Allocation of power&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;The Articles left the national government dependent on states for revenue and enforcement.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;The Constitution grants national powers, divides them among branches, preserves state authority and limits government to protect individuals. Identify the actor before choosing a test.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“All legislative Powers herein granted” · Art. I, §1 · p. 19&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 11–18&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="400" x="8185" y="-1561" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Federalism and supremacy&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A state measure conflicts with a federal enactment.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Ask first whether the enactment falls within federal power. Valid federal law binds state judges. States generally retain police power over health, safety and welfare.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“the supreme Law of the Land” · Art. VI, cl. 2 · p. 25&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 12–15, 25&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="250" width="400" x="8730" y="-2224" as="geometry" />
+        </mxCell>
+        <mxCell id="edge9" edge="1" parent="1" source="r1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8633" y="-1426" />
+              <mxPoint x="8633" y="-2099" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Separation of powers&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A dispute pits Congress against the President or a federal court.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Identify who makes, executes or adjudicates law. Then ask whether text permits a shared function, such as Senate advice and consent.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 12–16, 19–25&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="400" x="8730" y="-1930" as="geometry" />
+        </mxCell>
+        <mxCell id="edge10" edge="1" parent="1" source="r1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8633" y="-1426" />
+              <mxPoint x="8633" y="-1820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Ratification and change&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;The Convention compromised on representation through a population-based House and equal state representation in the Senate.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Article VII required nine ratifying state conventions. Article V ordinarily requires two-thirds of both houses to propose and three-fourths of states to ratify. Two-thirds of state legislatures can require a proposing convention. Equal suffrage in the Senate requires the affected state&#39;s consent.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“equal Suffrage in the Senate” · Art. V · p. 25&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 13–17, 25–26&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="330" width="400" x="8730" y="-1666" as="geometry" />
+        </mxCell>
+        <mxCell id="edge11" edge="1" parent="1" source="r1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8633" y="-1426" />
+              <mxPoint x="8633" y="-1501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Representation and original compromises&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Large and small states disputed representation. Enslavement shaped the bargaining over representation, taxation and the slave trade.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Distinguish the original compromises from the amendments that superseded them. Direct election of senators, abolition of slavery, equal protection and later voting amendments changed the original arrangement.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 12–15, 19–22&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="400" x="8730" y="-1292" as="geometry" />
+        </mxCell>
+        <mxCell id="edge12" edge="1" parent="1" source="r1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8633" y="-1426" />
+              <mxPoint x="8633" y="-1137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Articles of Confederation → constitutional union&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Under the Articles each state had one vote; central revenue depended on state contributions and amendment required unanimity.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;The Constitution permitted direct federal taxation and regulation of individuals and created separate executive and judicial institutions. Use this structural change when evaluating asserted state vetoes over valid federal law.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 12–15&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="400" x="8730" y="-938" as="geometry" />
+        </mxCell>
+        <mxCell id="edge13" edge="1" parent="1" source="r1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8633" y="-1426" />
+              <mxPoint x="8633" y="-783" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge14" edge="1" parent="1" source="s1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8088" y="-1131.5" />
+              <mxPoint x="8088" y="-1426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Constitutional interpretation&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A dispute persists although the relevant words have remained unchanged.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Distinguish the text, its historical understanding, structural implications, precedent and application to new facts. Judicial decisions, implementing statutes and political practice operate at different levels.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 15–18&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="8185" y="-574" as="geometry" />
+        </mxCell>
+        <mxCell id="r8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Countermajoritarian judicial review&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Life-tenured judges decline to enforce a law adopted by elected officials.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Explain the constitutional basis for applying higher law and the democratic objection to judicial control. Separate judgment in an actual case from political acceptance, enforcement, amendment and future changes in precedent.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 15–18, 48–51&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="400" x="8730" y="-584" as="geometry" />
+        </mxCell>
+        <mxCell id="edge15" edge="1" parent="1" source="r7" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge16" edge="1" parent="1" source="s1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8088" y="-1131.5" />
+              <mxPoint x="8088" y="-454" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Identify the source of a restriction&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A provision constrains Congress, the states, or both.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Read its addressee. Article I, §9 principally limits the federal government and §10 limits states. Later amendments alter the original allocation. Trace state liability for an incorporated right through the Fourteenth Amendment.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 19–32&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="8185" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="edge17" edge="1" parent="1" source="s1" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8088" y="-1131.5" />
+              <mxPoint x="8088" y="-160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Judicial review&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Ch. 3 · pp. 33–54&lt;/div&gt;&lt;div style=&quot;font:15px/1.35 Helvetica,Arial;margin-top:9px&quot;&gt;Which court is reviewing which act, and what relief may it grant?&lt;br/&gt;&lt;br/&gt;Decide the necessary constitutional issue → apply superior law → identify the enforceable duty → tailor relief.&lt;/div&gt;&lt;div style=&quot;margin:12px 0 4px;border-top:1px solid #719093&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Problem set&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Judicial Review Q1–5&lt;/div&gt;" vertex="1">
+          <mxGeometry height="305" width="400" x="7095" y="-19322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;State or federal claim and standard of review&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A litigant challenges a state law in state court and later appeals on a federal constitutional ground.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;State judges are bound by federal law. On review, identify the federal question actually decided, the final state judgment and the relief the federal ruling could change. Federal courts lack a general power to revise a state court’s authoritative construction of its own law.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 33–35, 51–54&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="400" x="7640" y="-20872" as="geometry" />
+        </mxCell>
+        <mxCell id="edge18" edge="1" parent="1" source="s2" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7543" y="-19170" />
+              <mxPoint x="7543" y="-20717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Duty to apply superior law&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Marbury v. Madison&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Marbury had a vested commission and a legal remedy in principle. His mandamus application sought original Supreme Court relief outside the constitutional categories.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Marbury’s mandamus would require an original exercise of jurisdiction not conferred by Article III. A court deciding a case must apply the Constitution over an inconsistent statute. Congress cannot enlarge the Supreme Court’s original jurisdiction by statute.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“the province and duty of the Judicial Department to say what the law is” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 42&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 35–48&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="400" x="7640" y="-20518" as="geometry" />
+        </mxCell>
+        <mxCell id="r12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Ministerial duty or political discretion?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Delivery of an already completed commission involved a vested individual right.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;An officer&#39;s legally prescribed duty affecting individual rights is judicially examinable. Identify a legally enforceable duty before ordering relief. Political discretion presents a different question.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 38–45&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="8185" y="-20438" as="geometry" />
+        </mxCell>
+        <mxCell id="edge19" edge="1" parent="1" source="r11" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge20" edge="1" parent="1" source="s2" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7543" y="-19170" />
+              <mxPoint x="7543" y="-20318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;State law or state judgment?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A Minnesota speaker challenges a state restriction in state court, then seeks federal review.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Both state and federal courts can apply federal constitutional law in cases within their jurisdiction. Supreme Court appellate review of the federal issue extends to state civil and criminal judgments, including a prosecution by the state.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 51–54&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="400" x="7640" y="-20074" as="geometry" />
+        </mxCell>
+        <mxCell id="edge21" edge="1" parent="1" source="s2" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7543" y="-19170" />
+              <mxPoint x="7543" y="-19944" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Judgment, injunction and enforcement&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A court holds immigration detention unlawful and orders the officer to release the plaintiff.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Separate the constitutional holding from the binding judgment. An injunction binds its addressees and may be enforced through contempt. A ruling does not erase the enactment from the statute book.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 48–51, 70–71&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="7640" y="-19720" as="geometry" />
+        </mxCell>
+        <mxCell id="r15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Who must receive relief?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Trump v. CASA, Inc.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;An individual seeks an order protecting similarly situated nonparties.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Federal equitable relief ordinarily extends only as far as necessary to give complete relief to plaintiffs. Examine the parties, any certified class and whether broader relief is necessary to resolve the parties’ injuries.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“Though flexible, this equitable authority is not freewheeling” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 49&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 49–51&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="400" x="8185" y="-19770" as="geometry" />
+        </mxCell>
+        <mxCell id="edge22" edge="1" parent="1" source="r14" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge23" edge="1" parent="1" source="s2" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="7543" y="-19170" />
+              <mxPoint x="7543" y="-19600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Federal jurisdiction and immunity&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Ch. 4 · pp. 55–75&lt;/div&gt;&lt;div style=&quot;font:15px/1.35 Helvetica,Arial;margin-top:9px&quot;&gt;Federal court: Article III category → court and original/appellate route → &lt;b&gt;statutory grant where required&lt;/b&gt;.&lt;br/&gt;State court: its own jurisdictional rules.&lt;br/&gt;For either forum, test the defendant’s immunity and each remedy: consent, valid abrogation or an applicable exception.&lt;/div&gt;&lt;div style=&quot;margin:12px 0 4px;border-top:1px solid #719093&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Problem set&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Subject Matter Jurisdiction Q1–4 · Regulating Federal Courts Q1–6 · Eleventh Amendment Q1–12&lt;/div&gt;" vertex="1">
+          <mxGeometry height="305" width="400" x="2075" y="-19322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Federal judicial power · Article III, §2, cl. 1&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A California egg farmer sues California’s attorney general in federal district court solely under California law.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;For a federal court, identify an Article III case/controversy category. Use the court-specific fork. Federal questions, admiralty, ambassador cases, United States as party, specified interstate or foreign-party controversies, and same-state claimants under different states’ land grants are distinct bases. These facts alone supply none.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“The judicial Power shall extend to all Cases” · Art. III, §2, cl. 1 · p. 24&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 55–58&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="370" width="400" x="2620" y="-18135" as="geometry" />
+        </mxCell>
+        <mxCell id="r17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Federal district court&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Kline v. Burke Construction Co.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A federal question falls within Article III, but Congress limits the court’s statutory grant to disputes above a dollar threshold.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;&lt;b&gt;Article III §2, cl. 1 category PLUS a statute granting this court jurisdiction.&lt;/b&gt; Example: 28 U.S.C. §1331 gives original jurisdiction over civil actions arising under federal law. “Original” means hearing a case in the first instance, not an extra source of authority.&lt;br/&gt;&lt;br/&gt;Congress may establish or abolish inferior Article III courts and confer less than the constitutional maximum. Subject-matter jurisdiction cannot be created by consent or forfeiture.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“it requires an act of Congress to confer it” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 59&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 55–60 · 28 U.S.C. §1331&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="430" width="400" x="3165" y="-19000" as="geometry" />
+        </mxCell>
+        <mxCell id="edge24" edge="1" parent="1" source="r16" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-17950" />
+              <mxPoint x="3068" y="-18785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r17" connectable="0" parent="edge24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="District court" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;State trial court&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Change the forum in the egg-farmer problem to state superior court.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;&lt;b&gt;State jurisdiction rules govern; Article III does not govern state courts.&lt;/b&gt; State courts generally may hear federal as well as state claims, subject to exclusive federal jurisdiction and federal nondiscrimination requirements.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 55–58&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="3165" y="-18526" as="geometry" />
+        </mxCell>
+        <mxCell id="edge25" edge="1" parent="1" source="r16" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-17950" />
+              <mxPoint x="3068" y="-18406" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r18" connectable="0" parent="edge25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="State court" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Supreme Court · Article III, §2, cl. 2&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A federal writ application begins in the Supreme Court. Another case arrives on appeal after a state prosecution.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;&lt;b&gt;First satisfy an Article III §2, cl. 1 case/controversy category.&lt;/b&gt; Then choose a route under §2, cl. 2:&lt;br/&gt;&lt;b&gt;Original:&lt;/b&gt; the case starts here within the constitutional categories; jurisdiction is directly conferred.&lt;br/&gt;&lt;b&gt;Appellate:&lt;/b&gt; review an eligible lower-court decision through an authorized statutory route.&lt;br/&gt;&lt;br/&gt;A state’s participation below does not categorically preclude appellate review. Follow the two branches for the different requirements.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“the supreme Court shall have original Jurisdiction” · Art. III, §2, cl. 2 · p. 24&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 56–57, 60–65&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="400" x="3165" y="-17816" as="geometry" />
+        </mxCell>
+        <mxCell id="r20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Appellate route: exceptions and regulations&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Ex parte McCardle&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Congress repealed the statutory route for McCardle’s pending habeas appeal. Another route remained.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Review eligible lower federal or state-court decisions in an Article III case through an &lt;b&gt;authorized statutory route&lt;/b&gt;, subject to exceptions, regulations and applicable review requirements. Example: 28 U.S.C. §1257 covers qualifying final state-court judgments on federal questions.&lt;br/&gt;&lt;br/&gt;Congress may make exceptions to appellate jurisdiction. Identify what was withdrawn, what survives and any independent constitutional constraint. &lt;i&gt;McCardle&lt;/i&gt; did not settle every limit on jurisdiction stripping.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“Without jurisdiction, the court cannot proceed at all in any cause” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 62&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 56–57, 60–65 · 28 U.S.C. §1257&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="470" width="400" x="3710" y="-18372" as="geometry" />
+        </mxCell>
+        <mxCell id="edge26" edge="1" parent="1" source="r19" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-17616" />
+              <mxPoint x="3613" y="-18137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r20" connectable="0" parent="edge26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Appellate" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Original route: directly conferred&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Congress authorizes a district court to hear a federal claim by a state. A different case is a controversy between two states.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;A case may start here if it affects ambassadors, other public ministers or consuls, or is an Article III case in which a state is a party.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;The Constitution confers this jurisdiction directly; no separate statutory grant is necessary.&lt;/b&gt; Congress cannot expand the constitutional categories.&lt;br/&gt;&lt;br/&gt;Original does not always mean exclusive. Check statutory exclusivity for controversies between states and distinguish concurrent original jurisdiction.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 35–48, 56–57, 63–65&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="410" width="400" x="3710" y="-17858" as="geometry" />
+        </mxCell>
+        <mxCell id="edge27" edge="1" parent="1" source="r19" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-17616" />
+              <mxPoint x="3613" y="-17653" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r21" connectable="0" parent="edge27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Original" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Rule of decision or change in law?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Congress alters jurisdiction or instructs a court to disregard the legal effect of a presidential pardon.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Distinguish changing governing law, including for pending cases, from prescribing a result under existing law or impairing another branch’s constitutional power.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 63–65&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="3710" y="-17404" as="geometry" />
+        </mxCell>
+        <mxCell id="edge28" edge="1" parent="1" source="r19" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-17616" />
+              <mxPoint x="3613" y="-17284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r22" connectable="0" parent="edge28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Result directed" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;All review foreclosed?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A statute closes one appellate route. A broader variant would foreclose every federal avenue for a constitutional challenge.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Distinguish available state-court review, alternative Supreme Court routes and independent guarantees such as the Suspension Clause when habeas is involved. The book treats the outer limit of the Exceptions Clause as unsettled.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 63–65&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="400" x="3710" y="-17120" as="geometry" />
+        </mxCell>
+        <mxCell id="edge29" edge="1" parent="1" source="r19" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-17616" />
+              <mxPoint x="3613" y="-16980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r23" connectable="0" parent="edge29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Last avenue" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge30" edge="1" parent="1" source="r16" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-17950" />
+              <mxPoint x="3068" y="-17616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r19" connectable="0" parent="edge30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Supreme Court" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge31" edge="1" parent="1" source="s3" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2523" y="-19170" />
+              <mxPoint x="2523" y="-17950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Is the defendant the state?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A citizen seeks an injunction directly against Missouri. Change the defendant to its attorney general or to a city.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;A private federal suit against an unconsenting state generally encounters sovereign immunity even when brought by its own citizen. Determine the real party in interest and analyze each requested remedy separately.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“commenced or prosecuted against one of the United States” · Amend. XI · p. 27&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 65–75&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="330" width="400" x="2620" y="-15782" as="geometry" />
+        </mxCell>
+        <mxCell id="r25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Separate entity or arm of the state?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Galette v. New Jersey Transit Corp.&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A separately incorporated transit entity can be responsible for its own judgments.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Examine legal identity, structural independence and responsibility for judgments under state law. Ordinary municipalities lack the state’s immunity. Funding or oversight alone does not make an entity an arm of the state.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“a corporation that was liable for its own judgments” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 69&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 68–70&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="400" x="3165" y="-16946" as="geometry" />
+        </mxCell>
+        <mxCell id="edge32" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-16776" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r25" connectable="0" parent="edge32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Public entity" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Official capacity · ongoing federal violation&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Plaintiff asks a state officer to stop enforcing an allegedly unconstitutional law and also seeks back payments.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;An officer connected to enforcement may be enjoined prospectively for an ongoing federal violation. Retrospective payment from the treasury generally remains barred. Costs incidental to prospective compliance can be permissible. Under Ex parte Young, an asserted violation of state law alone does not support this federal exception.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 70–74&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="350" width="400" x="3165" y="-16562" as="geometry" />
+        </mxCell>
+        <mxCell id="edge33" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-16387" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r26" connectable="0" parent="edge33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Official suit" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Individual capacity&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Damages are sought from an officer personally for conduct performed at work.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;State sovereign immunity generally permits a personal-capacity claim. Then test available personal defenses, including qualified immunity for damages where the federal right was not clearly established.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 71–72&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="400" x="3165" y="-16168" as="geometry" />
+        </mxCell>
+        <mxCell id="edge34" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-16048" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r27" connectable="0" parent="edge34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Personal suit" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Consent or surrender?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A state initiates litigation, accepts a clearly conditioned grant, or faces suit by another state.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Look for unequivocal consent to the particular forum and suit. Voluntary invocation of jurisdiction can waive immunity within the litigation. The constitutional plan also surrendered immunity in limited settings, including suits by other states or the United States.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 66–69, 74–75&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="400" x="3165" y="-15697" as="geometry" />
+        </mxCell>
+        <mxCell id="r29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Five plan-of-the-Convention settings&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Compare a sister state protecting its own sovereign interests with a suit by a foreign nation, tribe or state nominally pursuing private interests.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Check suits by the United States or a sister state in its own interest, bankruptcy proceedings, federal eminent domain including authorized private delegates, and federal military-power legislation. A sovereign-sounding plaintiff is insufficient.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 67–68&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="400" x="3710" y="-15884" as="geometry" />
+        </mxCell>
+        <mxCell id="edge35" edge="1" parent="1" source="r28" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-15567" />
+              <mxPoint x="3613" y="-15744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r29" connectable="0" parent="edge35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="No express waiver" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Litigation conduct and conditional funding&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A state files its own claim or voluntarily removes a case. Another merely appears to contest jurisdiction or consents only to suit in state court.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Examine the precise litigation act and the scope of the waiver. Express consent must encompass federal court. For funding, examine whether Congress gave clear notice and whether the state voluntarily accepted the conditions.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 66–68&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="310" width="400" x="3710" y="-15560" as="geometry" />
+        </mxCell>
+        <mxCell id="edge36" edge="1" parent="1" source="r28" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3613" y="-15567" />
+              <mxPoint x="3613" y="-15405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r30" connectable="0" parent="edge36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="State acts" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge37" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-15567" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r28" connectable="0" parent="edge37" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Consent?" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Congressional abrogation&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Congress authorizes employment-discrimination damages against a state employer.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Require an unmistakably clear abrogation and a valid constitutional power to effect it. Examine §5 of the Fourteenth Amendment as applied to this conduct. A statute may regulate a state under commerce power yet fail to authorize private damages against it.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 72–75, 215–216&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="400" x="3165" y="-15206" as="geometry" />
+        </mxCell>
+        <mxCell id="edge38" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-15076" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r31" connectable="0" parent="edge38" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Federal law" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;State-initiated suit and defensive review&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A public university sues a professor. He invokes the First Amendment in defense or appeals an adverse final state judgment.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Immunity does not suppress a federal defense to the state’s own suit or bar Supreme Court review merely because the state is an opposing party. Distinguish an independent affirmative damages claim.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 67–69&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="400" x="3165" y="-14902" as="geometry" />
+        </mxCell>
+        <mxCell id="edge39" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-14757" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r32" connectable="0" parent="edge39" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="State sued first" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Immunity beyond Article III&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A private claimant chooses a state court or an administrative adjudication instead of a federal district court.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;The constitutional structure affords states protection beyond the Eleventh Amendment’s words. Changing forums alone does not remove immunity from unconsented private suits. Identify waiver, valid abrogation or structural surrender in that forum.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 74–75&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="400" x="3165" y="-14568" as="geometry" />
+        </mxCell>
+        <mxCell id="edge40" edge="1" parent="1" source="r24" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3068" y="-15617" />
+              <mxPoint x="3068" y="-14428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r33" connectable="0" parent="edge40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Other forum" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge41" edge="1" parent="1" source="s3" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2523" y="-19170" />
+              <mxPoint x="2523" y="-15617" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#243338;strokeColor=#9ABDC0;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Justiciability: standing and timing&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Ch. 5 · pp. 77–104&lt;/div&gt;&lt;div style=&quot;font:15px/1.35 Helvetica,Arial;margin-top:9px&quot;&gt;In federal court, standing is an Article III jurisdictional requirement (pp. 79, 85–86). For each claim and remedy:&lt;br/&gt;&lt;b&gt;1. Injury in fact&lt;/b&gt; — concrete, particularized, actual or imminent.&lt;br/&gt;&lt;b&gt;2. Causation&lt;/b&gt; — fairly traceable to defendant.&lt;br/&gt;&lt;b&gt;3. Redressability&lt;/b&gt; — relief likely to alleviate injury.&lt;br/&gt;Require an actual adverse dispute, ripeness and a continuing stake; test mootness and its exceptions. State-court standing follows its own rules.&lt;/div&gt;&lt;div style=&quot;margin:12px 0 4px;border-top:1px solid #719093&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font:bold 18px Helvetica,Arial&quot;&gt;Problem set&lt;/div&gt;&lt;div style=&quot;text-align:center;font:14px/1.3 Helvetica,Arial;margin-top:5px&quot;&gt;Injury in Fact Q1–10 · Causation and Redressability Q1–4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="380" width="400" x="3710" y="-19360" as="geometry" />
+        </mxCell>
+        <mxCell id="r34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Advisory opinion&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Officials seek advance approval of a proposed law or reserve authority to revise the court’s decision.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Require adverse parties with an actual legal dispute and a binding judicial resolution. A declaratory judgment can resolve present adverse legal rights.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 77–79&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="220" width="400" x="5485" y="-22856" as="geometry" />
+        </mxCell>
+        <mxCell id="edge42" edge="1" parent="1" source="s4" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4867" y="-19170" />
+              <mxPoint x="4867" y="-22746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Injury in fact&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Spokeo, Inc. v. Robins&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A plaintiff challenges an inaccurate report. Ask who was affected, whether the asserted harm was real, and when it occurred or will occur.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Injury must be concrete, particularized, and actual or imminent. Tangible and intangible harms can qualify. Many people may suffer the same concrete injury.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“it must actually exist” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 89&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 79–94&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="300" width="400" x="5485" y="-22061" as="geometry" />
+        </mxCell>
+        <mxCell id="r36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Statutory right and intangible harm&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;TransUnion LLC v. Ramirez&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A credit agency disseminates a misleading alert to a third party, or keeps it only in an internal file.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;For damages, identify concrete harm and a close historical analogue where appropriate. A bare statutory violation alone is insufficient. Future risk may support prospective relief under a different showing.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“traditionally recognized as providing a basis for a lawsuit in American courts” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 92&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 89–94&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="400" x="6030" y="-22592" as="geometry" />
+        </mxCell>
+        <mxCell id="edge43" edge="1" parent="1" source="r35" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5933" y="-21911" />
+              <mxPoint x="5933" y="-22422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r36" connectable="0" parent="edge43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Statutory injury" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Environmental and procedural injury&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Summers v. Earth Island Institute&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A regular visitor expects harm to the area she uses. Another plaintiff objects to the same conduct but cannot identify a site she expects to visit.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Connect injury to a particular person, place and likely use. A procedural right protects standing only with a threatened concrete interest. A statutory invitation to sue cannot replace it.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“some concrete interest that is affected by the deprivation” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 83&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 79–86&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="340" width="400" x="6030" y="-22208" as="geometry" />
+        </mxCell>
+        <mxCell id="edge44" edge="1" parent="1" source="r35" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5933" y="-21911" />
+              <mxPoint x="5933" y="-22038" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r37" connectable="0" parent="edge44" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Use or visit" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Taxpayer, observer or regulated party?&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;A taxpayer objects to government policy. A driver personally owes a challenged tax. A meeting attendee encounters the disputed practice.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;General disagreement or taxpayer status ordinarily fails. A personal payment, exposure, loss of use or other direct effect can establish personal injury. Trace it to this challenged provision.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 84–94&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="400" x="6030" y="-21824" as="geometry" />
+        </mxCell>
+        <mxCell id="edge45" edge="1" parent="1" source="r35" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5933" y="-21911" />
+              <mxPoint x="5933" y="-21694" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r38" connectable="0" parent="edge45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Tax or exposure" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Association, multiple parties and claims&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;An association sues for members, or several plaintiffs attack different statutory provisions.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;For representational standing require a member with standing, germaneness to the organization’s purpose, and no need for individual participation in the claim or relief. For each claim and form of relief identify at least one plaintiff who can obtain it.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 84–86, 99–101&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="400" x="6030" y="-21520" as="geometry" />
+        </mxCell>
+        <mxCell id="edge46" edge="1" parent="1" source="r35" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5933" y="-21911" />
+              <mxPoint x="5933" y="-21375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cond-r39" connectable="0" parent="edge46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=10;fontColor=#FFFFFF;labelBackgroundColor=#000000;" value="Several parties" vertex="1">
+          <mxGeometry height="16" relative="1" width="75" x="1" as="geometry">
+            <mxPoint x="-76" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge47" edge="1" parent="1" source="s4" style="edgeStyle=none;rounded=0;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=3.5;endSize=13;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="r35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4867" y="-19170" />
+              <mxPoint x="4867" y="-21911" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Causation and redressability&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align:center;font-size:16px;line-height:1.2;margin-top:4px&quot;&gt;&lt;i&gt;Allen v. Wright&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Parents challenged IRS treatment of discriminatory schools. Tax treatment, school decisions and parents’ enrollment choices separated the IRS from the alleged integration injury.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;Ask separately whether injury is fairly traceable to the defendant and whether the requested relief is likely to alleviate it. A predictable third-party response may suffice. Identify evidence for each disputed link.&lt;/div&gt;&lt;div style=&quot;margin-top:8px;font-size:14px;color:#c9e1e3&quot;&gt;“independent action of some third party not before the court” &lt;span style=&quot;white-space:nowrap&quot;&gt;· p. 97&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 94–102&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="360" width="400" x="5485" y="-20892" as="geometry" />
         </mxCell>
         <mxCell id="r41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#141414;strokeColor=#E0E3E3;strokeWidth=1.5;fontColor=#F5F5F5;fontFamily=Helvetica;align=left;verticalAlign=middle;spacingLeft=11;spacingRight=11;spacingTop=6;spacingBottom=6;" value="&lt;div style=&quot;text-align:left;font:15px/1.27 Helvetica,Arial,sans-serif;color:#f5f5f5&quot;&gt;&lt;div style=&quot;text-align:center;font-size:19px;line-height:1.2&quot;&gt;&lt;b&gt;&lt;u&gt;Remedy-specific standing&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-top:1px solid #8a9093;margin:9px 0 0;padding-top:9px&quot;&gt;Past exposure supports damages; plaintiff also wants to enjoin future encounters. Or a second independent policy would still bar the plaintiff from flying.&lt;/div&gt;&lt;div style=&quot;margin-top:8px&quot;&gt;For an injunction identify a real threat of repetition to this plaintiff. Ask what would actually change if the court granted this order. Partial relief can suffice, but an independent sufficient obstacle may defeat redressability.&lt;/div&gt;&lt;div style=&quot;margin-top:7px;font-size:12px;color:#b3b7ba&quot;&gt;Joondeph, pp. 93–102&lt;/div&gt;&lt;/div&gt;" vertex="1">
