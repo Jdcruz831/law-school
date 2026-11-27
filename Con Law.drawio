@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="5530" dy="1758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3378" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5219,7 +5219,7 @@
         <mxCell id="HIhWg0T9BdZQiPypQVWZ-16" edge="1" parent="1" source="congress-final-grant" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="HIhWg0T9BdZQiPypQVWZ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fm4UaXbqc9hzsxF8IeGC-1" edge="1" parent="1" source="congress-final-grant" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="congress-final-means">
+        <mxCell id="fm4UaXbqc9hzsxF8IeGC-1" edge="1" parent="1" source="congress-final-inactive" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="congress-final-means">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;1. Enumerated power?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Article I §8&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="Primary sequence: Can Congress Regulate. Joondeph pp. 121–138, 197–200." id="congress-final-grant">
@@ -5232,7 +5232,7 @@
         </mxCell>
         <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Necessary &amp;amp; Proper&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Article I, §8, clause 18&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="Joondeph pp. 121–138; McCulloch, 17 U.S. at 421; NFIB, 567 U.S. at 559–560." id="congress-final-means">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="85" width="310" x="3200" y="4935" as="geometry" />
+            <mxGeometry height="85" width="310" x="4840" y="4755" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;3. Independent limits?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Federalism + other constitutional restraints&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) Anti-commandeering&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2) Equal state sovereignty&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) Immunity, individual rights and separation of powers&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;An enumerated power does not erase these limits.&lt;/p&gt;" tooltip="Joondeph chapter 12, pp. 203–218; separation of powers, chapters 13–15." id="congress-final-limits">
@@ -5274,11 +5274,6 @@
             <mxGeometry height="100" width="385" x="-1110" y="5540" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Activity or forced market entry?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB · Commerce limit&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Regulating existing activity differs from compelling an otherwise inactive person to buy a product.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;If the law forces entry into commerce, test another power.&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="congress-final-inactive">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="150" width="340" x="-595" y="5560" as="geometry" />
-          </mxCell>
-        </object>
         <mxCell id="congress-edge-commerce-channels" edge="1" parent="1" source="congress-final-commerce" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-channels" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -5286,9 +5281,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="congress-edge-commerce-effects" edge="1" parent="1" source="congress-final-commerce" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-effects" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="congress-edge-commerce-inactive" edge="1" parent="1" source="congress-final-commerce" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-inactive" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Economic activity&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Production, distribution or consumption of commodities can be economic even without a sale.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Ask whether Congress had a &lt;b&gt;rational basis&lt;/b&gt; to find substantial effects from the class in the aggregate.&lt;/p&gt;" tooltip="Wickard, 317 U.S. at 127–129; Raich, 545 U.S. at 17–22." id="congress-final-economic">
@@ -5343,7 +5335,7 @@
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Cannot create commerce to regulate it&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Roberts’s Commerce analysis rejected compulsory insurance purchases by otherwise inactive individuals.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The four joint dissenters agreed on that limit. &lt;b&gt;Continue to Taxing&lt;/b&gt;: the payment survived under a different power.&lt;/p&gt;" tooltip="567 U.S. 519, 548–558; joint dissent at 649–660; Joondeph pp. 160–163." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-commerce">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="185" width="340" x="-365" y="5815" as="geometry" />
+            <mxGeometry height="185" width="340" x="2960" y="5360" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-economic-wickard" edge="1" parent="1" source="congress-final-economic" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-wickard" value="">
@@ -5360,22 +5352,22 @@
         </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Taxing power&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Art. I, §8, cl. 1&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Is the exaction reasonably understood as a tax?&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Examine its operation, not merely its label or regulatory purpose.&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 563–574; Joondeph pp. 165–174." id="congress-final-tax">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="140" width="370" x="130" y="5210" as="geometry" />
+            <mxGeometry height="140" width="370" x="-430" y="5210" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Tax or punitive penalty?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB · functional inquiry&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) Revenue: “it produces at least some revenue for the Government.”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2) Leaves a lawful choice to pay instead of doing the desired act.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) Consider together: &lt;b&gt;amount&lt;/b&gt; (choice or prohibitory punishment?), &lt;b&gt;scienter&lt;/b&gt; (knowing wrongdoing?), and &lt;b&gt;administration&lt;/b&gt; (ordinary tax collection or punitive enforcement?).&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Calling the payment a penalty is not conclusive.&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 564–574; Joondeph pp. 165–174." id="congress-final-tax-test">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="230" width="370" x="155" y="5560" as="geometry" />
+            <mxGeometry height="230" width="370" x="-370" y="5540" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Lawful choice to pay&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The ACA payment could reasonably operate as a tax: a modest burden, no scienter requirement, IRS collection and no additional unlawful-act sanction.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;That construction sustained it even though Commerce did not.&lt;/p&gt;" tooltip="567 U.S. 519, 563–574; Joondeph pp. 165–174." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-tax">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="170" width="370" x="145" y="5938" as="geometry" />
+            <mxGeometry height="170" width="370" x="-220" y="5940" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Other tax limits&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Apply if the facts raise them&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Direct taxes generally require apportionment; the Sixteenth Amendment excepts income taxes.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Duties, imposts and excises require geographic uniformity. Other constitutional prohibitions still apply.&lt;/p&gt;" tooltip="Art. I, §8, cl. 1; §9, cl. 4; Amendment XVI; Joondeph chapter 10." link="https://www.archives.gov/founding-docs/constitution-transcript" linkTarget="_blank" id="congress-final-tax-limits">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="150" width="370" x="45" y="6400" as="geometry" />
+            <mxGeometry height="150" width="370" x="-180" y="6340" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-tax-tax-test" edge="1" parent="1" source="congress-final-tax" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-tax-test" value="">
@@ -5507,22 +5499,22 @@
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Necessary&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;“Let the end be legitimate”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Is the means of the statue reasonably attached enough to the goal identified in the enumerated powers.&amp;nbsp;&lt;/p&gt;" tooltip="McCulloch v. Maryland, 17 U.S. 316, 421 (verbatim excerpt), 413–423; Joondeph pp. 121–138." link="https://supreme.justia.com/cases/federal/us/17/316/" linkTarget="_blank" id="congress-final-necessary">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="130" width="380" x="2910" y="5150" as="geometry" />
+            <mxGeometry height="130" width="380" x="4550" y="4970" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;A national bank as a means&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;McCulloch v. Maryland (1819)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A bank was an appropriate instrument for carrying out fiscal powers even though creating a bank was not expressly enumerated.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Maryland could not tax the federal instrument so as to control a valid federal operation.&lt;/p&gt;" tooltip="17 U.S. 316, 421–425, 436; Joondeph pp. 123–138." link="https://supreme.justia.com/cases/federal/us/17/316/" linkTarget="_blank" id="congress-final-mcculloch">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="170" width="400" x="2820" y="5360" as="geometry" />
+            <mxGeometry height="170" width="400" x="4460" y="5180" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Proper&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The means must respect the “letter and spirit of the Constitution.”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Do not use an implied power to create a new, independent source of regulatory authority or to commandeer state government.&lt;/p&gt;" tooltip="McCulloch, 17 U.S. at 421; NFIB, 567 U.S. at 559–560; Printz, 521 U.S. at 923–924." id="congress-final-proper">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="130" width="350" x="3440" y="5170" as="geometry" />
+            <mxGeometry height="130" width="350" x="5080" y="4990" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Useful did not make it proper&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Roberts concluded that forced insurance purchases created expanded the commerce power and was not proper. Even if useful to the insurance reforms.&lt;/p&gt;" tooltip="567 U.S. 519, 559–560; Joondeph pp. 160–163." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-proper">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="160" width="400" x="3510" y="5380" as="geometry" />
+            <mxGeometry height="160" width="400" x="5150" y="5200" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-means-necessary" edge="1" parent="1" source="congress-final-means" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-necessary" value="">
@@ -6400,6 +6392,41 @@
         <mxCell id="executive-edge-answer-rights" edge="1" parent="1" source="executive-final-answer" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-rights" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9QNgjwrJa7QWuSXyMYGu-6" edge="1" parent="1" source="congress-final-grant" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="congress-final-inactive" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="4739" as="sourcePoint" />
+            <mxPoint x="4840" y="4796" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9QNgjwrJa7QWuSXyMYGu-8" edge="1" parent="1" source="congress-final-inactive" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="9QNgjwrJa7QWuSXyMYGu-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9QNgjwrJa7QWuSXyMYGu-10" edge="1" parent="1" source="congress-final-inactive" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="9QNgjwrJa7QWuSXyMYGu-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9QNgjwrJa7QWuSXyMYGu-12" edge="1" parent="1" source="congress-final-inactive" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="9QNgjwrJa7QWuSXyMYGu-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 19px;&quot;&gt;&lt;b&gt;NFIB limit&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Commerce Clause&lt;/b&gt;: Can not Compel an otherwise inactive person to buy a product.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;: (1) raise revenue (2) left choice (3) not a punishment&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="congress-final-inactive">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
+            <mxGeometry height="150" width="340" x="3280" y="4710" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Commerce Clause&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Commerce Clause&lt;/b&gt;: Can not Compel an otherwise inactive person to buy a product.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;: (1) raise revenue (2) left choice (3) not a punishment&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-7">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
+            <mxGeometry height="150" width="340" x="2950" y="5010" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Commerce Clause&lt;/b&gt;: Can not Compel an otherwise inactive person to buy a product.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;: (1) raise revenue (2) left choice (3) not a punishment&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-9">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
+            <mxGeometry height="150" width="340" x="3310" y="5215" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Commerce Clause&lt;/b&gt;: Can not Compel an otherwise inactive person to buy a product.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;: (1) raise revenue (2) left choice (3) not a punishment&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;:&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-11">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
+            <mxGeometry height="150" width="340" x="3530" y="5010" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
