@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="4605" dy="1212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3378" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5502,24 +5502,24 @@
             <mxGeometry height="230" width="400" x="330" y="3450" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Necessary: adapted to the end&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;McCulloch&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;“Let the end be legitimate, let it be within the scope of the Constitution”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Choose a useful or reasonably adapted means of executing a granted power; strict indispensability is not required.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The clause supplies means, not an independent unlimited legislative end.&lt;/p&gt;" tooltip="McCulloch v. Maryland, 17 U.S. 316, 421 (verbatim excerpt), 413–423; Joondeph pp. 121–138." link="https://supreme.justia.com/cases/federal/us/17/316/" linkTarget="_blank" id="congress-final-necessary">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Necessary: adapted to the end&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;“Let the end be legitimate”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Is the means of the statue reasonably attached enough to the goal identified in the enumerated powers.&amp;nbsp;&lt;/p&gt;" tooltip="McCulloch v. Maryland, 17 U.S. 316, 421 (verbatim excerpt), 413–423; Joondeph pp. 121–138." link="https://supreme.justia.com/cases/federal/us/17/316/" linkTarget="_blank" id="congress-final-necessary">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="190" width="400" x="2870" y="5380" as="geometry" />
+            <mxGeometry height="130" width="380" x="2910" y="5290" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;A national bank as a means&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;McCulloch v. Maryland (1819)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A bank was an appropriate instrument for carrying out fiscal powers even though creating a bank was not expressly enumerated.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Maryland could not tax the federal instrument so as to control a valid federal operation.&lt;/p&gt;" tooltip="17 U.S. 316, 421–425, 436; Joondeph pp. 123–138." link="https://supreme.justia.com/cases/federal/us/17/316/" linkTarget="_blank" id="congress-final-mcculloch">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="170" width="400" x="3200" y="5705" as="geometry" />
+            <mxGeometry height="170" width="400" x="2840" y="5470" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Proper: constitutional limits remain&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Necessary ≠ automatically proper&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The means must respect the “letter and spirit of the Constitution.”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Do not use an implied power to create a new, independent source of regulatory authority or to commandeer state government.&lt;/p&gt;" tooltip="McCulloch, 17 U.S. at 421; NFIB, 567 U.S. at 559–560; Printz, 521 U.S. at 923–924." id="congress-final-proper">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="165" width="400" x="3450" y="5335" as="geometry" />
+            <mxGeometry height="165" width="400" x="3450" y="5290" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Useful did not make it proper&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Roberts concluded that forced insurance purchases created the very commerce needed to invoke federal power.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Even if useful to the insurance reforms, that expansion was not a proper incidental means.&lt;/p&gt;" tooltip="567 U.S. 519, 559–560; Joondeph pp. 160–163." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-proper">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Useful did not make it proper&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Roberts concluded that forced insurance purchases created expanded the commerce power and was not proper. Even if useful to the insurance reforms.&lt;/p&gt;" tooltip="567 U.S. 519, 559–560; Joondeph pp. 160–163." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-proper">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="160" width="400" x="3750" y="5715" as="geometry" />
+            <mxGeometry height="160" width="400" x="3500" y="5510" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-means-necessary" edge="1" parent="1" source="congress-final-means" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-necessary" value="">
