@@ -7194,7 +7194,9 @@
             <mxGeometry height="100" width="360" x="-710" y="8600" as="geometry" />
           </mxCell>
         </object>
-      </root>
+              <object id="nixon-final-take-care-case" label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Executive privilege is qualified&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;United States v. Nixon (1974)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The &lt;b&gt;Vesting and Take Care Clauses&lt;/b&gt; support an implied privilege for confidential presidential communications. Candid advice helps the President carry out executive duties.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;But the privilege is &lt;b&gt;not absolute&lt;/b&gt;: a generalized confidentiality claim over the Watergate tapes yielded to a demonstrated, specific need for evidence in a criminal trial.&lt;/p&gt;" tooltip="Joondeph (2026), p. 238: executive privilege and the Vesting / Take Care Clauses. United States v. Nixon, 418 U.S. 683 (1974)." link="https://www.law.cornell.edu/supremecourt/text/418/683"><mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;"><mxGeometry x="-750.0" y="8860.0" width="440" height="215" as="geometry" /></mxCell></object>
+        <mxCell id="nixon-edge-take-care-case" parent="1" source="v5fdGlirQn1-idS4uWYH-13" target="nixon-final-take-care-case" edge="1" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;"><mxGeometry relative="1" as="geometry" /></mxCell>
+</root>
     </mxGraphModel>
   </diagram>
 </mxfile>
