@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="3742" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3986" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5242,9 +5242,9 @@
             <mxGeometry height="165" width="400" x="7455" y="4400" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can Congress regulate?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Apply the facts at every gate&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Yes:&lt;/b&gt; a valid power + permissible means + no independent prohibition.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;No:&lt;/b&gt; identify the precise provision, application or condition that fails. Consider severability and the available relief.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Power to regulate ≠ a private right to sue the State.&lt;/p&gt;" tooltip="Synthesis of the existing Congress chart and Joondeph chapters 8–12." id="congress-final-answer">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can Congress regulate?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="Synthesis of the existing Congress chart and Joondeph chapters 8–12." id="congress-final-answer">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="165" width="430" x="9235" y="4400" as="geometry" />
+            <mxGeometry height="82.5" width="335" x="9235" y="4490" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-start-grant" edge="1" parent="1" source="congress-final-start" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="congress-final-grant" value="">
@@ -5578,17 +5578,17 @@
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can Congress authorize this suit?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Separate regulation from private enforcement&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Valid regulation does not automatically permit a private damages suit against a State.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;For Fourteenth Amendment abrogation: &lt;b&gt;clear intent&lt;/b&gt; + &lt;b&gt;valid §5 legislation&lt;/b&gt;. Commerce alone cannot generally abrogate immunity.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Use the judicial branch’s immunity exceptions above for waiver, prospective officer relief and plan-of-the-Convention cases.&lt;/p&gt;" tooltip="Fitzpatrick, 427 U.S. at 456; Seminole Tribe; Joondeph pp. 74–77, 215–216; judicial section already contains detailed exceptions." id="congress-final-immunity">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="220" width="430" x="8710" y="4840" as="geometry" />
+            <mxGeometry height="220" width="430" x="8320" y="4810" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Valid §5 can lift immunity&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Fitzpatrick v. Bitzer (1976)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress could authorize a damages remedy against a State for sex discrimination in employment under Title VII.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The Fourteenth Amendment altered the federal-state balance. Still test the statute’s validity under §5.&lt;/p&gt;" tooltip="427 U.S. 445, 456; Joondeph pp. 74–77, 215–216." link="https://supreme.justia.com/cases/federal/us/427/445/" linkTarget="_blank" id="congress-final-fitzpatrick">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="170" width="430" x="8880" y="5220" as="geometry" />
+            <mxGeometry height="170" width="430" x="8320" y="5150" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Other independent prohibitions&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Rights + separation of powers&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Apply any implicated individual-rights guarantee or Article I, §9 prohibition.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;If Congress controls executive or judicial functions, apply the relevant separation-of-powers rule. A source of legislative power does not settle that question.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;For a suit, return to the judicial gates for jurisdiction, standing and relief.&lt;/p&gt;" tooltip="Joondeph pp. 121–122; chapters 13–15; cross-reference to existing judicial outline and executive tab." id="congress-final-remaining">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="195" width="430" x="8880" y="5560" as="geometry" />
+            <mxGeometry height="195" width="430" x="8320" y="5440" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-limits-equal" edge="1" parent="1" source="congress-final-limits" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-equal" value="">
@@ -5597,7 +5597,7 @@
         <mxCell id="congress-edge-equal-shelby" edge="1" parent="1" source="congress-final-equal" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-shelby" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="congress-edge-limits-immunity" edge="1" parent="1" source="congress-final-limits" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-immunity" value="">
+        <mxCell id="congress-edge-limits-immunity" edge="1" parent="1" source="congress-final-limits" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="congress-final-immunity" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="congress-edge-immunity-fitzpatrick" edge="1" parent="1" source="congress-final-immunity" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-fitzpatrick" value="">
