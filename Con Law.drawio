@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="6162" dy="2130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3986" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5491,44 +5491,47 @@
         <mxCell id="congress-edge-proper-nfib-proper" edge="1" parent="1" source="congress-final-proper" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-nfib-proper" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Anti-commandeering&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Amendment X&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress generally cannot make state legislatures or executive officers enact, retain, administer or enforce a federal regulatory program.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Distinguish the State’s &lt;b&gt;own activity&lt;/b&gt; from forcing it to &lt;b&gt;govern others&lt;/b&gt;.&lt;/p&gt;" tooltip="New York; Printz; Murphy; Joondeph pp. 203–215." id="congress-final-commandeer">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Anti-commandeering&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Amendment X&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress generally cannot make state legislatures or executive officers enact, retain, administer or enforce a federal regulatory program.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="New York; Printz; Murphy; Joondeph pp. 203–215." id="congress-final-commandeer">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="170" width="400" x="6675" y="4820" as="geometry" />
+            <mxGeometry height="110" width="400" x="6675" y="4820" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as regulated participant&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Employer, owner or data supplier&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress may regulate the State’s own conduct under a valid federal power.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Compliance burdens alone do not convert regulation into commandeering.&lt;/p&gt;" tooltip="Garcia, 469 U.S. at 554–557; Reno v. Condon, 528 U.S. at 150–151." id="congress-final-own-activity">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as regulated participant&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Employer, owner or data supplier&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress may regulate the State’s own conduct under a valid federal power.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="Garcia, 469 U.S. at 554–557; Reno v. Condon, 528 U.S. at 150–151." id="congress-final-own-activity">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="150" width="390" x="6175" y="5150" as="geometry" />
+            <mxGeometry height="100" width="375" x="6175" y="5150" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as sovereign regulator&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Commands to legislate or enforce&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Must the State enact or keep a law, administer a federal scheme, or regulate its residents for Congress?&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;That is the anti-commandeering problem. A choice between two forbidden commands does not cure it.&lt;/p&gt;" tooltip="New York, 505 U.S. at 175–177; Printz, 521 U.S. at 935; Murphy, 584 U.S. 453." id="congress-final-govern">
+        <mxCell id="v5fdGlirQn1-idS4uWYH-3" edge="1" parent="1" source="congress-final-govern" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="congress-final-murphy">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as Regulator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Must the State enact or keep a law, administer a federal scheme, or regulate its residents for Congress?&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;That is the &lt;b&gt;anti-commandeering problem&lt;/b&gt;. A choice between two forbidden commands does not cure it.&lt;/p&gt;" tooltip="New York, 505 U.S. at 175–177; Printz, 521 U.S. at 935; Murphy, 584 U.S. 453." id="congress-final-govern">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="170" width="400" x="7095" y="5150" as="geometry" />
+            <mxGeometry height="170" width="400" x="6980" y="5100" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as employer&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Garcia v. SAMTA (1985)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Federal minimum-wage and overtime rules could apply to the municipal transit employer.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The Court rejected immunity based on a traditional-government-function classification.&lt;/p&gt;" tooltip="469 U.S. 528, 546–557; Joondeph pp. 203–204." link="https://supreme.justia.com/cases/federal/us/469/528/" linkTarget="_blank" id="congress-final-garcia">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="155" width="340" x="6095" y="5450" as="geometry" />
+            <mxGeometry height="155" width="340" x="6030" y="5345" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State as database owner&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Reno v. Condon (2000)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Federal restrictions on disclosure of drivers’ data regulated the State’s own activity.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;They did not require it to regulate its citizens. The statute also reached private resellers.&lt;/p&gt;" tooltip="528 U.S. 141, 150–151; Joondeph pp. 212–213." link="https://supreme.justia.com/cases/federal/us/528/141/" linkTarget="_blank" id="congress-final-reno">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="155" width="340" x="6485" y="5450" as="geometry" />
+            <mxGeometry height="155" width="340" x="6420" y="5345" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Regulate waste or take title&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;New York v. United States (1992)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress could not force States to regulate radioactive waste or take ownership and liability.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Both options were unconstitutional commands.&lt;/p&gt;" tooltip="505 U.S. 144, 174–177; Joondeph pp. 204–212." link="https://supreme.justia.com/cases/federal/us/505/144/" linkTarget="_blank" id="congress-final-new-york">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="155" width="350" x="6915" y="5450" as="geometry" />
+            <mxGeometry height="155" width="350" x="6830" y="5345" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;No conscripting state officers&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Printz v. United States (1997)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress could not require local officers to perform interim handgun background checks.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Temporary duties and a modest burden did not save the command.&lt;/p&gt;" tooltip="521 U.S. 898, 933–935; Joondeph pp. 213–214." link="https://supreme.justia.com/cases/federal/us/521/898/" linkTarget="_blank" id="congress-final-printz">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="155" width="350" x="7345" y="5450" as="geometry" />
+            <mxGeometry height="155" width="350" x="7280" y="5360" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;No forced retention of state law&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Murphy v. NCAA (2018)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress could not prohibit States from authorizing sports betting by repealing state prohibitions.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Ordering a legislature not to repeal a law is also commandeering.&lt;/p&gt;" tooltip="584 U.S. 453, 473–480; Joondeph pp. 214–215." link="https://supreme.justia.com/cases/federal/us/584/16-476/" linkTarget="_blank" id="congress-final-murphy">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;No forced retention of state law&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Murphy v. NCAA (2018)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress could not prohibit States from authorizing sports betting by repealing state prohibitions.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Ordering a legislature &lt;b&gt;not to repeal a law is also commandeering&lt;/b&gt;.&lt;/p&gt;" tooltip="584 U.S. 453, 473–480; Joondeph pp. 214–215." link="https://supreme.justia.com/cases/federal/us/584/16-476/" linkTarget="_blank" id="congress-final-murphy">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="160" width="400" x="7135" y="5750" as="geometry" />
+            <mxGeometry height="160" width="400" x="7025" y="5530" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-limits-commandeer" edge="1" parent="1" source="congress-final-limits" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-commandeer" value="">
@@ -5552,38 +5555,11 @@
         <mxCell id="congress-edge-govern-printz" edge="1" parent="1" source="congress-final-govern" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-printz" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="congress-edge-govern-murphy" edge="1" parent="1" source="congress-final-govern" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-murphy" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="7295" y="5380" />
-              <mxPoint x="7295" y="5690" />
-              <mxPoint x="7335" y="5690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Permissible alternatives&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Federal regulation, preemption and voluntary cooperation&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) &lt;b&gt;Regulate private conduct directly&lt;/b&gt; under a valid power; conflicting state law can be preempted.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2) Offer States a choice to administer a program &lt;b&gt;or leave administration to federal officials&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) Offer &lt;b&gt;noncoercive, valid funding conditions&lt;/b&gt; under Dole / NFIB.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The Supremacy Clause resolves conflicts; it is not itself a legislative power. Calling a direct command preemption does not cure it.&lt;/p&gt;" tooltip="New York, 505 U.S. at 166–169; Murphy, 584 U.S. at 477–480; Joondeph pp. 211–215." id="congress-final-alternatives">
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Permissible alternatives&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) &lt;b&gt;Regulate private conduct directly&lt;/b&gt; under a valid power; conflicting state law can be preempted.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2) Offer States a choice to administer a program &lt;b&gt;or leave administration to federal officials&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) Offer &lt;b&gt;noncoercive, valid funding conditions&lt;/b&gt; under Dole / NFIB.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tooltip="New York, 505 U.S. at 166–169; Murphy, 584 U.S. at 477–480; Joondeph pp. 211–215." id="congress-final-alternatives">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="220" width="680" x="6575" y="6100" as="geometry" />
+            <mxGeometry height="110" width="550" x="6510" y="5760" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="congress-edge-commandeer-alternatives" edge="1" parent="1" source="congress-final-commandeer" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-alternatives" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="6875" y="5050" />
-              <mxPoint x="5975" y="5050" />
-              <mxPoint x="5975" y="6040" />
-              <mxPoint x="6915" y="6040" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State courts / express constitutional duties&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Do not overextend the executive-officer rule&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;State courts must apply valid federal law under the Supremacy Clause, subject to ordinary jurisdictional rules.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Specific constitutional grants matter: Congress may regulate the times, places and manner of congressional elections under the Elections Clause.&lt;/p&gt;" tooltip="Printz, 521 U.S. at 907–908; Constitution Art. VI, cl. 2 and Art. I, §4; Joondeph pp. 198, 212–214." id="congress-final-court-exception">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="145" width="680" x="6575" y="6450" as="geometry" />
-          </mxCell>
-        </object>
-        <mxCell id="congress-edge-alternatives-court-exception" edge="1" parent="1" source="congress-final-alternatives" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-court-exception" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Equal state sovereignty&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Special burdens on selected States&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;If Congress singles out States’ governing authority, ask whether &lt;b&gt;current conditions&lt;/b&gt; justify the different treatment.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Does the geographic coverage sufficiently relate to the problem addressed?&lt;/p&gt;" tooltip="Shelby County, 570 U.S. at 542–557; Joondeph pp. 216–218." id="congress-final-equal">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
             <mxGeometry height="170" width="430" x="7850" y="4920" as="geometry" />
