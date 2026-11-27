@@ -1611,305 +1611,305 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Can the Executive Act?" id="Executive-Power-Flowchart">
-    <mxGraphModel dx="2400" dy="3556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="3556" math="0" shadow="0">
+    <mxGraphModel dx="5960" dy="3515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="3556" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="heading" parent="1" vertex="1" value="Can the President / executive branch do ______?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#17334D;fontSize=39;fontStyle=1;">
-          <mxGeometry x="60" y="28" width="2280" height="54" as="geometry" />
+        <mxCell id="heading" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#17334D;fontSize=39;fontStyle=1;" value="Can the President / executive branch do ______?" vertex="1">
+          <mxGeometry height="54" width="2280" x="60" y="28" as="geometry" />
         </mxCell>
-        <mxCell id="subheading" parent="1" vertex="1" value="CHART 2  |  Follow the source-of-power spine, then every fact-triggered lane.  |  Joondeph, 2026 ed., Chapters 13-15" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#17334D;fontSize=21;fontStyle=1;">
-          <mxGeometry x="60" y="88" width="2280" height="35" as="geometry" />
+        <mxCell id="subheading" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;fontColor=#17334D;fontSize=21;fontStyle=1;" value="CHART 2  |  Follow the source-of-power spine, then every fact-triggered lane.  |  Joondeph, 2026 ed., Chapters 13-15" vertex="1">
+          <mxGeometry height="35" width="2280" x="60" y="88" as="geometry" />
         </mxCell>
-        <mxCell id="start" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;START: Pin down the act, actor, and challenged legal rule.&lt;/b&gt;&lt;br/&gt;Executive order, prosecution, agency rule, hiring/firing, withholding funds, pardon, or refusal to disclose? Separate &lt;b&gt;authority to act&lt;/b&gt;, &lt;b&gt;limits on the act&lt;/b&gt;, and &lt;b&gt;immunity / available relief&lt;/b&gt;. An executive order supplies no independent power.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="145" width="2280" height="92" as="geometry" />
+        <mxCell id="start" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;START: Pin down the act, actor, and challenged legal rule.&lt;/b&gt;&lt;br/&gt;Executive order, prosecution, agency rule, hiring/firing, withholding funds, pardon, or refusal to disclose? Separate &lt;b&gt;authority to act&lt;/b&gt;, &lt;b&gt;limits on the act&lt;/b&gt;, and &lt;b&gt;immunity / available relief&lt;/b&gt;. An executive order supplies no independent power.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="92" width="2280" x="60" y="145" as="geometry" />
         </mxCell>
-        <mxCell id="posture" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;1. What has Congress authorized or forbidden?  [Youngstown / Justice Jackson]&lt;/b&gt;&lt;br/&gt;Read the actual statute, appropriation, and limits first. Explain competing constructions; do not infer authorization just from a broad policy goal. Classify the particular act, not the whole presidency.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="279" width="2280" height="92" as="geometry" />
+        <mxCell id="posture" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;1. What has Congress authorized or forbidden?  [Youngstown / Justice Jackson]&lt;/b&gt;&lt;br/&gt;Read the actual statute, appropriation, and limits first. Explain competing constructions; do not infer authorization just from a broad policy goal. Classify the particular act, not the whole presidency.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="92" width="2280" x="60" y="279" as="geometry" />
         </mxCell>
-        <mxCell id="cat0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 1: Congress authorizes&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Express or implied authorization → maximum authority.&lt;/b&gt;&lt;br/&gt;Still ask: Could Congress validly confer this power? Use your Congress chart. Then check rights and the structural rules below.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="439" width="733.3333333333334" height="147" as="geometry" />
+        <mxCell id="cat0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 1: Congress authorizes&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Express or implied authorization → maximum authority.&lt;/b&gt;&lt;br/&gt;Still ask: Could Congress validly confer this power? Use your Congress chart. Then check rights and the structural rules below.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="147" width="733.3333333333334" x="60" y="439" as="geometry" />
         </mxCell>
-        <mxCell id="cat1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 2: Congress is silent&lt;/b&gt;&lt;br/&gt;&lt;b&gt;No grant or prohibition → zone of twilight.&lt;/b&gt;&lt;br/&gt;Identify independent Article II authority. Weigh historical practice, acquiescence, and institutional responsibilities. Silence alone is not permission.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="833.3333333333334" y="439" width="733.3333333333334" height="175" as="geometry" />
+        <mxCell id="cat1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 2: Congress is silent&lt;/b&gt;&lt;br/&gt;&lt;b&gt;No grant or prohibition → zone of twilight.&lt;/b&gt;&lt;br/&gt;Identify independent Article II authority. Weigh historical practice, acquiescence, and institutional responsibilities. Silence alone is not permission.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="733.3333333333334" x="833.3333333333334" y="439" as="geometry" />
         </mxCell>
-        <mxCell id="cat2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 3: Congress opposes&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Contrary to express or implied congressional will → lowest ebb.&lt;/b&gt;&lt;br/&gt;The President must establish an exclusive constitutional power that disables Congress from regulating this matter. Category 3 is not automatic defeat.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FBE4E2;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1606.6666666666667" y="439" width="733.3333333333334" height="175" as="geometry" />
+        <mxCell id="cat2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FBE4E2;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;CATEGORY 3: Congress opposes&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Contrary to express or implied congressional will → lowest ebb.&lt;/b&gt;&lt;br/&gt;The President must establish an exclusive constitutional power that disables Congress from regulating this matter. Category 3 is not automatic defeat.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="733.3333333333334" x="1606.6666666666667" y="439" as="geometry" />
         </mxCell>
-        <mxCell id="router" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;2. Which additional issues do the facts trigger? Run every matching lane.&lt;/b&gt;&lt;br/&gt;A. Execution / inherent powers  |  B. Appointment / removal  |  C. Agency authority / lawmaking  |  D. Lawsuits / subpoenas / privilege&lt;br/&gt;A valid appointment does not validate the policy. Immunity from damages does not establish that the policy was lawful.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="689" width="2280" height="120" as="geometry" />
+        <mxCell id="router" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;2. Which additional issues do the facts trigger? Run every matching lane.&lt;/b&gt;&lt;br/&gt;A. Execution / inherent powers  |  B. Appointment / removal  |  C. Agency authority / lawmaking  |  D. Lawsuits / subpoenas / privilege&lt;br/&gt;A valid appointment does not validate the policy. Immunity from damages does not establish that the policy was lawful.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="2280" x="60" y="689" as="geometry" />
         </mxCell>
-        <mxCell id="l0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A. EXECUTION &amp;amp; ARTICLE II&lt;/b&gt;&lt;br/&gt;Use for orders, enforcement decisions, funding, war, recognition, or pardons.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="879" width="541.5" height="120" as="geometry" />
+        <mxCell id="l0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A. EXECUTION &amp;amp; ARTICLE II&lt;/b&gt;&lt;br/&gt;Use for orders, enforcement decisions, funding, war, recognition, or pardons.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="541.5" x="60" y="879" as="geometry" />
         </mxCell>
-        <mxCell id="l0n0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A1. Execute law or create / change law?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Execution:&lt;/b&gt; implement the valid statute within its terms.&lt;br/&gt;&lt;b&gt;New rule contrary to statute:&lt;/b&gt; identify an exclusive Article II basis; otherwise executive power does not include lawmaking. Emergency or necessity alone does not cure the defect.&lt;br/&gt;&lt;i&gt;Youngstown: domestic steel-mill seizure failed.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="1041" width="541.5" height="258" as="geometry" />
+        <mxCell id="l0n0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A1. Execute law or create / change law?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Execution:&lt;/b&gt; implement the valid statute within its terms.&lt;br/&gt;&lt;b&gt;New rule contrary to statute:&lt;/b&gt; identify an exclusive Article II basis; otherwise executive power does not include lawmaking. Emergency or necessity alone does not cure the defect.&lt;br/&gt;&lt;i&gt;Youngstown: domestic steel-mill seizure failed.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="541.5" x="60" y="1041" as="geometry" />
         </mxCell>
-        <mxCell id="l0n1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A2. Nonenforcement or impoundment?&lt;/b&gt;&lt;br/&gt;Separate genuine enforcement prioritization under limited resources from suspending or rewriting a legal duty. Ask how much discretion the statute leaves.&lt;br/&gt;&lt;b&gt;Mandatory spending withheld for policy disagreement?&lt;/b&gt; Take Care / separation-of-powers problem.&lt;br/&gt;&lt;b&gt;Unconstitutional statute asserted?&lt;/b&gt; Test the constitutional objection; sincere belief alone is insufficient.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="1341" width="541.5" height="314" as="geometry" />
+        <mxCell id="l0n1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A2. Nonenforcement or impoundment?&lt;/b&gt;&lt;br/&gt;Separate genuine enforcement prioritization under limited resources from suspending or rewriting a legal duty. Ask how much discretion the statute leaves.&lt;br/&gt;&lt;b&gt;Mandatory spending withheld for policy disagreement?&lt;/b&gt; Take Care / separation-of-powers problem.&lt;br/&gt;&lt;b&gt;Unconstitutional statute asserted?&lt;/b&gt; Test the constitutional objection; sincere belief alone is insufficient.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="314" width="541.5" x="60" y="1341" as="geometry" />
         </mxCell>
-        <mxCell id="l0n2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A3. War / national security?&lt;/b&gt;&lt;br/&gt;President commands armed forces; Congress declares war, raises and funds forces, and makes military rules. Identify the actual function and congressional posture.&lt;br/&gt;Domestic seizure is not military command merely because it helps a war. Apply any assigned war-powers statutes and rights constraints.&lt;br/&gt;&lt;b&gt;Book p. 232 sends further rules to the missing summer supplement.&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="1697" width="541.5" height="314" as="geometry" />
+        <mxCell id="l0n2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A3. War / national security?&lt;/b&gt;&lt;br/&gt;President commands armed forces; Congress declares war, raises and funds forces, and makes military rules. Identify the actual function and congressional posture.&lt;br/&gt;Domestic seizure is not military command merely because it helps a war. Apply any assigned war-powers statutes and rights constraints.&lt;br/&gt;&lt;b&gt;Book p. 232 sends further rules to the missing summer supplement.&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="314" width="541.5" x="60" y="1697" as="geometry" />
         </mxCell>
-        <mxCell id="l0n3" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A4. Formal recognition?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Recognition of a foreign sovereign / territorial sovereignty?&lt;/b&gt; The President has exclusive recognition authority; Congress cannot compel an official contradiction.&lt;br/&gt;&lt;b&gt;Other foreign policy?&lt;/b&gt; Do not assume exclusivity. Congress retains substantial commerce, funding, and military powers.&lt;br/&gt;&lt;i&gt;Zivotofsky v. Kerry.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="2053" width="541.5" height="286" as="geometry" />
+        <mxCell id="l0n3" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A4. Formal recognition?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Recognition of a foreign sovereign / territorial sovereignty?&lt;/b&gt; The President has exclusive recognition authority; Congress cannot compel an official contradiction.&lt;br/&gt;&lt;b&gt;Other foreign policy?&lt;/b&gt; Do not assume exclusivity. Congress retains substantial commerce, funding, and military powers.&lt;br/&gt;&lt;i&gt;Zivotofsky v. Kerry.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="60" y="2053" as="geometry" />
         </mxCell>
-        <mxCell id="l0n4" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A5. Pardon?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Past federal criminal offense?&lt;/b&gt; Pardon may precede charges or conviction; Congress cannot control whom the President pardons.&lt;br/&gt;&lt;b&gt;State offense, future crime, civil liability, or impeachment?&lt;/b&gt; Outside the pardon power.&lt;br/&gt;A family relationship alone does not give Congress authority to forbid the pardon. Self-pardons remain a separate unsettled issue.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="2381" width="541.5" height="286" as="geometry" />
+        <mxCell id="l0n4" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A5. Pardon?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Past federal criminal offense?&lt;/b&gt; Pardon may precede charges or conviction; Congress cannot control whom the President pardons.&lt;br/&gt;&lt;b&gt;State offense, future crime, civil liability, or impeachment?&lt;/b&gt; Outside the pardon power.&lt;br/&gt;A family relationship alone does not give Congress authority to forbid the pardon. Self-pardons remain a separate unsettled issue.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="60" y="2381" as="geometry" />
         </mxCell>
-        <mxCell id="l0n5" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A6. Result in this lane&lt;/b&gt;&lt;br/&gt;Identify the precise source and its scope. If no statutory authority and no sufficient Article II power → action unauthorized.&lt;br/&gt;If authority exists → continue through all other triggered lanes and the rights / court checks below.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60.0" y="2709" width="541.5" height="203" as="geometry" />
+        <mxCell id="l0n5" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;A6. Result in this lane&lt;/b&gt;&lt;br/&gt;Identify the precise source and its scope. If no statutory authority and no sufficient Article II power → action unauthorized.&lt;br/&gt;If authority exists → continue through all other triggered lanes and the rights / court checks below.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="203" width="541.5" x="60" y="2709" as="geometry" />
         </mxCell>
-        <mxCell id="l1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B. APPOINTMENT &amp;amp; REMOVAL&lt;/b&gt;&lt;br/&gt;Hiring and firing are separate questions. Identify the official’s actual duties.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="879" width="541.5" height="120" as="geometry" />
+        <mxCell id="l1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B. APPOINTMENT &amp;amp; REMOVAL&lt;/b&gt;&lt;br/&gt;Hiring and firing are separate questions. Identify the official’s actual duties.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="541.5" x="639.5" y="879" as="geometry" />
         </mxCell>
-        <mxCell id="l1n0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B1. Officer or employee?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Continuing position established by law + significant federal authority?&lt;/b&gt; → officer; use Appointments Clause.&lt;br/&gt;&lt;b&gt;No?&lt;/b&gt; → employee; ordinary statutory employment rules apply.&lt;br/&gt;Discretion in hearings may be significant even without final decisionmaking. Pure research / reports assisting Congress can be legislative staff work.&lt;br/&gt;&lt;i&gt;Lucia; Buckley.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="1041" width="541.5" height="314" as="geometry" />
+        <mxCell id="l1n0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B1. Officer or employee?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Continuing position established by law + significant federal authority?&lt;/b&gt; → officer; use Appointments Clause.&lt;br/&gt;&lt;b&gt;No?&lt;/b&gt; → employee; ordinary statutory employment rules apply.&lt;br/&gt;Discretion in hearings may be significant even without final decisionmaking. Pure research / reports assisting Congress can be legislative staff work.&lt;br/&gt;&lt;i&gt;Lucia; Buckley.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="314" width="541.5" x="639.5" y="1041" as="geometry" />
         </mxCell>
-        <mxCell id="l1n1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B2. Principal or inferior officer?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Supervised and directed by a superior other than the President?&lt;/b&gt; Examine power to review / block decisions, remove, and direct work.&lt;br/&gt;&lt;b&gt;Final executive decisions unreviewable by such a superior?&lt;/b&gt; Strong principal-officer indication.&lt;br/&gt;Courts’ judicial review does not substitute for executive supervision.&lt;br/&gt;&lt;i&gt;Braidwood; Arthrex.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="1397" width="541.5" height="286" as="geometry" />
+        <mxCell id="l1n1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B2. Principal or inferior officer?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Supervised and directed by a superior other than the President?&lt;/b&gt; Examine power to review / block decisions, remove, and direct work.&lt;br/&gt;&lt;b&gt;Final executive decisions unreviewable by such a superior?&lt;/b&gt; Strong principal-officer indication.&lt;br/&gt;Courts’ judicial review does not substitute for executive supervision.&lt;br/&gt;&lt;i&gt;Braidwood; Arthrex.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="639.5" y="1397" as="geometry" />
         </mxCell>
-        <mxCell id="l1n2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B3. Was the appointer proper?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Principal:&lt;/b&gt; presidential nomination + Senate confirmation.&lt;br/&gt;&lt;b&gt;Inferior:&lt;/b&gt; same default, or Congress may vest appointment in President alone, courts of law, or heads of departments.&lt;br/&gt;A bureau chief reporting to a secretary is not the department head. A subordinate’s selection may work with department-head approval and legal authorization.&lt;br/&gt;Congress / its leaders cannot appoint executive officers.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="1725" width="541.5" height="369" as="geometry" />
+        <mxCell id="l1n2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B3. Was the appointer proper?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Principal:&lt;/b&gt; presidential nomination + Senate confirmation.&lt;br/&gt;&lt;b&gt;Inferior:&lt;/b&gt; same default, or Congress may vest appointment in President alone, courts of law, or heads of departments.&lt;br/&gt;A bureau chief reporting to a secretary is not the department head. A subordinate’s selection may work with department-head approval and legal authorization.&lt;br/&gt;Congress / its leaders cannot appoint executive officers.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="369" width="541.5" x="639.5" y="1725" as="geometry" />
         </mxCell>
-        <mxCell id="l1n3" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B4. Removal: who controls whom?&lt;/b&gt;&lt;br/&gt;First identify officer versus employee, executive versus legislative functions, statutory protection, who may remove, and every layer of supervision.&lt;br/&gt;Congress cannot retain removal control over an officer executing federal law, except impeachment. Legislative research staff present a different question.&lt;br/&gt;Indirect control through an at-will superior can matter.&lt;br/&gt;&lt;i&gt;Bowsher; Free Enterprise Fund.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="2136" width="541.5" height="286" as="geometry" />
+        <mxCell id="l1n3" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B4. Removal: who controls whom?&lt;/b&gt;&lt;br/&gt;First identify officer versus employee, executive versus legislative functions, statutory protection, who may remove, and every layer of supervision.&lt;br/&gt;Congress cannot retain removal control over an officer executing federal law, except impeachment. Legislative research staff present a different question.&lt;br/&gt;Indirect control through an at-will superior can matter.&lt;br/&gt;&lt;i&gt;Bowsher; Free Enterprise Fund.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="639.5" y="2136" as="geometry" />
         </mxCell>
-        <mxCell id="l1n4" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B5. 2026 removal update&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Trump v. Slaughter (June 29, 2026):&lt;/b&gt; FTC commissioners’ for-cause protection fails; Humphrey’s Executor no longer supplies the former independent-commission exception. A multi-member board alone does not save the restriction.&lt;br/&gt;The decision leaves some historically distinct offices / non-Article III courts unresolved. Do not mechanically extend its result to every employee or inferior-officer scheme.&lt;br/&gt;&lt;b&gt;Check your assigned summer supplement.&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="2464" width="541.5" height="341" as="geometry" />
+        <mxCell id="l1n4" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFF2CC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B5. 2026 removal update&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Trump v. Slaughter (June 29, 2026):&lt;/b&gt; FTC commissioners’ for-cause protection fails; Humphrey’s Executor no longer supplies the former independent-commission exception. A multi-member board alone does not save the restriction.&lt;br/&gt;The decision leaves some historically distinct offices / non-Article III courts unresolved. Do not mechanically extend its result to every employee or inferior-officer scheme.&lt;br/&gt;&lt;b&gt;Check your assigned summer supplement.&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="341" width="541.5" x="639.5" y="2464" as="geometry" />
         </mxCell>
-        <mxCell id="l1n5" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B6. Inferior officers / employees?&lt;/b&gt;&lt;br/&gt;For an inferior officer’s protection, analyze duties, scope, supervision, and interference with presidential execution; distinguish &lt;i&gt;Morrison v. Olson&lt;/i&gt;. Multiple layers of good-cause insulation raise &lt;i&gt;Free Enterprise Fund&lt;/i&gt; problems.&lt;br/&gt;Ordinary employees are not automatically subject to every officer rule. State the applicable statutory protection and the argument about presidential control; avoid a blanket answer.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="639.5" y="2847" width="541.5" height="314" as="geometry" />
+        <mxCell id="l1n5" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;B6. Inferior officers / employees?&lt;/b&gt;&lt;br/&gt;For an inferior officer’s protection, analyze duties, scope, supervision, and interference with presidential execution; distinguish &lt;i&gt;Morrison v. Olson&lt;/i&gt;. Multiple layers of good-cause insulation raise &lt;i&gt;Free Enterprise Fund&lt;/i&gt; problems.&lt;br/&gt;Ordinary employees are not automatically subject to every officer rule. State the applicable statutory protection and the argument about presidential control; avoid a blanket answer.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="314" width="541.5" x="639.5" y="2847" as="geometry" />
         </mxCell>
-        <mxCell id="l2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C. AGENCIES &amp;amp; LAWMAKING&lt;/b&gt;&lt;br/&gt;Use for a rule, delegated discretion, congressional veto, or canceled spending.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="879" width="541.5" height="120" as="geometry" />
+        <mxCell id="l2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C. AGENCIES &amp;amp; LAWMAKING&lt;/b&gt;&lt;br/&gt;Use for a rule, delegated discretion, congressional veto, or canceled spending.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="541.5" x="1219" y="879" as="geometry" />
         </mxCell>
-        <mxCell id="l2n0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C1. Does the statute authorize THIS action?&lt;/b&gt;&lt;br/&gt;Interpret text, context, conditions, and the actor to whom Congress granted power. Acting for a worthy statutory objective is insufficient if the particular means exceed the grant.&lt;br/&gt;&lt;b&gt;No authorization?&lt;/b&gt; Statutory defect; then test any independent Article II claim.&lt;br/&gt;&lt;b&gt;Yes?&lt;/b&gt; Check C2-C5 and rights.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="1041" width="541.5" height="258" as="geometry" />
+        <mxCell id="l2n0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C1. Does the statute authorize THIS action?&lt;/b&gt;&lt;br/&gt;Interpret text, context, conditions, and the actor to whom Congress granted power. Acting for a worthy statutory objective is insufficient if the particular means exceed the grant.&lt;br/&gt;&lt;b&gt;No authorization?&lt;/b&gt; Statutory defect; then test any independent Article II claim.&lt;br/&gt;&lt;b&gt;Yes?&lt;/b&gt; Check C2-C5 and rights.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="541.5" x="1219" y="1041" as="geometry" />
         </mxCell>
-        <mxCell id="l2n1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C2. Major question?&lt;/b&gt;&lt;br/&gt;Is the executive asserting an extraordinary power of great economic / political significance through a vague or ancillary provision?&lt;br/&gt;&lt;b&gt;Yes → demand clear congressional authorization.&lt;/b&gt;&lt;br/&gt;This concerns the statute’s scope; distinguish C3’s constitutional limit on delegation.&lt;br/&gt;&lt;i&gt;Book Chapter 15: Learning Resources; related major-questions cases.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="1341" width="541.5" height="286" as="geometry" />
+        <mxCell id="l2n1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C2. Major question?&lt;/b&gt;&lt;br/&gt;Is the executive asserting an extraordinary power of great economic / political significance through a vague or ancillary provision?&lt;br/&gt;&lt;b&gt;Yes → demand clear congressional authorization.&lt;/b&gt;&lt;br/&gt;This concerns the statute’s scope; distinguish C3’s constitutional limit on delegation.&lt;br/&gt;&lt;i&gt;Book Chapter 15: Learning Resources; related major-questions cases.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="1219" y="1341" as="geometry" />
         </mxCell>
-        <mxCell id="l2n2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C3. Excessive delegation?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Did Congress supply an intelligible principle?&lt;/b&gt; Identify its policy, boundaries, and standards in the statute.&lt;br/&gt;Broad discretion generally survives under &lt;i&gt;Whitman&lt;/i&gt;. The breadth of the delegated task affects how much guidance is needed.&lt;br/&gt;An agency cannot cure a standardless statute merely by promising self-restraint.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="1669" width="541.5" height="286" as="geometry" />
+        <mxCell id="l2n2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C3. Excessive delegation?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Did Congress supply an intelligible principle?&lt;/b&gt; Identify its policy, boundaries, and standards in the statute.&lt;br/&gt;Broad discretion generally survives under &lt;i&gt;Whitman&lt;/i&gt;. The breadth of the delegated task affects how much guidance is needed.&lt;br/&gt;An agency cannot cure a standardless statute merely by promising self-restraint.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="1219" y="1669" as="geometry" />
         </mxCell>
-        <mxCell id="l2n3" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C4. Congress reverses an executive decision?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Binding change to outside legal rights / duties?&lt;/b&gt; Congress ordinarily must use bicameral passage + presentment (or a proper veto override).&lt;br/&gt;One-house, committee, or two-house veto without presentment fails; a two-thirds vote alone is no cure.&lt;br/&gt;A report-and-wait requirement can survive if Congress must enact a new law to block the decision.&lt;br/&gt;&lt;i&gt;INS v. Chadha.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="1997" width="541.5" height="286" as="geometry" />
+        <mxCell id="l2n3" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C4. Congress reverses an executive decision?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Binding change to outside legal rights / duties?&lt;/b&gt; Congress ordinarily must use bicameral passage + presentment (or a proper veto override).&lt;br/&gt;One-house, committee, or two-house veto without presentment fails; a two-thirds vote alone is no cure.&lt;br/&gt;A report-and-wait requirement can survive if Congress must enact a new law to block the decision.&lt;br/&gt;&lt;i&gt;INS v. Chadha.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="1219" y="1997" as="geometry" />
         </mxCell>
-        <mxCell id="l2n4" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C5. Line-item veto or lawful discretion?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Cancel part of an enacted law?&lt;/b&gt; President cannot amend / repeal it after signing, even under a statutory cancellation scheme.&lt;br/&gt;&lt;b&gt;Veto a separate whole bill?&lt;/b&gt; Ordinary Article I veto process.&lt;br/&gt;&lt;b&gt;Implement actual discretion Congress left?&lt;/b&gt; Distinguish from cancellation; read the grant.&lt;br/&gt;&lt;i&gt;Clinton v. New York.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="2325" width="541.5" height="286" as="geometry" />
+        <mxCell id="l2n4" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C5. Line-item veto or lawful discretion?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Cancel part of an enacted law?&lt;/b&gt; President cannot amend / repeal it after signing, even under a statutory cancellation scheme.&lt;br/&gt;&lt;b&gt;Veto a separate whole bill?&lt;/b&gt; Ordinary Article I veto process.&lt;br/&gt;&lt;b&gt;Implement actual discretion Congress left?&lt;/b&gt; Distinguish from cancellation; read the grant.&lt;br/&gt;&lt;i&gt;Clinton v. New York.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="1219" y="2325" as="geometry" />
         </mxCell>
-        <mxCell id="l2n5" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C6. Signing statement / constitutional objection?&lt;/b&gt;&lt;br/&gt;A statement cannot alter enacted text. Distinguish policy disagreement from a real claim that a provision invades exclusive presidential authority.&lt;br/&gt;Test the objection using Youngstown and the substantive rule; signing a bill does not validate every provision, and a claimed objection does not itself excuse noncompliance.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1219.0" y="2653" width="541.5" height="258" as="geometry" />
+        <mxCell id="l2n5" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;C6. Signing statement / constitutional objection?&lt;/b&gt;&lt;br/&gt;A statement cannot alter enacted text. Distinguish policy disagreement from a real claim that a provision invades exclusive presidential authority.&lt;br/&gt;Test the objection using Youngstown and the substantive rule; signing a bill does not validate every provision, and a claimed objection does not itself excuse noncompliance.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="541.5" x="1219" y="2653" as="geometry" />
         </mxCell>
-        <mxCell id="l3" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D. IMMUNITY &amp;amp; PRIVILEGE&lt;/b&gt;&lt;br/&gt;Use only when the facts ask about liability, prosecution, disclosure, or relief.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="879" width="541.5" height="120" as="geometry" />
+        <mxCell id="l3" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DAE8FC;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D. IMMUNITY &amp;amp; PRIVILEGE&lt;/b&gt;&lt;br/&gt;Use only when the facts ask about liability, prosecution, disclosure, or relief.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="541.5" x="1798.5" y="879" as="geometry" />
         </mxCell>
-        <mxCell id="l3n0" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D1. What claim / remedy is requested?&lt;/b&gt;&lt;br/&gt;Separate &lt;b&gt;civil damages&lt;/b&gt;, &lt;b&gt;criminal prosecution&lt;/b&gt;, &lt;b&gt;declaration / injunction&lt;/b&gt;, and &lt;b&gt;subpoena&lt;/b&gt;. Presidential rules do not automatically protect every executive official.&lt;br/&gt;First ask whether the challenged conduct is official or private; alleged illegality alone does not make it private.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="1041" width="541.5" height="258" as="geometry" />
+        <mxCell id="l3n0" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D1. What claim / remedy is requested?&lt;/b&gt;&lt;br/&gt;Separate &lt;b&gt;civil damages&lt;/b&gt;, &lt;b&gt;criminal prosecution&lt;/b&gt;, &lt;b&gt;declaration / injunction&lt;/b&gt;, and &lt;b&gt;subpoena&lt;/b&gt;. Presidential rules do not automatically protect every executive official.&lt;br/&gt;First ask whether the challenged conduct is official or private; alleged illegality alone does not make it private.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="541.5" x="1798.5" y="1041" as="geometry" />
         </mxCell>
-        <mxCell id="l3n1" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D2. Civil damages against President?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Within outer perimeter of official duties?&lt;/b&gt; Absolute damages immunity, even if the alleged act was wrongful.&lt;br/&gt;&lt;b&gt;Unofficial conduct?&lt;/b&gt; No comparable presidential immunity; private / pre-office suit can proceed subject to case-management concerns.&lt;br/&gt;&lt;i&gt;Nixon v. Fitzgerald; Clinton v. Jones.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="1341" width="541.5" height="258" as="geometry" />
+        <mxCell id="l3n1" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D2. Civil damages against President?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Within outer perimeter of official duties?&lt;/b&gt; Absolute damages immunity, even if the alleged act was wrongful.&lt;br/&gt;&lt;b&gt;Unofficial conduct?&lt;/b&gt; No comparable presidential immunity; private / pre-office suit can proceed subject to case-management concerns.&lt;br/&gt;&lt;i&gt;Nixon v. Fitzgerald; Clinton v. Jones.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="258" width="541.5" x="1798.5" y="1341" as="geometry" />
         </mxCell>
-        <mxCell id="l3n2" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D3. Criminal prosecution?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Sitting President:&lt;/b&gt; DOJ’s position bars prosecution while in office; distinguish this executive-branch view from a definitive Supreme Court holding.&lt;br/&gt;&lt;b&gt;Former President:&lt;/b&gt; core exclusive powers → absolute immunity; other official acts → at least presumptive immunity; unofficial acts → none.&lt;br/&gt;No motive inquiry to classify conduct; immune official-act evidence cannot be used to evade immunity.&lt;br/&gt;&lt;i&gt;Trump v. United States.&lt;/i&gt;&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="1641" width="541.5" height="341" as="geometry" />
+        <mxCell id="l3n2" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D3. Criminal prosecution?&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Sitting President:&lt;/b&gt; DOJ’s position bars prosecution while in office; distinguish this executive-branch view from a definitive Supreme Court holding.&lt;br/&gt;&lt;b&gt;Former President:&lt;/b&gt; core exclusive powers → absolute immunity; other official acts → at least presumptive immunity; unofficial acts → none.&lt;br/&gt;No motive inquiry to classify conduct; immune official-act evidence cannot be used to evade immunity.&lt;br/&gt;&lt;i&gt;Trump v. United States.&lt;/i&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="341" width="541.5" x="1798.5" y="1641" as="geometry" />
         </mxCell>
-        <mxCell id="l3n3" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D4. Prospective relief / judicial order?&lt;/b&gt;&lt;br/&gt;Damages immunity does not preclude review of legality. A declaration may be available; relief often runs against an implementing subordinate.&lt;br/&gt;Direct injunctions against the President raise distinct unresolved limits.&lt;br/&gt;A binding unstayed order must be obeyed; disagreement is addressed through review / a stay. Disobedience can support contempt.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="2024" width="541.5" height="286" as="geometry" />
+        <mxCell id="l3n3" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D4. Prospective relief / judicial order?&lt;/b&gt;&lt;br/&gt;Damages immunity does not preclude review of legality. A declaration may be available; relief often runs against an implementing subordinate.&lt;br/&gt;Direct injunctions against the President raise distinct unresolved limits.&lt;br/&gt;A binding unstayed order must be obeyed; disagreement is addressed through review / a stay. Disobedience can support contempt.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="286" width="541.5" x="1798.5" y="2024" as="geometry" />
         </mxCell>
-        <mxCell id="l3n4" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D5. Executive privilege / subpoena?&lt;/b&gt;&lt;br/&gt;Qualified confidentiality protection, not blanket immunity from process. Balance the specific need for evidence against confidentiality and separation of powers.&lt;br/&gt;Ask: President / close advisers? military or diplomatic secrets? alternative sources? scope? criminal, civil, legislative, or impeachment purpose?&lt;br/&gt;General confidentiality yielded to demonstrated criminal-trial need in &lt;i&gt;U.S. v. Nixon&lt;/i&gt;. Do not mechanically apply that result to every congressional demand.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="2352" width="541.5" height="369" as="geometry" />
+        <mxCell id="l3n4" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#FFFFFF;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D5. Executive privilege / subpoena?&lt;/b&gt;&lt;br/&gt;Qualified confidentiality protection, not blanket immunity from process. Balance the specific need for evidence against confidentiality and separation of powers.&lt;br/&gt;Ask: President / close advisers? military or diplomatic secrets? alternative sources? scope? criminal, civil, legislative, or impeachment purpose?&lt;br/&gt;General confidentiality yielded to demonstrated criminal-trial need in &lt;i&gt;U.S. v. Nixon&lt;/i&gt;. Do not mechanically apply that result to every congressional demand.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="369" width="541.5" x="1798.5" y="2352" as="geometry" />
         </mxCell>
-        <mxCell id="l3n5" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D6. Keep conclusions separate&lt;/b&gt;&lt;br/&gt;A policy may be unlawful even when damages or prosecution are unavailable. A privilege may protect a communication without validating the underlying act.&lt;br/&gt;State who can obtain which remedy, against whom, and for what conduct.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1798.5" y="2763" width="541.5" height="203" as="geometry" />
+        <mxCell id="l3n5" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;D6. Keep conclusions separate&lt;/b&gt;&lt;br/&gt;A policy may be unlawful even when damages or prosecution are unavailable. A privilege may protect a communication without validating the underlying act.&lt;br/&gt;State who can obtain which remedy, against whom, and for what conduct.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="203" width="541.5" x="1798.5" y="2763" as="geometry" />
         </mxCell>
-        <mxCell id="finish" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;3. Final sweep: rights, federalism, and a usable remedy&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Rights:&lt;/b&gt; federal action is constrained directly by the Bill of Rights; apply takings, due process, or other assigned rights when triggered. A seizure may be authorized yet require public use and compensation (Chart 3, D). Federal legislation may also trigger ex post facto / attainder limits.&lt;br/&gt;&lt;b&gt;Federalism:&lt;/b&gt; executive commands to state lawmakers / officers require the anti-commandeering analysis; use your Congress chart. A statute cannot delegate a power Congress lacks.&lt;br/&gt;&lt;b&gt;Judicial challenge:&lt;/b&gt; use the shared court checklist in the companion guide. End with authority → violated limit, if any → defendant / remedy.&lt;/div&gt;" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="60" y="3251" width="2280" height="175" as="geometry" />
+        <mxCell id="finish" parent="1" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;align=left;verticalAlign=top;spacing=18;fillColor=#DDF1EB;strokeColor=#526678;fontColor=#17334D;fontSize=21;" value="&lt;div style=&quot;text-align:left;font-family:Helvetica;font-size:21px;line-height:1.32&quot;&gt;&lt;b&gt;3. Final sweep: rights, federalism, and a usable remedy&lt;/b&gt;&lt;br/&gt;&lt;b&gt;Rights:&lt;/b&gt; federal action is constrained directly by the Bill of Rights; apply takings, due process, or other assigned rights when triggered. A seizure may be authorized yet require public use and compensation (Chart 3, D). Federal legislation may also trigger ex post facto / attainder limits.&lt;br/&gt;&lt;b&gt;Federalism:&lt;/b&gt; executive commands to state lawmakers / officers require the anti-commandeering analysis; use your Congress chart. A statute cannot delegate a power Congress lacks.&lt;br/&gt;&lt;b&gt;Judicial challenge:&lt;/b&gt; use the shared court checklist in the companion guide. End with authority → violated limit, if any → defendant / remedy.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="175" width="2280" x="60" y="3251" as="geometry" />
         </mxCell>
-        <mxCell id="edge0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="start" target="posture">
+        <mxCell id="edge0" edge="1" parent="1" source="start" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="posture" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge1" value="Authorized" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="posture" target="cat0">
+        <mxCell id="edge1" edge="1" parent="1" source="posture" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cat0" value="Authorized">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="401" />
+              <mxPoint x="1200" y="401" />
               <mxPoint x="426.6666666666667" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge2" value="Silent" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="posture" target="cat1">
+        <mxCell id="edge2" edge="1" parent="1" source="posture" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cat1" value="Silent">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="401" />
-              <mxPoint x="1200.0" y="401" />
+              <mxPoint x="1200" y="401" />
+              <mxPoint x="1200" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge3" value="Conflicting" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="posture" target="cat2">
+        <mxCell id="edge3" edge="1" parent="1" source="posture" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="cat2" value="Conflicting">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="401" />
+              <mxPoint x="1200" y="401" />
               <mxPoint x="1973.3333333333335" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="cat0" target="router">
+        <mxCell id="edge4" edge="1" parent="1" source="cat0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="router" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="426.6666666666667" y="659" />
-              <mxPoint x="1200.0" y="659" />
+              <mxPoint x="1200" y="659" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="cat1" target="router">
+        <mxCell id="edge5" edge="1" parent="1" source="cat1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="router" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="659" />
-              <mxPoint x="1200.0" y="659" />
+              <mxPoint x="1200" y="659" />
+              <mxPoint x="1200" y="659" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="cat2" target="router">
+        <mxCell id="edge6" edge="1" parent="1" source="cat2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="router" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1973.3333333333335" y="659" />
-              <mxPoint x="1200.0" y="659" />
+              <mxPoint x="1200" y="659" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0" target="l0n0">
+        <mxCell id="edge7" edge="1" parent="1" source="l0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n0" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n0" target="l0n1">
+        <mxCell id="edge8" edge="1" parent="1" source="l0n0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n1" target="l0n2">
+        <mxCell id="edge9" edge="1" parent="1" source="l0n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n2" target="l0n3">
+        <mxCell id="edge10" edge="1" parent="1" source="l0n2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n3" target="l0n4">
+        <mxCell id="edge11" edge="1" parent="1" source="l0n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n4" target="l0n5">
+        <mxCell id="edge12" edge="1" parent="1" source="l0n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0n5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1" target="l1n0">
+        <mxCell id="edge13" edge="1" parent="1" source="l1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n0" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n0" target="l1n1">
+        <mxCell id="edge14" edge="1" parent="1" source="l1n0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n1" target="l1n2">
+        <mxCell id="edge15" edge="1" parent="1" source="l1n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n2" target="l1n3">
+        <mxCell id="edge16" edge="1" parent="1" source="l1n2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n3" target="l1n4">
+        <mxCell id="edge17" edge="1" parent="1" source="l1n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n4" target="l1n5">
+        <mxCell id="edge18" edge="1" parent="1" source="l1n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1n5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2" target="l2n0">
+        <mxCell id="edge19" edge="1" parent="1" source="l2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n0" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n0" target="l2n1">
+        <mxCell id="edge20" edge="1" parent="1" source="l2n0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n1" target="l2n2">
+        <mxCell id="edge21" edge="1" parent="1" source="l2n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n2" target="l2n3">
+        <mxCell id="edge22" edge="1" parent="1" source="l2n2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n3" target="l2n4">
+        <mxCell id="edge23" edge="1" parent="1" source="l2n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n4" target="l2n5">
+        <mxCell id="edge24" edge="1" parent="1" source="l2n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2n5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3" target="l3n0">
+        <mxCell id="edge25" edge="1" parent="1" source="l3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n0" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n0" target="l3n1">
+        <mxCell id="edge26" edge="1" parent="1" source="l3n0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n1" target="l3n2">
+        <mxCell id="edge27" edge="1" parent="1" source="l3n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n2" target="l3n3">
+        <mxCell id="edge28" edge="1" parent="1" source="l3n2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n3" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n3" target="l3n4">
+        <mxCell id="edge29" edge="1" parent="1" source="l3n3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n4" target="l3n5">
+        <mxCell id="edge30" edge="1" parent="1" source="l3n4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3n5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="edge31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l0">
+        <mxCell id="edge31" edge="1" parent="1" source="router" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l0" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="839" />
+              <mxPoint x="1200" y="839" />
               <mxPoint x="330.75" y="839" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l1">
+        <mxCell id="edge32" edge="1" parent="1" source="router" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="839" />
+              <mxPoint x="1200" y="839" />
               <mxPoint x="910.25" y="839" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l2">
+        <mxCell id="edge33" edge="1" parent="1" source="router" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l2" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="839" />
+              <mxPoint x="1200" y="839" />
               <mxPoint x="1489.75" y="839" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="router" target="l3">
+        <mxCell id="edge34" edge="1" parent="1" source="router" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="l3" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200.0" y="839" />
+              <mxPoint x="1200" y="839" />
               <mxPoint x="2069.25" y="839" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l0n5" target="finish">
+        <mxCell id="edge35" edge="1" parent="1" source="l0n5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="finish" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330.75" y="3201" />
-              <mxPoint x="1200.0" y="3201" />
+              <mxPoint x="1200" y="3201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l1n5" target="finish">
+        <mxCell id="edge36" edge="1" parent="1" source="l1n5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="finish" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="910.25" y="3201" />
-              <mxPoint x="1200.0" y="3201" />
+              <mxPoint x="1200" y="3201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l2n5" target="finish">
+        <mxCell id="edge37" edge="1" parent="1" source="l2n5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="finish" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1489.75" y="3201" />
-              <mxPoint x="1200.0" y="3201" />
+              <mxPoint x="1200" y="3201" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="edge38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" edge="1" parent="1" source="l3n5" target="finish">
+        <mxCell id="edge38" edge="1" parent="1" source="l3n5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#526678;fontSize=19;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="finish" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2069.25" y="3201" />
-              <mxPoint x="1200.0" y="3201" />
+              <mxPoint x="1200" y="3201" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="5033" dy="1465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6409,9 +6409,9 @@
             <mxGeometry height="90" width="290" x="3030" y="4980" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A statue may be considered a tax under &lt;i&gt;NFIB &lt;/i&gt;when&lt;i&gt;:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) It &lt;b&gt;raises revenue&lt;/b&gt;: specifically in tax return&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2)&amp;nbsp;left a &lt;b&gt;real choice:&amp;nbsp;&lt;/b&gt;payment was far less expensive than insurance&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) &lt;b&gt;Not punishment&lt;/b&gt;: payment would be legal and not because of an illegal&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-9">
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Taxing Power&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A statue may be considered a tax under &lt;i&gt;NFIB &lt;/i&gt;when&lt;i&gt;:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) It &lt;b&gt;raises revenue&lt;/b&gt;: specifically in tax return&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2)&amp;nbsp;left a &lt;b&gt;real choice:&amp;nbsp;&lt;/b&gt;payment was far less expensive than insurance&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) &lt;b&gt;Not punishment&lt;/b&gt;: payment would be legal and not because of an illegal&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(4) &lt;b&gt;no scienter requirement&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-9">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="150" width="340" x="3210" y="5150" as="geometry" />
+            <mxGeometry height="180" width="340" x="3210" y="5150" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Spending Power&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;only if states have a genuine choice about expanding Medicaid.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Taking away existing funding if they don&#39;t comply with new version was&amp;nbsp;coercive&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 548–558 (Roberts, C.J.); Joondeph pp. 160–163." id="9QNgjwrJa7QWuSXyMYGu-11">
