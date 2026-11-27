@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="3986" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="17450" dy="8788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5359,32 +5359,32 @@
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Spending power&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Art. I, §8, cl. 1 · Dole&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress may spend for the general welfare even where it could not directly regulate.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;For conditions on state grants, apply all five requirements.&lt;/p&gt;" tooltip="South Dakota v. Dole, 483 U.S. at 206–208; Joondeph pp. 175–184." id="congress-final-spend">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="140" width="370" x="915" y="5220" as="geometry" />
+            <mxGeometry height="140" width="370" x="380" y="5190" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Conditional grants&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Dole · requirements 1–4&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(1) &lt;b&gt;General welfare:&lt;/b&gt; substantial deference to Congress.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(2) &lt;b&gt;Clear notice:&lt;/b&gt; the State can knowingly accept the obligations.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(3) &lt;b&gt;Germaneness:&lt;/b&gt; sufficient relation to the federal interest in the program.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;(4) &lt;b&gt;No independent constitutional bar:&lt;/b&gt; the condition cannot induce the State to violate the Constitution. Lack of direct regulatory power is not itself such a bar.&lt;/p&gt;" tooltip="Dole, 483 U.S. at 207–211; Joondeph pp. 175–182." id="congress-final-spend-conditions">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="240" width="400" x="825" y="5550" as="geometry" />
+            <mxGeometry height="240" width="400" x="210" y="5535" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Meaningful choice?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Dole / NFIB · requirement 5&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;(5) &lt;b&gt;No coercion:&lt;/b&gt; financial pressure must not become compulsion.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Consider the amount at risk, dependence on existing funds, notice, and whether new obligations transform the prior program.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;No automatic numerical cutoff.&lt;/p&gt;" tooltip="Dole, 483 U.S. at 211–212; NFIB, 567 U.S. at 575–585; Joondeph pp. 182–184." id="congress-final-coercion">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="190" width="380" x="1395" y="5560" as="geometry" />
+            <mxGeometry height="190" width="380" x="890" y="5570" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Related highway condition upheld&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;South Dakota v. Dole (1987)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Withholding 5% of specified highway funds encouraged a drinking age of 21.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Safer interstate travel supplied the relationship; the relatively small loss left a choice.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;The condition need not govern highway construction itself.&lt;/p&gt;" tooltip="483 U.S. 203, 208–212; Joondeph pp. 176–182." link="https://supreme.justia.com/cases/federal/us/483/203/" linkTarget="_blank" id="congress-final-dole">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="175" width="400" x="765" y="5940" as="geometry" />
+            <mxGeometry height="175" width="400" x="150" y="5980" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Existing Medicaid funds at risk&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;NFIB v. Sebelius (2012)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Threatening existing Medicaid funding for refusal to join the expansion was coercive.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;Congress could offer expansion money with conditions, but could not take away existing funds solely for rejecting expansion.&lt;/p&gt;" tooltip="567 U.S. 519, 575–588; Joondeph pp. 182–184." link="https://supreme.justia.com/cases/federal/us/567/519/" linkTarget="_blank" id="congress-final-nfib-spend">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="175" width="380" x="1445" y="5870" as="geometry" />
+            <mxGeometry height="175" width="380" x="1090" y="5875" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Identify the invalid condition&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Relief / severability&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;An invalid funding condition does not automatically invalidate the whole program.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;NFIB barred the threat to existing Medicaid funds; the expansion offer remained.&lt;/p&gt;" tooltip="NFIB, 567 U.S. at 585–588; existing Congress chart." id="congress-final-spend-remedy">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#CDEBDD;fontColor=#151719;strokeColor=#719D87;" vertex="1">
-            <mxGeometry height="140" width="380" x="1435" y="6165" as="geometry" />
+            <mxGeometry height="140" width="380" x="1120" y="6165" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="congress-edge-spend-spend-conditions" edge="1" parent="1" source="congress-final-spend" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;labelPadding=0 4;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="congress-final-spend-conditions" value="">
