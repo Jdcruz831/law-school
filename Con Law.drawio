@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="3742" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3239" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5702,7 +5702,7 @@
             <mxGeometry height="200" width="440" x="-950" y="7900" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="v5fdGlirQn1-idS4uWYH-6" edge="1" parent="1" source="executive-final-cat3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="executive-final-practice">
+        <mxCell id="v5fdGlirQn1-idS4uWYH-9" edge="1" parent="1" source="executive-final-cat3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;labelPadding=0 4;" target="v5fdGlirQn1-idS4uWYH-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;lowest ebb&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Action conflicts with Congress’s express or implied will.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;“his power is at its lowest ebb”&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The President needs an &lt;b&gt;exclusive constitutional power&lt;/b&gt; that prevents Congress from regulating this subject. Category 3 is not automatic defeat.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 230–232. Authority: https://www.law.cornell.edu/supremecourt/text/343/579" link="https://www.law.cornell.edu/supremecourt/text/343/579" id="executive-final-cat3">
@@ -5715,14 +5715,9 @@
             <mxGeometry height="170" width="440" x="-1900" y="8250" as="geometry" />
           </mxCell>
         </object>
-        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;Independent Constitutional Powers&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[1]&amp;nbsp;Pardons and commutations&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[2] Recognition of foreign sovereigns&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[3] Commander in Chief&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[4] Execute and enforce federal law&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[5] Nominate and appoint officers&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[6]Supervise and remove executive officers&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 230–232. Authority: https://www.law.cornell.edu/supremecourt/text/343/579" link="https://www.law.cornell.edu/supremecourt/text/343/579" id="executive-final-practice">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="170" width="440" x="-540" y="8280" as="geometry" />
-          </mxCell>
-        </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can Congress be excluded?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Identify the precise Article II function&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;If the power is not exclusive, the contrary statute controls.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Recognition and pardons illustrate potential exclusive powers. Do not treat all foreign affairs or all wartime action as exclusive.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 231–234. Authority: https://www.law.cornell.edu/supremecourt/text/13-628" link="https://www.law.cornell.edu/supremecourt/text/13-628" id="executive-final-exclusive">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="170" width="440" y="8250" as="geometry" />
+            <mxGeometry height="170" width="440" x="300" y="8250" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Steel seizure was unauthorized&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Youngstown Sheet &amp; Tube Co. v. Sawyer (1952)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Truman seized domestic steel mills during the Korean War without statutory authorization. Congress had rejected that method of resolving labor disputes.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Military command and faithful execution did not supply domestic lawmaking power. Jackson placed the seizure in &lt;b&gt;Category 3&lt;/b&gt;.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 222–232. Authority: https://www.law.cornell.edu/supremecourt/text/343/579" link="https://www.law.cornell.edu/supremecourt/text/343/579" id="executive-final-youngstown">
@@ -5760,8 +5755,10 @@
         <mxCell id="executive-edge-cat1-valid-grant" edge="1" parent="1" source="executive-final-cat1" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-valid-grant" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="executive-edge-cat2-practice" edge="1" parent="1" source="executive-final-cat2" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-practice" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="executive-edge-cat2-practice" edge="1" parent="1" source="executive-final-cat2" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="v5fdGlirQn1-idS4uWYH-7" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-650" y="8300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-cat3-exclusive" edge="1" parent="1" source="executive-final-cat3" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-exclusive" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -7280,6 +7277,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <object label="&lt;p style=&quot;text-align: center; margin: 4px 5px 0px;&quot;&gt;&lt;span style=&quot;text-align: left; font-size: 19px;&quot;&gt;&lt;b&gt;Exclusive &amp;amp;&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; font-size: 19px;&quot;&gt;&lt;b&gt;Independent&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 19px;&quot;&gt;&amp;nbsp;Constitutional Powers&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;i&gt;President has exclusive authority, but congress may overpower&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[1]&amp;nbsp;Pardons and commutations&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[2] Recognition of foreign sovereigns&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[3] Commander in Chief&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[4] Execute and enforce federal law&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[5] Nominate and appoint officers&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;[6]Supervise and remove executive officers&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 230–232. Authority: https://www.law.cornell.edu/supremecourt/text/343/579" link="https://www.law.cornell.edu/supremecourt/text/343/579" id="v5fdGlirQn1-idS4uWYH-7">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
+            <mxGeometry height="190" width="490" x="-590" y="8300" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
