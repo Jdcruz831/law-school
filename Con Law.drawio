@@ -4926,7 +4926,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ju4cpsp61Ld_7xBZFTr3" name="Con Law Final">
-    <mxGraphModel dx="4278" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3742" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5646,28 +5646,28 @@
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;3. Proper appointment / removal?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Run both inquiries if the facts raise them&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify the official’s actual duties, appointer, supervisor and removal protections.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;A valid appointment does not validate the policy. A removal defect is a separate question.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 239–257; removal supplement cross-check. " id="executive-final-personnel">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="175" width="440" x="4700" y="7100" as="geometry" />
+            <mxGeometry height="175" width="440" x="1785" y="7045" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;4. Valid use of delegated power?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Agency action + legislative process&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;For a delegated rule or decision, check statutory scope and the constitutional delegation.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;If Congress reverses a decision or the President cancels enacted law, test Article I’s required process.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 259–281. " id="executive-final-lawmaking">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="175" width="440" x="7300" y="7100" as="geometry" />
+            <mxGeometry height="175" width="440" x="4385" y="7045" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;5. Immunity, privilege or relief?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Only when liability / process is at issue&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify &lt;b&gt;civil damages, criminal prosecution, a subpoena, or prospective relief&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Presidential protections depend on the function and remedy; they do not automatically extend to every executive official.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 235–238. " id="executive-final-remedy">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="175" width="440" x="10000" y="7100" as="geometry" />
+            <mxGeometry height="175" width="440" x="7085" y="7045" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can the executive act?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;State authority, limits and remedy separately&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Lawful act:&lt;/b&gt; sufficient statutory / constitutional authority + compliance with all triggered structural and rights limits.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Defect:&lt;/b&gt; name the precise act, provision or appointment that fails; consider severability and available relief.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Immunity may bar a remedy without making a policy lawful.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), Chs. 13–15. " id="executive-final-answer">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="205" width="440" x="11900" y="7100" as="geometry" />
+            <mxGeometry height="205" width="440" x="8985" y="7045" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="executive-edge-start-power" edge="1" parent="1" source="executive-final-start" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="executive-final-power" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="executive-edge-execute-personnel" edge="1" parent="1" source="executive-final-power" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="executive-final-personnel" value="Then test the actor, if implicated">
+        <mxCell id="executive-edge-execute-personnel" edge="1" parent="1" source="executive-final-power" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="executive-final-personnel" value="">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2460" y="7277.5" as="sourcePoint" />
           </mxGeometry>
@@ -5754,139 +5754,109 @@
             <mxPoint x="520" y="8420" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Independent constitutional power?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Identify its scope; then apply Congress’s posture&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;An Article II power can exist without a statute. But its scope and exclusivity must be established for &lt;b&gt;this act&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Use the relevant branch below; other constitutional prohibitions still apply.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 221, 232–235. Authority: https://www.law.cornell.edu/constitution/articleii" link="https://www.law.cornell.edu/constitution/articleii" id="executive-final-article2">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="185" width="440" x="2040" y="6810" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Command of armed forces?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Art. II, §2 · Congress’s Art. I powers&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;President commands; Congress declares war, raises and funds forces, and makes military rules.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify the function, authorization and applicable war-powers limits. Domestic seizure does not become military command because it assists a war.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Apply assigned war-powers rules and rights constraints.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 232; book refers further war doctrine to summer supplement. Authority: https://www.law.cornell.edu/supremecourt/text/343/579" link="https://www.law.cornell.edu/supremecourt/text/343/579" id="executive-final-war">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="220" width="400" x="1540" y="6490" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Formal recognition?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Foreign sovereign / territorial sovereignty&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Recognition is an exclusive presidential power. Congress cannot compel an official contradiction of the recognition decision.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;&lt;b&gt;Other foreign policy:&lt;/b&gt; do not assume exclusivity; Congress retains commerce, funding and military powers.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 232–234. Authority: https://www.law.cornell.edu/supremecourt/text/13-628" link="https://www.law.cornell.edu/supremecourt/text/13-628" id="executive-final-recognition">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="200" width="400" x="2060" y="6500" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Past federal crime?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Art. II, §2, cl. 1 · pardon power&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;May pardon after the offense but before charges or conviction; may commute punishment.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Outside the power:&lt;/b&gt; future crimes, state crimes, civil liability and impeachment.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Congress cannot dictate the recipient. Self-pardons present a separate unsettled issue.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 234–235. Authority: https://www.law.cornell.edu/supremecourt/text/71/333" link="https://www.law.cornell.edu/supremecourt/text/71/333" id="executive-final-pardon">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="2620" y="6500" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Congress could not contradict recognition&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Zivotofsky v. Kerry (2015)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress required “Israel” on requested passports of Jerusalem-born citizens, contrary to the Executive’s recognition policy.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The requirement intruded on exclusive recognition power: a &lt;b&gt;Category 3 action could prevail&lt;/b&gt;. This was not a grant of exclusive control of all foreign affairs.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 232–234. Authority: https://www.law.cornell.edu/supremecourt/text/13-628" link="https://www.law.cornell.edu/supremecourt/text/13-628" id="executive-final-zivotofsky">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="210" width="400" x="2030" y="6130" as="geometry" />
-          </mxCell>
-        </object>
-        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Pardon reaches completed offenses&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Ex parte Garland (1866 Term; decided 1867)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Garland’s pardon removed the disqualification flowing from his participation in the rebellion; Congress could not defeat its effect through the loyalty oath.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The power may operate before prosecution or after conviction. It does not authorize future crimes.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 234. Authority: https://www.law.cornell.edu/supremecourt/text/71/333" link="https://www.law.cornell.edu/supremecourt/text/71/333" id="executive-final-garland">
-          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="210" width="400" x="2720" y="6210" as="geometry" />
-          </mxCell>
-        </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Who may appoint this official?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Article II, §2, cl. 2&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;First distinguish &lt;b&gt;officer / employee&lt;/b&gt;, then &lt;b&gt;principal / inferior&lt;/b&gt;, then check the appointer.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The office’s actual powers matter more than its title.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 239–257. Authority: https://www.law.cornell.edu/constitution/articleii" link="https://www.law.cornell.edu/constitution/articleii" id="executive-final-appointment">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="170" width="440" x="4000" y="7510" as="geometry" />
+            <mxGeometry height="170" width="440" x="1085" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Officer or employee?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Lucia · Buckley&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Officer:&lt;/b&gt; continuing position established by law + significant federal authority.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Employee:&lt;/b&gt; if that threshold is absent, ordinary statutory appointment rules govern.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Hearing discretion can qualify without final decisionmaking. Pure legislative research / reporting differs from executing federal law.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 239–244. Authority: https://www.law.cornell.edu/supremecourt/text/17-130" link="https://www.law.cornell.edu/supremecourt/text/17-130" id="executive-final-officer">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="440" x="4000" y="7840" as="geometry" />
+            <mxGeometry height="210" width="440" x="1085" y="7785" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;SEC adjudicators were officers&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Lucia v. SEC (2018)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;ALJs held continuing statutory offices and exercised substantial discretion in hearings, evidence and decisions.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Staff selection was insufficient. They needed appointment through an Appointments Clause method.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 239–244. Authority: https://www.law.cornell.edu/supremecourt/text/17-130" link="https://www.law.cornell.edu/supremecourt/text/17-130" id="executive-final-lucia">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="185" width="400" x="4550" y="7840" as="geometry" />
+            <mxGeometry height="185" width="400" x="1635" y="7785" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Principal or inferior?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Direction + supervision within the executive&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Who can direct the work, remove the officer, and review or block decisions?&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;An inferior officer is supervised by a superior other than the President. Unreviewable final executive decisions point toward principal status.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Judicial review does not substitute for executive supervision.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 244–257. Authority: https://www.supremecourt.gov/opinions/24pdf/24-316_869d.pdf" link="https://www.supremecourt.gov/opinions/24pdf/24-316_869d.pdf" id="executive-final-rank">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="440" x="4000" y="8200" as="geometry" />
+            <mxGeometry height="210" width="440" x="1085" y="8145" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Review and removal supplied supervision&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Kennedy v. Braidwood Management (2025)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The HHS Secretary could remove Task Force members at will and review / block recommendations before they took effect.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;They were inferior officers; appointment by the Secretary was valid. Statutory independence language did not eliminate that control.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 244–257. Authority: https://www.supremecourt.gov/opinions/24pdf/24-316_869d.pdf" link="https://www.supremecourt.gov/opinions/24pdf/24-316_869d.pdf" id="executive-final-braidwood">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="200" width="400" x="4550" y="8200" as="geometry" />
+            <mxGeometry height="200" width="400" x="1635" y="8145" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Was the appointer authorized?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Principal and inferior routes&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Principal:&lt;/b&gt; presidential nomination + Senate confirmation.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Inferior:&lt;/b&gt; same default, or Congress may vest appointment by law in the President alone, courts of law, or heads of departments.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;A bureau chief is not necessarily a department head. Authorized selection by a subordinate with department-head approval may suffice. Congress cannot appoint executive officers.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 255–257. Authority: https://www.law.cornell.edu/constitution/articleii" link="https://www.law.cornell.edu/constitution/articleii" id="executive-final-appointer">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="240" width="440" x="4000" y="8570" as="geometry" />
+            <mxGeometry height="240" width="440" x="1085" y="8515" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Final decisions lacked executive review&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;United States v. Arthrex (2021)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Patent judges could issue final decisions unreviewable by a presidentially appointed, Senate-confirmed superior.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;That authority was incompatible with their inferior-officer appointments. Allowing Director review cured the constitutional defect.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 255–256. Authority: https://www.law.cornell.edu/supremecourt/text/19-1434" link="https://www.law.cornell.edu/supremecourt/text/19-1434" id="executive-final-arthrex">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="190" width="400" x="4550" y="8570" as="geometry" />
+            <mxGeometry height="190" width="400" x="1635" y="8515" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Congress cannot select law enforcers&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Buckley v. Valeo (1976)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congressional leaders selected voting FEC members with rulemaking and enforcement powers. That appointment method violated Article II.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Congress may appoint its own legislative staff for research and information gathering, but cannot give such appointees executive authority.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 243–244, 257. Authority: https://supreme.justia.com/cases/federal/us/424/1/" link="https://supreme.justia.com/cases/federal/us/424/1/" id="executive-final-buckley">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="185" width="440" x="4000" y="8940" as="geometry" />
+            <mxGeometry height="185" width="440" x="1085" y="8885" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Who may remove whom?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Read the protection and every supervisory layer&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify the official’s functions, the remover, the grounds required, and the chain of control.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Distinguish executive officers, legislative staff, inferior officers, employees and historically distinct offices.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; removal authorities linked below. " id="executive-final-removal">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="185" width="440" x="5550" y="7510" as="geometry" />
+            <mxGeometry height="185" width="440" x="2635" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Does Congress retain removal control?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Bowsher · execution must remain executive&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress cannot reserve removal of an officer executing federal law, except through impeachment.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Assess actual control and functions; a legislative label does not cure executive duties. Legislative research staff raise a different question.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 220; summer supplement topic. Authority: https://supreme.justia.com/cases/federal/us/478/714/" link="https://supreme.justia.com/cases/federal/us/478/714/" id="executive-final-congress-control">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="190" width="400" x="5300" y="7840" as="geometry" />
+            <mxGeometry height="190" width="400" x="2385" y="7785" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Congress-controlled officer executed law&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Bowsher v. Synar (1986)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The Comptroller General determined binding budget reductions while remaining subject to congressional removal.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Congress could not retain that control over execution of the law.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 220; summer supplement topic. Authority: https://supreme.justia.com/cases/federal/us/478/714/" link="https://supreme.justia.com/cases/federal/us/478/714/" id="executive-final-bowsher">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="170" width="400" x="5900" y="7840" as="geometry" />
+            <mxGeometry height="170" width="400" x="2985" y="7785" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Principal executive officer protected?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Presidential removal · current rule&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The President generally must be able to remove principal officers exercising executive power.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;A multimember commission is no longer enough to sustain for-cause protection. Apply &lt;b&gt;Slaughter&lt;/b&gt;; do not reuse Humphrey’s Executor as a surviving general exception.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; updated primary authority, June 29, 2026. Authority: https://supreme.justia.com/cases/federal/us/609/25-332/" link="https://supreme.justia.com/cases/federal/us/609/25-332/" id="executive-final-president-control">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="200" width="400" x="5300" y="8200" as="geometry" />
+            <mxGeometry height="200" width="400" x="2385" y="8145" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;FTC for-cause protection failed&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Trump v. Slaughter (2026)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The Court invalidated the FTC commissioners’ removal protection and &lt;b&gt;overruled Humphrey’s Executor&lt;/b&gt;. Their executive power required presidential accountability.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Its holding does not resolve every inferior-officer, employee or historically distinct office arrangement.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; updated primary authority, June 29, 2026. Authority: https://supreme.justia.com/cases/federal/us/609/25-332/" link="https://supreme.justia.com/cases/federal/us/609/25-332/" id="executive-final-slaughter">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="200" width="400" x="5900" y="8200" as="geometry" />
+            <mxGeometry height="200" width="400" x="2985" y="8145" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Inferior officers / multiple layers?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Do not collapse all officials into one rule&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Examine duties, jurisdiction, tenure, supervision and interference with presidential execution.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Compare &lt;b&gt;Morrison’s&lt;/b&gt; limited inferior officer with &lt;b&gt;Free Enterprise Fund’s&lt;/b&gt; two protected layers. Ordinary employees require their own statutory and functional analysis.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; summer supplement topic. Authority: https://www.law.cornell.edu/supremecourt/text/487/654" link="https://www.law.cornell.edu/supremecourt/text/487/654" id="executive-final-inferior-removal">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="5300" y="8570" as="geometry" />
+            <mxGeometry height="210" width="400" x="2385" y="8515" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Single director with broad power&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Seila Law v. CFPB (2020)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The CFPB’s single director exercised substantial executive power while protected from removal without cause. The restriction was unconstitutional and severable.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Read alongside Slaughter’s later rejection of the independent-commission exception.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; summer supplement topic. Authority: https://www.law.cornell.edu/supremecourt/text/19-7" link="https://www.law.cornell.edu/supremecourt/text/19-7" id="executive-final-seila">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="200" width="400" x="5900" y="8570" as="geometry" />
+            <mxGeometry height="200" width="400" x="2985" y="8515" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Limited independent counsel protection&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Morrison v. Olson (1988)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Good-cause removal by the Attorney General survived for an inferior officer with limited duties, jurisdiction and tenure.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The restriction did not unduly impede presidential functions. This is not blanket permission to insulate all inferior officers.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 256–257; summer supplement topic. Authority: https://www.law.cornell.edu/supremecourt/text/487/654" link="https://www.law.cornell.edu/supremecourt/text/487/654" id="executive-final-morrison">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="190" width="400" x="5300" y="8950" as="geometry" />
+            <mxGeometry height="190" width="400" x="2385" y="8895" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Two layers blocked accountability&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Free Enterprise Fund v. PCAOB (2010)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Board members were removable for cause by SEC commissioners themselves assumed protected from at-will presidential removal.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;That double insulation was invalid. The Court severed the Board’s removal restriction; it did not invalidate the entire agency.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; summer supplement topic. Authority: https://www.law.cornell.edu/supremecourt/text/08-861" link="https://www.law.cornell.edu/supremecourt/text/08-861" id="executive-final-free-enterprise">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="200" width="400" x="5900" y="8950" as="geometry" />
+            <mxGeometry height="200" width="400" x="2985" y="8895" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Historically distinct offices?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Limits of Slaughter’s holding&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Slaughter preserved questions involving the Federal Reserve’s distinct historical tradition and tenure protections of non-Article III judges.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Identify the particular office and governing precedent; a generic claim of independence is insufficient.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 257; Slaughter majority, pp. 27–28. Authority: https://supreme.justia.com/cases/federal/us/609/25-332/" link="https://supreme.justia.com/cases/federal/us/609/25-332/" id="executive-final-distinct-offices">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="190" width="400" x="5900" y="9320" as="geometry" />
+            <mxGeometry height="190" width="400" x="2985" y="9265" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="executive-edge-personnel-appointment" edge="1" parent="1" source="executive-final-personnel" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-appointment" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4920" y="7400" />
-              <mxPoint x="4220" y="7400" />
+              <mxPoint x="2005" y="7345" />
+              <mxPoint x="1305" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-personnel-removal" edge="1" parent="1" source="executive-final-personnel" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-removal" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4920" y="7400" />
-              <mxPoint x="5770" y="7400" />
+              <mxPoint x="2005" y="7345" />
+              <mxPoint x="2855" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5908,9 +5878,9 @@
         <mxCell id="executive-edge-rank-arthrex" edge="1" parent="1" source="executive-final-rank" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-arthrex" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4490" y="8368" />
-              <mxPoint x="4490" y="8500" />
-              <mxPoint x="4750" y="8500" />
+              <mxPoint x="1575" y="8313" />
+              <mxPoint x="1575" y="8445" />
+              <mxPoint x="1835" y="8445" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5935,9 +5905,9 @@
         <mxCell id="executive-edge-president-control-seila" edge="1" parent="1" source="executive-final-president-control" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=1;exitY=0.85;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-seila" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5810" y="8370" />
-              <mxPoint x="5810" y="8500" />
-              <mxPoint x="6100" y="8500" />
+              <mxPoint x="2895" y="8315" />
+              <mxPoint x="2895" y="8445" />
+              <mxPoint x="3185" y="8445" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5947,100 +5917,100 @@
         <mxCell id="executive-edge-inferior-removal-free-enterprise" edge="1" parent="1" source="executive-final-inferior-removal" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-free-enterprise" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5810" y="8727.5" />
-              <mxPoint x="5810" y="8870" />
-              <mxPoint x="6100" y="8870" />
+              <mxPoint x="2895" y="8672.5" />
+              <mxPoint x="2895" y="8815" />
+              <mxPoint x="3185" y="8815" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-removal-distinct-offices" edge="1" parent="1" source="executive-final-removal" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-distinct-offices" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6420" y="7602.5" />
-              <mxPoint x="6420" y="9240" />
-              <mxPoint x="6100" y="9240" />
+              <mxPoint x="3505" y="7547.5" />
+              <mxPoint x="3505" y="9185" />
+              <mxPoint x="3185" y="9185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Extraordinary statutory claim?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Major-questions doctrine · scope of authorization&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A novel claim of vast economic / political significance, based on vague or ancillary text, calls for &lt;b&gt;clear congressional authorization&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Read the whole statute and agency / presidential role. This is statutory interpretation, distinct from the constitutional delegation test.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 265–269. Authority: https://www.law.cornell.edu/supremecourt/text/24-1287" link="https://www.law.cornell.edu/supremecourt/text/24-1287" id="executive-final-major">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="6650" y="7510" as="geometry" />
+            <mxGeometry height="210" width="400" x="3735" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;An intelligible principle?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Nondelegation · Article I, §1&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify Congress’s policy, boundaries and standards for the delegated task.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Broad discretion generally survives. Required guidance depends on the scope of the power.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;An agency cannot repair a standardless statute by promising self-restraint.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 259–265. Authority: https://www.law.cornell.edu/supremecourt/text/99-1257" link="https://www.law.cornell.edu/supremecourt/text/99-1257" id="executive-final-delegation">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="200" width="400" x="7250" y="7510" as="geometry" />
+            <mxGeometry height="200" width="400" x="4335" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Congress changes outside legal rights?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Bicameralism + presentment&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A binding reversal of executive action ordinarily requires passage by both Houses and presentment, or a proper override of a presidential veto.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;One-house, committee or two-house vetoes without presentment fail. A two-thirds resolution alone is not an override.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 269–279. Authority: https://www.law.cornell.edu/supremecourt/text/462/919" link="https://www.law.cornell.edu/supremecourt/text/462/919" id="executive-final-leg-veto">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="7850" y="7510" as="geometry" />
+            <mxGeometry height="210" width="400" x="4935" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;President cancels enacted law?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Line-item veto versus delegated discretion&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The President cannot amend or repeal selected provisions after signing a bill, even if a statute purports to authorize cancellation.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Distinguish a timely veto of a &lt;b&gt;whole bill&lt;/b&gt; and execution of actual discretion Congress left in the law.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 279–281. Authority: https://www.law.cornell.edu/supremecourt/text/524/417" link="https://www.law.cornell.edu/supremecourt/text/524/417" id="executive-final-line-veto">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="8450" y="7510" as="geometry" />
+            <mxGeometry height="210" width="400" x="5535" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;IEEPA did not authorize tariffs&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Learning Resources v. Trump (2026)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The Court rejected the claimed tariff authority under IEEPA. This was a holding about statutory authority, not a ban on every congressionally authorized tariff.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;&lt;b&gt;Reasoning matters:&lt;/b&gt; Roberts’s major-questions discussion had three votes; three other Justices agreed using ordinary statutory interpretation.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 266–269. Authority: https://www.law.cornell.edu/supremecourt/text/24-1287" link="https://www.law.cornell.edu/supremecourt/text/24-1287" id="executive-final-learning">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="220" width="400" x="6650" y="7920" as="geometry" />
+            <mxGeometry height="220" width="400" x="3735" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Air-quality standard supplied guidance&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Whitman v. American Trucking (2001)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress directed standards “requisite to protect the public health” with an adequate margin of safety. That provided an intelligible principle.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The agency could not cure an unconstitutional delegation by choosing its own limits. Here the statute itself supplied sufficient guidance.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 261–265. Authority: https://www.law.cornell.edu/supremecourt/text/99-1257" link="https://www.law.cornell.edu/supremecourt/text/99-1257" id="executive-final-whitman">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="210" width="400" x="7250" y="7920" as="geometry" />
+            <mxGeometry height="210" width="400" x="4335" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;One-house deportation veto failed&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;INS v. Chadha (1983)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The House overturned the Attorney General’s suspension of deportation, changing Chadha’s legal position outside Congress.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;That legislative act needed bicameralism and presentment. Congress could not evade Article I by labeling it a veto.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 270–279. Authority: https://www.law.cornell.edu/supremecourt/text/462/919" link="https://www.law.cornell.edu/supremecourt/text/462/919" id="executive-final-chadha">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="190" width="400" x="7850" y="7920" as="geometry" />
+            <mxGeometry height="190" width="400" x="4935" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Cancellation was an impermissible repeal&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Clinton v. City of New York (1998)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The President canceled selected tax and spending provisions after signing the bills.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The Line Item Veto Act’s cancellation process violated presentment. Delegated authority to implement a law differs from unilateral amendment of enacted text.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 280. Authority: https://www.law.cornell.edu/supremecourt/text/524/417" link="https://www.law.cornell.edu/supremecourt/text/524/417" id="executive-final-clintonny">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="190" width="400" x="8450" y="7920" as="geometry" />
+            <mxGeometry height="190" width="400" x="5535" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;What exactly failed?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Scope and delegation are separate&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;No statutory authority:&lt;/b&gt; the act exceeds the grant; test any independent Article II claim.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Invalid delegation:&lt;/b&gt; Congress itself failed to set the required standard. Identify the defective provision and remedy.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Do not assume a statutory-scope holding also decided the constitutional issue.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 259–269. " id="executive-final-statutory-result">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="400" x="6650" y="8330" as="geometry" />
+            <mxGeometry height="210" width="400" x="3735" y="8275" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Report-and-wait / new legislation&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Permissible congressional response&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Congress may require notice and a waiting period, then enact a new law to block the proposed action.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Ordinary oversight is not itself a binding change in legal rights. Constitutionally specified one-house functions, such as impeachment, are different.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 277–279. Authority: https://www.law.cornell.edu/supremecourt/text/462/919" link="https://www.law.cornell.edu/supremecourt/text/462/919" id="executive-final-lawful-oversight">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="195" width="400" x="7850" y="8330" as="geometry" />
+            <mxGeometry height="195" width="400" x="4935" y="8275" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="executive-edge-lawmaking-major" edge="1" parent="1" source="executive-final-lawmaking" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-major" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7520" y="7400" />
-              <mxPoint x="6850" y="7400" />
+              <mxPoint x="4605" y="7345" />
+              <mxPoint x="3935" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-lawmaking-delegation" edge="1" parent="1" source="executive-final-lawmaking" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-delegation" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7520" y="7400" />
-              <mxPoint x="7450" y="7400" />
+              <mxPoint x="4605" y="7345" />
+              <mxPoint x="4535" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-lawmaking-leg-veto" edge="1" parent="1" source="executive-final-lawmaking" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-leg-veto" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7520" y="7400" />
-              <mxPoint x="8050" y="7400" />
+              <mxPoint x="4605" y="7345" />
+              <mxPoint x="5135" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-lawmaking-line-veto" edge="1" parent="1" source="executive-final-lawmaking" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-line-veto" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7520" y="7400" />
-              <mxPoint x="8650" y="7400" />
+              <mxPoint x="4605" y="7345" />
+              <mxPoint x="5735" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6059,120 +6029,120 @@
         <mxCell id="executive-edge-major-statutory-result" edge="1" parent="1" source="executive-final-major" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-statutory-result" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="6550" y="7667.5" />
-              <mxPoint x="6550" y="8250" />
-              <mxPoint x="6850" y="8250" />
+              <mxPoint x="3635" y="7612.5" />
+              <mxPoint x="3635" y="8195" />
+              <mxPoint x="3935" y="8195" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-leg-veto-lawful-oversight" edge="1" parent="1" source="executive-final-leg-veto" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-lawful-oversight" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="7760" y="7667.5" />
-              <mxPoint x="7760" y="8250" />
-              <mxPoint x="8050" y="8250" />
+              <mxPoint x="4845" y="7612.5" />
+              <mxPoint x="4845" y="8195" />
+              <mxPoint x="5135" y="8195" />
             </Array>
           </mxGeometry>
         </mxCell>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Civil damages against the President?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Official versus private conduct&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Within the “outer perimeter” of official duties: &lt;b&gt;absolute damages immunity&lt;/b&gt;. Alleged wrongfulness does not itself make the act private.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Unofficial conduct has no comparable presidential immunity. Keep this separate from prospective relief.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 235–236. Authority: https://www.law.cornell.edu/supremecourt/text/457/731" link="https://www.law.cornell.edu/supremecourt/text/457/731" id="executive-final-civil">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="200" width="440" x="9100" y="7510" as="geometry" />
+            <mxGeometry height="200" width="440" x="6185" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Criminal prosecution of a former President?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Classify the particular act · Trump v. U.S.&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Exclusive core power:&lt;/b&gt; absolute immunity.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;&lt;b&gt;Other official act:&lt;/b&gt; at least presumptive immunity; government must show prosecution poses no danger of intrusion on executive authority and functions.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;&lt;b&gt;Unofficial act:&lt;/b&gt; no presidential immunity.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236–238. Authority: https://www.law.cornell.edu/supremecourt/text/23-939" link="https://www.law.cornell.edu/supremecourt/text/23-939" id="executive-final-criminal">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="220" width="440" x="9700" y="7510" as="geometry" />
+            <mxGeometry height="220" width="440" x="6785" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Privileged communication or subpoena?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Confidentiality is qualified, not blanket&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Identify the material, recipient, purpose and need. Presidential communications with close advisers differ from private financial records.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Assess confidentiality, military / diplomatic secrecy, evidentiary need, alternatives and burdens. Different proceedings require different tests.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236, 238. Authority: https://www.law.cornell.edu/supremecourt/text/418/683" link="https://www.law.cornell.edu/supremecourt/text/418/683" id="executive-final-privilege">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="210" width="440" x="10300" y="7510" as="geometry" />
+            <mxGeometry height="210" width="440" x="7385" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Declaration or injunction?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Review of legality remains distinct&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Damages immunity does not make an unlawful policy immune from review.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Relief commonly runs against an implementing subordinate. Direct injunctions against the President raise distinct limits; do not assume the damages rule answers this question.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236. " id="executive-final-prospective">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="200" width="440" x="10900" y="7510" as="geometry" />
+            <mxGeometry height="200" width="440" x="7985" y="7455" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Official firing: damages immunity&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Nixon v. Fitzgerald (1982)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;An Air Force analyst alleged retaliatory discharge for congressional testimony.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The President had absolute damages immunity because the conduct lay within the outer perimeter of official responsibilities.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 235. Authority: https://www.law.cornell.edu/supremecourt/text/457/731" link="https://www.law.cornell.edu/supremecourt/text/457/731" id="executive-final-fitzgerald">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="175" width="440" x="9100" y="7920" as="geometry" />
+            <mxGeometry height="175" width="440" x="6185" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Pre-office private suit could proceed&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Clinton v. Jones (1997)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A federal civil suit concerned alleged private conduct before Clinton became President.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The Constitution did not require delaying the case until he left office. Courts could manage timing and burdens without creating presidential immunity.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 235–236. Authority: https://www.law.cornell.edu/supremecourt/text/520/681" link="https://www.law.cornell.edu/supremecourt/text/520/681" id="executive-final-clintonjones">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="185" width="440" x="9100" y="8280" as="geometry" />
+            <mxGeometry height="185" width="440" x="6185" y="8225" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Official-act immunity requires classification&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Trump v. United States (2024)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;In the election-interference prosecution, the Court required act-by-act analysis and remanded unresolved classifications.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Discussions with Justice Department officials fell within protected exclusive executive authority. Not every alleged act was held immune.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The government cannot use evidence of immune official acts to prove liability for nonimmune conduct.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236–238. Authority: https://www.law.cornell.edu/supremecourt/text/23-939" link="https://www.law.cornell.edu/supremecourt/text/23-939" id="executive-final-trump-us">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="225" width="440" x="9700" y="8340" as="geometry" />
+            <mxGeometry height="225" width="440" x="6785" y="8285" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;How to distinguish official from private?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Function, context and presidential responsibility&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Courts may not classify conduct by probing motive. Alleged illegality alone does not render an act unofficial.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Do not equate &lt;b&gt;official&lt;/b&gt; with &lt;b&gt;lawful&lt;/b&gt;, or treat the immunity ruling as an affirmative source of power.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 237–238. Authority: https://www.law.cornell.edu/supremecourt/text/23-939" link="https://www.law.cornell.edu/supremecourt/text/23-939" id="executive-final-classify-act">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="190" width="440" x="9700" y="7920" as="geometry" />
+            <mxGeometry height="190" width="440" x="6785" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Sitting President?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;DOJ position · not the Trump holding&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The Justice Department’s longstanding position bars indictment and criminal prosecution while the President is in office.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Distinguish this executive-branch view from a definitive Supreme Court holding. A subpoena is a separate question.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236. Authority: https://www.justice.gov/olc/opinion/sitting-president%E2%80%99s-amenability-indictment-and-criminal-prosecution" link="https://www.justice.gov/olc/opinion/sitting-president%E2%80%99s-amenability-indictment-and-criminal-prosecution" id="executive-final-sitting">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="185" width="440" x="9700" y="8700" as="geometry" />
+            <mxGeometry height="185" width="440" x="6785" y="8645" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;General confidentiality yielded&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;United States v. Nixon (1974)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A demonstrated, specific need for evidence in a criminal trial outweighed the generalized confidentiality claim over the Watergate tapes.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;The privilege was qualified. The Court did not resolve every claim involving military / diplomatic secrets or congressional demands.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 238. Authority: https://www.law.cornell.edu/supremecourt/text/418/683" link="https://www.law.cornell.edu/supremecourt/text/418/683" id="executive-final-us-nixon">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="195" width="440" x="10300" y="7920" as="geometry" />
+            <mxGeometry height="195" width="440" x="7385" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Congress sought personal records&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Trump v. Mazars (2020)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;For legislative subpoenas of presidential personal records, courts must weigh separation-of-powers concerns:&lt;/p&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Other sources; a scope no broader than needed; evidence of the legislative purpose; and burdens on the President.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;No executive-privilege claim was at issue.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236. Authority: https://www.law.cornell.edu/supremecourt/text/19-715" link="https://www.law.cornell.edu/supremecourt/text/19-715" id="executive-final-mazars">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="210" width="440" x="10300" y="8300" as="geometry" />
+            <mxGeometry height="210" width="440" x="7385" y="8245" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;State grand jury could subpoena records&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Trump v. Vance (2020)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The President had no categorical immunity from a state grand-jury subpoena for private financial records, and no heightened-need standard applied.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Ordinary objections and specific Article II burdens remained available. This did not decide whether a sitting President could be prosecuted.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236. Authority: https://www.law.cornell.edu/supremecourt/text/19-635" link="https://www.law.cornell.edu/supremecourt/text/19-635" id="executive-final-vance">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
-            <mxGeometry height="205" width="440" x="10300" y="8700" as="geometry" />
+            <mxGeometry height="205" width="440" x="7385" y="8645" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Can this plaintiff obtain this relief?&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Return to the judicial branch above&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;Check jurisdiction, standing, timing, reviewability, cause of action and the proper defendant.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Match the remedy to the injury and violation. An adverse ruling may be appealed or stayed; disagreement does not itself cancel a binding unstayed order.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), 236; judicial section cross-reference. " id="executive-final-court-check">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="195" width="440" x="10900" y="7920" as="geometry" />
+            <mxGeometry height="195" width="440" x="7985" y="7865" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Independent rights and structural limits&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;Run every fact-triggered constitutional check&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;A valid source of executive power does not erase due process, equal protection or another applicable constitutional prohibition.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0px;&quot;&gt;Identify who holds the right and whether the act violates it. Then keep &lt;b&gt;illegality, personal liability and available relief&lt;/b&gt; separate.&lt;/p&gt;" tooltip="Guide: Can the Executive Act?; Joondeph (2026), Chs. 13–15; source chart final checks. " id="executive-final-rights">
           <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#F7DCC2;fontColor=#151719;strokeColor=#B58A63;" vertex="1">
-            <mxGeometry height="195" width="440" x="11900" y="7510" as="geometry" />
+            <mxGeometry height="195" width="440" x="8985" y="7455" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="executive-edge-remedy-civil" edge="1" parent="1" source="executive-final-remedy" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-civil" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10220" y="7400" />
-              <mxPoint x="9320" y="7400" />
+              <mxPoint x="7305" y="7345" />
+              <mxPoint x="6405" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-remedy-criminal" edge="1" parent="1" source="executive-final-remedy" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-criminal" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10220" y="7400" />
-              <mxPoint x="9920" y="7400" />
+              <mxPoint x="7305" y="7345" />
+              <mxPoint x="7005" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-remedy-privilege" edge="1" parent="1" source="executive-final-remedy" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-privilege" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10220" y="7400" />
-              <mxPoint x="10520" y="7400" />
+              <mxPoint x="7305" y="7345" />
+              <mxPoint x="7605" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-remedy-prospective" edge="1" parent="1" source="executive-final-remedy" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-prospective" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10220" y="7400" />
-              <mxPoint x="11120" y="7400" />
+              <mxPoint x="7305" y="7345" />
+              <mxPoint x="8205" y="7345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6182,9 +6152,9 @@
         <mxCell id="executive-edge-civil-clintonjones" edge="1" parent="1" source="executive-final-civil" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-clintonjones" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8980" y="7660" />
-              <mxPoint x="8980" y="8200" />
-              <mxPoint x="9320" y="8200" />
+              <mxPoint x="6065" y="7605" />
+              <mxPoint x="6065" y="8145" />
+              <mxPoint x="6405" y="8145" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6197,9 +6167,9 @@
         <mxCell id="executive-edge-criminal-sitting" edge="1" parent="1" source="executive-final-criminal" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-sitting" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9590" y="7675" />
-              <mxPoint x="9590" y="8620" />
-              <mxPoint x="9920" y="8620" />
+              <mxPoint x="6675" y="7620" />
+              <mxPoint x="6675" y="8565" />
+              <mxPoint x="7005" y="8565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -6209,18 +6179,18 @@
         <mxCell id="executive-edge-privilege-mazars" edge="1" parent="1" source="executive-final-privilege" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-mazars" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10230" y="7667.5" />
-              <mxPoint x="10230" y="8220" />
-              <mxPoint x="10520" y="8220" />
+              <mxPoint x="7315" y="7612.5" />
+              <mxPoint x="7315" y="8165" />
+              <mxPoint x="7605" y="8165" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="executive-edge-privilege-vance" edge="1" parent="1" source="executive-final-privilege" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;defaultLabelBackgroundColor=gap;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="executive-final-vance" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10230" y="7667.5" />
-              <mxPoint x="10230" y="8620" />
-              <mxPoint x="10520" y="8620" />
+              <mxPoint x="7315" y="7612.5" />
+              <mxPoint x="7315" y="8565" />
+              <mxPoint x="7605" y="8565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7194,9 +7164,15 @@
             <mxGeometry height="100" width="360" x="-710" y="8600" as="geometry" />
           </mxCell>
         </object>
-              <object id="nixon-final-take-care-case" label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Executive privilege is qualified&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;United States v. Nixon (1974)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The &lt;b&gt;Vesting and Take Care Clauses&lt;/b&gt; support an implied privilege for confidential presidential communications. Candid advice helps the President carry out executive duties.&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;But the privilege is &lt;b&gt;not absolute&lt;/b&gt;: a generalized confidentiality claim over the Watergate tapes yielded to a demonstrated, specific need for evidence in a criminal trial.&lt;/p&gt;" tooltip="Joondeph (2026), p. 238: executive privilege and the Vesting / Take Care Clauses. United States v. Nixon, 418 U.S. 683 (1974)." link="https://www.law.cornell.edu/supremecourt/text/418/683"><mxCell parent="1" vertex="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;"><mxGeometry x="-750.0" y="8860.0" width="440" height="215" as="geometry" /></mxCell></object>
-        <mxCell id="nixon-edge-take-care-case" parent="1" source="v5fdGlirQn1-idS4uWYH-13" target="nixon-final-take-care-case" edge="1" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;"><mxGeometry relative="1" as="geometry" /></mxCell>
-</root>
+        <object label="&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:19px;&quot;&gt;&lt;b&gt;Executive privilege is qualified (limited)&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;text-align:center;margin:4px 5px 0;font-size:14px;&quot;&gt;&lt;i&gt;United States v. Nixon (1974)&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;margin:7px 0;&quot;&gt;&lt;p style=&quot;margin:0 8px 7px;&quot;&gt;The &lt;b&gt;Vesting and Take Care Clauses&lt;/b&gt; support an implied privilege for confidential presidential communications.&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0 8px 0;&quot;&gt;But the privilege is &lt;b&gt;not absolute.&amp;nbsp;&lt;/b&gt;&lt;/p&gt;" tooltip="Joondeph (2026), p. 238: executive privilege and the Vesting / Take Care Clauses. United States v. Nixon, 418 U.S. 683 (1974)." link="https://www.law.cornell.edu/supremecourt/text/418/683" id="nixon-final-take-care-case">
+          <mxCell parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1">
+            <mxGeometry height="120" width="370" x="-760" y="8780" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="nixon-edge-take-care-case" edge="1" parent="1" source="v5fdGlirQn1-idS4uWYH-13" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;fontFamily=Helvetica;fontSize=12;strokeWidth=1.5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nixon-final-take-care-case" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
     </mxGraphModel>
   </diagram>
 </mxfile>
